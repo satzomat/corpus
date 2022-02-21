@@ -1,0 +1,1553 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../stylesheets/display_29.less"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Erste Sätze</title>
+				<editor>Anna Busch</editor>
+				<editor>Torsten Roeder</editor>
+			</titleStmt>
+			<publicationStmt>
+				<p>twitter.com/satzomat</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>DTA Belletristik-Korpus</p>
+			</sourceDesc>
+		</fileDesc>
+		<revisionDesc>
+			<change when="2021-03-12" who="tr">file created</change>
+			<change when="2021-03-12" who="satzomat">list of dta texts inserted</change>
+			<change when="2021-03-12" who="satzomat">incipits extracted</change>
+			<change when="2021-03-13" who="ab">comparison first sentences and titles with DTA</change>
+			<change when="2021-03-13" who="tr">minor remarks</change>
+			<change when="2021-03-14" who="satzomat">incipits regrouped</change>
+			<change when="2021-03-14" who="satzomat">incipits extracted, 2nd round</change>
+			<change when="2021-03-14" who="satzomat">comparison inserted</change>
+			<change when="2021-04-17" who="ab">comparison new first sentences and titles with DTA</change>
+			<change when="2021-05-02" who="ab">second part of comparison new first sentences and titles with DTA</change>
+			<change when="2021-05-02" who="ab">sentences marked for publication</change>
+			<change when="2021-05-09" who="satzomat">entries filtered after manual markup</change>
+			<change when="2021-05-09" who="ab">final corrections</change>
+			<change when="2021-09-11" who="tr">place names identified</change>
+			<change when="2021-09-11" who="satzomat">place names geolocated</change>
+			<change when="2021-11-29" who="tr">Reinbold Adelheid is now Adelheid Reinbold</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<head>DTA::Belletristik::Novellen</head>
+			<list xml:id="satzomat">
+				<item n="2937" cert="100">
+					<quote ana="38">Aber nun zu der Bowle eine Geschichte!</quote>
+					<bibl>
+						<title>Eine Nacht</title>
+						<author>Bernhard Abeken</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/andolt_nacht_1910?p=0007"/>
+					</bibl>
+				</item>
+				<item n="6915" cert="100">
+					<quote ana="126">Es war an einem schönen Junitage, das Gras lag in langen Reihen und begann unter dem Strahl der Sonne zu welken und zu duften.</quote>
+					<bibl>
+						<title>Irrwisch-Fritze</title>
+						<author>Adelheid Reinbold</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/berthold_irrwischfritze_1910?p=0011"/>
+					</bibl>
+				</item>
+				<item n="7567" cert="100">
+					<quote ana="305">Es lag noch Schnee auf den ſchwerer zugänglichen Plätzen, in den Winkeln, welche die Sperrketten und Prellſteine vor den Seiten der Kirchen und der Muſeen bilden, aber der Schnee war ſtaubig und mürb, und auf den Sperrketten ſaßen die kleinen Mädchen und hatten beim Schaukeln die Winterjacken ausgezogen.</quote>
+					<bibl>
+						<title>Frauenliebe</title>
+						<title>Bittersüß</title>
+						<author>Ilse Akunian</author>
+						<date>1891</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/frapan_bittersuess_1891?p=0017"/>
+					</bibl>
+				</item>
+				<item n="2718" cert="100">
+					<quote ana="114">Zweimal war er ſchon an dem ſtaatsmäßig hohen und großen Hauſe vorübergegangen und hatte ſich nicht hineingetraut.</quote>
+					<bibl>
+						<title>Monika</title>
+						<title>Bittersüß</title>
+						<author>Ilse Akunian</author>
+						<date>1891</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/frapan_bittersuess_1891?p=0163"/>
+					</bibl>
+				</item>
+				<item n="6241" cert="100">
+					<quote ana="97">Und so hatte er denn mitten im Semester den Wirthsleuten das Zimmer kündigen und umziehen müssen.</quote>
+					<bibl>
+						<title>Weiße Flamme</title>
+						<title>Flügel auf!</title>
+						<author>Ilse Akunian</author>
+						<date>1895</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/frapan_fluegel_1895?p=0009"/>
+					</bibl>
+				</item>
+				<item n="3497" cert="100">
+					<quote ana="1">["]Neun Uhr dreißig? [...]"</quote>
+					<bibl>
+						<title>Liebesmühen</title>
+						<title>Flügel auf!</title>
+						<author>Ilse Akunian</author>
+						<date>1895</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/frapan_fluegel_1895?p=0087"/>
+					</bibl>
+				</item>
+				<item n="4083" cert="100">
+					<quote ana="195">Fräulein Adelheid Severin war sehr vergnügt aufgestanden und schon beim Waschen von ihrer Freundin Annita mit Glückwünschen und Küssen überfallen worden, obgleich ihre Nase gerade eingeseift war.</quote>
+					<bibl>
+						<title>Der erste Blick hinter die Coulissen</title>
+						<title>Flügel auf!</title>
+						<author>Ilse Akunian</author>
+						<date>1895</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/frapan_fluegel_1895?p=0209"/>
+					</bibl>
+				</item>
+				<item n="4564" cert="100">
+					<quote ana="143">Aus den Hinterthüren des Stuttgarter Hof-Theaters, die in den dichten Baumgang zum Park münden, traten die Schauspieler; die Probe war zu Ende.</quote>
+					<bibl>
+						<title>Die Schöpfung</title>
+						<title>Flügel auf!</title>
+						<author>Ilse Akunian</author>
+						<date>1895</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/frapan_fluegel_1895?p=0283"/>
+					</bibl>
+					<desc>
+						<placeName>Stuttgart</placeName>
+						<geo>48.78232 9.17702</geo>
+					</desc>
+				</item>
+				<item n="9300" cert="100">
+					<quote ana="64">Die Sarmaten feierten den Abgang ihres Seniors von der Akademie.</quote>
+					<bibl>
+						<title>Herr von Sacken</title>
+						<author>Willibald Alexis</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/alexis_sacken_1910?p=0007"/>
+					</bibl>
+				</item>
+				<item n="9229" cert="100">
+					<quote ana="59">Es war im September, der ſtillſten Zeit des Pariſer Lebens.</quote>
+					<bibl>
+						<title>Fenitſchka</title>
+						<title>Fenitschka. Eine Ausschweifung</title>
+						<author>Lou Andreas-Salomé</author>
+						<date>1898</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/andreas_fenitschka_1898?p=0011"/>
+					</bibl>
+					<desc>
+						<placeName>Paris</placeName>
+						<geo>48.85341 2.3488</geo>
+					</desc>
+				</item>
+				<item n="8317" cert="100">
+					<quote ana="329">Hier in meinem lichten Atelier iſt es endlich zur Ausſprache zwiſchen uns gekommen, und nirgends anders durfte es auch ſein, — denn von ſämtlichen Männern, die ich gekannt, gehörſt du am engſten und intimſten in alles das hinein, was mich als Künſtlerin angeht: mehr vielleicht noch, wie wenn du ſelbſt ausübender Künſtler wärſt.</quote>
+					<bibl>
+						<title>Eine Ausſchweifung</title>
+						<title>Fenitschka. Eine Ausschweifung</title>
+						<author>Lou Andreas-Salomé</author>
+						<date>1898</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/andreas_fenitschka_1898?p=0105"/>
+					</bibl>
+				</item>
+				<item n="6700" cert="100">
+					<quote ana="418">Graf Dürande, der gute alte Kommandant von Marſeille, ſaß einſam frierend an einem kalt ſtürmenden Oktoberabende bei dem ſchlecht eingerichteten Kamine ſeiner prachtvollen Kommandantenwohnung und rückte immer näher und näher zum Feuer, während die Kutſchen zu einem großen Balle in der Straße vorüber rollten, und ſein Kammerdiener Baſſet, der zugleich ſein liebſter Geſellſchafter war, im Vorzimmer heftig ſchnarchte.</quote>
+					<bibl>
+						<title>Der tolle Invalide auf dem Fort Ratonneau</title>
+						<title>Der tolle Invalide auf dem Fort Ratonneau</title>
+						<author>Achim von Arnim</author>
+						<date>1818</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/arnima_invalide_1818?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Marseille</placeName>
+						<geo>43.29695 5.38107</geo>
+					</desc>
+				</item>
+				<item n="6125" cert="100">
+					<quote ana="273">In dem freundlichen Städtchen G. war lebhaftes Marktgewühl, und mitten durch das auf und abwogende Menschengedränge bewegte sich, von zwei fetten, tief eingekreuzten Rappen gezogen, ein Bernerwägelein, auf dessen niedergelassener Halbkutsche ein breitschulteriger Mann saß.</quote>
+					<bibl>
+						<title>Die Geschichte des Diethelm von Buchenberg</title>
+						<author>Berthold Auerbach</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/auerbach_diethelm_1910?p=0007"/>
+					</bibl>
+				</item>
+				<item n="1067" cert="100">
+					<quote ana="393">Es war Sommers-Frühe, die Nachtigallen ſangen erſt ſeit einigen Tagen durch die Straßen, und verſtummten heut in einer kühlen Nacht, welche von fernen Gewittern zu uns herwehte; der Nachtwächter rief die elfte Stunde an, da ſah ich, nach Hauſe gehend, vor der Thür eines großen Gebäudes einen Trupp von allerlei Geſellen, die vom Biere kamen, um Jemand, der auf den Thürſtufen ſaß, verſammelt.</quote>
+					<bibl>
+						<title>Geſchichte vom braven Kasperl und dem ſchönen Annerl</title>
+						<title>Geschichte vom braven Kasperl und dem schönen Annerl</title>
+						<author>Clemens Brentano</author>
+						<date>1838</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/brentano_kasperl_1838?p=0015"/>
+					</bibl>
+				</item>
+				<item n="3295" cert="100">
+					<quote ana="171">In dem Kriminalgefaͤngniß zu B. erhaͤngte ſich vor einiger Zeit ein Gefangner, der nach den Ausſagen des Arztes und des Gefaͤngniß-Inſpektors an Schwermuth gelitten hatte.</quote>
+					<bibl>
+						<title>Armuth und Verbrechen</title>
+						<title>Polizei-Geschichten</title>
+						<author>Ernst Dronke</author>
+						<date>1846</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/dronke_polizeigeschichten_1846?p=0017"/>
+					</bibl>
+				</item>
+				<item n="4288" cert="100">
+					<quote ana="36">„Wie ich Euch ſage, Frau Gevatterin! […]“</quote>
+					<bibl>
+						<title>Polizeiliche Eheſcheidung</title>
+						<title>Polizei-Geschichten</title>
+						<author>Ernst Dronke</author>
+						<date>1846</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/dronke_polizeigeschichten_1846?p=0063"/>
+					</bibl>
+				</item>
+				<item n="4604" cert="100">
+					<quote ana="31">Sie war noch immer ſehr ſchoͤn.</quote>
+					<bibl>
+						<title>Die Sünderin</title>
+						<title>Polizei-Geschichten</title>
+						<author>Ernst Dronke</author>
+						<date>1846</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/dronke_polizeigeschichten_1846?p=0083"/>
+					</bibl>
+				</item>
+				<item n="8954" cert="100">
+					<quote ana="72">„Das iſt ja eine empoͤrende Nichtswuͤrdigkeit!“ rief die Dame vom Hauſe.</quote>
+					<bibl>
+						<title>Die Rechtsfrage</title>
+						<title>Polizei-Geschichten</title>
+						<author>Ernst Dronke</author>
+						<date>1846</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/dronke_polizeigeschichten_1846?p=0111"/>
+					</bibl>
+				</item>
+				<item n="6076" cert="100">
+					<quote ana="75">In dem Salon war wieder der gewoͤhnliche Kreis von Hausfreunden verſammelt.</quote>
+					<bibl>
+						<title>Die vorgeſetzte Dienſtbehörde</title>
+						<title>Polizei-Geschichten</title>
+						<author>Ernst Dronke</author>
+						<date>1846</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/dronke_polizeigeschichten_1846?p=0133"/>
+					</bibl>
+				</item>
+				<item n="3720" cert="100">
+					<quote ana="295">Johann Heinrich Ludwig Hanemann wurde im Jahre 1803 in Hoya geboren, ſiedelte in einem Alter von 5 Jahren nach dem hannoͤverſchen Staͤdtchen Wunſtorf im Amt Blumenau, wo er bis zu ſeiner Konfirmation verblieb, und begab ſich dann, als er das Baͤckergeſchaͤft erlernt, im Jahre 1819 nach Hamburg.</quote>
+					<bibl>
+						<title>Vom heimathloſen Vaterland</title>
+						<title>Polizei-Geschichten</title>
+						<author>Ernst Dronke</author>
+						<date>1846</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/dronke_polizeigeschichten_1846?p=0157"/>
+					</bibl>
+					<desc>
+						<placeName>Hoya</placeName>
+						<geo>52.80998 9.13803</geo>
+					</desc>
+				</item>
+				<item n="7225" cert="100">
+					<quote ana="202">„Nein, da magſt Du Einwuͤrfe und Entſchuldigungen vorſuchen, ſo viele Du willſt,“ ſagte Arthur zu ſeinem Kommilitonen und Stubenkameraden Eduard, „das laͤßt ſich weder rechtfertigen, noch entſchuldigen. […]“</quote>
+					<bibl>
+						<title>Das Unvermeidliche</title>
+						<title>Polizei-Geschichten</title>
+						<author>Ernst Dronke</author>
+						<date>1846</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/dronke_polizeigeschichten_1846?p=0169"/>
+					</bibl>
+				</item>
+				<item n="3299" cert="100">
+					<quote ana="62">In den Krug von Hedeper kam er und zwar zu ungewohnter Stunde.</quote>
+					<bibl>
+						<title>Es ist nicht gut, daß der Mensch allein sei</title>
+						<author>Charles Edouard Duboc</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/waldmueller_allein_1910?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Hedeper</placeName>
+						<geo>52.06605 10.68312</geo>
+					</desc>
+				</item>
+				<item n="5816" cert="100">
+					<quote ana="299">Das Rad an meines Vaters Muͤhle braußte und rauſchte ſchon wieder recht luſtig, der Schnee troͤpfelte emſig vom Dache, die Sperlinge zwitſcherten und tummelten ſich dazwiſchen; ich ſaß auf der Thuͤrſchwelle und wiſchte mir den Schlaf aus den Augen, mir war ſo recht wohl in dem warmen Sonnenſcheine.</quote>
+					<bibl>
+						<title>Aus dem Leben eines Taugenichts</title>
+						<title>Aus dem Leben eines Taugenichts und das Marmorbild</title>
+						<author>Joseph von Eichendorff</author>
+						<date>1826</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/eichendorff_taugenichts_1826?p=0013"/>
+					</bibl>
+				</item>
+				<item n="6515" cert="100">
+					<quote ana="13">Es war ein ſchoͤner Sommerabend, als Florio, ein junger Edelmann, langſam auf die Thore von Lucca zuritt, ſich erfreuend an dem feinen Dufte, der uͤber der wunderſchoͤnen Landſchaft und den Thuͤrmen und Daͤchern der Stadt vor ihm zitterte, ſo wie an den bunten Zuͤgen zierlicher Damen und Herren, welche ſich zu beiden Seiten der Straße unter den hohen Kaſtanien-Alleen froͤhlichſchwaͤrmend ergingen.</quote>
+					<bibl>
+						<title>Das Marmorbild</title>
+						<title>Aus dem Leben eines Taugenichts und das Marmorbild</title>
+						<author>Joseph von Eichendorff</author>
+						<date>1826</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/eichendorff_taugenichts_1826?p=0147"/>
+					</bibl>
+					<desc>
+						<placeName>Lucca</placeName>
+						<geo>43.84369 10.50447</geo>
+					</desc>
+				</item>
+				<item n="5803" cert="100">
+					<quote ana="324">An einem Frühlingsmittage des Jahres 1749 machte sich unter einem Theil der regelmäßigen Morgenbesucher des Bärengrabens in Bern, der zu jener Zeit am Ausgange der Schauplatzgasse lag und sich damals noch einer größeren Anzahl ständiger Stammgäste zu erfreuen hatte, als heut zu Tage, eine ungewöhnliche Bewegung bemerklich.</quote>
+					<bibl>
+						<title>Das erfüllte Versprechen</title>
+						<author>Jacob Frey</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/frey_versprechen_1910?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Bern</placeName>
+						<geo>46.94804 7.45961</geo>
+					</desc>
+				</item>
+				<item n="7445" cert="100">
+					<quote ana="85">In Polen war's, in einem kleinen Städchen, drei Viertheile Juden die Einwohnerschaft.</quote>
+					<bibl>
+						<title>Auf Wiedersehen!</title>
+						<author>Leo Goldammer</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/goldammer_wiedersehen_1910?p=0007"/>
+					</bibl>
+				</item>
+				<item n="9614" cert="100">
+					<quote ana="151">Es war 18** und December und 24 Grad Kälte, Mondschein und Hochzeit, und zwar im Dorfe Ober-Eyseln, da oben in Lithauen, hart an der russischen Grenze.</quote>
+					<bibl>
+						<title>Eine Hochzeitsnacht</title>
+						<author>Leo Goldammer</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/goldammer_hochzeitsnacht_1910?p=0008"/>
+					</bibl>
+					<desc>
+						<placeName>Ober-Eyseln</placeName>
+					</desc>
+				</item>
+				<item n="9271" cert="100">
+					<quote>Ueber die Berge hob ſich die Sonne, leuchtete in klarer Majeſtät in ein freundliches aber enges Thal und weckte zu fröhlichem Leben die Geſchöpfe, die geſchaffen ſind an der Sonne ihres Lebens ſich zu freuen.</quote>
+					<bibl>
+						<title>Bilder und Sagen aus der Schweiz</title>
+						<author>Jeremias Gotthelf</author>
+						<date>1842</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/gotthelf_sagen_1842?p=13"/>
+					</bibl>
+				</item>
+				<item n="2539" cert="100">
+					<quote ana="208">Ueber die Berge hob ſich die Sonne, leuchtete in klarer Majeſtät in ein freundliches aber enges Thal und weckte zu fröhlichem Leben die Geſchöpfe, die geſchaffen ſind an der Sonne ihres Lebens ſich zu freuen.</quote>
+					<bibl>
+						<title>Die ſchwarze Spinne</title>
+						<title>Bilder und Sagen aus der Schweiz</title>
+						<author>Jeremias Gotthelf</author>
+						<date>1842</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/gotthelf_sagen_1842?p=0013"/>
+					</bibl>
+				</item>
+				<item n="3145" cert="100">
+					<quote ana="47">In einem kleinen Stübchen begann es zu dunkeln.</quote>
+					<bibl>
+						<title>Das gelbe Vögelein und das arme Margrithli</title>
+						<title>Bilder und Sagen aus der Schweiz</title>
+						<author>Jeremias Gotthelf</author>
+						<date>1842</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/gotthelf_sagen_1842?p=0147"/>
+					</bibl>
+				</item>
+				<item n="6008" cert="100">
+					<quote ana="519">Auf einem im nördlichen Deutschland gelegenen Gute lebte Herr von —, ein angesehener Landwirth, mit seinen beiden Töchtern, von denen die ältere, etwa zwanzig Jahre zählend, so ziemlich für sein Ebenbild galt; denn sie glich ihm in den Gesichtszügen, war mehr ruhig, praktisch und verständig, während ihre jüngere Schwester, lebhaft, neckisch, unruhig und ein wenig extrem in ihren kleinen Neigungen, die Welt so recht aufforderte, den zwischen den beiden Mädchen bestehenden Unterschied zu bemerken und zu beurtheilen.</quote>
+					<bibl>
+						<title>Das Kind</title>
+						<author>Herman Grimm</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/grimm_kind_1910?p=0007"/>
+					</bibl>
+				</item>
+				<item n="3549" cert="100">
+					<quote ana="182">Die Sonne scheint hell herab auf den Strom am Wald, auf den Fahrweg und die Brücke, unter welcher die Enten des Dorfes, oder vielmehr der Vorstadt, an jedem Morgen hindurchschwimmen.</quote>
+					<bibl>
+						<title>Vetter Isidor</title>
+						<author>Julius Grosse</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/grosse_isidor_1910?p=0007"/>
+					</bibl>
+				</item>
+				<item n="6346" cert="100">
+					<quote ana="335">In dem Hotel Reichmann zu Mailand unter den geöffneten Thüren des Speisesaals, welche in den kleinen, zierlichen Garten hinausführen, saß eine Gesellschaft junger Offiziere — es waren ihrer sechs — gerade die Zahl, welche für ein kleines, feines Diner die richtige ist, und hatten dies angenehme und wichtige Geschäft so eben beendigt.</quote>
+					<bibl>
+						<title>Die erste Nacht. 1844</title>
+						<title>Zwei Nächte</title>
+						<author>Friedrich Wilhelm Hackländer</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/hacklaender_naechte_1910?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Mailand</placeName>
+						<geo>45.46427 9.18951</geo>
+					</desc>
+				</item>
+				<item n="4120" cert="100">
+					<quote ana="144">„Mit dem Menſchen iſt nicht auszukommen,“ ſagten ſie, als ſie in meinem Gaſthof die Treppe hinabſtiegen, und ich konnte es noch deutlich hoͤren.</quote>
+					<bibl>
+						<title>Phantasien im Bremer Rathskeller</title>
+						<author>Wilhelm Hauff</author>
+						<date>1827</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/hauff_phantasien_1827?p=0013"/>
+					</bibl>
+					<desc>
+						<placeName>Bremen</placeName>
+						<geo>53.07582 8.80717</geo>
+					</desc>
+				</item>
+				<item n="6755" cert="100">
+					<quote ana="35">Ende Juli war Großmamas Geburtstag.</quote>
+					<bibl>
+						<title>Die Orgelpfeifen</title>
+						<title>Zwei Erzählungen</title>
+						<author>Elisabeth von Heyking</author>
+						<date>1918</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/heyking_erzaehlungen_1918?p=0009"/>
+					</bibl>
+				</item>
+				<item n="7485" cert="100">
+					<quote ana="118">In Livland, auf ihrer Eltern Gut, Burkahnen, ward Komteßchen Dorothee, wie der Grafenkalender kündet, um 1820 geboren.</quote>
+					<bibl>
+						<title>Aus dem Land der Ostseeritter</title>
+						<title>Zwei Erzählungen</title>
+						<author>Elisabeth von Heyking</author>
+						<date>1918</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/heyking_erzaehlungen_1918?p=0075"/>
+					</bibl>
+					<desc>
+						<placeName>Burkahnen</placeName>
+					</desc>
+				</item>
+				<item n="9506" cert="100">
+					<quote ana="274">Im September eines Jahres, dessen Stadt- und Dorfgeschichten aus Menschengedenken schon entschwunden sind, saß um die schwüle Mittagszeit ein junger Bursch mitten in dem wuchernden Rebenwald, der, dicht an die Stadt Meran herantretend, die Südabhänge des Küchelberges bedeckt.</quote>
+					<bibl>
+						<title>Der Weinhüter von Meran</title>
+						<author>Paul Heyse</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/heyse_weinhueter_1910?p=0006"/>
+					</bibl>
+					<desc>
+						<placeName>Meran</placeName>
+						<geo>46.66817 11.15953</geo>
+					</desc>
+				</item>
+				<item n="8743" cert="100">
+					<quote ana="167">Am offnen Fenſter, das auf den kleinen Blumengarten hinausging, ſtand die blinde Tochter des Dorfküſters und erquickte ſich am Winde, der über ihr heißes Geſicht flog.</quote>
+					<bibl>
+						<title>Die Blinden</title>
+						<title>Novellen</title>
+						<author>Paul Heyse</author>
+						<date>1855</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/heyse_novellen_1855?p=0015"/>
+					</bibl>
+				</item>
+				<item n="1248" cert="100">
+					<quote ana="143">Zur Zeit als der heilige Ludwig in Frankreich die Krone trug, war die gute alte Stadt Arras gerade um ſechshundert Jahre jünger als heutzutage.</quote>
+					<bibl>
+						<title>Marion</title>
+						<title>Novellen</title>
+						<author>Paul Heyse</author>
+						<date>1855</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/heyse_novellen_1855?p=0083"/>
+					</bibl>
+					<desc>
+						<placeName>Arras</placeName>
+						<geo>50.2930 2.7818</geo>
+					</desc>
+				</item>
+				<item n="2063" cert="100">
+					<quote ana="37">Die Sonne war noch nicht aufgegangen.</quote>
+					<bibl>
+						<title>La Rabbiata</title>
+						<title>Novellen</title>
+						<author>Paul Heyse</author>
+						<date>1855</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/heyse_novellen_1855?p=0103"/>
+					</bibl>
+				</item>
+				<item n="8351" cert="100">
+					<quote ana="22">Es war tief im Januar.</quote>
+					<bibl>
+						<title>Am Tiberufer</title>
+						<title>Novellen</title>
+						<author>Paul Heyse</author>
+						<date>1855</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/heyse_novellen_1855?p=0139"/>
+					</bibl>
+					<desc>
+						<placeName>Tiber</placeName>
+						<geo>41.89100 12.47533</geo>
+					</desc>
+				</item>
+				<item n="8534" cert="100">
+					<quote ana="76">Gewiß ſeid ihr alle voll Unruhe, daß ich ſo lange — lange nicht geſchrieben.</quote>
+					<bibl>
+						<title>Der Sandmann</title>
+						<title>Nachtstücke</title>
+						<author>E. T. A. Hoffmann</author>
+						<date>1817</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/hoffmann_nachtstuecke01_1817?p=0009"/>
+					</bibl>
+				</item>
+				<item n="4744" cert="100">
+					<quote ana="137">Vor alter laͤngſt verfloßner Zeit lebte in einem wilden einſamen Forſt des Fuldaiſchen Gebiets ein wackrer Jaͤgersmann, Andres mit Namen.</quote>
+					<bibl>
+						<title>Ignaz Denner</title>
+						<title>Nachtstücke</title>
+						<author>E. T. A. Hoffmann</author>
+						<date>1817</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/hoffmann_nachtstuecke01_1817?p=0091"/>
+					</bibl>
+					<desc>
+						<placeName>Fulda</placeName>
+						<geo>50.55162 9.67518</geo>
+					</desc>
+				</item>
+				<item n="8461" cert="100">
+					<quote ana="359">In eine elende Poſtchaiſe gepackt, die die Motten, wie die Ratten Prospero's Fahrzeug, aus Inſtinkt verlaſſen hatten, hielt ich endlich, nach halsbrechender Fahrt, halbgeraͤdert, vor dem Wirthshauſe auf dem Markte in G.</quote>
+					<bibl>
+						<title>Die Jeſuiterkirche in G</title>
+						<title>Nachtstücke</title>
+						<author>E. T. A. Hoffmann</author>
+						<date>1817</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/hoffmann_nachtstuecke01_1817?p=0220"/>
+					</bibl>
+				</item>
+				<item n="3846" cert="100">
+					<quote ana="43">Der Doktor ſchuͤttelte bedenklich den Kopf.</quote>
+					<bibl>
+						<title>Das Sanctus</title>
+						<title>Nachtstücke</title>
+						<author>E. T. A. Hoffmann</author>
+						<date>1817</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/hoffmann_nachtstuecke01_1817?p=0287"/>
+					</bibl>
+				</item>
+				<item n="6650" cert="100">
+					<quote ana="162">— Man war daruͤber einig, daß die wirklichen Erſcheinungen im Leben oft viel wunderbarer ſich geſtalteten, als alles, was die regſte Fantaſie zu erfinden trachte.</quote>
+					<bibl>
+						<title>Das oͤde Haus</title>
+						<title>Nachtstücke</title>
+						<author>E. T. A. Hoffmann</author>
+						<date>1817</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/hoffmann_nachtstuecke02_1817?p=0009"/>
+					</bibl>
+				</item>
+				<item n="6384" cert="100">
+					<quote ana="109">Dem Geſtade der Oſtſee unfern liegt das Stammſchloß der Freiherrlich von R..ſchen Familie, R..ſitten genannt.</quote>
+					<bibl>
+						<title>Das Majorat</title>
+						<title>Nachtstücke</title>
+						<author>E. T. A. Hoffmann</author>
+						<date>1817</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/hoffmann_nachtstuecke02_1817?p=0083"/>
+					</bibl>
+					<desc>
+						<placeName>Ostsee</placeName>
+						<geo>58.49 19.95</geo>
+					</desc>
+				</item>
+				<item n="6605" cert="100">
+					<quote ana="308">Am Michaelistage, eben als bei den Carmelitern die Abendhora eingelaͤutet wurde, fuhr ein mit vier Poſtpferden beſpannter ſtattlicher Reiſewagen, donnernd und raſſelnd durch die Gaſſen des kleinen polniſchen Graͤnzſtaͤdtchens L., und hielt endlich ſtill vor der Hausthuͤr des alten teutſchen Buͤrgermeiſters.</quote>
+					<bibl>
+						<title>Das Geluͤbde</title>
+						<title>Nachtstücke</title>
+						<author>E. T. A. Hoffmann</author>
+						<date>1817</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/hoffmann_nachtstuecke02_1817?p=0262"/>
+					</bibl>
+				</item>
+				<item n="8672" cert="100">
+					<quote ana="290">Jedem Reiſenden, der bei guter Tageszeit ſich dem Staͤdtchen G. von der ſuͤdlichen Seite bis auf eine halbe Stunde Weges genaͤhert, faͤllt der Landſtraße rechts ein ſtattliches Landhaus in die Augen, welches mit ſeinen wunderlichen bunten Zinnen aus finſterm Gebuͤſch blickend, emporſteigt.</quote>
+					<bibl>
+						<title>Das ſteinerne Herz</title>
+						<title>Nachtstücke</title>
+						<author>E. T. A. Hoffmann</author>
+						<date>1817</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/hoffmann_nachtstuecke02_1817?p=0331"/>
+					</bibl>
+				</item>
+				<item n="7793" cert="100">
+					<quote ana="17">In der Straße St. Honoré war das kleine Haus gelegen, welches Magdalene von Scudery, bekannt durch ihre anmuthigen Verse, durch die Gunst Ludwig des XIV. und der Maintenon, bewohnte.</quote>
+					<bibl>
+						<title>Das Fräulein von Scuderi</title>
+						<author>E.T.A. Hoffmann</author>
+						<date>1871</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/hoffmann_scuderi_1910?p=0011"/>
+					</bibl>
+				</item>
+				<item n="1845" cert="100">
+					<quote ana="322">Auf dem Platze vor der Porta di San Niccolò stand an einem Herbstabend kurz nach Sonnenuntergang ein Mädchen und warf ungeduldige Blicke durch das Thor hinein in das enge Borgo, das, selbst am hellen Tage eine der düstersten Gassen von Florenz, jetzt in der Dämmerung einem Sacke mit schwarzem unergründlichem Boden glich.</quote>
+					<bibl>
+						<title>Der Säugling</title>
+						<author>Heinrich Homberger</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/horner_saeugling_1910?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Florenz</placeName>
+						<geo>43.77925 11.24626</geo>
+					</desc>
+				</item>
+				<item n="2096" cert="100">
+					<quote ana="200">Ich bin von jeher ein großer Liebhaber alles Merkwürdigen gewesen, und wenn es mir nach meinen Wünschen im Leben gegangen wäre, so hätte ich die ägyptischen Pyramiden und den Niagarafall sehen müssen.</quote>
+					<bibl>
+						<title>Der Carneval und die Somnambüle</title>
+						<author>Karl Immermann</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/immermann_carneval_1910?p=0009"/>
+					</bibl>
+					<desc>
+						<placeName>Niagarafall</placeName>
+						<geo>43.07554 -79.07298</geo>
+					</desc>
+				</item>
+				<item n="9658" cert="100">
+					<quote ana="37">Ich ritt von Sir Drunkner nach Hause.</quote>
+					<bibl>
+						<title>Die drei Schwestern</title>
+						<author>Ludwig August Kähler</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/kaehler_schwestern_1910?p=0006"/>
+					</bibl>
+				</item>
+				<item n="6992" cert="100">
+					<quote ana="0">Vor etwa fünfundzwanzig Jahren, als die Naturwiſſenſchaften eben wieder auf einem höchſten Gipfel ſtanden, obgleich das Geſetz der natürlichen Zuchtwahl noch nicht bekannt war, öffnete Herr Reinhart eines Tages ſeine Fenſterläden und ließ den Morgenglanz, der hinter den Bergen hervorkam, in ſein Arbeitsgemach, und mit dem Frühgolde wehte eine friſche Sommermorgenluft daher und bewegte kräftig die ſchweren Vorhänge und die ſchattigen Haare des Mannes.</quote>
+					<bibl>
+						<title>Das Sinngedicht</title>
+						<author>Gottfried Keller</author>
+						<date>1882</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/keller_sinngedicht_1882?p=0013"/>
+					</bibl>
+				</item>
+				<item n="6334" cert="100">
+					<quote ana="171">Seldwyla bedeutet nach der älteren Sprache einen wonnigen und ſonnigen Ort, und ſo iſt auch in der That das kleine Städtchen dieſes Namens gelegen irgendwo in der Schweiz.</quote>
+					<bibl>
+						<title>Die Leute von Seldwyla</title>
+						<author>Gottfried Keller</author>
+						<date>1856</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/keller_seldwyla_1856?p=0013"/>
+					</bibl>
+				</item>
+				<item n="3948" cert="100">
+					<quote ana="150">Auf einem ſtillen Seitenplätzchen, nahe an der Stadtmauer, lebte die Wittwe eines Seldwylers, der ſchon lange fertig geworden und unter dem Boden war.</quote>
+					<bibl>
+						<title>Pankraz, der Schmoller</title>
+						<title>Die Leute von Seldwyla</title>
+						<author>Gottfried Keller</author>
+						<date>1856</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/keller_seldwyla_1856?p=0021"/>
+					</bibl>
+				</item>
+				<item n="2142" cert="100">
+					<quote ana="181">Regula Amrain war die Frau eines abweſenden Seldwylers; dieſer hatte einen großen Steinbruch hinter dem Städtchen beſeſſen und ſeine Zeitlang ausgebeutet und zwar auf Seldwyler Art.</quote>
+					<bibl>
+						<title>Frau Regel Amrain und ihr Jüngſter</title>
+						<title>Die Leute von Seldwyla</title>
+						<author>Gottfried Keller</author>
+						<date>1856</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/keller_seldwyla_1856?p=0125"/>
+					</bibl>
+				</item>
+				<item n="3531" cert="100">
+					<quote ana="239">Auch dieſe Geſchichte zu erzählen, würde eine müſſige Erfindung ſein, wenn ſie nicht auf einem wahren Vorfall beruhte, zum Beweiſe, wie tief im Menſchenleben jede der ſchönen Fabeln wurzelt, auf welche ein großes Dichterwerk gegründet iſt.</quote>
+					<bibl>
+						<title>Romeo und Julia auf dem Dorfe</title>
+						<title>Die Leute von Seldwyla</title>
+						<author>Gottfried Keller</author>
+						<date>1856</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/keller_seldwyla_1856?p=0221"/>
+					</bibl>
+				</item>
+				<item n="3574" cert="100">
+					<quote ana="285">Die Leute von Seldwyla haben bewieſen, daß eine ganze Stadt von Ungerechten oder Leichtſinnigen zur Noth fortbeſtehen kann im Wechſel der Zeiten und des Verkehrs; die drei Kammmacher aber, daß nicht drei Gerechte lang unter einem Dache leben können, ohne ſich in die Haare zu gerathen.</quote>
+					<bibl>
+						<title>Die drei gerechten Kammmacher</title>
+						<title>Die Leute von Seldwyla</title>
+						<author>Gottfried Keller</author>
+						<date>1856</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/keller_seldwyla_1856?p=0372"/>
+					</bibl>
+				</item>
+				<item n="4192" cert="100">
+					<quote ana="146">Wenn ein Seldwyler einen ſchlechten Handel gemacht hat oder angeführt worden iſt, ſo ſagt man zu Seldwyla: Er hat der Katze den Schmeer abgekauft!</quote>
+					<bibl>
+						<title>Spiegel, das Kätzchen</title>
+						<title>Die Leute von Seldwyla</title>
+						<author>Gottfried Keller</author>
+						<date>1856</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/keller_seldwyla_1856?p=0459"/>
+					</bibl>
+				</item>
+				<item n="5216" cert="100">
+					<quote ana="213">Wenn die Frauen den Ehrgeiz der Schönheit, Anmuth und Weiblichkeit hintanſetzen, um ſich in andern Dingen hervor zu thun, ſo endet die Sache oftmals damit, daß ſie ſich in Männerkleider werfen und ſo dahintrollen.</quote>
+					<bibl>
+						<title>Eugenia</title>
+						<title>Sieben Legenden</title>
+						<author>Gottfried Keller</author>
+						<date>1872</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/keller_legenden_1872?p=0017"/>
+					</bibl>
+				</item>
+				<item n="6884" cert="100">
+					<quote ana="192">Es war ein Graf Gebizo, der beſaß eine wunderſchöne Frau, eine prächtige Burg ſammt Stadt und ſo viele anſehnliche Güter, daß er für einen der reichſten und glücklichſten Herren im Lande galt.</quote>
+					<bibl>
+						<title>Die Jungfrau und der Teufel</title>
+						<title>Sieben Legenden</title>
+						<author>Gottfried Keller</author>
+						<date>1872</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/keller_legenden_1872?p=0045"/>
+					</bibl>
+				</item>
+				<item n="6348" cert="100">
+					<quote ana="212">Gebizo hatte zu ſeinen früheren Beſitzungen noch ſo viele neue erworben, daß Bertrade über eine bedeutende Grafſchaft gebot und ſowohl ihres Reichthums als ihrer Schönheit wegen im deutſchen Reiche berühmt wurde.</quote>
+					<bibl>
+						<title>Die Jungfrau als Ritter</title>
+						<title>Sieben Legenden</title>
+						<author>Gottfried Keller</author>
+						<date>1872</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/keller_legenden_1872?p=0061"/>
+					</bibl>
+				</item>
+				<item n="1213" cert="100">
+					<quote ana="90">Ein Kloſter lag weit ausſchauend auf einem Berge und ſeine Mauern glänzten über die Lande.</quote>
+					<bibl>
+						<title>Die Jungfrau und die Nonne</title>
+						<title>Sieben Legenden</title>
+						<author>Gottfried Keller</author>
+						<date>1872</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/keller_legenden_1872?p=0083"/>
+					</bibl>
+				</item>
+				<item n="4581" cert="100">
+					<quote ana="246">Zu Anfang des achten Jahrhunderts lebte zu Alexandria in Egypten ein wunderlicher Mönch, Namens Vitalis, der es ſich zur beſondern Aufgabe gemacht hatte, verlorene weibliche Seelen vom Pfade der Sünde hinwegzulocken und zur Tugend zurückzuführen.</quote>
+					<bibl>
+						<title>Der ſchlimm-heilige Vitalis</title>
+						<title>Sieben Legenden</title>
+						<author>Gottfried Keller</author>
+						<date>1872</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/keller_legenden_1872?p=0099"/>
+					</bibl>
+					<desc>
+						<placeName>Alexandria</placeName>
+						<geo>31.20176 29.91582</geo>
+					</desc>
+				</item>
+				<item n="9915" cert="100">
+					<quote ana="143">Am ſüdlichen Ufer des Pontus euxinus, unweit der Mündung des Fluſſes Halys, lag im Lichte des hellſten Frühlingsmorgens ein römiſches Landhaus.</quote>
+					<bibl>
+						<title>Dorotheas Blumenkörbchen</title>
+						<title>Sieben Legenden</title>
+						<author>Gottfried Keller</author>
+						<date>1872</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/keller_legenden_1872?p=0137"/>
+					</bibl>
+					<desc>
+						<placeName>Kızılırmak</placeName>
+						<geo>41.72104 35.95102</geo>
+					</desc>
+				</item>
+				<item n="1175" cert="100">
+					<quote ana="86">Nach der Aufzeichnung des heiligen Gregorius war Muſa die Tänzerin unter den Heiligen.</quote>
+					<bibl>
+						<title>Das Tanzlegendchen</title>
+						<title>Sieben Legenden</title>
+						<author>Gottfried Keller</author>
+						<date>1872</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/keller_legenden_1872?p=0153"/>
+					</bibl>
+				</item>
+				<item n="5883" cert="100">
+					<quote ana="267">Am oberen Schlusse des schönen Ahrthales, wo das Flüßchen dem Fuße eines stark ansteigenden Berges entspringt, liegt in die grüne Schlucht zurückgezogen das Städtchen Blankenheim, ein Schutz und Schirm der jetzt zertrümmerten Grasenburg, der es seinen Ursprung dankt.</quote>
+					<bibl>
+						<title>Margret</title>
+						<author>Gottfried Kinkel</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/kinkel_margret_1910?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Blankenheim</placeName>
+						<geo>50.43939 6.64373</geo>
+					</desc>
+				</item>
+				<item n="8144" cert="100">
+					<quote ana="96">Besser lerne ich die F-Moll-Sonate doch nicht spielen, sagte Ida und stand müde vom Klavier auf.</quote>
+					<bibl>
+						<title>Musikalische Orthodoxie</title>
+						<author>Johanna Kinkel</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/kinkel_orthodoxie_1910?p=0007"/>
+					</bibl>
+				</item>
+				<item n="7711" cert="100">
+					<quote ana="82">Wir treten mitten in die Heiligkeit eines eben zur Neige gehenden Dorfsabbats ein.</quote>
+					<bibl>
+						<title>Eine Verlorene</title>
+						<author>Leopold Kompert</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/kompert_verlorene_1910?p=0008"/>
+					</bibl>
+				</item>
+				<item n="8675" cert="100">
+					<quote ana="530">Von dem Strande, welcher nun Stabiä, die fast zweitausend Jahre in Aschenregen begrabene Stadt, lieblich überblüht, gelagert zwischen dem Golf von Neapel und dem von Salern, erhebt sich über den Spiegel des anmuthigen Meeres, erst mit sanfteren Hügeln, bald aber geschwungener und kühner, ein mächtiges, vielzackiges, oben dunkel bewaldetes Kalkgebirge, dessen fruchtbare, terrassirte Hänge der Bienenfleiß der Menschen überall reichlich mit Oel- und Weingärten und mit unzähligen zierlichen Ortschaften überbaut und geschmückt hat.</quote>
+					<bibl>
+						<title>Der Träumer</title>
+						<author>August Kopisch</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/kopisch_traeumer_1910?p=0008"/>
+					</bibl>
+					<desc>
+						<placeName>Stabiä</placeName>
+						<geo>40.70211 14.48685</geo>
+					</desc>
+				</item>
+				<item n="1921" cert="100">
+					<quote ana="259">Auf der glückseligen Insel Ischia, die mit allem Segen Gottes reichlich überschüttet ist, lebte zu einer Zeit ein vornehmer Mann, von den Leuten schlechthin Don Antonio genannt, welcher in seiner Lebensweise von den meisten seines Gleichen das Widerspiel war.</quote>
+					<bibl>
+						<title>Ein Carnevalsfest auf Ischia</title>
+						<author>August Kopisch</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/kopisch_karnevalfest_1910?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Ischia</placeName>
+						<geo>40.72615 13.90353</geo>
+					</desc>
+				</item>
+				<item n="1381" cert="100">
+					<quote ana="395">Es giebt Begegnisse in der Welt, die, obgleich ins Innere der Menschen tief eingreifend, doch in ihrer äußeren Erscheinung, so wie manche schöne oder schlechte That, nur eine so flüchtige Aufmerksamkeit erregen, daß sie kaum bemerkt in den Wellen der Zeit untergehen, wie erschütternd sie auch dem scharfen, aber schweigenden Beobachter sich darstellen; unter solche gehört folgende Begebenheit.</quote>
+					<bibl>
+						<title>Nordische Freundschaft</title>
+						<author>Laurids Kruse</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/kruse_freundschaft_1910?p=0006"/>
+					</bibl>
+				</item>
+				<item n="5418" cert="100">
+					<quote ana="197">Wer hätte in dem phantastischen Wandrer, der beim frühsten Morgen einsam und irr über die Hügel des alten Macedonerlandes hinstürmte, den ehrenwerthen brittischen Maler James Stuart erkennen mögen!</quote>
+					<bibl>
+						<title>Die Incantada</title>
+						<author>Franz Kugler</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/kugler_incantada_1910?p=0008"/>
+					</bibl>
+				</item>
+				<item n="3231" cert="100">
+					<quote ana="304">In die Schenke eines erzgebirgischen Dorfes auf sächsischer Seite trat eines Abends ein städtisch aussehender Herr, welcher, nachdem er Staubmantel und Strohhut abgelegt, in bürgerlich-einfacher, aber feiner und gewählter Sommerbekleidung dastand, etwa einen jungen Gelehrten aus der Residenz verrathend.</quote>
+					<bibl>
+						<title>Der Drache</title>
+						<author>Ferdinand Kürnberger</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/kuernberger_drache_1910?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Erzgebirge</placeName>
+						<geo>50.58000 12.99450</geo>
+					</desc>
+				</item>
+				<item n="8663" cert="100">
+					<quote ana="220">Es war ein schöner, stiller Aprilmorgen, still wie er nur im Deutschland der zwanziger Jahre, in welches wir uns hiermit zurückversetzen, und in einem einsamen hochgelegenen schwäbischen Bergdörfchen gedacht werden kann.</quote>
+					<bibl>
+						<title>Die beiden Tubus</title>
+						<author>Hermann Kurz</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/kurz_tubus_1910?p=0011"/>
+					</bibl>
+					<desc>
+						<placeName>Schwaben</placeName>
+						<geo>48.16979 10.49005</geo>
+					</desc>
+				</item>
+				<item n="3916" cert="100">
+					<quote ana="185">Seit Jahren liebte ich es, zur Weihnachtszeit die große Stadt trotz ihrer verlockenden Bescherungen zu verlassen, um die landschaftliche Natur in ihrem tiefen Winterfrieden zu besuchen.</quote>
+					<bibl>
+						<title>Ein adeliges Fräulein</title>
+						<author>Heinrich Landesmann</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/lorm_fraeulein_1910?p=0007"/>
+					</bibl>
+				</item>
+				<item n="8119" cert="100">
+					<quote ana="61">Tante Julie war die liebenswürdigste Frau in unserer Familie.</quote>
+					<bibl>
+						<title>Die Tante</title>
+						<author>Fanny Lewald</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/lewald_tante_1910?p=0007"/>
+					</bibl>
+				</item>
+				<item n="7644" cert="100">
+					<quote ana="407">Als zu Anfang des siebenjährigen Krieges die braven sächsischen Truppen im Lager bei Pirna entwaffnet wurden, die Soldaten gezwungen in die Reihen ihrer Feinde traten, die Offiziere aber ihr Ehrenwort geben mußten, nicht gegen Friedrich zu dienen, kehrte der Hauptmann von Pistor nach Dresden zurück, das er voll trüber Ahnung verlassen hatte, um in jenem Feldlager ein entmuthigendes Schicksal zu erwarten.</quote>
+					<bibl>
+						<title>Die Entscheidung von Hochkirch</title>
+						<author>Friederike Lohmann</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/lohmann_hochkirch_1910?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Dresden</placeName>
+						<geo>51.05089 13.73832</geo>
+					</desc>
+				</item>
+				<item n="4379" cert="100">
+					<quote ana="202">Der Küster stand im Thurme und zog mit aller Macht die Glocke, daß ihr schwerer Schall weit hinaustönte in das Land, das in seinem ersten Frühlingskleide wellenförmig bis an das Meer hingebreitet dalag.</quote>
+					<bibl>
+						<title>Der Müller vom Höft</title>
+						<author>Alfred Meißner</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/meissner_hoeft_1910?p=0006"/>
+					</bibl>
+				</item>
+				<item n="8726" cert="100">
+					<quote ana="219">Am linken Ufer des oberen Rheines, am Fuße des Kamor und der Calanda, stand zu Beginn des zwölften Jahrhunderts und steht noch heute fest und massig, in unzerstörbarer Wucht erhalten, die Burg der Grafen von Werdenberg.</quote>
+					<bibl>
+						<title>Die Prinzessin von Portugal</title>
+						<author>Alfred Meißner</author>
+						<date>1882</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/meissner_prinzessin_1882?p=0009"/>
+					</bibl>
+					<desc>
+						<placeName>Schloss Werdenberg</placeName>
+						<geo>47.16848 9.46201</geo>
+					</desc>
+				</item>
+				<item n="4310" cert="100">
+					<quote ana="146">Unter den Handwerkern ist der Schneider von Alters her eine humoristische Figur gewesen; die Thatsache ist unleugbar und nicht schwer zu erklären.</quote>
+					<bibl>
+						<title>Der Sieg des Schwachen</title>
+						<author>Melchior Meyr</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/meyr_schwachen_1910?p=0007"/>
+					</bibl>
+				</item>
+				<item n="6532" cert="100">
+					<quote ana="138">Im Herbst des Jahres 1787 unternahm Mozart in Begleitung seiner Frau eine Reise nach Prag, um Don Juan daselbst zur Aufführung zu bringen.</quote>
+					<bibl>
+						<title>Mozart auf der Reise nach Prag</title>
+						<author>Eduard Mörike</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/moerike_mozart_1910?p=0008"/>
+					</bibl>
+					<desc>
+						<placeName>Prag</placeName>
+						<geo>50.08804 14.42076</geo>
+					</desc>
+				</item>
+				<item n="5549" cert="100">
+					<quote ana="429">Es mögen jetzt wohl mehr als zwanzig Jahre vorüber gegangen sein, als ein großes Boot von sechs Rudern, mit einer Halbkajüte versehen, an der Küste des Norwegischen Hochlandes hinfuhr, das jenseits des großen Westfjord und des Polarkreises, bis nach dem Nordcap hinauf, ein wildes Labyrinth von Felsen, Inseln, Inselbrocken und zahllosen Sunden und Meeresarmen darstellt, welche tief in den Schooß der Gebirge und Klüfte dringen.</quote>
+					<bibl>
+						<title>Am Malanger Fjord</title>
+						<author>Theodor Mügge</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/muegge_fjord_1910?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Nordkapp</placeName>
+						<geo>71.18542 25.67629</geo>
+					</desc>
+				</item>
+				<item n="4885" cert="100">
+					<quote ana="296">Das Zimmer fing an dunkel zu werden, und Arthur nahm vor dem Spiegel den Widerschein einer Laterne, welche seinem Fenster gerade gegenüber unter den Linden brannte, zu Hülfe, um seine Abendtoilette mit dem Einstecken einer goldenen Nadel in den englischen Knoten seines Halstuches zu beschließen.</quote>
+					<bibl>
+						<title>Debora</title>
+						<author>Wilhelm Müller</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/mueller_debora_1910?p=0007"/>
+					</bibl>
+				</item>
+				<item n="4825" cert="100">
+					<quote ana="81">Hinter dem Hause Scholastika's erhebt sich ein steiler, waldiger Berg, der Unutz.</quote>
+					<bibl>
+						<title>Der Flüchtling</title>
+						<author>Adolf Pichler</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/pichler_fluechtling_1910?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Unutz</placeName>
+						<geo>47.51483 11.73859</geo>
+					</desc>
+				</item>
+				<item n="7420" cert="100">
+					<quote ana="244">Es ereignete sich, daß mitten unter den Zerstreuungen eines Winters zu London, in den verschiedenen Gesellschaften der tonangebenden Vornehmen ein Edelmann erschien, der sich mehr durch seine Sonderbarkeiten, als durch seinen Rang auszeichnete.</quote>
+					<bibl>
+						<title>Der Vampyr, eine Erzählung von Lord Byron</title>
+						<title>Der Vampyr</title>
+						<author>John Polidori</author>
+						<date>1819</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/polidori_vampyr_1819?p=0015"/>
+					</bibl>
+					<desc>
+						<placeName>London</placeName>
+						<geo>51.50853 -0.12574</geo>
+					</desc>
+				</item>
+				<item n="1070" cert="100">
+					<quote ana="310">Als das heilige römische Reich noch aufrecht stand, zu Anfang des vorigen Jahrhunderts, waren, wie der geschichtskundige großgünstige Leser weiß, im Südwesten des armen, blutenden, knochenkranken Deutschlands die freien Städte so häufig wie die Pilze, und die unmittelbare Reichsritterschaft war noch häufiger.</quote>
+					<bibl>
+						<title>Das letzte Recht</title>
+						<author>Wilhelm Raabe</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/raabe_recht_1910?p=0007"/>
+					</bibl>
+				</item>
+				<item n="4777" cert="100">
+					<quote ana="77">Im Jahre 1594 hatte der Stadtschreiber von Nördlingen einen seltsamen Besuch.</quote>
+					<bibl>
+						<title>Jörg Muckenbuber</title>
+						<author>Wilhelm Heinrich Riehl</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/riehl_muckenhuber_1910?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Nördlingen</placeName>
+						<geo>48.85122 10.48868</geo>
+					</desc>
+				</item>
+				<item n="2106" cert="100">
+					<quote ana="162">Alljährlich um die Sommerzeit tauchen Erinnerungen in mir auf, Jugenderinnerungen, schön und trübe zugleich, die mich mit unwiderstehlicher Macht gefangen nehmen.</quote>
+					<bibl>
+						<title>Die Schlangenkönigin</title>
+						<author>Otto Roquette</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/roquette_schlangenkoenigin_1910?p=0007"/>
+					</bibl>
+				</item>
+				<item n="1581" cert="100">
+					<quote ana="204">Margaretha, die begünstigte Tochter des fünften Karl, war durch den jüngeren Farnese, ihren zweiten Gemahl, nun auch die Nichte Paul des Dritten, pflegte daher einen Theil des Jahres in Rom Hof zu halten.</quote>
+					<bibl>
+						<title>Der letzte Savello</title>
+						<author>Karl Friedrich Rumohr</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/rumohr_savello_1910?p=0010"/>
+					</bibl>
+					<desc>
+						<placeName>Rom</placeName>
+						<geo>41.89193 12.51133</geo>
+					</desc>
+				</item>
+				<item n="5170" cert="100">
+					<quote ana="175">Die folgenden Mittheilungen rühren von einem Poeten her, welcher ſeinerzeit Einiges von ſich reden gemacht, nunmehr aber, wie ſo mancher Andere, verſchollen und vergeſſen iſt.</quote>
+					<bibl>
+						<title>Marianne</title>
+						<title>Novellen aus Österreich</title>
+						<author>Ferdinand von Saar</author>
+						<date>1877</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/saar_novellen_1877?p=0095"/>
+					</bibl>
+				</item>
+				<item n="7261" cert="100">
+					<quote ana="210">Eine der merkwürdigſten Eiſenbahnbauten iſt der Schienenweg über den Semmering, einen Theil der noriſchen Alpen, welcher die Grenzſcheide zwiſchen dem Erzherzogthum Oeſterreich und der grünen Steiermark bildet.</quote>
+					<bibl>
+						<title>Die Steinklopfer</title>
+						<title>Novellen aus Österreich</title>
+						<author>Ferdinand von Saar</author>
+						<date>1877</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/saar_novellen_1877?p=0143"/>
+					</bibl>
+					<desc>
+						<placeName>Semmeringpass</placeName>
+						<geo>47.63336 15.81672</geo>
+					</desc>
+				</item>
+				<item n="8572" cert="100">
+					<quote ana="37">Ich bin ein Freund der Vergangenheit.</quote>
+					<bibl>
+						<title>Die Geigerin</title>
+						<title>Novellen aus Österreich</title>
+						<author>Ferdinand von Saar</author>
+						<date>1877</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/saar_novellen_1877?p=0203"/>
+					</bibl>
+				</item>
+				<item n="5916" cert="100">
+					<quote ana="190">Es war um die Mitte der Fünfziger-Jahre, im Hochſommer, als ich, damals noch in Militärdienſten ſtehend, mit einer Abtheilung meines Regimentes in dem mähriſchen Städtchen K . . . einrückte.</quote>
+					<bibl>
+						<title>Das Haus Reichegg</title>
+						<title>Novellen aus Österreich</title>
+						<author>Ferdinand von Saar</author>
+						<date>1877</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/saar_novellen_1877?p=0263"/>
+					</bibl>
+				</item>
+				<item n="4947" cert="100">
+					<quote ana="91">Am Ufer und auf der Rhede von Bergen in Norwegen wurde die seltsamste Doppelscene gespielt.</quote>
+					<bibl>
+						<title>Der goldene Elephant von Rothschild</title>
+						<title>Die Düvecke, oder die Leiden einer Königin</title>
+						<author>Leopold Schefer</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/schefer_duevecke_1910?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Bergen</placeName>
+						<geo>60.39299 5.32415</geo>
+					</desc>
+				</item>
+				<item n="3373" cert="100">
+					<quote ana="181">Vor fünfzig Jahren sah man im Steierthal schon zu Anfang October Wildgänse fliegen, und ihr sonores Geschrei ertönte über den Buchenwäldern, deren Laub ungemein früh abgefallen war.</quote>
+					<bibl>
+						<title>Der Gebirgspfarrer</title>
+						<author>Alexander Julius Schindler</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/traun_gebirgspfarrer_1910?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Steyrtal</placeName>
+						<geo>47.87591 14.22075</geo>
+					</desc>
+				</item>
+				<item n="1445" cert="100">
+					<quote ana="108">Der Herbst war ungewöhnlich früh gekommen und hatte mich in den Gebirgsgegenden um Berchtesgaden überrascht.</quote>
+					<bibl>
+						<title>Mohrenfranzl</title>
+						<author>Hermann Schmid</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/schmid_mohrenfranzl_1910?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Berchtesgaden</placeName>
+						<geo>47.63236 13.00187</geo>
+					</desc>
+				</item>
+				<item n="2370" cert="100">
+					<quote ana="52">„Du willst wirklich nicht mehr weiterspielen, Else?“</quote>
+					<bibl>
+						<title>Fräulein Else</title>
+						<author>Arthur Schnitzler</author>
+						<date>1924</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/schnitzler_else_1924?p=0005"/>
+					</bibl>
+				</item>
+				<item n="8807" cert="0">
+					<quote ana="127">„Vierundzwanzig braune Sklaven ruderten die prächtige Galeere, die den Prinzen Amgiad zu dem Palast des Kalifen bringen sollte. […]“</quote>
+					<bibl>
+						<title>Traumnovelle</title>
+						<author>Arthur Schnitzler</author>
+						<date>1926</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/schnitzler_traumnovelle_1926?p=0005"/>
+					</bibl>
+				</item>
+				<item n="2743" cert="100">
+					<quote ana="113">Die Achse hält den Weg noch zweimal aus, schrie Paul, macht nur den Riemen geschwind zurecht, daß wir fortkommen!</quote>
+					<bibl>
+						<title>Samuel Brinks letzte Liebesgeschichte</title>
+						<author>Joseph Schreyvogel</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/schreyvogel_liebesgeschichte_1910?p=0007"/>
+					</bibl>
+				</item>
+				<item n="3848" cert="100">
+					<quote ana="105">In einer Schlucht mitten im tiefsten Waldgebirge stand ein junger Mann, an den Stamm einer Eiche gelehnt.</quote>
+					<bibl>
+						<title>Die Schwester</title>
+						<author>Levin Schücking</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/schuecking_schwester_1910?p=0006"/>
+					</bibl>
+				</item>
+				<item n="7649" cert="100">
+					<quote ana="109">Wo der Arlberg steil niedergeht ins Land an der Iller, am Rhein und am Bodensee, liegt der kleine Ort Stuben.</quote>
+					<bibl>
+						<title>Die Engel-Ehe</title>
+						<author>Karl Spindler</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/spindler_engel_1910?p=0006"/>
+					</bibl>
+					<desc>
+						<placeName>Stuben</placeName>
+						<geo>47.13333 10.16667</geo>
+					</desc>
+				</item>
+				<item n="4792" cert="100">
+					<quote ana="88">Erschrick nicht, lieber Paul, wenn du diesen Brief öffnest und meine Unterschrift liest.</quote>
+					<bibl>
+						<title>Das Herrenrecht</title>
+						<author>Daniel Spitzer</author>
+						<date>1877</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/spitzer_herrenrecht_1877?p=0003"/>
+					</bibl>
+				</item>
+				<item n="5079" cert="100">
+					<quote ana="163">Es gibt oft Dinge und Beziehungen in dem menschlichen Leben, die uns nicht sogleich klar sind und deren Grund wir nicht in Schnelligkeit hervor zu ziehen vermögen.</quote>
+					<bibl>
+						<title>Brigitta</title>
+						<author>Adalbert Stifter</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/stifter_brigitta_1910?p=0009"/>
+					</bibl>
+				</item>
+				<item n="3103" cert="100">
+					<quote ana="169">Vor meinem väterlichen Geburtshauſe dicht neben der Eingangsthür in dasſelbe liegt ein großer achtekiger Stein von der Geſtalt eines ſehr in die Länge gezogenen Würfels.</quote>
+					<bibl>
+						<title>Granit</title>
+						<title>Bunte Steine</title>
+						<author>Adalbert Stifter</author>
+						<date>1853</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/stifter_steine01_1853?p=0032"/>
+					</bibl>
+				</item>
+				<item n="2298" cert="100">
+					<quote ana="157">Ich erzähle hier eine Geſchichte, die uns einmal ein Freund erzählt hat, in der nichts Ungewöhnliches vorkömmt, und die ich doch nicht habe vergeſſen können.</quote>
+					<bibl>
+						<title>Kalkſtein</title>
+						<title>Bunte Steine</title>
+						<author>Adalbert Stifter</author>
+						<date>1853</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/stifter_steine01_1853?p=0096"/>
+					</bibl>
+				</item>
+				<item n="5681" cert="100">
+					<quote ana="66">Der Turmalin iſt dunkel, und was da erzählt wird, iſt ſehr dunkel.</quote>
+					<bibl>
+						<title>Turmalin</title>
+						<title>Bunte Steine</title>
+						<author>Adalbert Stifter</author>
+						<date>1853</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/stifter_steine01_1853?p=0210"/>
+					</bibl>
+				</item>
+				<item n="5744" cert="100">
+					<quote ana="67">Unſere Kirche feiert verſchiedene Feſte, welche zum Herzen dringen.</quote>
+					<bibl>
+						<title>Bergkriſtall</title>
+						<title>Bunte Steine</title>
+						<author>Adalbert Stifter</author>
+						<date>1853</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/stifter_steine02_1853?p=0014"/>
+					</bibl>
+				</item>
+				<item n="8205" cert="100">
+					<quote ana="91">In einem abgelegenen aber ſehr ſchönen Theile unſers Vaterlandes ſteht ein ſtattlicher Hof.</quote>
+					<bibl>
+						<title>Kazenſilber</title>
+						<title>Bunte Steine</title>
+						<author>Adalbert Stifter</author>
+						<date>1853</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/stifter_steine02_1853?p=0106"/>
+					</bibl>
+				</item>
+				<item n="4507" cert="100">
+					<quote ana="214">In unſerem Vaterlande ſteht ein Schloß, wie man in manchen Gegenden ſehr viele findet, das mit einem breiten Waſſergraben umgeben iſt, ſo zwar, daß es eigentlich ausſieht, als ſtünde es auf der Inſel eines Teiches.</quote>
+					<bibl>
+						<title>Bergmilch</title>
+						<title>Bunte Steine</title>
+						<author>Adalbert Stifter</author>
+						<date>1853</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/stifter_steine02_1853?p=0224"/>
+					</bibl>
+				</item>
+				<item n="6064" cert="100">
+					<quote ana="192">Es ist kein Kunstwerk, nur eine Erinnerung, zu deren Niederschrift ich heute meine Feder ansetze; wenn Gedächtniß und Phantasie mir getreu bleiben wollen, so mag es immerhin dessen werth sein.</quote>
+					<bibl>
+						<title>Bötjer Basch</title>
+						<author>Theodor Storm</author>
+						<date>1887</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/storm_basch_1887?p=0005"/>
+					</bibl>
+				</item>
+				<item n="3638" cert="100">
+					<quote ana="395">Was ich zu berichten beabſichtige, iſt mir vor reichlich einem halben Jahrhundert im Hauſe meiner Urgroßmutter, der alten Frau Senator Fedderſen, kund geworden, während ich, an ihrem Lehnſtuhl ſitzend, mich mit dem Leſen eines in blaue Pappe eingebundenen Zeitſchriftenheftes beſchäftigte; ich vermag mich nicht mehr zu entſinnen, ob von den „Leipziger“ oder von „Pappes Hamburger Leſefrüchten“.</quote>
+					<bibl>
+						<title>Der Schimmelreiter</title>
+						<author>Theodor Storm</author>
+						<date>1888</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/storm_schimmelreiter_1888?p=0013"/>
+					</bibl>
+				</item>
+				<item n="2139" cert="100">
+					<quote ana="112">Vor einigen Jahren im Hochsommer war es und alle Tage echtes Sonnenwetter; ich hatte mich in Jena, wie einst Dr. Martinus, in der alten Gastwirthschaft zum Bären einquartiert, hatte mit dem Wirth schon mehr als einmal über Land und Leute geredet und mich mit Namen, Stand und Wohnort, welcher derzeit zugleich mein Geburtsort war, in das Fremdenbuch eingeschrieben.</quote>
+					<bibl>
+						<title>Ein Doppelgänger</title>
+						<author>Theodor Storm</author>
+						<date>1887</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/storm_doppelgaenger_1887?p=0007"/>
+					</bibl>
+				</item>
+				<item n="3370" cert="100">
+					<quote ana="75">Wir saßen am Kamin, Männer und Frauen, eine behagliche Plaudergesellschaft.</quote>
+					<bibl>
+						<title>Eine Malerarbeit</title>
+						<author>Theodor Storm</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/storm_malerarbeit_1910?p=0010"/>
+					</bibl>
+				</item>
+				<item n="9015" cert="100">
+					<quote ana="92">An einem Spätherbſtnachmittage ging ein alter wohlgekleideter Mann langſam die Straße hinab.</quote>
+					<bibl>
+						<title>Immensee</title>
+						<author>Theodor Storm</author>
+						<date>1852</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/storm_immensee_1852?p=0011"/>
+					</bibl>
+					<desc>
+						<placeName>Immensee</placeName>
+						<geo>47.09646 8.46357</geo>
+					</desc>
+				</item>
+				<item n="5401" cert="100">
+					<quote ana="240">Mein Haus steht auf dem Lande, in einer holzreichen Gegend zwischen einem Kirchdorf und einem kleinen, in breiten Kastanien-Alleen fast vergrabenen Orte, welcher allmälig um einen Gutshof aufgewachsen ist, von beiden kaum zehn Minuten fern.</quote>
+					<bibl>
+						<title>John Riew’</title>
+						<title>John Riew', Ein Fest auf Haderslevhuus</title>
+						<author>Theodor Storm</author>
+						<date>1885</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/storm_riew_1885?p=0007"/>
+					</bibl>
+				</item>
+				<item n="2275" cert="100">
+					<quote ana="134">Im 14. Jahrhundert in Nordschleswig war es, als dort im tiefen Buchenwalde der Ritter Claus Lembeck auf seiner Höhenfeste Dorning saß.</quote>
+					<bibl>
+						<title>Ein Fest auf Haderslevhuus. Novelle</title>
+						<title>John Riew', Ein Fest auf Haderslevhuus</title>
+						<author>Theodor Storm</author>
+						<date>1885</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/storm_riew_1885?p=0107"/>
+					</bibl>
+					<desc>
+						<placeName>Tørning</placeName>
+						<geo>55.23930 9.37382</geo>
+					</desc>
+				</item>
+				<item n="9717" cert="100">
+					<quote ana="293">Ueber dem Dache des Rathhauses, das zugleich die Wohnung des städtischen Bürgermeisters bildete, kreuzten die ersten Schwalben in der Frühjahrssonne; auf der Vorstraße standen die „Bürgermeistersbuben“ und suchten vergebens die Königin der Luft mit den Lehmkugeln ihres Pustrohrs zu erreichen.</quote>
+					<bibl>
+						<title>Waldwinkel</title>
+						<title>Waldwinkel, Pole Poppenspäler</title>
+						<author>Theodor Storm</author>
+						<date>1875</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/storm_waldwinkel_1875?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Waldwinkel</placeName>
+						<geo>48.19428 12.33655</geo>
+					</desc>
+				</item>
+				<item n="9875" cert="100">
+					<quote ana="381">Ich hatte in meiner Jugend einige Fertigkeit im Drechseln, und beschäftigte mich sogar wohl etwas mehr damit, als meinen gelehrten Studien zuträglich war; wenigstens geschah es, daß mich eines Tags der Subrector bei Rückgabe eines nicht eben fehlerlosen Exercitiums seltsamer Weise fragte, ob ich vielleicht wieder eine Nähschraube zu meiner Schwester Geburtstag gedrechselt hätte.</quote>
+					<bibl>
+						<title>Pole Poppenspäler</title>
+						<title>Waldwinkel, Pole Poppenspäler</title>
+						<author>Theodor Storm</author>
+						<date>1875</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/storm_waldwinkel_1875?p=0119"/>
+					</bibl>
+				</item>
+				<item n="3145" cert="100">
+					<quote ana="265">Unsern Blick auf einen weiten Landsee in dem wasserreichen Holland richtend, betrachten wir jenen kleinen Nachen, der, von kräftigen Ruderschlägen eines jungen Landmannes getrieben, über den glatten, im Sonnenglanze blendend schimmernden Wasserspiegel dahin fliegt.</quote>
+					<bibl>
+						<title>Der Enten-Piet</title>
+						<author>Walter Tesche</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/tesche_piet_1910?p=0006"/>
+					</bibl>
+				</item>
+				<item n="4374" cert="100">
+					<quote ana="210">In einem der härtesten Winter war gegen Ende des Februar ein sonderbarer Tumult gewesen, über dessen Entstehung, Fortgang und Beruhigung die seltsamsten und widersprechendsten Gerüchte in der Residenz umliefen.</quote>
+					<bibl>
+						<title>Des Lebens Überfluß</title>
+						<author>Ludwig Tieck</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/tieck_ueberfluss_1910?p=0005"/>
+					</bibl>
+				</item>
+				<item n="7041" cert="100">
+					<quote ana="145">Treten Sie nur indeß hier in den Bildersaal, sagte der Diener, indem er den jungen Eduard herein ließ, der alte Herr wird gleich zu Ihnen kommen.</quote>
+					<bibl>
+						<title>Die Gemälde</title>
+						<author>Ludwig Tieck</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/tieck_gemaelde_1910?p=0013"/>
+					</bibl>
+				</item>
+				<item n="4660" cert="100">
+					<quote ana="181">In der Nähe von Kiew befindet sich ein Nonnenkloster, dessen Bewohnerinnen sämmtlich Malerinnen sind; doch möchten sie schwerlich vor dem Richterstuhle der Kunstkritik Gnade finden.</quote>
+					<bibl>
+						<title>Scholastika</title>
+						<author>Alexander von Ungern-Sternberg</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/ungern_scholastika_1910?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Kiew</placeName>
+						<geo>50.45466 30.5238</geo>
+					</desc>
+				</item>
+				<item n="5810" cert="100">
+					<quote ana="417">Graf Dürande, der gute alte Commandant von Marseille, saß einsam frierend an einem kalt stürmenden Octoberabende bei dem schlecht eingerichteten Kamine seiner prachtvollen Commandantenwohnung und rückte immer näher und näher zum Feuer, während die Kutschen zu einem großen Balle in der Straße vorüber rollten und sein Kammerdiener Basset, der zugleich sein liebster Gesellschafter war, im Vorzimmer heftig schnarchte.</quote>
+					<bibl>
+						<title>Der tolle Invalide auf dem Fort Ratonneau</title>
+						<author>Achim von Arnim</author>
+						<date>1871</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/arnim_invalide_1910?p=0011"/>
+					</bibl>
+					<desc>
+						<placeName>Marseille</placeName>
+						<geo>43.29695 5.38107</geo>
+					</desc>
+				</item>
+				<item n="7837" cert="100">
+					<quote ana="103">Nach einer glücklichen, jedoch für mich sehr beschwerlichen Seefahrt, erreichten wir endlich den Hafen.</quote>
+					<bibl>
+						<title>Peter Schlemihl's wundersame Geschichte</title>
+						<author>Adelbert von Chamisso</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/chamisso_schlemihl_1910?p=0011"/>
+					</bibl>
+				</item>
+				<item n="7485" cert="100">
+					<quote ana="45">Es ist am Abend des Festes Mariä Himmelfahrt.</quote>
+					<bibl>
+						<title>Der Striethast</title>
+						<author>Emmy von Dincklage</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/dincklage_striethast_1910?p=0007"/>
+					</bibl>
+				</item>
+				<item n="1023" cert="100">
+					<quote ana="333">Der Abend funkelte über die Felder, eine Reisekutsche fuhr rasch die glänzende Straße entlang, der Staub wirbelte, der Postillon blies, hinten auf dem Wagentritte aber stand vergnügt ein junger Bursch, der im Wandern heimlich aufgestiegen, bald auf den Zehen lang gestreckt, bald sich duckend, damit die im Wagen ihn nicht bemerkten.</quote>
+					<bibl>
+						<title>Die Glücksritter</title>
+						<author>Joseph von Eichendorff</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/eichendorff_gluecksritter_1910?p=0009"/>
+					</bibl>
+				</item>
+				<item n="3513" cert="100">
+					<quote ana="280">Fünf Stunden von Münster in Westfalen liegt ein jetzt sehr bescheidenes Dorf, welches noch vor einem halben Jahrhundert ein blühendes Städtchen gewesen ist; denn damals war es der Sommeraufenthalt des geistlichen Landesherrn, des Kurfürsten von Köln und Fürstbischofs von Münster.</quote>
+					<bibl>
+						<title>Eine fromme Lüge</title>
+						<author>Luise von Gall</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/gall_luege_1910?p=0006"/>
+					</bibl>
+					<desc>
+						<placeName>Münster</placeName>
+						<geo>51.96236 7.62571</geo>
+					</desc>
+				</item>
+				<item n="8698" cert="100">
+					<quote ana="334">Es hatte gewittert, aber vom Winde getrieben zogen die Wolken ins Land hinaus, und während es noch von allen Zweigen tropfte und die Vögel sich mit lautem Geschrei von dem ausgestandenen Schrecken erzählten, brach die Abendsonne siegreich hervor und blitzte durch das dichte Laubdach der Eichen, die den Platz von Jurançon beschatten.</quote>
+					<bibl>
+						<title>Reich zu reich und arm zu arm</title>
+						<author>Claire von Glümer</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/gluemer_arm_1910?p=0009"/>
+					</bibl>
+					<desc>
+						<placeName>Jurançon</placeName>
+						<geo>43.2883 -0.38694</geo>
+					</desc>
+				</item>
+				<item n="1352" cert="100">
+					<quote ana="84">Lieutenant bei „Treuenfels“ war er gewesen, der Muhme Wawerle ihr verstorbener Mann.</quote>
+					<bibl>
+						<title>'s Muhme-Leutnant-Saloppel</title>
+						<author>Karl von Holtei</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/holtei_saloppel_1910?p=0006"/>
+					</bibl>
+				</item>
+				<item n="1318" cert="0">
+					<quote ana="62">Zu Port au Prince, auf dem französischen Antheil der Insel St. Domingo, lebte zu Anfang dieses Jahrhunderts, als die Schwarzen die Weißen ermordeten, auf der Pflanzung des Hrn. Guillaume von Villeneuve ein fürchterlicher alter Neger, Namens Congo Hoango.</quote>
+					<bibl>
+						<title>Die Verlobung von St. Domingo</title>
+						<author>Heinrich von Kleist</author>
+						<date>1871</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/kleist_verlobung_1910?p=0009"/>
+					</bibl>
+					<desc>
+						<placeName>Port au Prince</placeName>
+						<geo>18.54349 -72.33881</geo>
+					</desc>
+				</item>
+				<item n="5172" cert="100">
+					<quote ana="317">Es mochte gegen das Ende des vergangenen Jahrhunderts sein; die französische Revolution, deren furchtbarer Ausbruch nur wenige Jahre danach erfolgte, kündigte schon hier und da durch verlängerte Stöße der unterwühlten Gesellschaft ihre Annäherung an; da kehrte Graf Thornstein auf seine Güter nach Deutschland zurück.</quote>
+					<bibl>
+						<title>Eure Wege sind nicht meine Wege</title>
+						<author>Adele Wesemael</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/wild_wege_1910?p=0006"/>
+					</bibl>
+				</item>
+				<item n="8535" cert="100">
+					<quote ana="327">Wanagischken war einmal vor Jahren ein sehr ansehnliches littauisches Dorf mit zwölf oder fünfzehn Bauernhöfen, einer Anzahl Eigenkathen, großer Feldmark, ausgedehnten Wiesen am Fluß, Torfstich in der Nähe des kurischen Haff's und beträchtlichem Antheil an der Haide gegen die russische Grenze hin, die als Weide benutzt wurde.</quote>
+					<bibl>
+						<title>Ansas und Grita</title>
+						<author>Ernst Wichert</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/wichert_grita_1910?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Vanagiškė</placeName>
+						<geo>56.01246 22.76555</geo>
+					</desc>
+				</item>
+				<item n="7084" cert="100">
+					<quote ana="126">Ihr wißt doch, daß ich als Büchsenspanner beim Prinzen Adolph diente, ehe ich mit unserer Gnädigen nach Carlsstadt herüberkam.</quote>
+					<bibl>
+						<title>Die katholische Mühle</title>
+						<author>Adolf Widmann</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/widmann_muehle_1910?p=0009"/>
+					</bibl>
+					<desc>
+						<placeName>Karlstadt</placeName>
+						<geo>49.96148 9.76435</geo>
+					</desc>
+				</item>
+				<item n="9228" cert="100">
+					<quote ana="110">Es giebt Gegenden, die wir lieben, weil sie schön sind, und Gegenden, die nur schön sind, weil wir sie lieben.</quote>
+					<bibl>
+						<title>Johann Ohlerich</title>
+						<author>Adolph Wilbrandt</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/wilbrandt_ohlerich_1910?p=0007"/>
+					</bibl>
+				</item>
+				<item n="4045" cert="100">
+					<quote ana="222">Mitten im Dorf stand des Schultheißen Haus, an den rothen Jalousieläden und dem zweistöckigen Bau zu unterscheiden von den Bauernhäusern, auch wenn der Herr Schultheiß nicht gerade sein Pfeifchen unter dem Fenster dampfte.</quote>
+					<bibl>
+						<title>Streit in der Liebe und Liebe im Streit</title>
+						<author>Ottilie Wildermuth</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/wildermuth_streit_1910?p=0010"/>
+					</bibl>
+				</item>
+				<item n="1898" cert="100">
+					<quote ana="137">Am obern Ende eines Tisches, auf welchem das Frühstück geordnet stand, saß Herr Steffano, einer der angesehensten Kaufleute in Frankfurt.</quote>
+					<bibl>
+						<title>Gemüth und Selbstsucht</title>
+						<author>Margarethe von Wolff</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/wolff_selbstsucht_1910?p=0007"/>
+					</bibl>
+					<desc>
+						<placeName>Frankfurt</placeName>
+						<geo>50.11552 8.68417</geo>
+					</desc>
+				</item>
+				<item n="8220" cert="100">
+					<quote ana="275">Einer meiner Freunde, er hieß Waldrich, hatte die hohe Schule kaum seit zwei Jahren verlassen und sich in einer Provinzialhauptstadt als überzähliger und unbesoldeter Gerichtsassessor oder dergleichen herumgetrieben, da eben in die Posaune des heiligen Krieges gestoßen ward.</quote>
+					<bibl>
+						<title>Der todte Gast</title>
+						<author>Heinrich Zschokke</author>
+						<date>1910</date>
+						<link target="https://www.deutschestextarchiv.de/book/view/zschokke_gast_1910?p=0007"/>
+					</bibl>
+				</item>
+			</list>
+		</body>
+	</text>
+</TEI>
