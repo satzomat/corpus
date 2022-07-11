@@ -1,0 +1,17 @@
+Unser	PPOSAT.Nom.Sg.Masc	unser
+Herr	NN.Nom.Sg.Masc	Herr
+Christus	NE.Nom.Sg.Masc	Christus
+und	KON	und
+der	ART.Nom.Sg.Masc	der
+heilige	ADJA.Pos.Nom.Sg.Masc	heilig
+Petrus	NN.Nom.Sg.Masc	Petrus
+übernachteten	VVFIN.3.Pl.Past.Ind	übernachten
+einmal	ADV	einmal
+bei	APPR	bei
+einem	ART.Dat.Sg.Masc	ein
+groben	ADJA.Pos.Dat.Sg.Masc	grob
+Bauer	NN.Dat.Sg.Masc	Bauer
+in	APPR	in
+Schwaben	NE.Dat.Sg.Neut	Schwaben
+.	$.	.
+

@@ -1,0 +1,26 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+Hirschkuh	NN.Nom.Sg.Fem	Hirschkuh
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+war	VAFIN.3.Sg.Past.Ind	sein
+mit	APPR	mit
+einem	ART.Dat.Sg.Masc	ein
+jungen	ADJA.Pos.Dat.Sg.Masc	jung
+Hirsch	NN.Dat.Sg.Masc	Hirsch
+ins	APPRART.Acc.Sg.Neut	in
+Kindbett	NN.Acc.Sg.Neut	Kindbett
+gekommen	VVPP.Psp	kommen
+,	$,	,
+und	KON	und
+bat	VVFIN.3.Sg.Past.Ind	bitten
+den	ART.Acc.Sg.Masc	der
+Fuchs	NN.Acc.Sg.Masc	Fuchs
+,	$,	,
+Gevatter	NE.Acc.Sg.Masc	Gevatter
+zu	PTKZU	zu
+stehen	VVINF.Inf	stehen
+.	$.	.
+

@@ -1,0 +1,26 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+arme	ADJA.Pos.Nom.Sg.Fem	arm
+junge	ADJA.Pos.Nom.Sg.Fem	jung
+Mutter	NN.Nom.Sg.Fem	Mutter
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+wohnte	VVFIN.3.Sg.Past.Ind	wohnen
+mit	APPR	mit
+ihrem	PPOSAT.Dat.Sg.Neut	ihr
+Söhnlein	NN.Dat.Sg.Neut	Söhnlein
+in	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+einsamen	ADJA.Pos.Dat.Sg.Neut	einsamen
+Hause	NN.Dat.Sg.Neut	Haus
+,	$,	,
+das	PDS.Nom.Sg.Neut	der
+stieß	VVFIN.3.Sg.Past.Ind	stoßen
+an	APPR	an
+ein	ART.Acc.Sg.Neut	ein
+großes	ADJA.Pos.Acc.Sg.Neut	große
+Roggenstück	NN.Acc.Sg.Neut	Roggenstück
+.	$.	.
+

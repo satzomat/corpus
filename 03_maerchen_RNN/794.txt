@@ -1,0 +1,16 @@
+Ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Söhne	NN.Acc.Pl.Masc	Sohn
+,	$,	,
+die	PRELS.Nom.Pl.Masc	der
+sahen	VVFIN.3.Pl.Past.Ind	sehen
+einander	ADV	einander
+im	APPRART.Dat.Sg.Neut	in
+Aeußern	NN.Dat.Sg.Neut	Aeußern
+zum	APPRART.Dat.Sg.Neut	zu
+Verwechseln	NN.Dat.Sg.Neut	Verwechseln
+ähnlich	ADJD.Pos	ähnlich
+.	$.	.
+

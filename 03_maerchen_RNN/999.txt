@@ -1,0 +1,26 @@
+»	XY	»
+Hört	VVIMP.2.Pl.Imp	hören
+,	$,	,
+Kinderchen	NN.Nom.Sg.Neut	Kinderchen
+!	$.	!
+
+warnte	VVFIN.3.Sg.Past.Ind	warnen
+die	ART.Nom.Sg.Fem	der
+Mutter	NN.Nom.Sg.Fem	Mutter
+,	$,	,
+folgt	VVFIN.3.Sg.Pres.Ind	folgen
+in	APPR	in
+nicht	PTKNEG	nicht
+der	ART.Dat.Sg.Fem	der
+Syrene	NN.Dat.Sg.Fem	Syrene
+,	$,	,
+wenn	KOUS	wenn
+sie	PPER.3.Nom.Sg.Fem	sie
+euch	PPER.2.Acc.Pl.*	euch
+singend	ADJD.Pos	singend
+zu	APPR	zu
+sich	PRF.3.Dat.Sg	sich
+lockt	VVFIN.3.Sg.Pres.Ind	locken
+.	$.	.
+«	XY	«
+

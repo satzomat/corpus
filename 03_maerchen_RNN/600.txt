@@ -1,0 +1,18 @@
+Es	PPER.3.Acc.Sg.Neut	es
+saß	VVFIN.3.Sg.Past.Ind	sitzen
+der	ART.Nom.Sg.Masc	der
+König	NN.Nom.Sg.Masc	König
+Artus	NE.Nom.Sg.Masc	Artus
+von	APPR	von
+England	NE.Dat.Sg.Neut	England
+mit	APPR	mit
+seinen	PPOSAT.Dat.Pl.Masc	sein
+Rittern	NN.Dat.Pl.Masc	Ritter
+und	KON	und
+Helden	NN.Dat.Pl.Masc	Held
+um	APPR	um
+seine	PPOSAT.Acc.Sg.Fem	sein
+runde	ADJA.Pos.Acc.Sg.Fem	runde
+Tafel	NN.Acc.Sg.Fem	Tafel
+.	$.	.
+

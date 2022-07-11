@@ -1,0 +1,8 @@
+Es	PPER.3.Nom.Sg.Neut	es
+iſt	VAFIN.3.Sg.Pres.Ind	sein
+eigentlich	ADV	eigentlich
+eine	ART.Nom.Sg.Fem	ein
+böſe	ADJA.Pos.Nom.Sg.Fem	bö<unk>e
+Zeit	NN.Nom.Sg.Fem	Zeit
+!	$.	!
+

@@ -1,0 +1,7 @@
+Mein	PPOSAT.Nom.Sg.Masc	mein
+Vater	NN.Nom.Sg.Masc	Vater
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+Kaufmann	NN.Nom.Sg.Masc	Kaufmann
+.	$.	.
+

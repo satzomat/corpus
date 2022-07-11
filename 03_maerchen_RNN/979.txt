@@ -1,0 +1,20 @@
+Ein	ART.Nom.Sg.Masc	ein
+Sultan	NN.Nom.Sg.Masc	Sultan
+zu	APPR	zu
+Bagdad	NE.Dat.Sg.Neut	Bagdad
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einst	ADV	einst
+einen	ART.Acc.Sg.Masc	ein
+kleinen	ADJA.Pos.Acc.Sg.Masc	klein
+Bucklichen	NN.Acc.Sg.Masc	Buckliche
+an	APPR	an
+seinem	PPOSAT.Dat.Sg.Masc	sein
+Hofe	NN.Dat.Sg.Masc	Hof
+,	$,	,
+den	PRELS.Acc.Sg.Masc	der
+er	PPER.3.Nom.Sg.Masc	er
+über	APPR	über
+alles	PIS.Acc.Sg.Neut	alle
+liebte	VVFIN.3.Sg.Past.Ind	lieben
+.	$.	.
+

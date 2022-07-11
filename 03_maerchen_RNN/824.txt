@@ -1,0 +1,18 @@
+Dort	ADV	dort
+auf	APPR	auf
+jener	PDAT.Dat.Sg.Fem	jener
+Haid	NN.Dat.Sg.Fem	Haid
+'	$(	'
+steht	VVFIN.3.Sg.Pres.Ind	stehen
+ein	ART.Nom.Sg.Masc	ein
+Lorberbaum	NN.Nom.Sg.Masc	Lorberbaum
+,	$,	,
+träget	VVFIN.3.Sg.Pres.Ind	trägen
+Le	NE.*.*.*	Le
+la	NE.*.*.*	la
+Laub	NE.Nom.Sg.*	Laub
+,	$,	,
+träget	VVFIN.3.Sg.Pres.Ind	trägen
+Laub	NE.Nom.Sg.*	Laub
+.	$.	.
+

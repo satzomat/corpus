@@ -1,0 +1,25 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+fürchterlich	ADJD.Pos	fürchterlich
+kalt	ADJD.Pos	kalt
+;	$.	;
+es	PPER.3.Nom.Sg.Neut	es
+schneite	VVFIN.3.Sg.Pres.Subj	schneiten
+und	KON	und
+begann	VVFIN.3.Sg.Past.Ind	beginnen
+dunkler	ADJA.Pos.Nom.Sg.Masc	dunkler
+Abend	NN.Nom.Sg.Masc	Abend
+zu	PTKZU	zu
+werden	VAINF.Inf	werden
+,	$,	,
+es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+der	ART.Nom.Sg.Masc	der
+letzte	ADJA.Pos.Nom.Sg.Masc	letzter
+Abend	NN.Nom.Sg.Masc	Abend
+im	APPRART.Dat.Sg.Neut	in
+Jahre	NN.Dat.Sg.Neut	Jahr
+,	$,	,
+Neujahrsabend	NN.Nom.Sg.Masc	Neujahrsabend
+!	$.	!
+

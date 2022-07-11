@@ -1,0 +1,19 @@
+Ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Bauersmann	NN.Nom.Sg.Masc	Bauersmann
+,	$,	,
+welcher	PWAT.Nom.Sg.Masc	welcher
+Martin	NE.Nom.Sg.Masc	Martin
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+,	$,	,
+hatte	VAFIN.3.Sg.Past.Ind	haben
+zwei	CARD	zwei
+Kinder	NN.Acc.Pl.Neut	Kind
+,	$,	,
+die	PRELS.Acc.Pl.Neut	der
+er	PPER.3.Nom.Sg.Masc	er
+gar	ADV	gar
+herzinnig	ADJD.Pos	herzinnig
+liebte	VVFIN.3.Sg.Past.Ind	lieben
+.	$.	.
+

@@ -1,0 +1,20 @@
+In	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+fast	ADV	fast
+ganz	ADV	ganz
+von	APPR	von
+Felsen	NN.Dat.Pl.Masc	Fels
+umschlossenen	ADJA.Pos.Dat.Sg.Neut	umschlossene
+,	$,	,
+der	ART.Dat.Sg.Fem	der
+Welt	NN.Dat.Sg.Fem	Welt
+aber	ADV	aber
+ganz	ADV	ganz
+unbekannten	ADJA.Pos.Dat.Sg.Neut	unbekannt
+Thale	NN.Dat.Sg.Fem	Thale
+lebte	VVFIN.3.Sg.Past.Ind	leben
+ein	ART.Nom.Sg.Neut	ein
+glückliches	ADJA.Pos.Nom.Sg.Neut	glückliche
+Hirtenvolk	NN.Nom.Sg.Neut	Hirtenvolk
+.	$.	.
+

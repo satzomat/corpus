@@ -1,0 +1,19 @@
+In	APPR	in
+Nicea	NE.Dat.Sg.Neut	Nicea
+,	$,	,
+meiner	PPOSAT.Dat.Sg.Fem	mein
+lieben	ADJA.Pos.Dat.Sg.Fem	lieb
+Vaterstadt	NN.Dat.Sg.Fem	Vaterstadt
+,	$,	,
+wohnte	VVFIN.3.Sg.Past.Ind	wohnen
+ein	ART.Nom.Sg.Masc	ein
+Mann	NN.Nom.Sg.Masc	Mann
+,	$,	,
+den	PRELS.Acc.Sg.Masc	der
+man	PIS.Nom.Sg.*	man
+den	ART.Acc.Sg.Masc	der
+kleinen	ADJA.Pos.Acc.Sg.Masc	klein
+Muck	NN.Acc.Sg.Masc	Muck
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+.	$.	.
+

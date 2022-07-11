@@ -1,0 +1,16 @@
+In	APPR	in
+dem	ART.Dat.Sg.Neut	der
+Lustwäldchen	NN.Dat.Sg.Neut	Lustwäldchen
+eines	ART.Gen.Sg.Masc	ein
+Königs	NN.Gen.Sg.Masc	König
+wohnte	VVFIN.3.Sg.Past.Ind	wohnen
+ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+gottesfürchtiger	ADJA.Pos.Nom.Sg.Masc	gottesfürchtiger
+Mann	NN.Nom.Sg.Masc	Mann
+,	$,	,
+wie	KOKOM	wie
+ein	ART.Nom.Sg.Masc	ein
+Einsiedler	NN.Nom.Sg.Masc	Einsiedler
+.	$.	.
+

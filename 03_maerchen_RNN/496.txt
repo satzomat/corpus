@@ -1,0 +1,21 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Neut	ein
+Mädchen	NN.Nom.Sg.Neut	Mädchen
+,	$,	,
+dem	PRELS.Dat.Sg.Neut	der
+starb	VVFIN.3.Sg.Past.Ind	sterben
+Vater	NN.Nom.Sg.Masc	Vater
+und	KON	und
+Mutter	NN.Nom.Sg.Fem	Mutter
+,	$,	,
+als	KOUS	als
+es	PPER.3.Nom.Sg.Neut	es
+noch	ADV	noch
+ein	ART.Nom.Sg.Neut	ein
+kleines	ADJA.Pos.Nom.Sg.Neut	klein
+Kind	NN.Nom.Sg.Neut	Kind
+war	VAFIN.3.Sg.Past.Ind	sein
+.	$.	.
+

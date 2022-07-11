@@ -1,0 +1,27 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+lustiger	ADJA.Pos.Nom.Sg.Masc	lustiger
+Student	NN.Nom.Sg.Masc	Student
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+wurde	VAFIN.3.Sg.Past.Ind	werden
+von	APPR	von
+der	ART.Dat.Sg.Fem	der
+hohen	ADJA.Pos.Dat.Sg.Fem	hoch
+Schule	NN.Dat.Sg.Fem	Schule
+relegirt	VVPP.Psp	relegiren
+,	$,	,
+weil	KOUS	weil
+er	PPER.3.Nom.Sg.Masc	er
+seinem	PPOSAT.Dat.Sg.Masc	sein
+Jugendübermuthe	NN.Dat.Sg.Masc	Jugendübermuth
+zu	PTKA	zu
+sehr	ADV	sehr
+den	ART.Acc.Sg.Masc	der
+Zügel	NN.Acc.Sg.Masc	Zügel
+schießen	VVINF.Inf	schießen
+ließ	VVFIN.3.Sg.Past.Ind	lassen
+.	$.	.
+

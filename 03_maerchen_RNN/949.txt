@@ -1,0 +1,22 @@
+Dem	ART.Dat.Sg.Masc	der
+Hans	NN.Dat.Sg.Masc	Hans
+war	VAFIN.3.Sg.Past.Ind	sein
+sei	VAFIN.3.Sg.Pres.Subj	sein
+Mutta	NE.Nom.Sg.*	Mutta
+gstorbn	VVPP.Psp	gsterben
+und	KON	und
+da	ADV	da
+Vata	NE.Nom.Sg.*	Vata
+hat	VAFIN.3.Sg.Pres.Ind	haben
+wieda	ADV	wieda
+gheirat	VVPP.Psp	gheiranen
+;	$.	;
+aber	KON	aber
+sei	VAFIN.3.Sg.Pres.Subj	sein
+Stiefmutter	NN.Nom.Sg.Masc	Stiefmutter
+hat'n	VAFIN.3.Pl.Past.Ind	haben
+Hans	NE.Nom.Sg.Masc	Hans
+net	NE.*.*.*	net
+mögn	VMINF.Inf	mögen
+.	$.	.
+

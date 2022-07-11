@@ -1,0 +1,13 @@
+Ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Mann	NN.Nom.Sg.Masc	Mann
+hatte	VAFIN.3.Sg.Past.Ind	haben
+viel	PIAT.*.*.*	viel
+Kinder	NN.Acc.Pl.Neut	Kind
+und	KON	und
+demnach	PROAV	demnach
+auch	ADV	auch
+viel	PIAT.*.*.*	viel
+Gevattersleute	NN.Acc.Pl.*	Gevattersleute
+.	$.	.
+

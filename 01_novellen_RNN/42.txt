@@ -1,0 +1,17 @@
+Gewiß	ADV	gewiß
+ſeid	VAFIN.1.Sg.Pres.Ind	einer
+ihr	PPER.3.Dat.Sg.Fem	ihr
+alle	PIS.Nom.Pl.*	alle
+voll	ADJD.Pos	voll
+Unruhe	NN.Acc.Sg.Fem	Unruhe
+,	$,	,
+daß	KOUS	daß
+ich	PPER.1.Nom.Sg.*	ich
+ſo	ADV	<unk>
+lange	ADV	lange
+—	$(	—
+lange	ADV	lange
+nicht	PTKNEG	nicht
+geſchrieben	VVPP.Psp	<unk>
+.	$.	.
+

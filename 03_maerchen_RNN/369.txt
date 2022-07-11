@@ -1,0 +1,18 @@
+Ein	ART.Nom.Sg.Masc	ein
+Bauer	NN.Nom.Sg.Masc	Bauer
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+seine	PPOSAT.Acc.Sg.Fem	sein
+Kuh	NN.Acc.Sg.Fem	Kuh
+auf	APPR	auf
+den	ART.Acc.Sg.Masc	der
+Markt	NN.Acc.Sg.Masc	Markt
+getrieben	VVPP.Psp	treiben
+und	KON	und
+für	APPR	für
+sieben	CARD	sieben
+Taler	NN.Acc.Pl.Neut	Tal
+verkauft	VVPP.Psp	verkaufen
+.	$.	.
+

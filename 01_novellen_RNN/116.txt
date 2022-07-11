@@ -1,0 +1,14 @@
+An	APPR	an
+einem	ART.Dat.Sg.Masc	ein
+Spätherbſtnachmittage	NN.Dat.Sg.Masc	Spätherb<unk>tnachmittag
+ging	VVFIN.3.Sg.Past.Ind	gehen
+ein	ART.Nom.Sg.Masc	ein
+alter	ADJA.Pos.Nom.Sg.Masc	alter
+wohlgekleideter	ADJA.Pos.Nom.Sg.Masc	wohlgekleideter
+Mann	NN.Nom.Sg.Masc	Mann
+langſam	ADJD.Pos	lang<unk>am
+die	ART.Acc.Sg.Fem	der
+Straße	NN.Acc.Sg.Fem	Straße
+hinab	PTKVZ	hinab
+.	$.	.
+

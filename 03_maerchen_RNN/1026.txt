@@ -1,0 +1,23 @@
+Ein	ART.Nom.Sg.Masc	ein
+großer	ADJA.Pos.Nom.Sg.Masc	großer
+Krieg	NN.Nom.Sg.Masc	Krieg
+war	VAFIN.3.Sg.Past.Ind	sein
+beendet	VVPP.Psp	beenden
+worden	VAPP.Psp	werden
+,	$,	,
+und	KON	und
+eine	ART.Nom.Sg.Fem	ein
+Menge	NN.Nom.Sg.Fem	Menge
+Soldaten	NN.Nom.Pl.Masc	Soldat
+wurden	VAFIN.3.Pl.Past.Ind	werden
+verabschiedet	VVPP.Psp	verabschieden
+,	$,	,
+weil	KOUS	weil
+man	PIS.Nom.Sg.*	man
+sie	PPER.3.Acc.*.*	sie
+nicht	PTKNEG	nicht
+mehr	ADV	mehr
+nötig	ADJD.Pos	nötig
+hatte	VAFIN.3.Sg.Past.Ind	haben
+.	$.	.
+

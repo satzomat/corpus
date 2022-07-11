@@ -1,0 +1,6 @@
+Verehrter	ADJA.Pos.Nom.Sg.Masc	Verehrter
+Freund	NN.Nom.Sg.Masc	Freund
+und	KON	und
+Gönner	NN.Nom.Sg.Masc	Gönner
+!	$.	!
+

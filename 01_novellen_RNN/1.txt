@@ -1,0 +1,9 @@
+Aber	KON	aber
+nun	ADV	nun
+zu	APPR	zu
+der	ART.Dat.Sg.Fem	der
+Bowle	NN.Dat.Sg.Fem	Bowle
+eine	ART.Nom.Sg.Fem	ein
+Geschichte	NN.Nom.Sg.Fem	Geschichte
+!	$.	!
+

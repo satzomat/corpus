@@ -1,0 +1,15 @@
+An	APPR	an
+einem	ART.Dat.Sg.Masc	ein
+Flusse	NN.Dat.Sg.Masc	Fluß
+stand	VVFIN.3.Sg.Past.Ind	stehen
+ein	ART.Nom.Sg.Masc	ein
+Nußbaum	NN.Nom.Sg.Masc	Nußbaum
+und	KON	und
+ließ	VVFIN.3.Sg.Past.Ind	lassen
+einen	ART.Acc.Sg.Masc	ein
+Zweig	NN.Acc.Sg.Masc	Zweig
+in's	APPRART.Acc.Sg.Neut	in
+Wasser	NN.Acc.Sg.Neut	Wasser
+hängen	VVINF.Inf	hängen
+.	$.	.
+

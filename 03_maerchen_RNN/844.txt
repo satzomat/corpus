@@ -1,0 +1,24 @@
+Ein	ART.Nom.Sg.Masc	ein
+alter	ADJA.Pos.Nom.Sg.Masc	alter
+Graf	NN.Nom.Sg.Masc	Graf
+hatte	VAFIN.3.Sg.Past.Ind	haben
+eine	ART.Acc.Sg.Fem	ein
+einzige	ADJA.Pos.Acc.Sg.Fem	einziger
+Tochter	NN.Acc.Sg.Fem	Tochter
+,	$,	,
+deren	PRELAT.Gen.Sg.Fem	der
+Bräutigam	NE.Nom.Sg.*	Bräutigam
+war	VAFIN.3.Sg.Past.Ind	sein
+nach	APPR	nach
+dem	ART.Dat.Sg.Neut	der
+gelobten	ADJA.Pos.Dat.Sg.Neut	gelobten
+Lande	NN.Dat.Sg.Neut	Land
+in	APPR	in
+den	ART.Acc.Sg.Masc	der
+Krieg	NN.Acc.Sg.Masc	Krieg
+gegen	APPR	gegen
+die	ART.Acc.Pl.*	der
+Ungläubigen	NN.Acc.Pl.*	Ungläubige
+gezogen	VVPP.Psp	ziehen
+.	$.	.
+

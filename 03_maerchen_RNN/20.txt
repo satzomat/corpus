@@ -1,0 +1,23 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+Stopfnadel	NN.Nom.Sg.Fem	Stopfnadel
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+sich	PRF.3.Acc.Sg	sich
+so	ADV	so
+fein	ADJD.Pos	fein
+dünkte	VVFIN.3.Sg.Past.Ind	dünken
+,	$,	,
+daß	KOUS	daß
+sie	PPER.3.Nom.Sg.Fem	sie
+sich	PRF.3.Acc.Sg	sich
+einbildete	VVFIN.3.Sg.Past.Ind	einbilden
+,	$,	,
+eine	ART.Nom.Sg.Fem	ein
+Nähnadel	NN.Nom.Sg.Fem	Nähnadel
+zu	PTKZU	zu
+sein	VAINF.Inf	sein
+.	$.	.
+

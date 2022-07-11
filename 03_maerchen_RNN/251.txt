@@ -1,0 +1,23 @@
+Ein	ART.Nom.Sg.Masc	ein
+Schuster	NN.Nom.Sg.Masc	Schuster
+war	VAFIN.3.Sg.Past.Ind	sein
+so	ADV	so
+arm	ADJD.Pos	arm
+geworden	VAPP.Psp	werden
+,	$,	,
+daß	KOUS	daß
+er	PPER.3.Nom.Sg.Masc	er
+nichts	PIS.*.*.Neut	nichts
+mehr	ADV	mehr
+hatte	VAFIN.3.Sg.Past.Ind	haben
+,	$,	,
+als	KOKOM	als
+das	ART.Nom.Sg.Neut	der
+Leder	NN.Nom.Sg.Neut	Leder
+für	APPR	für
+ein	ART.Acc.Sg.Neut	ein
+einziges	PIS.Acc.Sg.Neut	einziger
+paar	PIAT.*.*.*	paar
+Schuhe	NN.Acc.Pl.Masc	Schuh
+.	$.	.
+

@@ -1,0 +1,26 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Schneidergesell	NN.Nom.Sg.Masc	Schneidergesell
+mit	APPR	mit
+Namen	NN.Dat.Pl.Masc	Name
+Hosenblank	NE.Dat.Sg.Masc	Hosenblank
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+schrieb	VVFIN.3.Sg.Past.Ind	schreiben
+mit	APPR	mit
+goldenen	ADJA.Pos.Dat.Pl.Masc	golden
+Buchstaben	NN.Dat.Pl.Masc	Buchstabe
+an	APPR	an
+seinen	PPOSAT.Acc.Sg.Masc	sein
+Hut	NN.Acc.Sg.Masc	Hut
+:	$.	:
+er	PPER.3.Nom.Sg.Masc	er
+habe	VAFIN.3.Sg.Pres.Subj	haben
+neun	CARD	neun
+im	APPRART.Dat.Sg.Masc	in
+Unzorn	NN.Dat.Sg.Masc	Unzorn
+todtgeschlagen	VVPP.Psp	todtschlagen
+.	$.	.
+

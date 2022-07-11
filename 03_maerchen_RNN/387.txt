@@ -1,0 +1,23 @@
+Ein	ART.Nom.Sg.Masc	ein
+Müller	NN.Nom.Sg.Masc	Müller
+war	VAFIN.3.Sg.Past.Ind	sein
+nach	ADV	nach
+und	KON	und
+nach	ADV	nach
+in	APPR	in
+Armut	NN.Dat.Sg.Fem	Armut
+geraten	VVPP.Psp	geraten
+und	KON	und
+hatte	VAFIN.3.Sg.Past.Ind	haben
+nichts	PIS.*.*.Neut	nichts
+mehr	PIS.*.*.*	mehr
+als	KOKOM	als
+seine	PPOSAT.Acc.Sg.Fem	sein
+Mühle	NN.Acc.Sg.Fem	Mühle
+und	KON	und
+einen	ART.Acc.Sg.Masc	ein
+großen	ADJA.Pos.Acc.Sg.Masc	groß
+Apfelbaum	NN.Acc.Sg.Masc	Apfelbaum
+dahinter	PROAV	dahinter
+.	$.	.
+

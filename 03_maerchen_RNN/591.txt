@@ -1,0 +1,17 @@
+Vor	APPR	vor
+alten	ADJA.Pos.Dat.Pl.Fem	alt
+Zeiten	NN.Dat.Pl.Fem	Zeit
+lebte	VVFIN.3.Sg.Past.Ind	leben
+ein	ART.Nom.Sg.Masc	ein
+reicher	ADJA.Pos.Nom.Sg.Masc	reicher
+,	$,	,
+reicher	ADJA.Pos.Nom.Sg.Masc	reicher
+Graf	NN.Nom.Sg.Masc	Graf
+,	$,	,
+ich	PPER.1.Nom.Sg.*	ich
+weiß	VVFIN.1.Sg.Pres.Ind	wissen
+nicht	PTKNEG	nicht
+mehr	ADV	mehr
+wo	PWAV	wo
+?	$.	?
+

@@ -1,0 +1,21 @@
+Ein	ART.Nom.Sg.Masc	ein
+Graf	NN.Nom.Sg.Masc	Graf
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+Geiger	NN.Acc.Sg.Masc	Geiger
+in	APPR	in
+seinem	PPOSAT.Dat.Sg.Neut	sein
+Schlosse	NN.Dat.Sg.Neut	Schloß
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+spielte	VVFIN.3.Sg.Past.Ind	spielen
+gar	ADV	gar
+schön	ADJD.Pos	schön
+und	KON	und
+vertrieb	VVFIN.3.Sg.Past.Ind	vertreiben
+ihm	PPER.3.Dat.Sg.Masc	ihm
+manche	PIAT.Acc.Sg.Fem	mancher
+böse	ADJA.Pos.Acc.Sg.Fem	böse
+Laune	NN.Acc.Sg.Fem	Laune
+.	$.	.
+

@@ -1,0 +1,35 @@
+Ein	ART.Nom.Sg.Masc	ein
+Chans	NN.Nom.Sg.Masc	Chans
+Sohn	NN.Nom.Sg.Masc	Sohn
+verliebte	VVFIN.3.Sg.Past.Ind	verlieben
+sich	PRF.3.Acc.Sg	sich
+in	APPR	in
+ein	ART.Acc.Sg.Neut	ein
+Mädchen	NN.Acc.Sg.Neut	Mädchen
+voll	ADJD.Pos	voll
+Schönheit	NN.Acc.Sg.Fem	Schönheit
+und	KON	und
+Tugend	NN.Acc.Sg.Fem	Tugend
+und	KON	und
+Geist	NN.Acc.Sg.Masc	Geist
+,	$,	,
+das	PRELS.Nom.Sg.Neut	der
+zwei	CARD	zwei
+Meilen	NN.Acc.Pl.Fem	Meile
+weit	ADJD.Pos	weit
+von	APPR	von
+ihm	PPER.3.Dat.Sg.Masc	ihm
+wohnte	VVFIN.3.Sg.Past.Ind	wohnen
+,	$,	,
+und	KON	und
+sagte	VVFIN.3.Sg.Past.Ind	sagen
+:	$.	:
+»	XY	»
+Du	PPER.2.Nom.Sg.*	du
+bist	VAFIN.2.Sg.Pres.Ind	sein
+meine	PPOSAT.Nom.Sg.Fem	mein
+Gemahlin	NN.Nom.Sg.Fem	Gemahlin
+!	$.	!
+
+«	XY	«
+

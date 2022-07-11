@@ -1,0 +1,26 @@
+Zwei	CARD	zwei
+Näthersmädchen	NN.Nom.Pl.Neut	Näthersmädchen
+hatten	VAFIN.3.Pl.Past.Ind	haben
+nichts	PIS.*.*.Neut	nichts
+geerbt	VVPP.Psp	erben
+,	$,	,
+als	KOKOM	als
+ein	ART.Nom.Sg.Neut	ein
+gutes	ADJA.Pos.Nom.Sg.Neut	gut
+,	$,	,
+altes	ADJA.Pos.Nom.Sg.Neut	alt
+Pflaster	NN.Nom.Sg.Neut	Pflaster
+,	$,	,
+welches	PWAT.Acc.Sg.Neut	welcher
+Geld	NN.Acc.Sg.Neut	Geld
+machte	VVFIN.3.Sg.Past.Ind	machen
+,	$,	,
+und	KON	und
+wovon	PWAV	wovon
+sie	PPER.3.Nom.Pl.Neut	sie
+außer	APPR	außer
+ihrem	PPOSAT.Dat.Sg.Masc	ihr
+Nähverdienst	NN.Dat.Sg.Masc	Nähverdienst
+lebten	VVFIN.3.Pl.Past.Subj	leben
+.	$.	.
+

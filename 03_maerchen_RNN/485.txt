@@ -1,0 +1,31 @@
+Als	APPR	als
+Gott	NN.Nom.Sg.Masc	Gott
+die	ART.Nom.Sg.Fem	der
+Welt	NN.Nom.Sg.Fem	Welt
+geschaffen	VVPP.Psp	schaffen
+hatte	VAFIN.3.Sg.Past.Ind	haben
+und	KON	und
+allen	PIAT.Dat.Pl.Fem	aller
+Kreaturen	NN.Dat.Pl.Fem	Kreatur
+ihre	PPOSAT.Acc.Sg.Fem	ihr
+Lebenszeit	NN.Acc.Sg.Fem	Lebenszeit
+bestimmen	VVINF.Inf	bestimmen
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+,	$,	,
+kam	VVFIN.3.Sg.Past.Ind	kommen
+der	ART.Nom.Sg.Masc	der
+Esel	NN.Nom.Sg.Masc	Esel
+und	KON	und
+fragte	VVFIN.3.Sg.Past.Ind	fragen
+»	NN.Nom.Sg.Masc	»
+Herr	NN.Nom.Sg.Masc	Herr
+,	$,	,
+wie	PWAV	wie
+lange	ADV	lange
+soll	VMFIN.1.Sg.Pres.Ind	sollen
+ich	PPER.1.Nom.Sg.*	ich
+leben	VVINF.Inf	leben
+?	$.	?
+
+«	XY	«
+

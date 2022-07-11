@@ -1,0 +1,19 @@
+Drei	CARD	drei
+Handwerksbursche	NN.Nom.Pl.Masc	Handwerksbursch
+waren	VAFIN.3.Pl.Past.Ind	sein
+des	ART.Gen.Sg.Neut	der
+Arbeitens	NN.Gen.Sg.Neut	Arbeiten
+müde	ADJD.Pos	müde
+,	$,	,
+ließen	VVFIN.3.Pl.Past.Ind	lassen
+sich	PRF.3.Dat.Pl	sich
+ihren	PPOSAT.Acc.Sg.Masc	ihr
+Lohn	NN.Acc.Sg.Masc	Lohn
+auszahlen	VVINF.Inf	auszahlen
+und	KON	und
+gingen	VVFIN.3.Pl.Past.Ind	gehen
+auf	APPR	auf
+die	ART.Acc.Sg.Fem	der
+Wanderschaft	NN.Acc.Sg.Fem	Wanderschaft
+.	$.	.
+

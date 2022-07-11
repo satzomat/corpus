@@ -1,0 +1,15 @@
+Ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+hatte	VAFIN.3.Sg.Past.Ind	haben
+ein	ART.Acc.Sg.Neut	ein
+großes	ADJA.Pos.Acc.Sg.Neut	große
+Schloß	NN.Acc.Sg.Neut	Schloß
+,	$,	,
+darin	PROAV	darin
+wohnte	VVFIN.3.Sg.Past.Ind	wohnen
+er	PPER.3.Nom.Sg.Masc	er
+mit	APPR	mit
+seiner	PPOSAT.Dat.Sg.Fem	sein
+Frau	NN.Dat.Sg.Fem	Frau
+.	$.	.
+

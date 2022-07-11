@@ -1,0 +1,27 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+Frau	NN.Nom.Sg.Fem	Frau
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+sich	PRF.3.Acc.Sg	sich
+sehr	ADV	sehr
+nach	APPR	nach
+einem	ART.Dat.Sg.Neut	ein
+kleinen	ADJA.Pos.Dat.Sg.Neut	kleinen
+Kinde	NN.Dat.Sg.Neut	Kind
+sehnte	VVFIN.3.Sg.Past.Ind	sehnen
+,	$,	,
+aber	KON	aber
+sie	PPER.3.Nom.Sg.Fem	sie
+wußte	VVFIN.3.Sg.Past.Ind	wissen
+nicht	PTKNEG	nicht
+,	$,	,
+woher	PWAV	woher
+sie	PPER.3.Nom.Sg.Fem	sie
+es	PPER.3.Acc.Sg.Neut	es
+nehmen	VVINF.Inf	nehmen
+sollte	VMFIN.3.Sg.Past.Ind	sollen
+.	$.	.
+

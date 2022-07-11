@@ -1,0 +1,25 @@
+Einst	ADV	einst
+zog	VVFIN.3.Sg.Past.Ind	ziehen
+ein	ART.Nom.Sg.Masc	ein
+Ritter	NN.Nom.Sg.Masc	Ritter
+durch	APPR	durch
+den	ART.Acc.Sg.Masc	der
+Wald	NN.Acc.Sg.Masc	Wald
+,	$,	,
+sein	PPOSAT.Nom.Sg.Masc	sein
+Knappe	NN.Nom.Sg.Masc	Knappe
+folgte	VVFIN.3.Sg.Past.Ind	folgen
+ihm	PPER.3.Dat.Sg.Masc	ihm
+;	$.	;
+es	PPER.3.Nom.Sg.Neut	es
+wurde	VAFIN.3.Sg.Past.Ind	werden
+Nacht	NN.Nom.Sg.Fem	Nacht
+,	$,	,
+doch	KON	doch
+der	ART.Nom.Sg.Masc	der
+Ritter	NN.Nom.Sg.Masc	Ritter
+kannte	VVFIN.3.Sg.Past.Ind	kennen
+keine	PIAT.Acc.Sg.Fem	kein
+Furcht	NN.Acc.Sg.Fem	Furcht
+.	$.	.
+

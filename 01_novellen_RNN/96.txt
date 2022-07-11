@@ -1,0 +1,17 @@
+Am	APPRART.Dat.Sg.Neut	an
+Ufer	NN.Dat.Sg.Neut	Ufer
+und	KON	und
+auf	APPR	auf
+der	ART.Dat.Sg.Fem	der
+Rhede	NN.Dat.Sg.Fem	Rhede
+von	APPR	von
+Bergen	NN.Dat.Pl.Masc	Berg
+in	APPR	in
+Norwegen	NE.Dat.Sg.Neut	Norwegen
+wurde	VAFIN.3.Sg.Past.Ind	werden
+die	ART.Nom.Sg.Fem	der
+seltsamste	ADJA.Sup.Nom.Sg.Fem	seltsam
+Doppelscene	NN.Nom.Sg.Fem	Doppelscene
+gespielt	VVPP.Psp	spielen
+.	$.	.
+

@@ -1,0 +1,11 @@
+Hansens	NE.Gen.Sg.*	Hansen
+Mutter	NN.Nom.Sg.Fem	Mutter
+spricht	VVFIN.3.Sg.Pres.Ind	sprechen
+:	$.	:
+»	XY	»
+wohin	PWAV	wohin
+Hans	NE.Nom.Sg.*	Hans
+?	$.	?
+
+«	XY	«
+

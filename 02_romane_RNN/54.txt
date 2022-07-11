@@ -1,0 +1,18 @@
+Nun	ADV	nun
+,	$,	,
+Meiſter	NN.Nom.Sg.Masc	Mei<unk>ter
+Schwan	NE.Nom.Sg.Masc	Schwan
+,	$,	,
+für	APPR	für
+diesmal	ADV	diesmal
+iſt	VAFIN.3.Sg.Pres.Ind	sein
+Er	PPER.3.Nom.Sg.Masc	er
+chriſtlich	ADJD.Pos	chri<unk>tlich
+durchgekommen	VVPP.Psp	durchkommen
+,	$,	,
+ſtraf	VVFIN.3.Sg.Past.Ind	<unk>
+'	$(	'
+mich	PPER.1.Acc.Sg.*	mich
+Gott	NN.Acc.Sg.Masc	Gott
+!	$.	!
+

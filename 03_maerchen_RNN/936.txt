@@ -1,0 +1,21 @@
+Ein	ART.Nom.Sg.Masc	ein
+Bauer	NN.Nom.Sg.Masc	Bauer
+versprach	VVFIN.3.Sg.Past.Ind	versprechen
+dem	ART.Dat.Sg.Masc	der
+Teufel	NN.Dat.Sg.Masc	Teufel
+sein	PPOSAT.Acc.Sg.Neut	sein
+Weib	NN.Acc.Sg.Neut	Weib
+,	$,	,
+wenn	KOUS	wenn
+ihm	PPER.3.Dat.Sg.Masc	ihm
+der	ART.Nom.Sg.Masc	der
+Teufel	NN.Nom.Sg.Masc	Teufel
+den	ART.Acc.Sg.Masc	der
+Hut	NN.Acc.Sg.Masc	Hut
+mit	APPR	mit
+lauter	PIAT.*.*.*	lauter
+guten	ADJA.Pos.Dat.Pl.Masc	gut
+Talern	NN.Dat.Pl.Masc	Taler
+fülle	VVFIN.3.Sg.Pres.Subj	füllen
+.	$.	.
+

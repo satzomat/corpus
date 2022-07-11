@@ -1,0 +1,23 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Vielfraß	NN.Nom.Sg.Masc	Vielfraß
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+aß	VVFIN.3.Sg.Past.Ind	essen
+,	$,	,
+um	KOUI	um
+satt	ADJD.Pos	satt
+zu	PTKZU	zu
+werden	VAINF.Inf	werden
+,	$,	,
+einen	ART.Acc.Sg.Masc	ein
+Braukessel	NN.Acc.Sg.Masc	Braukessel
+voll	ADJD.Pos	voll
+Erbsen	NN.Acc.Pl.Fem	Erbse
+und	KON	und
+drei	CARD	drei
+Neunpfundbrote	NN.Acc.Pl.Neut	Neunpfundbrot
+.	$.	.
+

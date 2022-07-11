@@ -1,0 +1,7 @@
+Ich	PPER.1.Nom.Sg.*	ich
+will	VMFIN.1.Sg.Pres.Ind	wollen
+euch	PPER.2.Dat.Pl.*	euch
+etwas	PIS.*.*.Neut	etwas
+erzählen	VVINF.Inf	erzählen
+.	$.	.
+

@@ -1,0 +1,14 @@
+Ein	ART.Nom.Sg.Masc	ein
+Bauer	NN.Nom.Sg.Masc	Bauer
+ging	VVFIN.3.Sg.Past.Ind	gehen
+eines	ART.Gen.Sg.Masc	ein
+Morgens	NN.Gen.Sg.Masc	Morgen
+in	APPR	in
+aller	PIAT.Dat.Sg.Fem	aller
+Frühe	NN.Dat.Sg.Fem	Frühe
+ins	APPRART.Acc.Sg.Neut	in
+Feld	NN.Acc.Sg.Neut	Feld
+zur	APPRART.Dat.Sg.Fem	zu
+Arbeit	NN.Dat.Sg.Fem	Arbeit
+.	$.	.
+

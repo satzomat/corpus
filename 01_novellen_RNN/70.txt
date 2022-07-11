@@ -1,0 +1,15 @@
+Wir	PPER.1.Nom.Pl.*	wir
+treten	VVFIN.1.Pl.Pres.Ind	treten
+mitten	ADV	mitten
+in	APPR	in
+die	ART.Acc.Sg.Fem	der
+Heiligkeit	NN.Acc.Sg.Fem	Heiligkeit
+eines	ART.Gen.Sg.Masc	ein
+eben	ADV	eben
+zur	APPRART.Dat.Sg.Fem	zu
+Neige	NN.Dat.Sg.Fem	Neige
+gehenden	ADJA.Pos.Gen.Sg.Neut	gehenden
+Dorfsabbats	NN.Gen.Sg.Neut	Dorfsabbat
+ein	PTKVZ	ein
+.	$.	.
+

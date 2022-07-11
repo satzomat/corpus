@@ -1,0 +1,15 @@
+In	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+abgelegenen	ADJA.Pos.Dat.Sg.Neut	abgelegenen
+aber	ADV	aber
+ſehr	ADV	<unk>
+ſchönen	ADJA.Pos.Dat.Sg.Neut	<unk>
+Theile	NN.Dat.Sg.Neut	Theile
+unſers	PPOSAT.Gen.Sg.Neut	un<unk>er
+Vaterlandes	NN.Gen.Sg.Neut	Vaterland
+ſteht	VVFIN.3.Sg.Pres.Ind	ehen
+ein	ART.Nom.Sg.Masc	ein
+ſtattlicher	ADJA.Pos.Nom.Sg.Masc	<unk>
+Hof	NN.Nom.Sg.Masc	Hof
+.	$.	.
+

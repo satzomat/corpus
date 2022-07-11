@@ -1,0 +1,18 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+reicher	ADJA.Pos.Nom.Sg.Masc	reicher
+Kaufmann	NN.Nom.Sg.Masc	Kaufmann
+,	$,	,
+der	PDS.Nom.Sg.Masc	der
+mußte	VMFIN.3.Sg.Past.Ind	müssen
+in	APPR	in
+seinen	PPOSAT.Dat.Pl.Neut	sein
+Geschäften	NN.Dat.Pl.Neut	Geschäft
+in	APPR	in
+fremde	ADJA.Pos.Acc.Pl.Neut	fremd
+Länder	NN.Acc.Pl.Neut	Land
+reisen	VVINF.Inf	reisen
+.	$.	.
+

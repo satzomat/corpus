@@ -1,0 +1,10 @@
+Ich	PPER.1.Nom.Sg.*	ich
+habe	VAFIN.1.Sg.Pres.Ind	haben
+Kunzen	NN.Acc.Pl.Fem	Kunze
+schon	ADV	schon
+wieder	ADV	wieder
+gesehen	VVPP.Psp	sehen
+,	$,	,
+Mechthilde	NN.Acc.Pl.Fem	Mechthild
+!	$.	!
+

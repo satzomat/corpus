@@ -1,0 +1,23 @@
+Ein	ART.Nom.Sg.Masc	ein
+reicher	ADJA.Pos.Nom.Sg.Masc	reicher
+,	$,	,
+reicher	ADJA.Pos.Nom.Sg.Masc	reicher
+Müller	NN.Nom.Sg.Masc	Müller
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Töchter	NN.Acc.Pl.Fem	Tochter
+,	$,	,
+die	PRELS.Nom.Pl.Fem	der
+es	PPER.3.Acc.Sg.Neut	es
+sich	PRF.3.Acc.Pl	sich
+in	APPR	in
+den	ART.Acc.Sg.Masc	der
+Kopf	NN.Acc.Sg.Masc	Kopf
+setzten	VVFIN.3.Pl.Past.Ind	setzen
+,	$,	,
+vornehme	ADJA.Pos.Acc.Pl.Fem	vornehm
+Frauen	NN.Nom.Pl.Fem	Frau
+zu	PTKZU	zu
+werden	VAINF.Inf	werden
+.	$.	.
+

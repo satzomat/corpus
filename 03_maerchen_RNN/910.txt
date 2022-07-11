@@ -1,0 +1,25 @@
+Eine	ART.Nom.Sg.Fem	ein
+Frau	NN.Nom.Sg.Fem	Frau
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+fleißig	ADJD.Pos	fleißig
+zur	APPRART.Dat.Sg.Fem	zu
+Kirche	NN.Dat.Sg.Fem	Kirche
+ging	VVFIN.3.Sg.Past.Ind	gehen
+,	$,	,
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+wissen	VVINF.Inf	wissen
+,	$,	,
+wie	PWAV	wie
+viel	PIAT.*.*.*	viel
+Mal	KOUS	mal
+sie	PPER.3.Nom.Sg.Fem	sie
+in	APPR	in
+Einem	ART.Dat.Sg.Neut	ein
+Jahre	NN.Dat.Sg.Neut	Jahr
+im	APPRART.Dat.Sg.Neut	in
+Gotteshause	NN.Dat.Sg.Neut	Gotteshaus
+gewesen	VAPP.Psp	sein
+sei	VAFIN.3.Sg.Pres.Subj	sein
+.	$.	.
+

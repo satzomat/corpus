@@ -1,0 +1,26 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+Knabe	NN.Nom.Sg.Masc	Knabe
+,	$,	,
+der	PDS.Nom.Sg.Masc	der
+mußte	VMFIN.3.Sg.Past.Ind	müssen
+den	ART.Acc.Sg.Masc	der
+ganzen	ADJA.Pos.Acc.Sg.Masc	ganz
+Tag	NN.Acc.Sg.Masc	Tag
+über	APPO.Acc	über
+mit	APPR	mit
+einem	ART.Dat.Sg.Masc	ein
+Karren	NN.Dat.Sg.Masc	Karr
+,	$,	,
+vor	APPR	vor
+den	PRELS.Acc.Sg.Masc	der
+ein	ART.Nom.Sg.Neut	ein
+Fuchspferd	NN.Nom.Sg.Neut	Fuchspferd
+gespannt	VVPP.Psp	spannen
+war	VAFIN.3.Sg.Past.Ind	sein
+,	$,	,
+Mist	NN.Acc.Sg.Masc	Mist
+fahren	VVINF.Inf	fahren
+.	$.	.
+

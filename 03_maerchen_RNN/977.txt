@@ -1,0 +1,24 @@
+Selten	ADJD.Pos	selten
+nur	ADV	nur
+bleibt	VVFIN.3.Sg.Pres.Ind	bleiben
+eine	ART.Nom.Sg.Fem	ein
+böse	ADJA.Pos.Nom.Sg.Fem	böse
+That	NN.Nom.Sg.Fem	That
+ganz	ADV	ganz
+verborgen	VVPP.Psp	verbergen
+und	KON	und
+oft	ADV	oft
+noch	ADV	noch
+im	APPRART.Dat.Sg.Neut	in
+spätesten	ADJA.Sup.Dat.Sg.Neut	spät
+Alter	NN.Dat.Sg.Neut	Alter
+muß	VMFIN.3.Sg.Pres.Ind	müssen
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+sie	PPER.3.Acc.Pl.Neut	sie
+beging	VVFIN.3.Sg.Past.Ind	begehen
+,	$,	,
+sie	PPER.3.Nom.Pl.*	sie
+büßen	VVINF.Inf	büßen
+.	$.	.
+

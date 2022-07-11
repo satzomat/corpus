@@ -1,0 +1,25 @@
+Ein	ART.Nom.Sg.Neut	ein
+armes	ADJA.Pos.Nom.Sg.Neut	armes
+,	$,	,
+schönes	ADJA.Pos.Nom.Sg.Neut	schönes
+Mädchen	NN.Nom.Sg.Neut	Mädchen
+suchte	VVFIN.3.Sg.Past.Ind	suchen
+eine	ART.Acc.Sg.Fem	ein
+Herrschaft	NN.Acc.Sg.Fem	Herrschaft
+,	$,	,
+dabei	PROAV	dabei
+kam	VVFIN.3.Sg.Past.Ind	kommen
+es	PPER.3.Nom.Sg.Neut	es
+vor	APPR	vor
+eine	ART.Acc.Sg.Fem	ein
+Räuberhöhle	NN.Acc.Sg.Fem	Räuberhöhle
+und	KON	und
+des	ART.Gen.Sg.Masc	der
+Räubers	NN.Gen.Sg.Masc	Räuber
+Mutter	NN.Acc.Sg.Fem	Mutter
+nahm	VVFIN.3.Sg.Past.Ind	nehmen
+sie	PPER.3.Acc.Sg.Fem	sie
+in	APPR	in
+Dienst	NN.Acc.Sg.Masc	Dienst
+.	$.	.
+

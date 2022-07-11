@@ -1,0 +1,18 @@
+Es	PPER.3.Acc.Sg.Neut	es
+arbeitete	VVFIN.3.Sg.Past.Ind	arbeiten
+ein	ART.Nom.Sg.Masc	ein
+Mann	NN.Nom.Sg.Masc	Mann
+in	APPR	in
+einem	ART.Dat.Sg.Masc	ein
+Walde	NN.Dat.Sg.Masc	Wald
+und	KON	und
+seine	PPOSAT.Nom.Sg.Fem	sein
+älteste	ADJA.Sup.Nom.Sg.Fem	alt
+Tochter	NN.Nom.Sg.Fem	Tochter
+sollte	VMFIN.3.Sg.Past.Subj	sollen
+ihm	PPER.3.Dat.Sg.Masc	ihm
+das	ART.Acc.Sg.Neut	der
+Essen	NN.Acc.Sg.Neut	Essen
+dahintragen	VVINF.Inf	dahintragen
+.	$.	.
+

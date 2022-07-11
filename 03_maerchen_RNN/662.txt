@@ -1,0 +1,34 @@
+Hans	NE.Nom.Sg.Masc	Hans
+sollte	VMFIN.3.Sg.Past.Ind	sollen
+wandern	VVINF.Inf	wandern
+und	KON	und
+hatte	VAFIN.3.Sg.Past.Ind	haben
+gar	ADV	gar
+keine	PIAT.Acc.Sg.Fem	kein
+Lust	NN.Acc.Sg.Fem	Lust
+dazu	PROAV	dazu
+und	KON	und
+sagte	VVFIN.3.Sg.Past.Ind	sagen
+:	$.	:
+»	XY	»
+wenn	KOUS	wenn
+doch	ADV	doch
+nur	ADV	nur
+der	ART.Nom.Sg.Masc	der
+Teufel	NN.Nom.Sg.Masc	Teufel
+käm	VVFIN.3.Sg.Past.Ind	kommen
+'	$(	'
+und	KON	und
+mir	PPER.1.Dat.Sg.*	mir
+Geld	NN.Acc.Sg.Neut	Geld
+brächte	VVFIN.3.Sg.Past.Subj	bringen
+,	$,	,
+daß	KOUS	daß
+ich	PPER.1.Nom.Sg.*	ich
+nicht	PTKNEG	nicht
+fort	PTKVZ	fort
+brauchte	VVFIN.1.Sg.Past.Ind	brauchen
+!	$.	!
+
+«	XY	«
+

@@ -1,0 +1,18 @@
+Ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+und	KON	und
+eine	ART.Nom.Sg.Fem	ein
+Königin	NN.Nom.Sg.Fem	Königin
+kriegten	VVFIN.3.Pl.Past.Ind	kriegen
+gar	ADV	gar
+keine	PIAT.Acc.Pl.Neut	kein
+Kinder	NN.Acc.Pl.Neut	Kind
+,	$,	,
+und	KON	und
+hätten	VAFIN.3.Pl.Past.Subj	haben
+so	ADV	so
+gern	ADV	gern
+eins	PIS.Acc.Sg.Neut	einer
+gehabt	VAPP.Psp	haben
+.	$.	.
+

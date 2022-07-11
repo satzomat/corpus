@@ -1,0 +1,16 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+alter	ADJA.Pos.Nom.Sg.Masc	alter
+Dichter	NN.Nom.Sg.Masc	Dichter
+,	$,	,
+so	ADV	so
+ein	ART.Nom.Sg.Masc	ein
+recht	ADJD.Pos	recht
+guter	ADJA.Pos.Nom.Sg.Masc	guter
+,	$,	,
+alter	ADJA.Pos.Nom.Sg.Masc	alter
+Dichter	NN.Nom.Sg.Masc	Dichter
+.	$.	.
+

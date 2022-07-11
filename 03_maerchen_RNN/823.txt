@@ -1,0 +1,16 @@
+Ein	ART.Nom.Sg.Masc	ein
+alter	ADJA.Pos.Nom.Sg.Masc	alter
+Mann	NN.Nom.Sg.Masc	Mann
+heirathete	VVFIN.3.Sg.Past.Ind	heirathen
+eine	ART.Acc.Sg.Fem	ein
+junge	ADJA.Pos.Acc.Sg.Fem	jung
+Frau	NN.Acc.Sg.Fem	Frau
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+schönes	ADJA.Pos.Acc.Sg.Neut	schönes
+,	$,	,
+schönes	ADJA.Pos.Acc.Sg.Neut	schönes
+Ringelhaar	NN.Acc.Sg.Neut	Ringelhaar
+.	$.	.
+

@@ -1,0 +1,22 @@
+Ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+Soldaten	NN.Acc.Sg.Masc	Soldat
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+konnte	VMFIN.3.Sg.Past.Ind	können
+mehr	PIS.*.*.*	mehr
+als	APPR	als
+Brot	NN.Acc.Sg.Neut	Brot
+essen	VVINF.Inf	essen
+und	KON	und
+war	VAFIN.3.Sg.Past.Ind	sein
+der	ART.Nom.Sg.Masc	der
+pünktlichste	ADJA.Sup.Nom.Sg.Masc	pünktlich
+Soldat	NN.Nom.Sg.Masc	Soldat
+beim	APPRART.Dat.Sg.Neut	bei
+ganzen	ADJA.Pos.Dat.Sg.Neut	ganzen
+Regiment	NN.Dat.Sg.Neut	Regiment
+.	$.	.
+

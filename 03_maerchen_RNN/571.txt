@@ -1,0 +1,27 @@
+Eine	ART.Nom.Sg.Fem	ein
+Königinn	NN.Nom.Sg.Fem	Königin
+hätte	VAFIN.3.Sg.Past.Subj	haben
+so	ADV	so
+gern	ADV	gern
+,	$,	,
+ach	ADV	ach
+so	ADV	so
+gern	ADV	gern
+ein	ART.Acc.Sg.Neut	ein
+Kind	NN.Acc.Sg.Neut	Kind
+gehabt	VAPP.Psp	haben
+,	$,	,
+und	KON	und
+bekam	VVFIN.3.Sg.Past.Ind	bekommen
+doch	ADV	doch
+keins	PIS.Acc.Sg.Neut	keiner
+,	$,	,
+so	ADV	so
+sehr	ADV	sehr
+sie	PPER.3.Nom.Sg.Fem	sie
+sich	PRF.3.Acc.Sg	sich
+auch	ADV	auch
+eins	PIS.Acc.Sg.Neut	einer
+wünschte	VVFIN.3.Sg.Past.Ind	wünschen
+.	$.	.
+

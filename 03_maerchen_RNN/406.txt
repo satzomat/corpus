@@ -1,0 +1,31 @@
+Vor	APPR	vor
+Zeiten	NN.Dat.Pl.Fem	Zeit
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+und	KON	und
+eine	ART.Nom.Sg.Fem	ein
+Königin	NN.Nom.Sg.Fem	Königin
+,	$,	,
+die	PRELS.Nom.Pl.Fem	der
+sprachen	VVFIN.3.Pl.Past.Ind	sprechen
+jeden	PIAT.Acc.Sg.Masc	jeder
+Tag	NN.Acc.Sg.Masc	Tag
+»	$(	»
+ach	ITJ	ach
+,	$,	,
+wenn	KOUS	wenn
+wir	PPER.1.Nom.Pl.*	wir
+doch	ADV	doch
+ein	ART.Acc.Sg.Neut	ein
+Kind	NN.Acc.Sg.Neut	Kind
+hätten	VAFIN.1.Pl.Past.Subj	haben
+!	$.	!
+
+«	XY	«
+und	KON	und
+kriegten	VVFIN.3.Pl.Past.Ind	kriegen
+immer	ADV	immer
+keins	PIS.Nom.Sg.Neut	keiner
+.	$.	.
+

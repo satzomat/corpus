@@ -1,0 +1,22 @@
+Ein	ART.Nom.Sg.Masc	ein
+Schneider	NN.Nom.Sg.Masc	Schneider
+und	KON	und
+ein	ART.Nom.Sg.Masc	ein
+Goldschmied	NN.Nom.Sg.Masc	Goldschmied
+wanderten	VVFIN.3.Pl.Past.Ind	wandern
+mit	APPR	mit
+einander	ADV	einander
+,	$,	,
+und	KON	und
+als	KOUS	als
+es	PPER.3.Nom.Sg.Neut	es
+Abend	NN.Nom.Sg.Masc	Abend
+wurde	VAFIN.3.Sg.Past.Ind	werden
+,	$,	,
+hörten	VVFIN.3.Pl.Past.Ind	hören
+sie	PPER.3.Nom.Pl.*	sie
+eine	ART.Acc.Sg.Fem	ein
+wunderliebliche	ADJA.Pos.Acc.Sg.Fem	wunderlieblich
+Musik	NN.Acc.Sg.Fem	Musik
+.	$.	.
+

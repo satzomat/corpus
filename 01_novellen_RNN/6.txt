@@ -1,0 +1,12 @@
+[	XY	[
+"	$(	"
+]Neun	CARD	<unk>n
+Uhr	NN.Nom.Sg.Fem	Uhr
+dreißig	ADJD.Pos	dreißig
+?	$.	?
+
+[	XY	[
+...	$(	...
+]	XY	]
+"	$(	"
+

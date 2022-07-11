@@ -1,0 +1,23 @@
+Dieſer	NE.Nom.Sg.Masc	Die<unk>er
+pſychologiſche	ADJA.Pos.Nom.Sg.Masc	p<unk>ychologi<unk>che
+Roman	NN.Nom.Sg.Masc	Roman
+koͤnnte	VMFIN.3.Sg.Past.Ind	ko<unk>nnen
+auch	ADV	auch
+allenfalls	ADV	allenfalls
+eine	ART.Nom.Sg.Fem	ein
+Biographie	NN.Nom.Sg.Fem	Biographie
+genannt	VVPP.Psp	nennen
+werden	VAINF.Inf	werden
+,	$,	,
+weil	KOUS	weil
+die	ART.Nom.Pl.Fem	der
+Beobachtungen	NN.Nom.Pl.Fem	Beobachtung
+groͤßtentheils	ADV	gro<unk>ßtentheils
+aus	APPR	aus
+dem	ART.Dat.Sg.Neut	der
+wirklichen	ADJA.Pos.Dat.Sg.Neut	wirklicher
+Leben	NN.Dat.Sg.Neut	Leben
+genommen	VVPP.Psp	nehmen
+ſind	VAFIN.3.Pl.Pres.Ind	sein
+.	$.	.
+

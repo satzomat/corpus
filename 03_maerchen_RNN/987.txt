@@ -1,0 +1,24 @@
+Die	ART.Nom.Sg.Fem	der
+kleine	ADJA.Pos.Nom.Sg.Fem	kleine
+Marie	NN.Nom.Sg.Fem	Marie
+kam	VVFIN.3.Sg.Past.Ind	kommen
+aus	APPR	aus
+der	ART.Dat.Sg.Fem	der
+Schule	NN.Dat.Sg.Fem	Schule
+und	KON	und
+hüpfte	VVFIN.3.Sg.Past.Ind	hüpfen
+über	APPR	über
+die	ART.Acc.Pl.Masc	der
+glatten	ADJA.Pos.Acc.Pl.Masc	glatt
+Steine	NN.Acc.Pl.Masc	Stein
+des	ART.Gen.Sg.Neut	der
+Pflasters	NN.Gen.Sg.Neut	Pflaster
+,	$,	,
+welche	PRELS.Acc.Pl.Masc	welcher
+der	ART.Nom.Sg.Masc	der
+Frost	NN.Nom.Sg.Masc	Frost
+schlüpfrig	ADJD.Pos	schlüpfrig
+gemacht	VVPP.Psp	machen
+hatte	VAFIN.3.Sg.Past.Ind	haben
+.	$.	.
+

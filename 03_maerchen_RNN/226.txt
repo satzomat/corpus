@@ -1,0 +1,23 @@
+Einem	ART.Dat.Sg.Masc	ein
+Mann	NN.Dat.Sg.Masc	Mann
+war	VAFIN.3.Sg.Past.Ind	sein
+seine	PPOSAT.Nom.Sg.Fem	sein
+Frau	NN.Nom.Sg.Fem	Frau
+gestorben	VVPP.Psp	sterben
+,	$,	,
+da	ADV	da
+war	VAFIN.3.Sg.Past.Ind	sein
+er	PPER.3.Nom.Sg.Masc	er
+unschlüssig	ADJD.Pos	unschlüssig
+,	$,	,
+ob	KOUS	ob
+er	PPER.3.Nom.Sg.Masc	er
+sich	PRF.3.Acc.Sg	sich
+wieder	ADV	wieder
+eine	PIS.Acc.Sg.Fem	einer
+nehmen	VVINF.Inf	nehmen
+sollte	VMFIN.3.Sg.Past.Ind	sollen
+oder	KON	oder
+nicht	PTKNEG	nicht
+.	$.	.
+

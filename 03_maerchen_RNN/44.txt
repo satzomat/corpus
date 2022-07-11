@@ -1,0 +1,23 @@
+Du	PPER.2.Nom.Sg.*	du
+kennst	VVFIN.2.Sg.Pres.Ind	kennen
+ja	ADV	ja
+wohl	ADV	wohl
+ein	ART.Nom.Sg.Neut	ein
+Vergrößerungsglas	NN.Nom.Sg.Neut	Vergrößerungsglas
+,	$,	,
+so	ADV	so
+ein	ART.Nom.Sg.Neut	ein
+rundes	ADJA.Pos.Nom.Sg.Neut	rundes
+Brillenglas	NN.Nom.Sg.Neut	Brillenglas
+,	$,	,
+welches	PRELS.Nom.Sg.Neut	welcher
+alles	PIS.Nom.Sg.Neut	alle
+hundertmal	ADV	hundertmal
+größer	ADJD.Comp	groß
+macht	VVFIN.3.Sg.Pres.Ind	machen
+,	$,	,
+als	KOKOM	als
+es	PPER.3.Nom.Sg.Neut	es
+ist	VAFIN.3.Sg.Pres.Ind	sein
+?	$.	?
+

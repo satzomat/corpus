@@ -1,0 +1,10 @@
+Drei	CARD	drei
+desertierte	ADJA.Pos.Nom.Pl.Masc	desertiert
+Soldaten	NN.Nom.Pl.Masc	Soldat
+gingen	VVFIN.3.Pl.Past.Ind	gehen
+in	APPR	in
+eine	ART.Acc.Sg.Fem	ein
+Wildnis	NN.Acc.Sg.Fem	Wildnis
+hinein	PTKVZ	hinein
+.	$.	.
+

@@ -1,0 +1,22 @@
+Ein	ART.Nom.Sg.Masc	ein
+Kaufmann	NN.Nom.Sg.Masc	Kaufmann
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+auf	APPR	auf
+die	ART.Acc.Sg.Fem	der
+Messe	NN.Acc.Sg.Fem	Messe
+gehen	VVINF.Inf	gehen
+,	$,	,
+da	ADV	da
+fragte	VVFIN.3.Sg.Past.Ind	fragen
+er	PPER.3.Nom.Sg.Masc	er
+seine	PPOSAT.Acc.Pl.Fem	sein
+drei	CARD	drei
+Töchter	NN.Acc.Pl.Fem	Tochter
+,	$,	,
+was	PWS.Acc.Sg.Neut	was
+er	PPER.3.Nom.Sg.Masc	er
+ihnen	PPER.3.Dat.Pl.*	ihnen
+mitbringen	VVINF.Inf	mitbringen
+sollte	VMFIN.3.Sg.Past.Ind	sollen
+.	$.	.
+

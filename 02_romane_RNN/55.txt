@@ -1,0 +1,18 @@
+Sie	PPER.3.Nom.Pl.*	sie
+ſollen	VMFIN.3.Pl.Pres.Ind	ellen
+mir	PPER.1.Dat.Sg.*	mir
+nicht	PTKNEG	nicht
+danken	VVINF.Inf	danken
+,	$,	,
+meine	PPOSAT.Nom.Sg.Fem	mein
+Freundinn	NN.Nom.Sg.Fem	Freundin
+,	$,	,
+daß	KOUS	daß
+ich	PPER.1.Nom.Sg.*	ich
+ſo	ADV	<unk>
+viel	PIS.*.*.*	viel
+fuͤr	VVFIN.1.Sg.Past.Ind	fanren
+Sie	PPER.3.Acc.Pl.*	sie
+abſchreibe	VVFIN.1.Sg.Pres.Ind	ab<unk>chreiben
+.	$.	.
+

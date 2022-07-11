@@ -1,0 +1,25 @@
+Am	APPRART.Dat.Sg.Neut	an
+ſüdlichen	ADJA.Pos.Dat.Sg.Neut	<unk>
+Ufer	NN.Dat.Sg.Neut	Ufer
+des	ART.Gen.Sg.Masc	der
+Pontus	NN.Gen.Sg.Masc	Pontus
+euxinus	ADJD.Pos	euxinus
+,	$,	,
+unweit	APPR	unweit
+der	ART.Gen.Sg.Fem	der
+Mündung	NN.Gen.Sg.Fem	Mündung
+des	ART.Gen.Sg.Masc	der
+Fluſſes	NE.*.*.*	Flu<unk><unk>
+Halys	NE.Gen.Sg.*	Haly
+,	$,	,
+lag	VVFIN.3.Sg.Past.Ind	liegen
+im	APPRART.Dat.Sg.Neut	in
+Lichte	NN.Dat.Sg.Neut	Licht
+des	ART.Gen.Sg.Masc	der
+hellſten	ADJA.Pos.Gen.Sg.Masc	hell<unk>t
+Frühlingsmorgens	NN.Gen.Sg.Masc	Frühlingsmorgen
+ein	ART.Nom.Sg.Neut	ein
+römiſches	ADJA.Pos.Nom.Sg.Neut	römi<unk>ches
+Landhaus	NN.Nom.Sg.Neut	Landhaus
+.	$.	.
+

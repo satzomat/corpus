@@ -1,0 +1,10 @@
+In	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+kleinen	ADJA.Pos.Dat.Sg.Neut	kleinen
+Stübchen	NN.Dat.Sg.Neut	Stübchen
+begann	VVFIN.3.Sg.Past.Ind	beginnen
+es	PPER.3.Nom.Sg.Neut	es
+zu	PTKZU	zu
+dunkeln	VVINF.Inf	dunkeln
+.	$.	.
+

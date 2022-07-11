@@ -1,0 +1,16 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Neut	ein
+Kind	NN.Nom.Sg.Neut	Kind
+eigensinnig	ADJD.Pos	eigensinnig
+und	KON	und
+that	ADJD.Pos	that
+nicht	PTKNEG	nicht
+was	PWS.Nom.Sg.Neut	was
+seine	PPOSAT.Acc.Sg.Fem	sein
+Mutter	NN.Acc.Sg.Fem	Mutter
+haben	VAINF.Inf	haben
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+.	$.	.
+

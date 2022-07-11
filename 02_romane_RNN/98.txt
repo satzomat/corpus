@@ -1,0 +1,9 @@
+Aus	APPR	aus
+dem	ART.Dat.Sg.Neut	der
+Badezimmer	NN.Dat.Sg.Neut	Badezimmer
+erscholl	VVFIN.3.Sg.Past.Ind	erschellen
+ein	ART.Nom.Sg.Neut	ein
+gleichmäßiges	ADJA.Pos.Nom.Sg.Neut	gleichmäßiges
+Plätschern	NN.Nom.Sg.Neut	Plätschern
+.	$.	.
+

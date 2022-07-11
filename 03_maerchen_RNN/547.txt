@@ -1,0 +1,26 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Neut	ein
+kleines	ADJA.Pos.Nom.Sg.Neut	klein
+Bauermädchen	NN.Nom.Sg.Neut	Bauermädchen
+,	$,	,
+das	PRELS.Acc.Sg.Neut	der
+alle	PIAT.Nom.Pl.*	aller
+Leute	NN.Acc.Pl.*	Leute
+lieb	VVFIN.3.Sg.Past.Ind	leiben
+hatten	VAFIN.3.Pl.Past.Ind	haben
+,	$,	,
+weil	KOUS	weil
+es	PPER.3.Nom.Sg.Neut	es
+so	ADV	so
+hübsch	ADJD.Pos	hübsch
+,	$,	,
+so	ADV	so
+freundlich	ADJD.Pos	freundlich
+und	KON	und
+so	ADV	so
+zuthulich	ADJD.Pos	zuthulich
+war	VAFIN.3.Sg.Past.Ind	sein
+.	$.	.
+

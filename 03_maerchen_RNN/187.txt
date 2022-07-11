@@ -1,0 +1,24 @@
+[	XY	[
+»	XY	»
+]Tante	NE.*.*.*	<unk>
+Luise	NE.Nom.Sg.*	Luise
+,	$,	,
+«	XY	«
+sagte	VVFIN.3.Sg.Past.Ind	sagen
+am	APPRART.Dat.Sg.Masc	an
+andern	ADJA.Pos.Dat.Sg.Masc	anderer
+Abend	NN.Dat.Sg.Masc	Abend
+Mathildchen	NN.Acc.Pl.Neut	Mathildchen
+,	$,	,
+»	XY	»
+was	PWS.Nom.Sg.Neut	was
+erzählst	ADV	erzählst
+du	PPER.2.Nom.Sg.*	du
+uns	PPER.1.Dat.Pl.*	uns
+denn	ADV	denn
+heute	ADV	heute
+für	APPR	für
+eine	ART.Acc.Sg.Fem	ein
+Geschichte	NN.Acc.Sg.Fem	Geschichte
+?	$.	?
+

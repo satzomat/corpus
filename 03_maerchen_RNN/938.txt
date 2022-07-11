@@ -1,0 +1,25 @@
+Amoi	FM	Amoi
+is	FM	is
+a	FM	a
+goas	FM	goas
+gwen	FM	gwen
+und	KON	und
+dö	FM	dö
+had	FM	had
+dro	FM	dro
+kitzl	FM	kitzl
+ghad	FM	ghad
+und	KON	und
+da	ADV	da
+iß	FM	iß
+hoid	FM	hoid
+oft	ADV	oft
+füa	FM	füa
+d	FM	d
+'	$(	'
+kitzl	FM	kitzl
+ös	FM	ös
+lauwad	FM	lauwad
+ganga	FM	ganga
+.	$.	.
+

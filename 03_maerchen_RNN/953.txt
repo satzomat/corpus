@@ -1,0 +1,15 @@
+Da	ADV	da
+war	VAFIN.3.Sg.Past.Ind	sein
+amal	ADV	amal
+a	FM	a
+Schneider	NE.Nom.Sg.*	Schneider
+und	KON	und
+der	PDS.Nom.Sg.Masc	der
+hat	VAFIN.3.Sg.Pres.Ind	haben
+si	VAFIN.3.Sg.Pres.Subj	sein
+an	APPR	an
+Stoff	NN.Dat.Sg.Masc	Stoff
+kafn	VAINF.Inf	kafn
+wolln	VMINF.Inf	wollen
+.	$.	.
+

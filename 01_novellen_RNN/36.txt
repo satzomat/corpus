@@ -1,0 +1,24 @@
+In	APPR	in
+Livland	NE.Dat.Sg.Neut	Livland
+,	$,	,
+auf	APPR	auf
+ihrer	PPOSAT.Dat.Sg.Fem	ihr
+Eltern	ADJA.Pos.Dat.Sg.Fem	eltern
+Gut	NN.Dat.Sg.Fem	Gut
+,	$,	,
+Burkahnen	NN.Dat.Pl.Fem	Burkahn
+,	$,	,
+ward	VAFIN.3.Sg.Past.Ind	werden
+Komteßchen	NN.Nom.Sg.Neut	Komteßchen
+Dorothee	NE.Nom.Sg.Masc	Dorothee
+,	$,	,
+wie	PWAV	wie
+der	ART.Nom.Sg.Masc	der
+Grafenkalender	NN.Nom.Sg.Masc	Grafenkalender
+kündet	VVFIN.3.Sg.Pres.Ind	künden
+,	$,	,
+um	APPR	um
+1820	CARD	1820
+geboren	VVPP.Psp	gebären
+.	$.	.
+

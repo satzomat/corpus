@@ -1,0 +1,21 @@
+Ein	ART.Nom.Sg.Masc	ein
+gewisser	ADJA.Pos.Nom.Sg.Masc	gewisser
+König	NN.Nom.Sg.Masc	König
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+Lustgarten	NN.Acc.Sg.Masc	Lustgarten
+,	$,	,
+in	APPR	in
+dem	ART.Dat.Sg.Masc	der
+Garten	NN.Nom.Pl.Masc	Garten
+stund	ADJD.Pos	stund
+ein	ART.Nom.Sg.Masc	ein
+Baum	NN.Nom.Sg.Masc	Baum
+und	KON	und
+der	ART.Nom.Sg.Masc	der
+Baum	NN.Nom.Sg.Masc	Baum
+trug	VVFIN.3.Sg.Past.Ind	tragen
+goldne	ADJA.Pos.Acc.Pl.Masc	goldn
+Aepfel	NN.Acc.Pl.Masc	Aepfel
+.	$.	.
+

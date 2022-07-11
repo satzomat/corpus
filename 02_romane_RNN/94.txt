@@ -1,0 +1,9 @@
+„	NE.*.*.*	„
+Anna	NE.Nom.Sg.Neut	Anna
+!	$.	!
+
+[	XY	[
+…	XY	…
+]	XY	]
+“	XY	“
+

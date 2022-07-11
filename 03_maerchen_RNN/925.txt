@@ -1,0 +1,7 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+Frau	NN.Nom.Sg.Fem	Frau
+.	$.	.
+

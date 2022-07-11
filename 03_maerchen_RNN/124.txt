@@ -1,0 +1,20 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+einmal	ADV	einmal
+vier	CARD	vier
+Reisegesellen	NN.Nom.Pl.Masc	Reisegeselle
+,	$,	,
+die	PRELS.Nom.Pl.Masc	der
+wanderten	VVFIN.3.Pl.Past.Ind	wandern
+miteinander	ADV	miteinander
+und	KON	und
+hatten	VAFIN.3.Pl.Past.Ind	haben
+sich	PRF.3.Acc.Pl	sich
+ganz	ADV	ganz
+zufällig	ADJD.Pos	zufällig
+auf	APPR	auf
+dem	ART.Dat.Sg.Masc	der
+Wege	NN.Dat.Sg.Masc	Weg
+getroffen	VVPP.Psp	treffen
+.	$.	.
+

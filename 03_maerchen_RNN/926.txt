@@ -1,0 +1,14 @@
+Es	PPER.3.Acc.Sg.Neut	es
+is	FM	is
+amoal	FM	amoal
+ei	FM	ei
+'	$(	'
+Mann	NN.Nom.Sg.Masc	Mann
+gwest	VAPP.Psp	gwesen
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+woar	VAFIN.3.Sg.Past.Ind	sein
+a	NE.*.*.*	a
+Korbmacher	NE.Nom.Sg.*	Korbmacher
+.	$.	.
+

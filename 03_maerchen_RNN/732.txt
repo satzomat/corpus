@@ -1,0 +1,17 @@
+Es	PPER.3.Nom.Sg.Neut	es
+ist	VAFIN.3.Sg.Pres.Ind	sein
+emal	ADV	emal
+a	FM	a
+Gockeler	NE.Nom.Sg.*	Gockeler
+und	KON	und
+a	FM	a
+Henne	NE.Nom.Sg.*	Henne
+gwä	VVFIN.3.Sg.Past.Ind	gewen
+,	$,	,
+die	PDS.Nom.Pl.*	der
+sind	VAFIN.3.Pl.Pres.Ind	sein
+mit	APPR	mit
+anander	ADV	anander
+g'reist	VVPP.Psp	g'reisen
+.	$.	.
+

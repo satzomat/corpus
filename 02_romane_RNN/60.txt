@@ -1,0 +1,12 @@
+Wir	PPER.1.Nom.Pl.*	wir
+kehrten	VVFIN.1.Pl.Past.Ind	kehren
+von	APPR	von
+dem	ART.Dat.Sg.Masc	der
+Beſuche	NN.Dat.Sg.Masc	Be<unk>uch
+des	ART.Gen.Sg.Masc	der
+Häuptlings	NN.Gen.Sg.Masc	Häuptling
+der	ART.Gen.Pl.Masc	der
+Badinankurden	NN.Gen.Pl.Masc	Badinankurde
+zurück	PTKVZ	zurück
+.	$.	.
+

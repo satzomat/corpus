@@ -1,0 +1,25 @@
+Unser	PPOSAT.Nom.Sg.Masc	unser
+Herr	NN.Nom.Sg.Masc	Herr
+Jesus	NE.Nom.Sg.Masc	Jesus
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+einmal	ADV	einmal
+sehen	VVINF.Inf	sehen
+,	$,	,
+ob	KOUS	ob
+schon	ADV	schon
+wieder	ADV	wieder
+eine	ART.Nom.Sg.Fem	ein
+Sündfluth	NN.Nom.Sg.Fem	Sündfluth
+nöthig	ADJD.Pos	nöthig
+wäre	VAFIN.3.Sg.Past.Subj	sein
+,	$,	,
+darum	PROAV	darum
+begab	VVFIN.3.Sg.Past.Ind	begeben
+er	PPER.3.Nom.Sg.Masc	er
+sich	PRF.3.Acc.Sg	sich
+mit	APPR	mit
+Petrus	NN.Dat.Sg.Masc	Petrus
+auf	APPR	auf
+Reisen	NN.Acc.Pl.Fem	Reise
+.	$.	.
+

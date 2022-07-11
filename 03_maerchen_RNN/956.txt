@@ -1,0 +1,7 @@
+Da	ADV	da
+war	VAFIN.3.Sg.Past.Ind	sein
+amal	ADV	amal
+a	NE.*.*.*	a
+Bauer	NN.Nom.Sg.Masc	Bauer
+.	$.	.
+

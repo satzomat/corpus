@@ -1,0 +1,25 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Bauer	NN.Nom.Sg.Masc	Bauer
+,	$,	,
+der	PDS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+eine	ART.Acc.Sg.Fem	ein
+alte	ADJA.Pos.Acc.Sg.Fem	alt
+Frau	NN.Acc.Sg.Fem	Frau
+,	$,	,
+war	VAFIN.3.Sg.Past.Ind	sein
+selbst	ADV	selbst
+schon	ADV	schon
+alt	ADJD.Pos	alt
+und	KON	und
+bekam	VVFIN.3.Sg.Past.Ind	bekommen
+mit	APPR	mit
+derselben	PDS.Dat.Sg.Fem	derselbe
+noch	ADV	noch
+ein	ART.Acc.Sg.Neut	ein
+Kind	NN.Acc.Sg.Neut	Kind
+.	$.	.
+

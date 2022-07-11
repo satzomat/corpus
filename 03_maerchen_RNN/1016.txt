@@ -1,0 +1,26 @@
+Sechs	CARD	sechs
+Schwestern	NN.Nom.Pl.Fem	Schwester
+wohnten	VVFIN.3.Pl.Past.Ind	wohnen
+in	APPR	in
+einem	ART.Dat.Sg.Masc	ein
+Walde	NN.Dat.Sg.Masc	Wald
+beisammen	PTKVZ	beisammen
+und	KON	und
+wurden	VAFIN.3.Pl.Past.Ind	werden
+von	APPR	von
+Zeit	NN.Dat.Sg.Fem	Zeit
+zu	APPR	zu
+Zeit	NN.Dat.Sg.Fem	Zeit
+von	APPR	von
+einer	ART.Dat.Sg.Fem	ein
+mächtigen	ADJA.Pos.Dat.Sg.Fem	mächtig
+Fee	NN.Dat.Sg.Fem	Fee
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+ihre	PPOSAT.Nom.Sg.Fem	ihr
+Pate	NN.Nom.Sg.Fem	Pate
+war	VAFIN.3.Sg.Past.Ind	sein
+,	$,	,
+besucht	VVPP.Psp	besuchen
+.	$.	.
+

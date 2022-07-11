@@ -1,0 +1,18 @@
+Ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Schneider	NE.Nom.Sg.Masc	Schneider
+ging	VVFIN.3.Sg.Past.Ind	gehen
+einmal	ADV	einmal
+zur	APPRART.Dat.Sg.Fem	zu
+Winterszeit	NN.Dat.Sg.Fem	Winterszeit
+über	APPR	über
+das	ART.Acc.Sg.Neut	der
+Feld	NN.Acc.Sg.Neut	Feld
+,	$,	,
+und	KON	und
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+seinen	PPOSAT.Acc.Sg.Masc	sein
+Bruder	NN.Acc.Sg.Masc	Bruder
+besuchen	VVINF.Inf	besuchen
+.	$.	.
+

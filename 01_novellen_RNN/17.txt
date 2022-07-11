@@ -1,0 +1,8 @@
+Sie	PPER.3.Nom.Sg.Fem	sie
+war	VAFIN.3.Sg.Past.Ind	sein
+noch	ADV	noch
+immer	ADV	immer
+ſehr	ADV	<unk>
+ſchoͤn	ADJD.Pos	<unk>
+.	$.	.
+

@@ -1,0 +1,19 @@
+Es	PPER.3.Nom.Sg.Neut	es
+lebte	VVFIN.3.Sg.Past.Ind	leben
+einmal	ADV	einmal
+eine	ART.Acc.Sg.Fem	ein
+kleine	ADJA.Pos.Acc.Sg.Fem	kleine
+,	$,	,
+sehr	ADV	sehr
+hübsche	ADJA.Pos.Acc.Sg.Fem	hübsche
+,	$,	,
+aber	KON	aber
+zugleich	ADV	zugleich
+unbeschreiblich	ADJD.Pos	unbeschreiblich
+einfältige	ADJA.Pos.Acc.Sg.Fem	einfältig
+Bäuerin	NN.Acc.Sg.Fem	Bäuerin
+auf	APPR	auf
+einem	ART.Dat.Sg.Neut	ein
+Dorfe	NN.Dat.Sg.Neut	Dorf
+.	$.	.
+

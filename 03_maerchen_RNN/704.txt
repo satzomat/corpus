@@ -1,0 +1,20 @@
+Da	ADV	da
+dienten	VVFIN.3.Pl.Past.Subj	dienen
+einmal	ADV	einmal
+bei	APPR	bei
+einem	ART.Dat.Sg.Masc	ein
+Schullehrer	NN.Dat.Sg.Masc	Schullehrer
+zwei	CARD	zwei
+Knechte	NN.Nom.Pl.Masc	Knecht
+,	$,	,
+davon	PROAV	davon
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+der	ART.Nom.Sg.Masc	der
+eine	ART.Nom.Sg.Fem	ein
+Matthes	FM	Matthes
+,	$,	,
+der	ART.Nom.Sg.Masc	der
+andre	ADJA.Pos.Nom.Sg.Masc	andrerer
+Frieder	NN.Nom.Sg.Masc	Frieder
+.	$.	.
+

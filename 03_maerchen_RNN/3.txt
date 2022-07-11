@@ -1,0 +1,18 @@
+Es	PPER.3.Nom.Sg.Neut	es
+giebt	VVFIN.3.Sg.Pres.Ind	gieben
+niemand	PIS.Nom.Sg.Masc	niemand
+in	APPR	in
+der	ART.Dat.Sg.Fem	der
+ganzen	ADJA.Pos.Dat.Sg.Fem	ganz
+Welt	NN.Dat.Sg.Fem	Welt
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+so	ADV	so
+viele	PIAT.Acc.Pl.Fem	vieler
+Geschichten	NN.Acc.Pl.Fem	Geschichte
+weiß	VVFIN.3.Sg.Pres.Ind	wissen
+als	KOKOM	als
+der	ART.Nom.Sg.Masc	der
+Sandmann	NN.Nom.Sg.Masc	Sandmann
+!	$.	!
+

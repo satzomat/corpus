@@ -1,0 +1,22 @@
+Ein	ART.Nom.Sg.Neut	ein
+Brüderchen	NN.Nom.Sg.Neut	Brüderchen
+und	KON	und
+ein	ART.Nom.Sg.Neut	ein
+Schwesterchen	NN.Nom.Sg.Neut	Schwesterchen
+spielten	VVFIN.3.Pl.Past.Ind	spielen
+an	APPR	an
+einem	ART.Dat.Sg.Masc	ein
+Brunnen	NN.Dat.Sg.Masc	Brunnen
+,	$,	,
+und	KON	und
+wie	PWAV	wie
+sie	PPER.3.Nom.Pl.*	sie
+so	ADV	so
+spielten	VVFIN.3.Pl.Past.Subj	spielen
+,	$,	,
+plumpten	VVFIN.3.Pl.Past.Ind	plumpen
+sie	PPER.3.Nom.Pl.*	sie
+beide	PIS.Nom.Pl.*	beide
+hinein	PTKVZ	hinein
+.	$.	.
+

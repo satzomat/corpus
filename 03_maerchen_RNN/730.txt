@@ -1,0 +1,20 @@
+Ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Handwerksbursch	NN.Nom.Sg.Masc	Handwerksbursch
+war	VAFIN.3.Sg.Past.Ind	sein
+schon	ADV	schon
+lange	ADV	lange
+auf	APPR	auf
+der	ART.Dat.Sg.Fem	der
+Wanderschaft	NN.Dat.Sg.Fem	Wanderschaft
+und	KON	und
+hatte	VAFIN.3.Sg.Past.Ind	haben
+nur	ADV	nur
+noch	ADV	noch
+drei	CARD	drei
+Kreuzer	NN.Acc.Pl.Masc	Kreuzer
+in	APPR	in
+der	ART.Dat.Sg.Fem	der
+Tasche	NN.Dat.Sg.Fem	Tasche
+.	$.	.
+

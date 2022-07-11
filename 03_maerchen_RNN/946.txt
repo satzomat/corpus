@@ -1,0 +1,18 @@
+Früher	ADJD.Comp	früh
+wußten	VVFIN.3.Pl.Past.Ind	wissen
+die	ART.Nom.Pl.Masc	der
+Menschen	NN.Nom.Pl.Masc	Mensch
+,	$,	,
+wann	PWAV	wann
+sie	PPER.3.Nom.Pl.Masc	sie
+sterben	VVINF.Inf	sterben
+müssen	VMFIN.3.Pl.Pres.Ind	müssen
+und	KON	und
+arbeiteten	VVFIN.3.Pl.Past.Subj	arbeiten
+darum	PROAV	darum
+nur	ADV	nur
+wenig	PIS.*.*.*	wenig
+und	KON	und
+schlecht	ADJD.Pos	schlecht
+.	$.	.
+

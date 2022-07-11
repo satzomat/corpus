@@ -1,0 +1,6 @@
+Lottchens	NE.Gen.Sg.Neut	Lottchen
+Geburtstag	NN.Nom.Sg.Masc	Geburtstag
+kam	VVFIN.3.Sg.Past.Ind	kommen
+heran	PTKVZ	heran
+.	$.	.
+

@@ -1,0 +1,10 @@
+Ein	ART.Nom.Sg.Masc	ein
+Hase	NN.Nom.Sg.Masc	Hase
+und	KON	und
+ein	ART.Nom.Sg.Masc	ein
+Fuchs	NN.Nom.Sg.Masc	Fuchs
+reisten	VVFIN.3.Pl.Past.Ind	reisen
+beide	PIS.Nom.Pl.*	beide
+miteinander	ADV	miteinander
+.	$.	.
+

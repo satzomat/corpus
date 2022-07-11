@@ -1,0 +1,17 @@
+Ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Landedelmann	NN.Nom.Sg.Masc	Landedelmann
+hatte	VAFIN.3.Sg.Past.Ind	haben
+acht	CARD	acht
+Töchter	NN.Acc.Pl.Fem	Tochter
+,	$,	,
+die	PRELS.Acc.Pl.Fem	der
+er	PPER.3.Nom.Sg.Masc	er
+gerne	ADV	gerne
+an	APPR	an
+den	ART.Acc.Sg.Masc	der
+Mann	NN.Acc.Sg.Masc	Mann
+bringen	VVINF.Inf	bringen
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+.	$.	.
+

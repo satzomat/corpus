@@ -1,0 +1,26 @@
+Ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+der	ART.Gen.Sg.Fem	der
+sehr	ADV	sehr
+gut	ADJD.Pos	gut
+war	VAFIN.3.Sg.Past.Ind	sein
+,	$,	,
+lebte	VVFIN.3.Sg.Past.Ind	leben
+mit	APPR	mit
+seiner	PPOSAT.Dat.Sg.Fem	sein
+Gemahlin	NN.Dat.Sg.Fem	Gemahlin
+recht	ADV	recht
+glücklich	ADJD.Pos	glücklich
+,	$,	,
+und	KON	und
+der	ART.Nom.Sg.Masc	der
+einzige	ADJA.Pos.Nom.Sg.Masc	einziger
+Wunsch	NN.Nom.Sg.Masc	Wunsch
+beider	PIS.Gen.Pl.*	beide
+war	VAFIN.3.Sg.Past.Ind	sein
+,	$,	,
+Kinder	NN.Acc.Pl.Neut	Kind
+zu	PTKZU	zu
+haben	VAINF.Inf	haben
+.	$.	.
+

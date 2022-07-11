@@ -1,0 +1,20 @@
+Ein	ART.*.*.*	ein
+paar	PIAT.*.*.*	paar
+sehr	ADV	sehr
+arme	ADJA.Pos.Nom.Pl.*	arm
+Leute	NN.Nom.Pl.*	Leute
+hatten	VAFIN.3.Pl.Past.Ind	haben
+viele	PIS.Nom.Pl.*	viele
+,	$,	,
+viele	PIAT.Nom.Pl.Neut	vieler
+Kinder	NN.Acc.Pl.Neut	Kind
+,	$,	,
+welche	PRELS.Acc.Pl.Neut	welcher
+sie	PPER.3.Nom.Pl.*	sie
+nur	ADV	nur
+mit	APPR	mit
+Mühe	NN.Dat.Sg.Fem	Mühe
+ernähren	VVINF.Inf	ernähren
+konnten	VMFIN.3.Pl.Past.Ind	können
+.	$.	.
+

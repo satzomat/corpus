@@ -1,0 +1,19 @@
+Ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Bauersmann	NN.Nom.Sg.Masc	Bauersmann
+hatte	VAFIN.3.Sg.Past.Ind	haben
+Weib	NN.Acc.Sg.Masc	Weib
+und	KON	und
+Kind	NN.Acc.Sg.Neut	Kind
+und	KON	und
+nichts	PIS.*.*.Neut	nichts
+mehr	ADV	mehr
+in	APPR	in
+seinem	PPOSAT.Dat.Sg.Neut	sein
+Vermögen	NN.Dat.Sg.Neut	Vermögen
+,	$,	,
+als	KOKOM	als
+einige	PIAT.Nom.Pl.Fem	einiger
+Gänse	NN.Acc.Pl.Fem	Gans
+.	$.	.
+

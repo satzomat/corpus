@@ -1,0 +1,16 @@
+Ein	ART.Nom.Sg.Masc	ein
+Soldat	NN.Nom.Sg.Masc	Soldat
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+sich	PRF.3.Acc.Sg	sich
+vor	APPR	vor
+nichts	PIS.*.*.Neut	nichts
+fürchtet	VVFIN.3.Sg.Pres.Ind	fürchten
+,	$,	,
+kümmert	VVFIN.3.Sg.Pres.Ind	kümmern
+sich	PRF.3.Acc.Sg	sich
+auch	ADV	auch
+um	APPR	um
+nichts	PIS.*.*.Neut	nichts
+.	$.	.
+

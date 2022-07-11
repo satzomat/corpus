@@ -1,0 +1,26 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+einmal	ADV	einmal
+zwei	CARD	zwei
+Brüder	NN.Nom.Pl.Masc	Bruder
+,	$,	,
+davon	PROAV	davon
+war	VAFIN.3.Sg.Past.Ind	sein
+der	ART.Nom.Sg.Masc	der
+eine	PIS.Nom.Sg.Masc	einer
+ein	ART.Nom.Sg.Masc	ein
+Geistlicher	NN.Nom.Sg.Masc	Geistlicher
+,	$,	,
+der	ART.Nom.Sg.Masc	der
+andre	PIS.Nom.Sg.Masc	andrer
+ein	ART.Nom.Sg.Masc	ein
+Fischer	NN.Nom.Sg.Masc	Fischer
+;	$.	;
+dieser	PDS.Nom.Sg.Masc	dieser
+aber	ADV	aber
+wußte	VVFIN.3.Sg.Past.Ind	wissen
+nichts	PIS.*.*.Neut	nichts
+von	APPR	von
+jenem	PDS.Dat.Sg.Masc	jener
+.	$.	.
+

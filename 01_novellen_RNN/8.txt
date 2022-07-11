@@ -1,0 +1,27 @@
+Aus	APPR	aus
+den	ART.Dat.Pl.Fem	der
+Hinterthüren	NN.Dat.Pl.Fem	Hinterthüre
+des	ART.Gen.Sg.Neut	der
+Stuttgarter	ADJA.Pos.*.*.*	Stuttgarter
+Hof-Theaters	NN.Gen.Sg.Neut	Hof-Theater
+,	$,	,
+die	PRELS.Nom.Pl.Neut	der
+in	APPR	in
+den	ART.Acc.Sg.Masc	der
+dichten	ADJA.Pos.Acc.Sg.Masc	dicht
+Baumgang	NN.Acc.Sg.Masc	Baumgang
+zum	APPRART.Dat.Sg.Masc	zu
+Park	NN.Dat.Sg.Masc	Park
+münden	VVFIN.3.Pl.Pres.Ind	münden
+,	$,	,
+traten	VVFIN.3.Pl.Past.Ind	treten
+die	ART.Nom.Pl.Masc	der
+Schauspieler	NN.Nom.Pl.Masc	Schauspieler
+;	$.	;
+die	ART.Nom.Sg.Fem	der
+Probe	NN.Nom.Sg.Fem	Probe
+war	VAFIN.3.Sg.Past.Ind	sein
+zu	APPR	zu
+Ende	NN.Dat.Sg.Neut	Ende
+.	$.	.
+

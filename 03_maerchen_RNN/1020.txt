@@ -1,0 +1,22 @@
+Ein	ART.Nom.Sg.Masc	ein
+Wanderer	NN.Nom.Sg.Masc	Wanderer
+kam	VVFIN.3.Sg.Past.Ind	kommen
+zur	APPRART.Dat.Sg.Fem	zu
+späten	ADJA.Pos.Dat.Sg.Fem	spät
+Abendzeit	NN.Dat.Sg.Fem	Abendzeit
+in	APPR	in
+einen	ART.Acc.Sg.Masc	ein
+tiefen	ADJA.Pos.Acc.Sg.Masc	tief
+,	$,	,
+finstern	ADJA.Pos.Acc.Sg.Masc	finster
+Wald	NN.Acc.Sg.Masc	Wald
+;	$.	;
+er	PPER.3.Nom.Sg.Masc	er
+fand	VVFIN.3.Sg.Past.Ind	finden
+eine	ART.Acc.Sg.Fem	ein
+Hütte	NN.Acc.Sg.Fem	Hütte
+und	KON	und
+trat	VVFIN.3.Sg.Past.Ind	treten
+hinein	PTKVZ	hinein
+.	$.	.
+

@@ -1,0 +1,18 @@
+Es	PPER.3.Nom.Sg.Neut	es
+starb	VVFIN.3.Sg.Past.Ind	sterben
+ein	ART.Nom.Sg.Masc	ein
+reicher	ADJA.Pos.Nom.Sg.Masc	reicher
+Mann	NN.Nom.Sg.Masc	Mann
+,	$,	,
+welcher	PRELS.Nom.Sg.Masc	welcher
+zwei	CARD	zwei
+Söhne	NN.Acc.Pl.Masc	Sohn
+hinterließ	VVFIN.3.Sg.Past.Ind	hinterlassen
+und	KON	und
+ein	ART.Nom.Sg.Neut	ein
+hübsches	ADJA.Pos.Nom.Sg.Neut	hübsche
+Vermögen	NN.Nom.Sg.Neut	Vermögen
+und	KON	und
+Erbe	NN.Nom.Sg.Neut	Erbe
+.	$.	.
+

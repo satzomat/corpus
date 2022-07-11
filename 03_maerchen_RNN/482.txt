@@ -1,0 +1,18 @@
+»	XY	»
+Wo	PWAV	wo
+weidet	VVFIN.3.Sg.Pres.Ind	weiden
+Ihr	PPER.3.Dat.Sg.Fem	ihr
+Eure	PPOSAT.Nom.Sg.Fem	euer
+Herde	NN.Nom.Sg.Fem	Herde
+am	PTKA	am
+liebsten	ADJD.Sup	lieb
+?	$.	?
+
+«	XY	«
+fragte	VVFIN.3.Sg.Past.Ind	fragen
+einer	PIS.Nom.Sg.Masc	einer
+einen	ART.Acc.Sg.Masc	ein
+alten	ADJA.Pos.Acc.Sg.Masc	alt
+Kuhhirten	NN.Acc.Sg.Masc	Kuhhirt
+.	$.	.
+

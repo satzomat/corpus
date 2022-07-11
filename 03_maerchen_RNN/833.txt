@@ -1,0 +1,20 @@
+Die	ART.Nom.Pl.Masc	der
+Vögel	NN.Nom.Pl.Masc	Vogel
+wurden	VAFIN.3.Pl.Past.Ind	werden
+auch	ADV	auch
+einmal	ADV	einmal
+ehrgeizig	ADJD.Pos	ehrgeizig
+,	$,	,
+und	KON	und
+dachten	VVFIN.3.Pl.Past.Ind	denken
+auch	ADV	auch
+:	$.	:
+"	$(	"
+Högger	NN.Nom.Sg.Masc	Högger
+rup	NE.Nom.Sg.*	rup
+,	$,	,
+Junge	NN.Nom.Sg.Masc	Junge
+!	$.	!
+
+"	$(	"
+

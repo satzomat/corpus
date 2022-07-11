@@ -1,0 +1,27 @@
+In	APPR	in
+China	NE.Dat.Sg.Neut	China
+,	$,	,
+weißt	VVFIN.2.Sg.Pres.Ind	weißen
+Du	PPER.2.Nom.Sg.*	du
+ja	ADV	ja
+wohl	ADV	wohl
+,	$,	,
+ist	VAFIN.3.Sg.Pres.Ind	sein
+der	ART.Nom.Sg.Masc	der
+Kaiser	NN.Nom.Sg.Masc	Kaiser
+ein	ART.Nom.Sg.Masc	ein
+Chinese	NN.Nom.Sg.Masc	Chinese
+,	$,	,
+und	KON	und
+alle	PIS.Nom.Pl.*	alle
+,	$,	,
+die	PRELS.Acc.Pl.*	der
+er	PPER.3.Nom.Sg.Masc	er
+um	APPR	um
+sich	PRF.3.Acc.Sg	sich
+hat	VAFIN.3.Sg.Pres.Ind	haben
+,	$,	,
+sind	VAFIN.3.Pl.Pres.Ind	sein
+Chinesen	NN.Nom.Pl.Masc	Chinese
+.	$.	.
+

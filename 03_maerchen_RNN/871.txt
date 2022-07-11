@@ -1,0 +1,14 @@
+Grafs-Heinrich	NE.Nom.Sg.Masc	Grafs-Heinrich
+war	VAFIN.3.Sg.Past.Ind	sein
+eines	ART.Gen.Sg.Masc	ein
+edeln	ADJA.Pos.Gen.Sg.Masc	edeln
+Grafen	NN.Gen.Sg.Masc	Graf
+Sohn	NN.Nom.Sg.Masc	Sohn
+,	$,	,
+darum	PROAV	darum
+ward	VVFIN.3.Sg.Past.Ind	werden
+er	PPER.3.Nom.Sg.Masc	er
+Grafs-Heinrich	NE.Dat.Sg.*	Grafs-Heinrich
+genannt	VVPP.Psp	nennen
+.	$.	.
+

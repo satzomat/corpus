@@ -1,0 +1,18 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Vater	NN.Nom.Sg.Masc	Vater
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Söhne	NN.Acc.Pl.Masc	Sohn
+:	$.	:
+Jörg	NE.Nom.Sg.Masc	Jörg
+,	$,	,
+Michel	NE.Nom.Sg.Masc	Michel
+und	KON	und
+Hans	NE.Nom.Sg.Masc	Hans
+.	$.	.
+

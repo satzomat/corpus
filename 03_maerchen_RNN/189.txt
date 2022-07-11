@@ -1,0 +1,18 @@
+Am	APPRART.Dat.Sg.Masc	an
+Tage	NN.Dat.Sg.Masc	Tag
+vor	APPR	vor
+Weihnachten	NN.Dat.Sg.Neut	Weihnachten
+war	VAFIN.3.Sg.Past.Ind	sein
+das	ART.Nom.Sg.Neut	der
+Wetter	NN.Nom.Sg.Neut	Wetter
+hell	ADJD.Pos	hell
+und	KON	und
+klar	ADJD.Pos	klar
+,	$,	,
+und	KON	und
+der	ART.Nom.Sg.Masc	der
+Schnee	NN.Nom.Sg.Masc	Schnee
+war	VAFIN.3.Sg.Past.Ind	sein
+festgefroren	VVPP.Psp	festfrieren
+.	$.	.
+

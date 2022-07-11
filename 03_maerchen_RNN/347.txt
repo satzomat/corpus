@@ -1,0 +1,16 @@
+Eine	ART.Nom.Sg.Fem	ein
+Frau	NN.Nom.Sg.Fem	Frau
+ging	VVFIN.3.Sg.Past.Ind	gehen
+mit	APPR	mit
+ihrer	PPOSAT.Dat.Sg.Fem	ihr
+Tochter	NN.Dat.Sg.Fem	Tochter
+und	KON	und
+Stieftochter	NN.Dat.Sg.Fem	Stieftochter
+über	APPR	über
+Feld	NN.Acc.Sg.Neut	Feld
+,	$,	,
+Futter	NN.Acc.Sg.Neut	Futter
+zu	PTKZU	zu
+schneiden	VVINF.Inf	schneiden
+.	$.	.
+

@@ -1,0 +1,21 @@
+»	FM	»
+Heut	FM	Heut
+'	$(	'
+ist	VAFIN.3.Sg.Pres.Ind	sein
+der	ART.Nom.Sg.Masc	der
+erste	ADJA.Pos.Nom.Sg.Masc	erster
+April	NN.Nom.Sg.Masc	April
+;	$.	;
+heut	FM	heut
+'	$(	'
+führ	ADJD.Pos	führ
+'	$(	'
+ich	PPER.1.Nom.Sg.*	ich
+an	PTKVZ	an
+,	$,	,
+wen	PWS.Acc.Sg.Masc	wen
+ich	PPER.1.Nom.Sg.*	ich
+will	VMFIN.1.Sg.Pres.Ind	wollen
+.	$.	.
+«	$(	«
+

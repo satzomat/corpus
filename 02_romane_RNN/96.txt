@@ -1,0 +1,14 @@
+Wie	PWAV	wie
+koͤmmt	VVFIN.3.Sg.Pres.Ind	ko<unk>mmen
+es	PPER.3.Nom.Sg.Neut	es
+denn	ADV	denn
+in	APPR	in
+aller	PIAT.Dat.Sg.Fem	aller
+Welt	NN.Dat.Sg.Fem	Welt
+,	$,	,
+daß	KOUS	daß
+Du	PPER.2.Nom.Sg.*	du
+nicht	PTKNEG	nicht
+ſchreibſt	ADJD.Pos	<unk>
+?	$.	?
+

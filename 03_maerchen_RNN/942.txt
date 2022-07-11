@@ -1,0 +1,8 @@
+Hinkelchen	NE.Nom.Sg.*	Hinkelchen
+und	KON	und
+Gickelchen	NE.Nom.Sg.*	Gickelchen
+waren	VAFIN.3.Pl.Past.Ind	sein
+zwä	CARD	zwä
+Gschwister	NN.Nom.Pl.Masc	Gschwister
+.	$.	.
+

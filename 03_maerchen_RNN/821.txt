@@ -1,0 +1,11 @@
+Drei	CARD	drei
+Mädchen	NN.Nom.Pl.Neut	Mädchen
+waren	VAFIN.3.Pl.Past.Ind	sein
+auf	APPR	auf
+der	ART.Dat.Sg.Fem	der
+Wiese	NN.Dat.Sg.Fem	Wiese
+und	KON	und
+machten	VVFIN.3.Pl.Past.Ind	machen
+Heu	NN.Acc.Sg.Masc	Heu
+.	$.	.
+

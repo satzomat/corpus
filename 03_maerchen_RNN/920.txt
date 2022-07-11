@@ -1,0 +1,21 @@
+Ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+hatte	VAFIN.3.Sg.Past.Ind	haben
+zwei	CARD	zwei
+Söhne	NN.Acc.Pl.Masc	Sohn
+,	$,	,
+und	KON	und
+die	PDS.Nom.Pl.*	der
+waren	VAFIN.3.Pl.Past.Ind	sein
+so	ADV	so
+wunderschön	ADJD.Pos	wunderschön
+,	$,	,
+wie	PWAV	wie
+man	PIS.Nom.Sg.*	man
+noch	ADV	noch
+nie	ADV	nie
+Kinder	NN.Acc.Pl.Neut	Kind
+gesehen	VVPP.Psp	sehen
+hatte	VAFIN.3.Sg.Past.Ind	haben
+.	$.	.
+

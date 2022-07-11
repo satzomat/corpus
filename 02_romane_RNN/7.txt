@@ -1,0 +1,19 @@
+Blauenſtein	NE.Nom.Sg.*	Blauen<unk>tein
+war	VAFIN.3.Sg.Past.Ind	sein
+im	APPRART.Dat.Sg.Masc	in
+Begriff	NN.Dat.Sg.Masc	Begriff
+von	APPR	von
+einer	ART.Dat.Sg.Fem	ein
+langen	ADJA.Pos.Dat.Sg.Fem	lang
+Reiſe	NN.Dat.Sg.Fem	Rei<unk>e
+in	APPR	in
+die	ART.Acc.Sg.Fem	der
+ſeit	APPR	<unk>
+vielen	PIAT.Acc.Pl.Masc	vieler
+Monden	NN.Acc.Pl.Masc	Mond
+ſchmerzlich	ADJD.Pos	<unk>
+entbehrte	ADJA.Pos.Acc.Sg.Fem	entbehrt
+Heimath	NE.Acc.Sg.Fem	Heimath
+zuruͤckzukehren	VVIZU.Infzu	zuru<unk>ckkehren
+.	$.	.
+

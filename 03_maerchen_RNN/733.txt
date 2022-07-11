@@ -1,0 +1,24 @@
+'	$(	'
+s	PPER.3.Nom.Sg.Neut	s
+ist	VAFIN.3.Sg.Pres.Ind	sein
+emal	ADV	emal
+a	FM	a
+Kätzle	NN.Nom.Sg.Fem	Kätzle
+und	KON	und
+a	FM	a
+Mäusle	NE.Nom.Sg.*	Mäusle
+spaziere	VVFIN.3.Sg.Pres.Subj	spazieren
+gange	FM	gange
+;	$.	;
+da	ADV	da
+hat's	VAFIN.3.Sg.Past.Ind	haben
+Kätzle	NE.Nom.Sg.*	Kätzle
+dem	ART.Dat.Sg.Neut	der
+Mäusle	NN.Dat.Sg.Neut	Mäusle
+'	$(	'
+s	FM	s
+Schwänzle	NE.Nom.Sg.Masc	Schwänzle
+runter	ADV	runter
+biße	FM	biße
+.	$.	.
+

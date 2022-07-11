@@ -1,0 +1,22 @@
+Es	PPER.3.Nom.Sg.Neut	es
+herrschte	VVFIN.3.Sg.Past.Ind	herrschen
+in	APPR	in
+uralter	ADJA.Pos.Dat.Sg.Fem	uralter
+Zeit	NN.Dat.Sg.Fem	Zeit
+ein	ART.Nom.Sg.Masc	ein
+mächtiger	ADJA.Pos.Nom.Sg.Masc	mächtiger
+Khan	NN.Nom.Sg.Masc	Khan
+über	APPR	über
+ein	ART.Acc.Sg.Neut	ein
+großes	ADJA.Pos.Acc.Sg.Neut	große
+Land	NN.Acc.Sg.Neut	Land
+voller	ADJA.Pos.Gen.Pl.Masc	voll
+Marktplätze	NN.Gen.Pl.Masc	Marktplatz
+,	$,	,
+in	APPR	in
+welchen	PWAT.Dat.Pl.Neut	welcher
+viel	PIAT.*.*.*	viel
+Volks	NN.Dat.Pl.Neut	Volk
+lebte	VVFIN.3.Sg.Past.Ind	leben
+.	$.	.
+

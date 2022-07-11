@@ -1,0 +1,26 @@
+Alljährlich	ADJD.Pos	alljährlich
+um	APPR	um
+die	ART.Acc.Sg.Fem	der
+Sommerzeit	NN.Acc.Sg.Fem	Sommerzeit
+tauchen	VVFIN.3.Pl.Pres.Ind	tauchen
+Erinnerungen	NN.Nom.Pl.Fem	Erinnerung
+in	APPR	in
+mir	PPER.1.Dat.Sg.*	mir
+auf	PTKVZ	auf
+,	$,	,
+Jugenderinnerungen	NN.Acc.Pl.Fem	Jugenderinnerung
+,	$,	,
+schön	ADJD.Pos	schön
+und	KON	und
+trübe	VVFIN.3.Sg.Past.Subj	traben
+zugleich	ADV	zugleich
+,	$,	,
+die	PRELS.Nom.Pl.Fem	der
+mich	PPER.1.Acc.Sg.*	mich
+mit	APPR	mit
+unwiderstehlicher	ADJA.Pos.Dat.Sg.Fem	unwiderstehlicher
+Macht	NN.Dat.Sg.Fem	Macht
+gefangen	ADJD.Pos	gefangen
+nehmen	VVFIN.3.Pl.Pres.Ind	nehmen
+.	$.	.
+

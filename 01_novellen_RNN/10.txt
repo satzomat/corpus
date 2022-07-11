@@ -1,0 +1,13 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+im	APPRART.Dat.Sg.Masc	in
+September	NN.Dat.Sg.Masc	September
+,	$,	,
+der	ART.Dat.Sg.Fem	der
+ſtillſten	ADJA.Pos.Dat.Sg.Fem	<unk>
+Zeit	NN.Dat.Sg.Fem	Zeit
+des	ART.Gen.Sg.Neut	der
+Pariſer	ADJA.Pos.*.*.*	Pari<unk>er
+Lebens	NN.Gen.Sg.Neut	Leben
+.	$.	.
+

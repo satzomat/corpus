@@ -1,0 +1,22 @@
+Ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Bauersmann	NN.Nom.Sg.Masc	Bauersmann
+hatte	VAFIN.3.Sg.Past.Ind	haben
+nur	ADV	nur
+einen	ART.Acc.Sg.Masc	ein
+einzigen	ADJA.Pos.Acc.Sg.Masc	einziger
+Sohn	NN.Acc.Sg.Masc	Sohn
+,	$,	,
+den	PDS.Acc.Sg.Masc	der
+erzog	VVFIN.3.Sg.Past.Ind	erziehen
+er	PPER.3.Nom.Sg.Masc	er
+christlich	ADJD.Pos	christlich
+und	KON	und
+ehrlich	ADJD.Pos	ehrlich
+,	$,	,
+wie	PWAV	wie
+es	PPER.3.Nom.Sg.Neut	es
+sich	PRF.3.Acc.Sg	sich
+gebührt	VVFIN.3.Sg.Pres.Ind	gebühren
+.	$.	.
+

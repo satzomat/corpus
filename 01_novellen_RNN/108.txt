@@ -1,0 +1,16 @@
+Der	ART.Nom.Sg.Masc	der
+Turmalin	NE.Nom.Sg.Masc	Turmalin
+iſt	VAFIN.3.Sg.Pres.Ind	sein
+dunkel	ADJD.Pos	dunkel
+,	$,	,
+und	KON	und
+was	PWS.Nom.Sg.Neut	was
+da	ADV	da
+erzählt	VVPP.Psp	erzählen
+wird	VAFIN.3.Sg.Pres.Ind	werden
+,	$,	,
+iſt	VAFIN.3.Sg.Pres.Ind	sein
+ſehr	ADV	<unk>
+dunkel	ADJD.Pos	dunkel
+.	$.	.
+

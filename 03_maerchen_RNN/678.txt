@@ -1,0 +1,20 @@
+In	APPR	in
+Böhmen	NE.Dat.Sg.Neut	Böhmen
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Neut	ein
+Dorf	NN.Nom.Sg.Neut	Dorf
+,	$,	,
+darin	PROAV	darin
+lauter	PIAT.*.*.*	lauter
+Kohlenbrenner	NN.Nom.Pl.Masc	Kohlenbrenner
+wohnten	VVFIN.3.Pl.Past.Ind	wohnen
+,	$,	,
+weshalb	PWAV	weshalb
+es	PPER.3.Nom.Sg.Neut	es
+den	ART.Acc.Sg.Masc	der
+Namen	NN.Acc.Sg.Masc	Name
+Schwarzdorf	NE.Nom.Sg.Neut	Schwarzdorf
+bekommen	VVPP.Psp	bekommen
+hatte	VAFIN.3.Sg.Past.Ind	haben
+.	$.	.
+

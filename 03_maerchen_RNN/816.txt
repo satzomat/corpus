@@ -1,0 +1,21 @@
+In	APPR	in
+einer	ART.Dat.Sg.Fem	ein
+Stadt	NN.Dat.Sg.Fem	Stadt
+wohnten	VVFIN.3.Pl.Past.Ind	wohnen
+ein	ART.Nom.Sg.Neut	ein
+Paar	NN.Nom.Sg.Neut	Paar
+alte	ADJA.Pos.Nom.Pl.*	alt
+Leute	NN.Nom.Pl.*	Leute
+,	$,	,
+die	PDS.Nom.Pl.*	der
+hatten	VAFIN.3.Pl.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+Sohn	NN.Acc.Sg.Masc	Sohn
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+ein	ART.Nom.Sg.Masc	ein
+Dieb	NN.Nom.Sg.Masc	Dieb
+werden	VAINF.Inf	werden
+.	$.	.
+

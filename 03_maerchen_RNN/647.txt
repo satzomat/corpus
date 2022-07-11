@@ -1,0 +1,10 @@
+Ein	ART.Nom.Sg.Masc	ein
+mächtiger	ADJA.Pos.Nom.Sg.Masc	mächtiger
+König	NN.Nom.Sg.Masc	König
+von	APPR	von
+Indien	NE.Dat.Sg.Neut	Indien
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Söhne	NN.Acc.Pl.Masc	Sohn
+.	$.	.
+

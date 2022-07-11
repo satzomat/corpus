@@ -1,0 +1,7 @@
+Schlummre	NN.Nom.Sg.Fem	Schlummre
+du	PPER.2.Nom.Sg.*	du
+,	$,	,
+Püppchen	NN.Nom.Sg.Neut	Püppchen
+mein	VAINF.Inf	mein
+!	$.	!
+

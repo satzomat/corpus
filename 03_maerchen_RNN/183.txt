@@ -1,0 +1,22 @@
+So	ADV	so
+war	VAFIN.3.Sg.Past.Ind	sein
+nun	ADV	nun
+also	ADV	also
+das	ART.Nom.Sg.Neut	der
+Christkindlein	NN.Nom.Sg.Neut	Christkindlein
+da	ADV	da
+und	KON	und
+wurde	VAFIN.3.Sg.Past.Ind	werden
+von	APPR	von
+Frau	NN.Nom.Sg.Fem	Frau
+Holle	NE.Dat.Sg.Fem	Holle
+und	KON	und
+den	ART.Acc.Sg.Masc	der
+Engelein	NE.Dat.Pl.*	Engelein
+mit	APPR	mit
+der	ART.Dat.Sg.Fem	der
+größten	ADJA.Sup.Dat.Sg.Fem	groß
+Zärtlichkeit	NN.Dat.Sg.Fem	Zärtlichkeit
+gepflegt	VVPP.Psp	pflegen
+.	$.	.
+

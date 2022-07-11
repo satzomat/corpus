@@ -1,0 +1,24 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Neut	ein
+gar	ADV	gar
+muntres	ADJA.Pos.Nom.Sg.Neut	muntres
+Kätzchen	NN.Nom.Sg.Neut	Kätzchen
+,	$,	,
+das	PRELS.Acc.Sg.Neut	der
+Mimi	NN.Nom.Sg.Neut	Mimi
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+,	$,	,
+und	KON	und
+von	APPR	von
+einem	ART.Dat.Sg.Neut	ein
+frommen	ADJA.Pos.Dat.Sg.Neut	frommen
+Mägdlein	NN.Dat.Sg.Neut	Mägdlein
+gut	ADJD.Pos	gut
+gepflegt	VVPP.Psp	pflegen
+und	KON	und
+genährt	VVPP.Psp	nähren
+wurde	VAFIN.3.Sg.Past.Ind	werden
+.	$.	.
+

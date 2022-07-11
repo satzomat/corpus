@@ -1,0 +1,25 @@
+Ein	ART.Nom.Sg.Masc	ein
+Müller	NN.Nom.Sg.Masc	Müller
+,	$,	,
+Namens	NN.Nom.Sg.Masc	Name
+Hillenbrand	NE.Nom.Sg.Masc	Hillenbrand
+,	$,	,
+war	VAFIN.3.Sg.Past.Ind	sein
+eifersüchtig	ADJD.Pos	eifersüchtig
+auf	APPR	auf
+seine	PPOSAT.Acc.Sg.Fem	sein
+Frau	NN.Acc.Sg.Fem	Frau
+und	KON	und
+glaubte	VVFIN.3.Sg.Past.Ind	glauben
+,	$,	,
+daß	KOUS	daß
+sie	PPER.3.Nom.Sg.Fem	sie
+allzu	PTKA	allzu
+freundlich	ADJD.Pos	freundlich
+gegen	APPR	gegen
+den	ART.Acc.Sg.Masc	der
+Herrn	NN.Acc.Sg.Masc	Herr
+Pfarrer	NN.Acc.Sg.Masc	Pfarrer
+sei	VAFIN.3.Sg.Pres.Subj	sein
+.	$.	.
+

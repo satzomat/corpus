@@ -1,0 +1,27 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+alter	ADJA.Pos.Nom.Sg.Masc	alter
+König	NN.Nom.Sg.Masc	König
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+war	VAFIN.3.Sg.Past.Ind	sein
+krank	ADJD.Pos	krank
+und	KON	und
+dachte	VVFIN.3.Sg.Past.Ind	denken
+»	$.	»
+es	PPER.3.Nom.Sg.Neut	es
+wird	VAFIN.3.Sg.Pres.Ind	werden
+wohl	ADV	wohl
+das	ART.Nom.Sg.Neut	der
+Totenbett	NN.Nom.Sg.Neut	Totenbett
+sein	VAINF.Inf	sein
+,	$,	,
+auf	APPR	auf
+dem	PRELS.Dat.Sg.Neut	der
+ich	PPER.1.Nom.Sg.*	ich
+liege	VVFIN.1.Sg.Pres.Ind	liegen
+.	$.	.
+«	XY	«
+

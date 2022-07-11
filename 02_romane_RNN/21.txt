@@ -1,0 +1,17 @@
+Wie	PWAV	wie
+wirſt	VVFIN.2.Pl.Pres.Ind	wiren
+Du	PPER.2.Nom.Sg.*	du
+erſchrocken	ADJD.Pos	er<unk>chrocken
+ſeyn	FM	<unk>eyn
+,	$,	,
+arme	ADJA.Pos.Acc.Sg.Fem	arm
+Adele	FM	Adele
+,	$,	,
+als	KOUS	als
+Du	PPER.2.Nom.Sg.*	du
+mein	PPOSAT.Acc.Sg.Neut	mein
+Zimmer	NN.Acc.Sg.Neut	Zimmer
+leer	ADJD.Pos	leer
+fandeſt	VVFIN.3.Sg.Pres.Ind	fanden
+?	$.	?
+

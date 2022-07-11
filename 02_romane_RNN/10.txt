@@ -1,0 +1,23 @@
+Die	ART.Nom.Sg.Fem	der
+Sonne	NN.Nom.Sg.Fem	Sonne
+war	VAFIN.3.Sg.Past.Ind	sein
+eben	ADV	eben
+prächtig	ADJD.Pos	prächtig
+aufgegangen	VVPP.Psp	aufgehen
+,	$,	,
+da	ADV	da
+fuhr	VVFIN.3.Sg.Past.Ind	fahren
+ein	ART.Nom.Sg.Neut	ein
+Schiff	NN.Nom.Sg.Neut	Schiff
+zwiſchen	APPR	zwi<unk>chen
+den	ART.Dat.Pl.Masc	der
+grünen	ADJA.Pos.Dat.Pl.Masc	grün
+Bergen	NN.Dat.Pl.Masc	Berg
+und	KON	und
+Wäldern	NN.Dat.Pl.Masc	Wald
+auf	APPR	auf
+der	ART.Dat.Sg.Fem	der
+Donau	NE.Dat.Sg.Fem	Donau
+herunter	PTKVZ	herunter
+.	$.	.
+

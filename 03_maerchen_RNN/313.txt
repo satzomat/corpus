@@ -1,0 +1,24 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Töchter	NN.Acc.Pl.Fem	Tochter
+,	$,	,
+in	APPR	in
+seinem	PPOSAT.Dat.Sg.Masc	sein
+Hof	NN.Dat.Sg.Masc	Hof
+aber	ADV	aber
+stand	VVFIN.3.Sg.Past.Ind	stehen
+ein	ART.Nom.Sg.Masc	ein
+Brunnen	NN.Nom.Sg.Masc	Brunnen
+mit	APPR	mit
+schönem	ADJA.Pos.Dat.Sg.Neut	schönem
+klarem	ADJA.Pos.Dat.Sg.Neut	klarem
+Wasser	NN.Dat.Sg.Neut	Wasser
+.	$.	.
+

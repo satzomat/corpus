@@ -1,0 +1,24 @@
+Eine	ART.Nom.Sg.Fem	ein
+Frau	NN.Nom.Sg.Fem	Frau
+war	VAFIN.3.Sg.Past.Ind	sein
+so	ADV	so
+schlecht	ADJD.Pos	schlecht
+,	$,	,
+die	PDS.Nom.Sg.Fem	der
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+ihren	PPOSAT.Acc.Sg.Masc	ihr
+Mann	NN.Acc.Sg.Masc	Mann
+blind	ADJD.Pos	blind
+machen	VVINF.Inf	machen
+und	KON	und
+fragte	VVFIN.3.Sg.Past.Ind	fragen
+ihre	PPOSAT.Acc.Sg.Fem	ihr
+Nachbarin	NN.Acc.Sg.Fem	Nachbarin
+,	$,	,
+wie	PWAV	wie
+sie	PPER.3.Nom.Sg.Fem	sie
+das	PDS.Acc.Sg.Neut	der
+anfangen	VVINF.Inf	anfangen
+solle	VMFIN.3.Sg.Pres.Subj	sollen
+.	$.	.
+

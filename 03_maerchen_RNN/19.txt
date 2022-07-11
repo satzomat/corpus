@@ -1,0 +1,16 @@
+»	$(	»
+Meine	PPOSAT.Nom.Pl.Fem	mein
+armen	ADJA.Pos.Nom.Pl.Fem	arm
+Blumen	NN.Nom.Pl.Fem	Blume
+sind	VAFIN.3.Pl.Pres.Ind	sein
+ganz	ADV	ganz
+verwelkt	VVPP.Psp	verwelken
+!	$.	!
+
+«	XY	«
+sagte	VVFIN.3.Sg.Past.Ind	sagen
+die	ART.Nom.Sg.Fem	der
+kleine	ADJA.Pos.Nom.Sg.Fem	kleine
+Ida	NE.Nom.Sg.Fem	Ida
+.	$.	.
+

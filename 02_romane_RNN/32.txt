@@ -1,0 +1,13 @@
+ACh/	VVFIN.1.Sg.Past.Ind	ach/en
+ich	PPER.1.Nom.Sg.*	ich
+Ungluͤckſeeliger	NN.Nom.Sg.Masc	Unglu<unk>ck<unk>eeliger
+!	$.	!
+
+was	PWS.Acc.Sg.Neut	was
+fange	VVFIN.1.Sg.Pres.Ind	fangen
+ich	PPER.1.Nom.Sg.*	ich
+doch	ADV	doch
+nunmehr	ADV	nunmehr
+an	PTKVZ	an
+?	$.	?
+

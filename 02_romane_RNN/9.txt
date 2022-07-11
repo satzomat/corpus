@@ -1,0 +1,8 @@
+Der	ART.Nom.Sg.Masc	der
+Nil	NE.Nom.Sg.Masc	Nil
+hatte	VAFIN.3.Sg.Past.Ind	haben
+ſein	PPOSAT.Acc.Sg.Neut	<unk>
+Bett	NN.Acc.Sg.Neut	Bett
+verlaſſen	VVPP.Psp	verla<unk>en
+.	$.	.
+

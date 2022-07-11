@@ -1,0 +1,13 @@
+Wilhelm	NE.Nom.Sg.*	Wilhelm
+war	VAFIN.3.Sg.Past.Ind	sein
+im	APPRART.Dat.Sg.Neut	in
+Schauspielhause	NN.Dat.Sg.Neut	Schauspielhaus
+gewesen	VAPP.Psp	sein
+,	$,	,
+wo	PWAV	wo
+ein	ART.Nom.Sg.Neut	ein
+Trauerstück	NN.Nom.Sg.Neut	Trauerstück
+gegeben	VVPP.Psp	geben
+worden	VAPP.Psp	werden
+.	$.	.
+

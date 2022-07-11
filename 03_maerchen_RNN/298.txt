@@ -1,0 +1,21 @@
+Eine	ART.Nom.Sg.Fem	ein
+junge	ADJA.Pos.Nom.Sg.Fem	jung
+Königstochter	NN.Nom.Sg.Fem	Königstochter
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+Schneeblume	NN.Acc.Sg.Fem	Schneeblume
+,	$,	,
+weil	KOUS	weil
+sie	PPER.3.Nom.Sg.Fem	sie
+weiß	VVFIN.3.Sg.Pres.Ind	wissen
+,	$,	,
+wie	PWAV	wie
+der	ART.Nom.Sg.Masc	der
+Schnee	NN.Nom.Sg.Masc	Schnee
+war	VAFIN.3.Sg.Past.Ind	sein
+,	$,	,
+und	KON	und
+im	APPRART.Dat.Sg.Masc	in
+Winter	NN.Dat.Sg.Masc	Winter
+geboren	VVPP.Psp	gebären
+.	$.	.
+

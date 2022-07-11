@@ -1,0 +1,26 @@
+Im	APPRART.Dat.Sg.Masc	in
+Herbst	NN.Dat.Sg.Masc	Herbst
+des	ART.Gen.Sg.Neut	der
+Jahres	NN.Gen.Sg.Neut	Jahr
+1787	CARD	1787
+unternahm	VVFIN.3.Sg.Past.Ind	unternehmen
+Mozart	NE.Nom.Sg.Masc	Mozart
+in	APPR	in
+Begleitung	NN.Acc.Sg.Fem	Begleitung
+seiner	PPOSAT.Gen.Sg.Fem	sein
+Frau	NN.Gen.Sg.Fem	Frau
+eine	ART.Acc.Sg.Fem	ein
+Reise	NN.Acc.Sg.Fem	Reise
+nach	APPR	nach
+Prag	NE.Dat.Sg.Neut	Prag
+,	$,	,
+um	KOUI	um
+Don	NE.Nom.Sg.Masc	Don
+Juan	NE.Acc.Sg.Masc	Juan
+daselbst	ADV	daselbst
+zur	APPRART.Dat.Sg.Fem	zu
+Aufführung	NN.Dat.Sg.Fem	Aufführung
+zu	PTKZU	zu
+bringen	VVINF.Inf	bringen
+.	$.	.
+

@@ -1,0 +1,26 @@
+So	ADV	so
+ſind	VAFIN.1.Pl.Pres.Ind	sein
+wir	PPER.1.Nom.Pl.*	wir
+denn	ADV	denn
+nun	ADV	nun
+endlich	ADV	endlich
+aus	APPR	aus
+den	ART.Dat.Pl.Masc	der
+Thoren	NN.Dat.Pl.Masc	Thor
+der	ART.Gen.Sg.Fem	der
+Stadt	NN.Gen.Sg.Fem	Stadt
+,	$,	,
+ſagte	VVFIN.3.Sg.Past.Ind	<unk>
+Sebaſtian	NE.Nom.Sg.Masc	Seba<unk>tian
+,	$,	,
+in	APPR	in
+dem	PRELS.Dat.Sg.Masc	der
+er	PPER.3.Nom.Sg.Masc	er
+ſtille	VVFIN.3.Sg.Pres.Subj	etillen
+ſtand	VVFIN.3.Sg.Past.Ind	<unk>
+und	KON	und
+ſich	PRF.3.Acc.Sg	sich
+freier	ADJD.Comp	frei
+umſah	VVFIN.3.Sg.Past.Ind	um<unk>en
+.	$.	.
+

@@ -1,0 +1,18 @@
+Hans	NE.Nom.Sg.Masc	Hans
+hatte	VAFIN.3.Sg.Past.Ind	haben
+sich	PRF.3.Acc.Sg	sich
+beim	APPRART.Dat.Sg.Masc	bei
+Müller	NN.Dat.Sg.Masc	Müller
+verdungen	VVPP.Psp	verdingen
+um	APPR	um
+drei	CARD	drei
+Ohrfeigen	NN.Acc.Pl.Fem	Ohrfeige
+,	$,	,
+welche	PRELS.Acc.Pl.Fem	welcher
+er	PPER.3.Nom.Sg.Masc	er
+dem	ART.Dat.Sg.Masc	der
+Müller	NN.Dat.Sg.Masc	Müller
+geben	VVINF.Inf	geben
+dürfte	VMFIN.3.Sg.Past.Subj	dürfen
+.	$.	.
+

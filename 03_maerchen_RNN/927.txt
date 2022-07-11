@@ -1,0 +1,7 @@
+Einmal	ADV	einmal
+war	VAFIN.3.Sg.Past.Ind	sein
+eine	ART.Nom.Sg.Fem	ein
+böse	ADJA.Pos.Nom.Sg.Fem	böse
+Stiefmutter	NN.Nom.Sg.Fem	Stiefmutter
+.	$.	.
+

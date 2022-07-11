@@ -1,0 +1,25 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+reicher	ADJA.Pos.Nom.Sg.Masc	reicher
+Mann	NN.Nom.Sg.Masc	Mann
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+lebte	VVFIN.3.Sg.Past.Ind	leben
+lange	ADJA.Pos.Acc.Sg.Fem	lang
+Zeit	NN.Acc.Sg.Fem	Zeit
+vergnügt	VVPP.Psp	vergnügen
+mit	APPR	mit
+seiner	PPOSAT.Dat.Sg.Fem	sein
+Frau	NN.Dat.Sg.Fem	Frau
+,	$,	,
+und	KON	und
+sie	PPER.3.Nom.Pl.*	sie
+hatten	VAFIN.3.Pl.Past.Ind	haben
+ein	ART.Acc.Sg.Neut	ein
+einziges	ADJA.Pos.Acc.Sg.Neut	einziger
+Töchterlein	NN.Acc.Sg.Neut	Töchterlein
+zusammen	PTKVZ	zusammen
+.	$.	.
+

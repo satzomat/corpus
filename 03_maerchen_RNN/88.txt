@@ -1,0 +1,19 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+arme	ADJA.Pos.Nom.Sg.Fem	arm
+Frau	NN.Nom.Sg.Fem	Frau
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+in	APPR	in
+den	ART.Acc.Sg.Masc	der
+Wald	NN.Acc.Sg.Masc	Wald
+ging	VVFIN.3.Sg.Past.Ind	gehen
+,	$,	,
+um	KOUI	um
+Holz	NN.Acc.Sg.Neut	Holz
+zu	PTKZU	zu
+lesen	VVINF.Inf	lesen
+.	$.	.
+

@@ -1,0 +1,7 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+schauerlicher	ADJA.Pos.Nom.Sg.Masc	schauerlicher
+Winterabend	NN.Nom.Sg.Masc	Winterabend
+.	$.	.
+

@@ -1,0 +1,23 @@
+Zwischen	APPR	zwischen
+der	ART.Dat.Sg.Fem	der
+Leine	NN.Dat.Sg.Fem	Leine
+und	KON	und
+der	ART.Nom.Sg.Masc	der
+Weser	NN.Nom.Sg.Masc	Weser
+war	VAFIN.3.Sg.Past.Ind	sein
+gelegen	ADV	gelegen
+die	ART.Nom.Sg.Fem	der
+Grafschaft	NN.Nom.Sg.Fem	Grafschaft
+Hallermünd	NE.Nom.Sg.*	Hallermünd
+,	$,	,
+vor	APPR	vor
+Alters	NN.Dat.Pl.Neut	Alter
+eine	PIS.Nom.Sg.Fem	einer
+der	ART.Gen.Pl.Fem	der
+vornehmsten	ADJA.Sup.Gen.Pl.Fem	vornehm
+unter	APPR	unter
+den	ART.Dat.Pl.Fem	der
+sächsischen	ADJA.Pos.Gen.Pl.Fem	sächsisch
+Grafschaften	NN.Gen.Pl.Fem	Grafschaft
+.	$.	.
+

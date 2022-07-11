@@ -1,0 +1,23 @@
+Jemand	PIS.Nom.Sg.Masc	jemand
+mußte	VMFIN.3.Sg.Past.Ind	müssen
+Josef	NE.Nom.Sg.Masc	Josef
+K.	NE.Acc.Sg.Masc	K.
+verleumdet	VVPP.Psp	verleumden
+haben	VAINF.Inf	haben
+,	$,	,
+denn	KON	denn
+ohne	APPR	ohne
+daß	KOUS	daß
+er	PPER.3.Nom.Sg.Masc	er
+etwas	PIAT.*.*.*	etwas
+Böses	NN.Acc.Sg.Neut	Böse
+getan	VVPP.Psp	tun
+hätte	VAFIN.3.Sg.Past.Subj	haben
+,	$,	,
+wurde	VAFIN.3.Sg.Past.Ind	werden
+er	PPER.3.Nom.Sg.Masc	er
+eines	ART.Gen.Sg.Masc	ein
+Morgens	NN.Gen.Sg.Masc	Morgen
+verhaftet	VVPP.Psp	verhaften
+.	$.	.
+

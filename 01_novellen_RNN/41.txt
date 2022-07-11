@@ -1,0 +1,7 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+tief	ADJD.Pos	tief
+im	APPRART.Dat.Sg.Masc	in
+Januar	NN.Dat.Sg.Masc	Januar
+.	$.	.
+

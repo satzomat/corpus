@@ -1,0 +1,16 @@
+Es	PPER.3.Nom.Sg.Neut	es
+bleibt	VVFIN.3.Sg.Pres.Ind	bleiben
+dabei	PROAV	dabei
+,	$,	,
+ich	PPER.1.Nom.Sg.*	ich
+vermiethe	VVFIN.1.Sg.Pres.Ind	vermiethen
+mich	PRF.1.Acc.Sg	sich
+!	$.	!
+
+ſagte	VVFIN.3.Sg.Past.Ind	<unk>
+Klärchen	NN.Nom.Sg.Neut	Klärchen
+zu	APPR	zu
+ihrer	PPOSAT.Dat.Sg.Fem	ihr
+Mutter	NN.Dat.Sg.Fem	Mutter
+.	$.	.
+

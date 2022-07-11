@@ -1,0 +1,18 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+brave	ADJA.Pos.Nom.Sg.Fem	brave
+Frau	NN.Nom.Sg.Fem	Frau
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+ein	ART.Acc.Sg.Neut	ein
+einziges	ADJA.Pos.Acc.Sg.Neut	einziger
+Söhnchen	NN.Acc.Sg.Neut	Söhnchen
+,	$,	,
+das	PRELS.Acc.Sg.Neut	der
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+Tomy	NE.Nom.Sg.*	Tomy
+.	$.	.
+

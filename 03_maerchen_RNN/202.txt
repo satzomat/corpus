@@ -1,0 +1,25 @@
+In	APPR	in
+einer	ART.Dat.Sg.Fem	ein
+kalten	ADJA.Pos.Dat.Sg.Fem	kalt
+Winternacht	NN.Dat.Sg.Fem	Winternacht
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+hungeriger	ADJA.Pos.Nom.Sg.Masc	hungeriger
+Fuchs	NN.Nom.Sg.Masc	Fuchs
+nach	APPR	nach
+Speise	NN.Dat.Sg.Fem	Speise
+ausgegangen	VVPP.Psp	ausgehen
+,	$,	,
+und	KON	und
+hörte	VVFIN.3.Sg.Past.Ind	hören
+einen	ART.Acc.Sg.Masc	ein
+Hahn	NN.Acc.Sg.Masc	Hahn
+krähen	VVFIN.3.Pl.Past.Subj	krehen
+auf	APPR	auf
+einem	ART.Dat.Sg.Masc	ein
+Baume	NN.Dat.Sg.Masc	Baum
+bey	NE.Nom.Sg.*	bey
+einem	ART.Dat.Sg.Masc	ein
+Mayerhofe	NN.Dat.Sg.Masc	Mayerhof
+.	$.	.
+

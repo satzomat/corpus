@@ -1,0 +1,21 @@
+Da	ADV	da
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+lustiger	ADJA.Pos.Nom.Sg.Masc	lustiger
+Wandersmann	NN.Nom.Sg.Masc	Wandersmann
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+gieng	ADV	gieng
+in	APPR	in
+ein	ART.Acc.Sg.Neut	ein
+Wirthshaus	NN.Acc.Sg.Neut	Wirthshaus
+,	$,	,
+um	KOUI	um
+ein	ART.Acc.Sg.Neut	ein
+Glas	NN.Acc.Sg.Neut	Glas
+Wein	NN.Nom.Sg.Masc	Wein
+zu	PTKZU	zu
+trinken	VVINF.Inf	trinken
+.	$.	.
+

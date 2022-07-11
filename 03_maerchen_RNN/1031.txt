@@ -1,0 +1,15 @@
+Ein	ART.Nom.Sg.Neut	ein
+armes	ADJA.Pos.Nom.Sg.Neut	armes
+Schneiderlein	NN.Nom.Sg.Neut	Schneiderlein
+hatte	VAFIN.3.Sg.Past.Ind	haben
+zu	APPR	zu
+Hause	NN.Dat.Sg.Neut	Haus
+nichts	PIS.*.*.Neut	nichts
+zu	PTKZU	zu
+verlieren	VVINF.Inf	verlieren
+und	KON	und
+ging	VVFIN.3.Sg.Past.Ind	gehen
+auf	APPR	auf
+Reisen	NN.Acc.Pl.Fem	Reise
+.	$.	.
+

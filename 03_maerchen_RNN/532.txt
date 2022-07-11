@@ -1,0 +1,9 @@
+»	$(	»
+Guten	ADJA.Pos.Acc.Sg.Masc	gut
+Tag	NN.Acc.Sg.Masc	Tag
+,	$,	,
+Junferla	NE.Nom.Sg.*	Junferla
+!	$.	!
+
+«	XY	«
+

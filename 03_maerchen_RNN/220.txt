@@ -1,0 +1,25 @@
+Es	PPER.3.Acc.Sg.Neut	es
+saß	VVFIN.3.Sg.Past.Ind	sitzen
+ein	ART.Nom.Sg.Masc	ein
+Vater	NN.Nom.Sg.Masc	Vater
+mit	APPR	mit
+seiner	PPOSAT.Dat.Sg.Fem	sein
+Frau	NN.Dat.Sg.Fem	Frau
+und	KON	und
+seinen	PPOSAT.Dat.Pl.Neut	sein
+Kindern	NN.Dat.Pl.Neut	Kind
+,	$,	,
+und	KON	und
+einem	ART.Dat.Sg.Masc	ein
+guten	ADJA.Pos.Dat.Sg.Masc	gut
+Freund	NN.Dat.Sg.Masc	Freund
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+ihn	PPER.3.Acc.Sg.Masc	ihn
+besuchte	VVFIN.3.Sg.Past.Ind	besuchen
+,	$,	,
+Mittags	ADV	mittags
+am	APPRART.Dat.Sg.Masc	an
+Tisch	NN.Dat.Sg.Masc	Tisch
+.	$.	.
+

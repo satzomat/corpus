@@ -1,0 +1,6 @@
+Anhalter	NN.Nom.Sg.Masc	Anhalter
+Bahnhof	NE.Nom.Sg.Masc	Bahnhof
+in	APPR	in
+Berlin	NE.Dat.Sg.Neut	Berlin
+!	$.	!
+

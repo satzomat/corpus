@@ -1,0 +1,22 @@
+Ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Holzhauer	NN.Nom.Sg.Masc	Holzhauer
+lebte	VVFIN.3.Sg.Past.Ind	leben
+mit	APPR	mit
+seiner	PPOSAT.Dat.Sg.Fem	sein
+Frau	NN.Dat.Sg.Fem	Frau
+und	KON	und
+drei	CARD	drei
+Töchtern	NN.Dat.Pl.Fem	Tochter
+in	APPR	in
+einer	ART.Dat.Sg.Fem	ein
+kleinen	ADJA.Pos.Dat.Sg.Fem	klein
+Hütte	NN.Dat.Sg.Fem	Hütte
+an	APPR	an
+dem	ART.Dat.Sg.Masc	der
+Rande	NN.Dat.Sg.Masc	Rand
+eines	ART.Gen.Sg.Masc	ein
+einsamen	ADJA.Pos.Gen.Sg.Masc	einsam
+Waldes	NN.Gen.Sg.Masc	Wald
+.	$.	.
+

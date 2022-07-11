@@ -1,0 +1,18 @@
+Eine	ART.Nom.Sg.Fem	ein
+Frau	NN.Nom.Sg.Fem	Frau
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Töchter	NN.Acc.Pl.Fem	Tochter
+,	$,	,
+die	PRELS.Nom.Pl.Fem	der
+,	$,	,
+als	KOUS	als
+sie	PPER.3.Nom.Sg.Fem	sie
+starb	VVFIN.3.Sg.Past.Ind	sterben
+,	$,	,
+noch	ADV	noch
+sehr	ADV	sehr
+jung	ADJD.Pos	jung
+waren	VAFIN.3.Pl.Past.Ind	sein
+.	$.	.
+

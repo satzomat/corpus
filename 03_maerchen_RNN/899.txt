@@ -1,0 +1,15 @@
+Eines	ART.Gen.Sg.Masc	ein
+Ziegenhirten	NN.Gen.Sg.Masc	Ziegenhirte
+Tochter	NN.Nom.Sg.Fem	Tochter
+grub	VVFIN.3.Sg.Past.Ind	graben
+auf	APPR	auf
+dem	ART.Dat.Sg.Neut	der
+Felde	NN.Dat.Sg.Neut	Feld
+und	KON	und
+fand	VVFIN.3.Sg.Past.Ind	finden
+dabei	PROAV	dabei
+einen	ART.Acc.Sg.Masc	ein
+goldenen	ADJA.Pos.Acc.Sg.Masc	golden
+Mörser	NN.Acc.Sg.Masc	Mörser
+.	$.	.
+

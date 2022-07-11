@@ -1,0 +1,23 @@
+Der	ART.Nom.Sg.Masc	der
+König	NN.Nom.Sg.Masc	König
+von	APPR	von
+Spanien	NE.Dat.Sg.Neut	Spanien
+ging	VVFIN.3.Sg.Past.Ind	gehen
+eines	ART.Gen.Sg.Masc	ein
+Tages	NN.Gen.Sg.Masc	Tag
+auf	APPR	auf
+die	ART.Acc.Sg.Fem	der
+Jagd	NN.Acc.Sg.Fem	Jagd
+,	$,	,
+aber	KON	aber
+es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+kein	PIAT.Nom.Sg.Neut	kein
+Wild	NN.Nom.Sg.Masc	Wild
+zu	PTKZU	zu
+sehen	VVINF.Inf	sehen
+weit	ADJD.Pos	weit
+und	KON	und
+breit	ADJD.Pos	breit
+.	$.	.
+

@@ -1,0 +1,23 @@
+Ein	ART.Nom.Sg.Masc	ein
+Bauer	NN.Nom.Sg.Masc	Bauer
+hackte	VVFIN.3.Sg.Past.Ind	hacken
+Holzzacken	NN.Acc.Pl.Fem	Holzzacke
+ab	PTKVZ	ab
+,	$,	,
+dabei	PROAV	dabei
+sah	VVFIN.3.Sg.Past.Ind	sehen
+er	PPER.3.Nom.Sg.Masc	er
+ein	ART.Acc.Sg.Neut	ein
+Nest	NN.Acc.Sg.Neut	Nest
+,	$,	,
+schlich	ADJD.Pos	schlich
+sich	PRF.3.Acc.Sg	sich
+leise	ADJD.Pos	leise
+herzu	PTKVZ	herzu
+und	KON	und
+fing	VVFIN.3.Sg.Past.Ind	fangen
+darauf	PROAV	darauf
+einen	ART.Acc.Sg.Masc	ein
+Vogel	NN.Acc.Sg.Masc	Vogel
+.	$.	.
+

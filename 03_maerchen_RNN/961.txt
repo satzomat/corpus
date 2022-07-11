@@ -1,0 +1,19 @@
+Däumling	NE.Nom.Sg.*	Däumling
+war	VAFIN.3.Sg.Past.Ind	sein
+im	APPRART.Dat.Sg.Neut	in
+achtzehnten	ADJA.Pos.Dat.Sg.Neut	achtzehnter
+Lebensjahre	NN.Dat.Sg.Neut	Lebensjahr
+,	$,	,
+ein	ART.Nom.Sg.Neut	ein
+fingerlanges	ADJA.Pos.Nom.Sg.Neut	fingerlanges
+Männchen	NN.Nom.Sg.Neut	Männchen
+,	$,	,
+wohlgebildet	ADJD.Pos	wohlgebildet
+und	KON	und
+niedlich	ADJD.Pos	niedlich
+,	$,	,
+aber	KON	aber
+winzig	ADJD.Pos	winzig
+klein	ADJD.Pos	klein
+.	$.	.
+

@@ -1,0 +1,23 @@
+Vorzeiten	NN.Acc.Pl.Fem	Vorzeit
+lebte	VVFIN.3.Sg.Past.Ind	leben
+eine	ART.Nom.Sg.Fem	ein
+alte	ADJA.Pos.Nom.Sg.Fem	alt
+Königin	NN.Nom.Sg.Fem	Königin
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+war	VAFIN.3.Sg.Past.Ind	sein
+eine	ART.Nom.Sg.Fem	ein
+Zauberin	NN.Nom.Sg.Fem	Zauberin
+,	$,	,
+und	KON	und
+ihre	PPOSAT.Nom.Sg.Fem	ihr
+Tochter	NN.Nom.Sg.Fem	Tochter
+war	VAFIN.3.Sg.Past.Ind	sein
+das	ART.Nom.Sg.Neut	der
+schönste	ADJA.Sup.Nom.Sg.Neut	schön
+Mädchen	NN.Nom.Sg.Neut	Mädchen
+unter	APPR	unter
+der	ART.Dat.Sg.Fem	der
+Sonne	NN.Dat.Sg.Fem	Sonne
+.	$.	.
+

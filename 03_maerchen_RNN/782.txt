@@ -1,0 +1,21 @@
+Ein	ART.Nom.Sg.Masc	ein
+Schmied	NN.Nom.Sg.Masc	Schmied
+machte	VVFIN.3.Sg.Past.Ind	machen
+sich	PRF.3.Acc.Sg	sich
+auf	PTKVZ	auf
+mit	APPR	mit
+seinem	PPOSAT.Dat.Sg.Masc	sein
+dicken	ADJA.Pos.Dat.Sg.Masc	dicken
+Hammer	NN.Dat.Sg.Masc	Hammer
+und	KON	und
+ging	VVFIN.3.Sg.Past.Ind	gehen
+auf	APPR	auf
+dem	ART.Dat.Sg.Masc	der
+breiten	ADJA.Pos.Dat.Sg.Masc	breit
+Wege	NN.Dat.Sg.Masc	Weg
+nach	APPR	nach
+der	ART.Dat.Sg.Fem	der
+Hölle	NN.Dat.Sg.Fem	Hölle
+zu	PTKVZ	zu
+.	$.	.
+

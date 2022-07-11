@@ -1,0 +1,22 @@
+Man	PIS.Nom.Sg.*	man
+hätte	VAFIN.3.Sg.Past.Subj	haben
+wahrlich	ADV	wahrlich
+glauben	VVINF.Inf	glauben
+mögen	VMINF.Inf	mögen
+,	$,	,
+daß	KOUS	daß
+in	APPR	in
+dem	ART.Dat.Sg.Masc	der
+Dorfteiche	NN.Dat.Sg.Masc	Dorfteich
+etwas	PIS.*.*.Neut	etwas
+im	APPRART.Dat.Sg.Neut	in
+Werke	NN.Dat.Sg.Neut	Werk
+sei	VAFIN.3.Sg.Pres.Subj	sein
+,	$,	,
+aber	KON	aber
+da	ADV	da
+irrte	VVFIN.3.Sg.Past.Ind	irren
+man	PIS.Nom.Sg.*	man
+sich	PRF.3.Acc.Sg	sich
+!	$.	!
+

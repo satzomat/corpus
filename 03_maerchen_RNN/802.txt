@@ -1,0 +1,18 @@
+Auch	ADV	auch
+ist	VAFIN.3.Sg.Pres.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Graf	NN.Nom.Sg.Masc	Graf
+gewesen	VAPP.Psp	sein
+,	$,	,
+der	PDS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+seine	PPOSAT.Acc.Sg.Fem	sein
+Gattin	NN.Acc.Sg.Fem	Gattin
+verloren	VVPP.Psp	verlieren
+und	KON	und
+heirathete	VVFIN.3.Sg.Past.Ind	heirathen
+eine	ART.Acc.Sg.Fem	ein
+Fee	NN.Acc.Sg.Fem	Fee
+.	$.	.
+

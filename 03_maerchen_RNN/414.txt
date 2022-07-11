@@ -1,0 +1,22 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Neut	ein
+Dorf	NN.Nom.Sg.Neut	Dorf
+,	$,	,
+darin	PROAV	darin
+saßen	VVFIN.3.Pl.Past.Ind	sitzen
+lauter	ADJD.Comp	laut
+reiche	ADJA.Pos.Nom.Pl.Masc	reich
+Bauern	NN.Nom.Pl.Masc	Bauer
+und	KON	und
+nur	ADV	nur
+ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+,	$,	,
+den	PDS.Acc.Sg.Masc	der
+nannten	VVFIN.3.Pl.Past.Ind	nennen
+sie	PPER.3.Nom.Pl.Masc	sie
+das	ART.Acc.Sg.Neut	der
+Bürle	NN.Acc.Sg.Neut	Bürle
+.	$.	.
+

@@ -1,0 +1,5 @@
+Der	ART.Nom.Sg.Masc	der
+Flachs	NN.Nom.Sg.Masc	Flachs
+blühte	VVFIN.3.Sg.Past.Ind	blühen
+.	$.	.
+

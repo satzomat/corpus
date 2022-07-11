@@ -1,0 +1,19 @@
+Eine	ART.Nom.Sg.Fem	ein
+Taube	NN.Nom.Sg.Fem	Taube
+hatte	VAFIN.3.Sg.Past.Ind	haben
+ihr	PPOSAT.Acc.Sg.Neut	ihr
+Nest	NN.Acc.Sg.Neut	Nest
+auf	APPR	auf
+einen	ART.Acc.Sg.Masc	ein
+hohen	ADJA.Pos.Acc.Sg.Masc	hoch
+Baum	NN.Acc.Sg.Masc	Baum
+gemacht	VVPP.Psp	machen
+,	$,	,
+und	KON	und
+brütete	VVFIN.3.Sg.Past.Ind	brüten
+daselbst	ADV	daselbst
+ihre	PPOSAT.Acc.Pl.Masc	ihr
+Eyer	NN.Acc.Pl.Masc	Eyer
+aus	PTKVZ	aus
+.	$.	.
+

@@ -1,0 +1,16 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+Witwe	NN.Nom.Sg.Fem	Witwe
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+Sohn	NN.Acc.Sg.Masc	Sohn
+und	KON	und
+heirathete	VVFIN.3.Sg.Past.Ind	heirathen
+einen	ART.Acc.Sg.Masc	ein
+Zauberer	NN.Acc.Sg.Masc	Zauberer
+.	$.	.
+

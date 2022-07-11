@@ -1,0 +1,13 @@
+Röschen	NE.Nom.Sg.*	Röschen
+hatte	VAFIN.3.Sg.Past.Ind	haben
+nicht	PTKNEG	nicht
+gesponnen	VVPP.Psp	gespinnen
+,	$,	,
+sondern	KON	sondern
+war	VAFIN.3.Sg.Past.Ind	sein
+im	APPRART.Dat.Sg.Masc	in
+Walde	NN.Dat.Sg.Masc	Wald
+spazieren	VVINF.Inf	spazieren
+gegangen	VVPP.Psp	gehen
+.	$.	.
+

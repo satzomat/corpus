@@ -1,0 +1,11 @@
+Der	ART.Nom.Sg.Masc	der
+liebe	ADJA.Pos.Nom.Sg.Masc	lieb
+Vaterlandsboden	NN.Nom.Sg.Masc	Vaterlandsboden
+giebt	VVFIN.3.Sg.Pres.Ind	gieben
+mir	PPER.1.Dat.Sg.*	mir
+wieder	ADV	wieder
+Freude	NN.Acc.Sg.Fem	Freude
+und	KON	und
+Leid	NN.Acc.Sg.Neut	Leid
+.	$.	.
+

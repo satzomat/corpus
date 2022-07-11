@@ -1,0 +1,17 @@
+Eine	ART.Nom.Sg.Fem	ein
+Königin	NN.Nom.Sg.Fem	Königin
+hatte	VAFIN.3.Sg.Past.Ind	haben
+zur	APPRART.Dat.Sg.Fem	zu
+Freundin	NN.Dat.Sg.Fem	Freundin
+eine	ART.Acc.Sg.Fem	ein
+Ratte	NN.Acc.Sg.Fem	Ratte
+,	$,	,
+mit	APPR	mit
+der	PRELS.Dat.Sg.Fem	der
+sie	PPER.3.Nom.Sg.Fem	sie
+in	APPR	in
+vertraulichem	ADJA.Pos.Dat.Sg.Masc	vertraulichem
+Umgang	NN.Dat.Sg.Masc	Umgang
+lebte	VVFIN.3.Sg.Past.Ind	leben
+.	$.	.
+

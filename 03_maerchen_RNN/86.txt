@@ -1,0 +1,22 @@
+Einstmals	ADV	einstmals
+ging	VVFIN.3.Sg.Past.Ind	gehen
+ein	ART.Nom.Sg.Masc	ein
+junger	ADJA.Pos.Nom.Sg.Masc	junger
+Buchbindergeselle	NN.Nom.Sg.Masc	Buchbindergeselle
+in	APPR	in
+die	ART.Acc.Sg.Fem	der
+Fremde	NN.Acc.Sg.Fem	Fremde
+,	$,	,
+und	KON	und
+wanderte	VVFIN.3.Sg.Past.Ind	wandern
+,	$,	,
+bis	KOUS	bis
+kein	PIAT.Nom.Sg.Masc	kein
+Kreuzerlein	NN.Nom.Sg.Masc	Kreuzerlein
+mehr	ADV	mehr
+in	APPR	in
+seiner	PPOSAT.Dat.Sg.Fem	sein
+Tasche	NN.Dat.Sg.Fem	Tasche
+klimperte	VVFIN.3.Sg.Past.Ind	klimpern
+.	$.	.
+

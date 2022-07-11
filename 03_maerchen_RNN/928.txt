@@ -1,0 +1,15 @@
+In	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+Dorfe	NN.Dat.Sg.Neut	Dorf
+wohnte	VVFIN.3.Sg.Past.Ind	wohnen
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+Familie	NN.Nom.Sg.Fem	Familie
+,	$,	,
+gering	ADJD.Pos	gering
+und	KON	und
+mit	APPR	mit
+vielen	PIAT.Dat.Pl.Fem	vieler
+Schulden	NN.Dat.Pl.Fem	Schuld
+.	$.	.
+

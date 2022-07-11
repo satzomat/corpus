@@ -1,0 +1,17 @@
+In	APPR	in
+einem	ART.Dat.Sg.Masc	ein
+Walde	NN.Dat.Sg.Masc	Wald
+lebte	VVFIN.3.Sg.Past.Ind	leben
+ein	ART.Nom.Sg.Masc	ein
+Mann	NN.Nom.Sg.Masc	Mann
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Söhne	NN.Acc.Pl.Masc	Sohn
+und	KON	und
+eine	ART.Acc.Sg.Fem	ein
+schöne	ADJA.Pos.Acc.Sg.Fem	schön
+Tochter	NN.Acc.Sg.Fem	Tochter
+.	$.	.
+

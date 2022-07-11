@@ -1,0 +1,17 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+einmal	ADV	einmal
+drei	CARD	drei
+Hirtentöchter	NN.Nom.Pl.Fem	Hirtentochter
+,	$,	,
+davon	PROAV	davon
+waren	VAFIN.3.Pl.Past.Ind	sein
+zwei	CARD	zwei
+klug	ADJD.Pos	klug
+und	KON	und
+die	ART.Nom.Sg.Fem	der
+dritte	ADJA.Pos.Nom.Sg.Fem	dritte
+war	VAFIN.3.Sg.Past.Ind	sein
+einfältig	ADJD.Pos	einfältig
+.	$.	.
+

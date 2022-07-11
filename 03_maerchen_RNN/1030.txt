@@ -1,0 +1,18 @@
+In	APPR	in
+einem	ART.Dat.Sg.Masc	ein
+großen	ADJA.Pos.Dat.Sg.Masc	groß
+Walde	NN.Dat.Sg.Masc	Wald
+lag	VVFIN.3.Sg.Past.Ind	liegen
+ein	ART.Nom.Sg.Masc	ein
+großer	ADJA.Pos.Nom.Sg.Masc	großer
+See	NN.Nom.Sg.Masc	See
+,	$,	,
+daran	PROAV	daran
+wohnte	VVFIN.3.Sg.Past.Ind	wohnen
+ein	ART.Nom.Sg.Masc	ein
+Fischer	NN.Nom.Sg.Masc	Fischer
+mit	APPR	mit
+seiner	PPOSAT.Dat.Sg.Fem	sein
+Frau	NN.Dat.Sg.Fem	Frau
+.	$.	.
+

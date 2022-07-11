@@ -1,0 +1,10 @@
+„	XY	„
+Komm	NE.Nom.Sg.*	Komm
+wieder	ADV	wieder
+!	$.	!
+
+[	XY	[
+…	XY	…
+]	XY	]
+“	XY	“
+

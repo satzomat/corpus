@@ -1,0 +1,26 @@
+Vor	APPR	vor
+einem	ART.Dat.Sg.Masc	ein
+großen	ADJA.Pos.Dat.Sg.Masc	groß
+Walde	NN.Dat.Sg.Masc	Wald
+wohnte	VVFIN.3.Sg.Past.Ind	wohnen
+ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Holzhacker	NN.Nom.Sg.Masc	Holzhacker
+mit	APPR	mit
+seiner	PPOSAT.Dat.Sg.Fem	sein
+Frau	NN.Dat.Sg.Fem	Frau
+und	KON	und
+seinen	PPOSAT.Dat.Pl.Neut	sein
+zwei	CARD	zwei
+Kindern	NN.Dat.Pl.Neut	Kind
+;	$.	;
+das	ART.Acc.Sg.Neut	der
+Bübchen	NN.Acc.Sg.Neut	Bübchen
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+Hänsel	NN.Acc.Sg.Neut	Hänsel
+und	KON	und
+das	ART.Nom.Sg.Neut	der
+Mädchen	NN.Nom.Sg.Neut	Mädchen
+Gretel	NE.Nom.Sg.*	Gretel
+.	$.	.
+

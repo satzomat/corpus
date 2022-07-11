@@ -1,0 +1,32 @@
+»	$(	»
+Ein	ART.Nom.Sg.Masc	ein
+kluger	ADJA.Pos.Nom.Sg.Masc	kluger
+Mann	NN.Nom.Sg.Masc	Mann
+vollbringt	VVFIN.3.Sg.Pres.Ind	vollbringen
+durch	APPR	durch
+Einsicht	NN.Acc.Sg.Fem	Einsicht
+und	KON	und
+überlegten	ADJA.Pos.Acc.Sg.Masc	überlegt
+Entschluß	NN.Acc.Sg.Masc	Entschluß
+,	$,	,
+was	PWS.Nom.Sg.Neut	was
+manchem	PIAT.Dat.Sg.Neut	mancher
+stärkeren	ADJA.Comp.Dat.Sg.*	stark
+mißlingt	VVFIN.3.Sg.Pres.Ind	mißlingen
+!	$.	!
+
+«	XY	«
+sagte	VVFIN.3.Sg.Past.Ind	sagen
+der	ART.Nom.Sg.Masc	der
+weise	ADJA.Pos.Nom.Sg.Masc	weise
+Rabe	NN.Nom.Sg.Masc	Rabe
+,	$,	,
+des	ART.Gen.Sg.Masc	der
+Rabenkönigs	NN.Gen.Sg.Masc	Rabenkönig
+Ratgeber	NE.Nom.Sg.Masc	Ratgeber
+,	$,	,
+zu	APPR	zu
+diesem	PDAT.Dat.Sg.Neut	dieser
+letzteren	ADJA.Comp.Dat.Sg.Neut	letzter
+.	$.	.
+

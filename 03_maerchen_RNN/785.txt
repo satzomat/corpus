@@ -1,0 +1,25 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+einmal	ADV	einmal
+vier	CARD	vier
+Handwerksburschen	NN.Nom.Pl.Masc	Handwerksbursche
+,	$,	,
+die	PRELS.Nom.Pl.Masc	der
+litten	VVFIN.3.Pl.Past.Subj	leiden
+große	ADJA.Pos.Acc.Sg.Fem	groß
+Noth	ADJD.Pos	noth
+,	$,	,
+da	ADV	da
+kam	VVFIN.3.Sg.Past.Ind	kommen
+der	ART.Nom.Sg.Masc	der
+Teufel	NN.Nom.Sg.Masc	Teufel
+an	PTKVZ	an
+und	KON	und
+erbot	VVFIN.3.Sg.Past.Ind	erbieten
+sich	PRF.3.Acc.Sg	sich
+für	APPR	für
+sie	PPER.3.Acc.Pl.Masc	sie
+zu	PTKZU	zu
+sorgen	VVINF.Inf	sorgen
+.	$.	.
+

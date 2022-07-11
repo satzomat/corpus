@@ -1,0 +1,24 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Neut	ein
+armes	ADJA.Pos.Nom.Sg.Neut	armes
+,	$,	,
+frommes	ADJA.Pos.Nom.Sg.Neut	frommes
+Mädchen	NN.Nom.Sg.Neut	Mädchen
+,	$,	,
+das	PRELS.Nom.Sg.Neut	der
+lebte	VVFIN.3.Sg.Past.Ind	leben
+mit	APPR	mit
+seiner	PPOSAT.Dat.Sg.Fem	sein
+Mutter	NN.Dat.Sg.Fem	Mutter
+allein	ADV	allein
+und	KON	und
+sie	PPER.3.Nom.Pl.*	sie
+hatten	VAFIN.3.Pl.Past.Ind	haben
+nichts	PIS.*.*.Neut	nichts
+mehr	ADV	mehr
+zu	PTKZU	zu
+essen	VVINF.Inf	essen
+.	$.	.
+

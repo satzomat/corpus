@@ -1,0 +1,26 @@
+In	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+Holze	NN.Dat.Sg.Neut	Holz
+wohnte	VVFIN.3.Sg.Past.Ind	wohnen
+ein	ART.Nom.Sg.Masc	ein
+Mann	NN.Nom.Sg.Masc	Mann
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+zwei	CARD	zwei
+Zwillinge	NN.Acc.Pl.Masc	Zwilling
+,	$,	,
+von	APPR	von
+denen	PRELS.Dat.Pl.Masc	der
+war	VAFIN.3.Sg.Past.Ind	sein
+der	ART.Nom.Sg.Masc	der
+eine	PIS.Nom.Sg.Masc	einer
+ein	ART.Nom.Sg.Masc	ein
+Glücksvogel	NN.Nom.Sg.Masc	Glücksvogel
+,	$,	,
+der	ART.Nom.Sg.Masc	der
+andere	PIS.Nom.Sg.Masc	anderer
+ein	ART.Nom.Sg.Masc	ein
+Pechvogel	NN.Nom.Sg.Masc	Pechvogel
+.	$.	.
+

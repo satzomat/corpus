@@ -1,0 +1,10 @@
+Es	PPER.3.Nom.Sg.Neut	es
+ist	VAFIN.3.Sg.Pres.Ind	sein
+am	APPRART.Dat.Sg.Masc	an
+Abend	NN.Dat.Sg.Masc	Abend
+des	ART.Gen.Sg.Neut	der
+Festes	NN.Gen.Sg.Neut	Fest
+Mariä	NE.Nom.Sg.Fem	Mariä
+Himmelfahrt	NE.Nom.Sg.Fem	Himmelfahrt
+.	$.	.
+

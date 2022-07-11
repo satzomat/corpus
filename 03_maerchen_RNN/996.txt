@@ -1,0 +1,17 @@
+Einige	PIAT.Nom.Pl.Neut	einiger
+Kinder	NN.Nom.Pl.Neut	Kind
+verspotteten	VVFIN.3.Pl.Past.Ind	verspotten
+einst	ADV	einst
+einen	ART.Acc.Sg.Masc	ein
+sehr	ADV	sehr
+armselig	ADJD.Pos	armselig
+gekleideten	ADJA.Pos.Acc.Sg.Masc	gekleidet
+Juden	NN.Acc.Sg.Masc	Jude
+,	$,	,
+und	KON	und
+äfften	VVFIN.3.Pl.Past.Subj	äffen
+seine	PPOSAT.Acc.Sg.Fem	sein
+Sprache	NN.Acc.Sg.Fem	Sprache
+nach	PTKVZ	nach
+.	$.	.
+

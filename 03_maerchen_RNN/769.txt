@@ -1,0 +1,23 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Tischler	NN.Nom.Sg.Masc	Tischler
+und	KON	und
+ein	ART.Nom.Sg.Masc	ein
+Goldschmied	NN.Nom.Sg.Masc	Goldschmied
+,	$,	,
+die	PRELS.Nom.Pl.Masc	der
+sprachen	VVFIN.3.Pl.Past.Ind	sprechen
+,	$,	,
+wer	PWS.Nom.Sg.Masc	wer
+wol	ADV	wol
+das	ART.Acc.Sg.Neut	der
+beste	ADJA.Sup.Acc.Sg.Neut	gut
+Kunststück	NN.Acc.Sg.Neut	Kunststück
+von	APPR	von
+ihnen	PPER.3.Dat.Pl.*	ihnen
+machen	VVINF.Inf	machen
+könne	VMFIN.3.Sg.Pres.Subj	können
+.	$.	.
+

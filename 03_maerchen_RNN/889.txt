@@ -1,0 +1,26 @@
+In	APPR	in
+der	ART.Dat.Sg.Fem	der
+Landschaft	NN.Dat.Sg.Fem	Landschaft
+Schnorrwitz	NE.Nom.Sg.Neut	Schnorrwitz
+sind	VAFIN.3.Pl.Pres.Ind	sein
+die	ART.Nom.Pl.*	der
+Leute	NN.Nom.Pl.*	Leute
+zu	PTKA	zu
+spät	ADJD.Pos	spät
+gekommen	VVPP.Psp	kommen
+,	$,	,
+als	KOUS	als
+der	ART.Nom.Sg.Masc	der
+liebe	ADJA.Pos.Nom.Sg.Masc	lieb
+Gott	NN.Nom.Sg.Masc	Gott
+die	ART.Acc.Sg.Fem	der
+Sonne	NN.Acc.Sg.Fem	Sonne
+,	$,	,
+den	ART.Acc.Sg.Masc	der
+Mond	NN.Acc.Sg.Masc	Mond
+und	KON	und
+die	ART.Acc.Pl.Masc	der
+Sterne	NN.Acc.Pl.Masc	Stern
+vertheilte	VVFIN.3.Sg.Past.Ind	vertheilen
+.	$.	.
+

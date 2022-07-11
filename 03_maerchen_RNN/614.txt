@@ -1,0 +1,25 @@
+Es	PPER.3.Nom.Sg.Neut	es
+lebte	VVFIN.3.Sg.Past.Ind	leben
+ein	ART.Nom.Sg.Masc	ein
+reicher	ADJA.Pos.Nom.Sg.Masc	reicher
+,	$,	,
+reicher	ADJA.Pos.Nom.Sg.Masc	reicher
+Kaufmann	NN.Nom.Sg.Masc	Kaufmann
+im	APPRART.Dat.Sg.Neut	in
+Morgenlande	NN.Dat.Sg.Neut	Morgenland
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+ein	ART.Nom.Sg.Masc	ein
+recht	ADV	recht
+sehr	ADV	sehr
+lieber	ADJA.Pos.Nom.Sg.Masc	lieber
+und	KON	und
+guter	ADJA.Pos.Nom.Sg.Masc	guter
+Mann	NN.Nom.Sg.Masc	Mann
+war	VAFIN.3.Sg.Past.Ind	sein
+,	$,	,
+und	KON	und
+Hali	NE.Nom.Sg.*	Hali
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+.	$.	.
+

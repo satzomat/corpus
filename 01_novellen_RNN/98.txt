@@ -1,0 +1,17 @@
+Der	ART.Nom.Sg.Masc	der
+Herbst	NN.Nom.Sg.Masc	Herbst
+war	VAFIN.3.Sg.Past.Ind	sein
+ungewöhnlich	ADJD.Pos	ungewöhnlich
+früh	ADJD.Pos	früh
+gekommen	VVPP.Psp	kommen
+und	KON	und
+hatte	VAFIN.3.Sg.Past.Ind	haben
+mich	PPER.1.Acc.Sg.*	mich
+in	APPR	in
+den	ART.Dat.Pl.Fem	der
+Gebirgsgegenden	NN.Dat.Pl.Fem	Gebirgsgegend
+um	APPR	um
+Berchtesgaden	NN.Acc.Pl.Masc	Berchtesgaden
+überrascht	VVPP.Psp	überraschen
+.	$.	.
+

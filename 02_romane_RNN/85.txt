@@ -1,0 +1,21 @@
+Ich	PPER.1.Nom.Sg.*	ich
+erzähle	VVFIN.1.Sg.Pres.Ind	erzählen
+eine	ART.Acc.Sg.Fem	ein
+Begebenheit	NN.Acc.Sg.Fem	Begebenheit
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+vielen	PIS.Dat.Pl.*	viele
+unglaublich	ADJD.Pos	unglaublich
+ſcheinen	VVINF.Inf	pflichtbewußt
+wird	VAFIN.3.Sg.Pres.Ind	werden
+,	$,	,
+und	KON	und
+von	APPR	von
+der	PRELS.Dat.Sg.Fem	der
+ich	PPER.1.Nom.Sg.*	ich
+großentheils	ADV	großentheils
+ſelbſt	ADJD.Pos	<unk>
+Augenzeuge	NN.Nom.Sg.Masc	Augenzeuge
+war	VAFIN.1.Sg.Past.Ind	sein
+.	$.	.
+

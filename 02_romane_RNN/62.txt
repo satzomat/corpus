@@ -1,0 +1,18 @@
+Die	ART.Nom.Sg.Fem	der
+Mittagsſonne	NN.Nom.Sg.Fem	Mittags<unk>onne
+ſtand	VVFIN.3.Sg.Past.Ind	<unk>
+über	APPR	über
+der	ART.Dat.Sg.Fem	der
+kahlen	ADJA.Pos.Dat.Sg.Fem	kahl
+,	$,	,
+von	APPR	von
+Felshäuptern	NN.Dat.Pl.Neut	Felshaupt
+umragten	ADJA.Pos.Dat.Sg.Fem	umragt
+Höhe	NN.Dat.Sg.Fem	Höhe
+des	ART.Gen.Sg.Masc	der
+Julierpaſſes	NN.Gen.Sg.Masc	Julierpa<unk><unk>
+im	APPRART.Dat.Sg.Neut	in
+Lande	NN.Dat.Sg.Neut	Land
+Bünden	NN.Acc.Pl.Neut	Bünden
+.	$.	.
+

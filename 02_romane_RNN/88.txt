@@ -1,0 +1,27 @@
+Die	ART.Nom.Sg.Fem	der
+bereits	ADV	bereits
+im	APPRART.Dat.Sg.Neut	in
+Weſten	NN.Dat.Sg.Masc	We<unk>ten
+verſinkende	ADJA.Pos.Nom.Sg.Fem	ver<unk>inkend
+Abendſonne	NN.Nom.Sg.Fem	Abend<unk>onne
+verſandte	VVFIN.3.Sg.Past.Ind	ver<unk>enden
+noch	ADV	noch
+gluthgetränkte	ADJA.Pos.Acc.Pl.Masc	gluthgetränkt
+Strahlen	NN.Acc.Pl.Masc	Strahl
+auf	APPR	auf
+die	ART.Acc.Pl.Fem	der
+üppigen	ADJA.Pos.Acc.Pl.Fem	üppig
+Fluren	NN.Acc.Pl.Fem	Flur
+,	$,	,
+in	APPR	in
+denen	PRELS.Dat.Pl.Fem	der
+kein	PIAT.Nom.Sg.Neut	kein
+Laut	NN.Nom.Sg.Neut	Laut
+,	$,	,
+kein	PIAT.Nom.Sg.Masc	kein
+Ton	NN.Nom.Sg.Masc	Ton
+das	ART.Acc.Sg.Neut	der
+Leben	NN.Acc.Sg.Neut	Leben
+verkündete	VVFIN.3.Sg.Past.Ind	verkünden
+.	$.	.
+

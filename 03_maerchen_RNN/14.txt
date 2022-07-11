@@ -1,0 +1,19 @@
+Der	ART.Nom.Sg.Masc	der
+arme	ADJA.Pos.Nom.Sg.Masc	arm
+Johannes	NE.Nom.Sg.Masc	Johannes
+war	VAFIN.3.Sg.Past.Ind	sein
+tief	ADJD.Pos	tief
+betrübt	VVPP.Psp	betrüben
+,	$,	,
+denn	KON	denn
+sein	PPOSAT.Nom.Sg.Masc	sein
+Vater	NN.Nom.Sg.Masc	Vater
+war	VAFIN.3.Sg.Past.Ind	sein
+sehr	ADV	sehr
+krank	ADJD.Pos	krank
+und	KON	und
+konnte	VMFIN.3.Sg.Past.Ind	können
+nicht	PTKNEG	nicht
+genesen	VVINF.Inf	genesen
+.	$.	.
+

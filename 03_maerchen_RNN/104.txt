@@ -1,0 +1,24 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+einmal	ADV	einmal
+drei	CARD	drei
+Brüder	NN.Nom.Pl.Masc	Bruder
+,	$,	,
+von	APPR	von
+denen	PRELS.Dat.Pl.Masc	der
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+der	ART.Nom.Sg.Masc	der
+älteste	ADJA.Sup.Nom.Sg.Masc	alt
+Jacob	NN.Nom.Sg.Masc	Jacob
+,	$,	,
+der	ART.Nom.Sg.Masc	der
+zweite	ADJA.Pos.Nom.Sg.Masc	zweiter
+Friedrich	NN.Nom.Sg.Masc	Friedrich
+und	KON	und
+der	ART.Nom.Sg.Masc	der
+dritte	ADJA.Pos.Nom.Sg.Masc	dritter
+und	KON	und
+jüngste	ADJA.Sup.Nom.Sg.Masc	jung
+Gottfried	NN.Nom.Sg.Masc	Gottfried
+.	$.	.
+

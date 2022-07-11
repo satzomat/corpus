@@ -1,0 +1,18 @@
+In	APPR	in
+ein	ART.Acc.Sg.Neut	ein
+Wirtshaus	NN.Acc.Sg.Neut	Wirtshaus
+auf	APPR	auf
+einsamer	ADJA.Pos.Dat.Sg.Fem	einsamer
+Heide	NN.Dat.Sg.Fem	Heide
+im	APPRART.Dat.Sg.Masc	in
+Norden	NN.Dat.Sg.Masc	Norden
+trat	VVFIN.3.Sg.Past.Ind	treten
+eines	ART.Gen.Sg.Masc	ein
+Tages	NN.Gen.Sg.Masc	Tag
+ein	ART.Nom.Sg.Masc	ein
+Mann	NN.Nom.Sg.Masc	Mann
+von	APPR	von
+ernstem	ADJA.Pos.Dat.Sg.Neut	ernstem
+Aussehen	NN.Dat.Sg.Neut	Aussehen
+.	$.	.
+

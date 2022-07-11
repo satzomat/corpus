@@ -1,0 +1,19 @@
+Margarethe	NE.Nom.Sg.*	Margarethe
+spann	VVFIN.3.Sg.Past.Ind	spinnen
+und	KON	und
+spann	VVFIN.3.Sg.Past.Ind	spinnen
+den	ART.Acc.Sg.Masc	der
+ganzen	ADJA.Pos.Acc.Sg.Masc	ganz
+Tag	NN.Acc.Sg.Masc	Tag
+mit	APPR	mit
+angestrengtem	ADJA.Pos.Dat.Sg.Masc	angestrengtem
+Fleiß	NN.Dat.Sg.Masc	Fleiß
+,	$,	,
+um	KOUI	um
+ihre	PPOSAT.Acc.Sg.Fem	ihr
+kranke	ADJA.Pos.Acc.Sg.Fem	krank
+Mutter	NN.Acc.Sg.Fem	Mutter
+zu	PTKZU	zu
+ernähren	VVINF.Inf	ernähren
+.	$.	.
+

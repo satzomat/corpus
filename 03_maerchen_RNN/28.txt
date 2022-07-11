@@ -1,0 +1,26 @@
+Einige	PIAT.Nom.Pl.Fem	einiger
+große	ADJA.Pos.Nom.Pl.Fem	groß
+Eidechsen	NN.Nom.Pl.Neut	Eidechsen
+liefen	VVFIN.3.Pl.Past.Ind	laufen
+schnellfüßig	ADJD.Pos	schnellfüßig
+in	APPR	in
+den	ART.Dat.Pl.Fem	der
+Spalten	NN.Dat.Pl.Fem	Spalte
+eines	ART.Gen.Sg.Masc	ein
+alten	ADJA.Pos.Gen.Sg.Masc	alt
+Baumes	NN.Gen.Sg.Masc	Baum
+umher	PTKVZ	umher
+;	$.	;
+sie	PPER.3.Nom.Pl.Fem	sie
+konnten	VMFIN.3.Pl.Past.Ind	können
+einander	ADV	einander
+gut	ADJD.Pos	gut
+verstehen	VVINF.Inf	verstehen
+,	$,	,
+denn	KON	denn
+sie	PPER.3.Nom.Pl.Fem	sie
+sprachen	VVFIN.3.Pl.Past.Ind	sprechen
+die	ART.Acc.Sg.Fem	der
+Eidechsensprache	NN.Acc.Sg.Fem	Eidechsensprache
+.	$.	.
+

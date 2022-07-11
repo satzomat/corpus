@@ -1,0 +1,22 @@
+Ein	ART.Nom.Sg.Masc	ein
+reicher	ADJA.Pos.Nom.Sg.Masc	reicher
+Kaufmann	NN.Nom.Sg.Masc	Kaufmann
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+schöne	ADJA.Pos.Acc.Pl.Fem	schön
+Töchter	NN.Acc.Pl.Fem	Tochter
+,	$,	,
+da	ADV	da
+erschien	VVFIN.3.Sg.Past.Ind	erscheinen
+ein	ART.Nom.Sg.Masc	ein
+junger	ADJA.Pos.Nom.Sg.Masc	junger
+hübscher	ADJA.Pos.Nom.Sg.Masc	hübscher
+Graf	NN.Nom.Sg.Masc	Graf
+und	KON	und
+hielt	VVFIN.3.Sg.Past.Ind	halten
+um	APPR	um
+die	ART.Acc.Sg.Fem	der
+jüngste	ADJA.Sup.Acc.Sg.Fem	jung
+an	PTKVZ	an
+.	$.	.
+

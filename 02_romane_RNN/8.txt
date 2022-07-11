@@ -1,0 +1,16 @@
+Es	PPER.3.Nom.Sg.Neut	es
+gab	VVFIN.3.Sg.Past.Ind	geben
+gerade	ADV	gerade
+die	ART.Acc.Sg.Fem	der
+Zeit	NN.Acc.Sg.Fem	Zeit
+um	APPR	um
+die	ART.Acc.Sg.Fem	der
+vierte	ADJA.Pos.Acc.Sg.Fem	vierte
+und	KON	und
+fünfte	ADJA.Pos.Acc.Sg.Fem	fünfte
+Nachmittagsſtunde	NN.Acc.Sg.Fem	Nachmittags<unk>tunde
+an	APPR	an
+einem	ART.Dat.Sg.Masc	ein
+Märztage	NN.Dat.Sg.Masc	Märztag
+.	$.	.
+

@@ -1,0 +1,27 @@
+Ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Besenbinder	NN.Nom.Sg.Masc	Besenbinder
+hatte	VAFIN.3.Sg.Past.Ind	haben
+zwei	CARD	zwei
+Söhne	NN.Acc.Pl.Masc	Sohn
+und	KON	und
+eine	ART.Acc.Sg.Fem	ein
+Tochter	NN.Acc.Sg.Fem	Tochter
+,	$,	,
+und	KON	und
+mußte	VMFIN.3.Sg.Past.Ind	müssen
+sich	PRF.3.Acc.Sg	sich
+sehr	ADV	sehr
+kümmerlich	ADJD.Pos	kümmerlich
+mit	APPR	mit
+ihnen	PPER.3.Dat.Pl.*	ihnen
+behelfen	VVINF.Inf	behelfen
+:	$.	:
+denn	KON	denn
+sein	PPOSAT.Nom.Sg.Masc	sein
+Verdienst	NN.Nom.Sg.Masc	Verdienst
+war	VAFIN.3.Sg.Past.Ind	sein
+nur	ADV	nur
+gering	ADJD.Pos	gering
+.	$.	.
+

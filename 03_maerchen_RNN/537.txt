@@ -1,0 +1,24 @@
+Einst	ADV	einst
+hatte	VAFIN.3.Sg.Past.Ind	haben
+ein	ART.Nom.Sg.Masc	ein
+Schmied	NN.Nom.Sg.Masc	Schmied
+ein	ART.Acc.Sg.Neut	ein
+Bündniß	NN.Acc.Sg.Neut	Bündniß
+mit	APPR	mit
+dem	ART.Dat.Sg.Masc	der
+Teufel	NN.Dat.Sg.Masc	Teufel
+gemacht	VVPP.Psp	machen
+,	$,	,
+er	PPER.3.Nom.Sg.Masc	er
+solle	VMFIN.3.Sg.Pres.Subj	sollen
+ihm	PPER.3.Dat.Sg.Masc	ihm
+zehn	CARD	zehn
+Jahre	NN.Acc.Pl.Neut	Jahr
+dienen	VVINF.Inf	dienen
+und	KON	und
+dann	ADV	dann
+seine	PPOSAT.Acc.Sg.Fem	sein
+Seele	NN.Acc.Sg.Fem	Seele
+haben	VAINF.Inf	haben
+.	$.	.
+

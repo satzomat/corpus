@@ -1,0 +1,27 @@
+So	ADV	so
+ist	VAFIN.3.Sg.Pres.Ind	sein
+denn	ADV	denn
+auch	ADV	auch
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+gewesen	VAPP.Psp	sein
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hat	VAFIN.3.Sg.Pres.Ind	haben
+Lust	NN.Acc.Sg.Fem	Lust
+gehabt	VAPP.Psp	haben
+Fische	NN.Acc.Pl.Masc	Fisch
+zu	PTKZU	zu
+essen	VVINF.Inf	essen
+und	KON	und
+befiehlt	VVFIN.3.Sg.Pres.Ind	befehlen
+seinem	PPOSAT.Dat.Sg.Masc	sein
+Fischermeister	NN.Dat.Sg.Masc	Fischermeister
+,	$,	,
+er	PPER.3.Nom.Sg.Masc	er
+solle	VMFIN.3.Sg.Pres.Subj	sollen
+Fische	NN.Acc.Pl.Masc	Fisch
+fangen	VVINF.Inf	fangen
+.	$.	.
+

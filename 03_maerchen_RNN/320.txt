@@ -1,0 +1,20 @@
+In	APPR	in
+einer	ART.Dat.Sg.Fem	ein
+Mühle	NN.Dat.Sg.Fem	Mühle
+dienten	VVFIN.3.Pl.Past.Ind	dienen
+einmal	ADV	einmal
+drei	CARD	drei
+Müllerbursche	NN.Nom.Pl.Masc	Müllerbursch
+,	$,	,
+worin	PWAV	worin
+nur	ADV	nur
+ein	ART.Nom.Sg.Masc	ein
+alter	ADJA.Pos.Nom.Sg.Masc	alter
+Müller	NN.Nom.Sg.Masc	Müller
+lebte	VVFIN.3.Sg.Past.Ind	leben
+ohne	APPR	ohne
+Frau	NN.Acc.Sg.Fem	Frau
+und	KON	und
+Kind	NN.Acc.Sg.Neut	Kind
+.	$.	.
+

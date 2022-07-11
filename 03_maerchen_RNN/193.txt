@@ -1,0 +1,13 @@
+Es	PPER.3.Nom.Sg.Neut	es
+ist	VAFIN.3.Sg.Pres.Ind	sein
+nun	ADV	nun
+schon	ADV	schon
+lang	ADJD.Pos	lang
+her	PTKVZ	her
+,	$,	,
+wohl	ADV	wohl
+viel	PIAT.*.*.*	viel
+hundert	CARD	hundert
+Jahr	NN.Acc.Sg.Neut	Jahr
+.	$.	.
+

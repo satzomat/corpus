@@ -1,0 +1,21 @@
+Ein	ART.Nom.Sg.Masc	ein
+Müller	NN.Nom.Sg.Masc	Müller
+starb	VVFIN.3.Sg.Past.Ind	sterben
+und	KON	und
+hinterließ	VVFIN.3.Sg.Past.Ind	hinterlassen
+seinen	PPOSAT.Dat.Pl.Masc	sein
+drei	CARD	drei
+Söhnen	NN.Dat.Pl.Masc	Sohn
+eine	ART.Acc.Sg.Fem	ein
+kleine	ADJA.Pos.Acc.Sg.Fem	kleine
+Mühle	NN.Acc.Sg.Fem	Mühle
+,	$,	,
+einen	ART.Acc.Sg.Masc	ein
+tüchtigen	ADJA.Pos.Acc.Sg.Masc	tüchtig
+Esel	NN.Acc.Sg.Masc	Esel
+,	$,	,
+und	KON	und
+einen	ART.Acc.Sg.Masc	ein
+Kater	NN.Acc.Sg.Masc	Kater
+.	$.	.
+

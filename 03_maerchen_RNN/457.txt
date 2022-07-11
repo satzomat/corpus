@@ -1,0 +1,23 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+,	$,	,
+der	PDS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+großen	ADJA.Pos.Acc.Sg.Masc	groß
+Wald	NN.Acc.Sg.Masc	Wald
+bei	APPR	bei
+seinem	PPOSAT.Dat.Sg.Neut	sein
+Schloß	NN.Dat.Sg.Neut	Schloß
+,	$,	,
+darin	PROAV	darin
+lief	VVFIN.3.Sg.Past.Ind	laufen
+Wild	NN.Nom.Sg.Masc	Wild
+aller	PIAT.Dat.Sg.Fem	aller
+Art	NN.Gen.Sg.Fem	Art
+herum	PTKVZ	herum
+.	$.	.
+

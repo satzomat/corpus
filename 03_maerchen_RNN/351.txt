@@ -1,0 +1,27 @@
+Es	PPER.3.Acc.Sg.Neut	es
+lebte	VVFIN.3.Sg.Past.Ind	leben
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+und	KON	und
+eine	ART.Nom.Sg.Fem	ein
+Königin	NN.Nom.Sg.Fem	Königin
+,	$,	,
+die	PDS.Nom.Pl.*	der
+waren	VAFIN.3.Pl.Past.Ind	sein
+reich	ADJD.Pos	reich
+,	$,	,
+und	KON	und
+hatten	VAFIN.3.Pl.Past.Ind	haben
+alles	PIS.Acc.Sg.Neut	alle
+,	$,	,
+was	PRELS.Acc.Sg.Neut	was
+sie	PPER.3.Nom.Pl.*	sie
+sich	PRF.3.Acc.Pl	sich
+wünschten	VVFIN.3.Pl.Past.Ind	wünschen
+,	$,	,
+nur	ADV	nur
+keine	PIAT.Acc.Pl.Neut	kein
+Kinder	NN.Acc.Pl.Neut	Kind
+.	$.	.
+

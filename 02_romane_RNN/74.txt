@@ -1,0 +1,13 @@
+Der	ART.Nom.Sg.Masc	der
+Großbauer	NN.Nom.Sg.Masc	Großbauer
+Traugott	NE.Nom.Sg.Masc	Traugott
+Büttner	NE.Nom.Sg.Masc	Büttner
+ging	VVFIN.3.Sg.Past.Ind	gehen
+mit	APPR	mit
+ſeinen	PPOSAT.Dat.Pl.Masc	<unk>
+zwei	CARD	zwei
+Söhnen	NN.Dat.Pl.Masc	Sohn
+zur	APPRART.Dat.Sg.Fem	zu
+Kirche	NN.Dat.Sg.Fem	Kirche
+.	$.	.
+

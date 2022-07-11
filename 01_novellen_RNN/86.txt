@@ -1,0 +1,16 @@
+Hinter	APPR	hinter
+dem	ART.Dat.Sg.Neut	der
+Hause	NN.Dat.Sg.Neut	Haus
+Scholastika's	NE.Gen.Sg.Neut	Scholastika
+erhebt	VVFIN.3.Sg.Pres.Ind	erheben
+sich	PRF.3.Acc.Sg	sich
+ein	ART.Nom.Sg.Masc	ein
+steiler	ADJA.Pos.Nom.Sg.Masc	steiler
+,	$,	,
+waldiger	ADJA.Pos.Nom.Sg.Masc	waldiger
+Berg	NN.Nom.Sg.Masc	Berg
+,	$,	,
+der	ART.Nom.Sg.Masc	der
+Unutz	NN.Nom.Sg.Masc	Unutz
+.	$.	.
+

@@ -1,0 +1,22 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+Mutter	NN.Nom.Sg.Fem	Mutter
+mit	APPR	mit
+einem	ART.Dat.Sg.Neut	ein
+Töchterchen	NN.Dat.Sg.Neut	Töchterchen
+,	$,	,
+das	PDS.Nom.Sg.Neut	der
+war	VAFIN.3.Sg.Past.Ind	sein
+noch	ADV	noch
+klein	ADJD.Pos	klein
+und	KON	und
+wurde	VAFIN.3.Sg.Past.Ind	werden
+noch	ADV	noch
+auf	APPR	auf
+dem	ART.Dat.Sg.Masc	der
+Arm	NN.Dat.Sg.Masc	Arm
+getragen	VVPP.Psp	tragen
+.	$.	.
+

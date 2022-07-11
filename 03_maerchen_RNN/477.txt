@@ -1,0 +1,27 @@
+Ganz	ADV	ganz
+anders	ADV	anders
+als	KOKOM	als
+der	ART.Nom.Sg.Masc	der
+faule	ADJA.Pos.Nom.Sg.Masc	faul
+Heinz	NE.Nom.Sg.Masc	Heinz
+und	KON	und
+die	ART.Nom.Sg.Fem	der
+dicke	ADJA.Pos.Nom.Sg.Fem	dicke
+Trine	NN.Nom.Sg.Fem	Trine
+,	$,	,
+die	PRELS.Nom.Pl.*	der
+sich	PRF.3.Acc.Pl	sich
+von	APPR	von
+nichts	PIS.*.*.Neut	nichts
+aus	APPR	aus
+ihrer	PPOSAT.Dat.Sg.Fem	ihr
+Ruhe	NN.Dat.Sg.Fem	Ruhe
+bringen	VVINF.Inf	bringen
+ließen	VVFIN.3.Pl.Past.Ind	lassen
+,	$,	,
+dachte	VVFIN.3.Sg.Past.Ind	denken
+die	ART.Nom.Sg.Fem	der
+hagere	ADJA.Comp.Nom.Sg.Fem	hag
+Liese	NN.Nom.Sg.Fem	Liese
+.	$.	.
+

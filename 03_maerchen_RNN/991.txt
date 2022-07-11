@@ -1,0 +1,20 @@
+Es	PPER.3.Nom.Sg.Neut	es
+wüthete	VVFIN.3.Sg.Past.Ind	wüthen
+einst	ADV	einst
+ein	ART.Nom.Sg.Masc	ein
+recht	ADJD.Pos	recht
+langwieriger	ADJA.Pos.Nom.Sg.Masc	langwieriger
+und	KON	und
+furchtbarer	ADJA.Pos.Nom.Sg.Masc	furchtbarer
+Krieg	NN.Nom.Sg.Masc	Krieg
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+viele	PIAT.Acc.Pl.Masc	vieler
+Menschen	NN.Acc.Pl.Masc	Mensch
+in	APPR	in
+die	ART.Acc.Sg.Fem	der
+bitterste	ADJA.Sup.Acc.Sg.Fem	bitter
+Armuth	NN.Acc.Sg.Fem	Armuth
+stürzte	VVFIN.3.Sg.Past.Ind	stürzen
+.	$.	.
+

@@ -1,0 +1,11 @@
+In	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+Dorfe	NN.Dat.Sg.Neut	Dorf
+mußte	VMFIN.3.Sg.Past.Ind	müssen
+ein	ART.Nom.Sg.Masc	ein
+neuer	ADJA.Pos.Nom.Sg.Masc	neuer
+Schultheiß	NN.Nom.Sg.Masc	Schultheiß
+gewählt	VVPP.Psp	wählen
+werden	VAINF.Inf	werden
+.	$.	.
+

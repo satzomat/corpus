@@ -1,0 +1,27 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+vor	APPR	vor
+Zeiten	NN.Dat.Pl.Fem	Zeit
+ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+schönen	ADJA.Pos.Acc.Sg.Masc	schön
+Lustgarten	NN.Acc.Sg.Masc	Lustgarten
+hinter	APPR	hinter
+seinem	PPOSAT.Dat.Sg.Neut	sein
+Schloß	NN.Dat.Sg.Neut	Schloß
+,	$,	,
+darin	PROAV	darin
+stand	VVFIN.3.Sg.Past.Ind	stehen
+ein	ART.Nom.Sg.Masc	ein
+Baum	NN.Nom.Sg.Masc	Baum
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+goldene	ADJA.Pos.Acc.Pl.Masc	golden
+Äpfel	NN.Acc.Pl.Masc	Apfel
+trug	VVFIN.3.Sg.Past.Ind	tragen
+.	$.	.
+

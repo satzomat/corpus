@@ -1,0 +1,12 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+in	APPR	in
+einer	ART.Dat.Sg.Fem	ein
+Stadt	NN.Dat.Sg.Fem	Stadt
+ein	ART.Nom.Sg.Neut	ein
+wunderschönes	ADJA.Pos.Nom.Sg.Neut	wunderschönes
+aber	ADV	aber
+armes	ADJA.Pos.Nom.Sg.Neut	armes
+Mädchen	NN.Nom.Sg.Neut	Mädchen
+.	$.	.
+

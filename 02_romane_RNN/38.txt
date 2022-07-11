@@ -1,0 +1,8 @@
+Die	ART.Nom.Pl.Fem	der
+Linden	NN.Nom.Pl.Fem	Linde
+ſtanden	VVFIN.3.Pl.Past.Ind	<unk>
+in	APPR	in
+voller	ADJA.Pos.Dat.Sg.Fem	voller
+Bluͤthe	NN.Dat.Sg.Fem	Blu<unk>the
+.	$.	.
+

@@ -1,0 +1,20 @@
+Ein	ART.Nom.Sg.Masc	ein
+Schuhmacher	NN.Nom.Sg.Masc	Schuhmacher
+,	$,	,
+ein	ART.Nom.Sg.Masc	ein
+Schneider	NN.Nom.Sg.Masc	Schneider
+und	KON	und
+ein	ART.Nom.Sg.Masc	ein
+Tischler	NN.Nom.Sg.Masc	Tischler
+wanderten	VVFIN.3.Pl.Past.Ind	wandern
+mit	APPR	mit
+einander	ADV	einander
+und	KON	und
+verirrten	VVFIN.3.Pl.Past.Ind	verirren
+sich	PRF.3.Acc.Pl	sich
+in	APPR	in
+einem	ART.Dat.Sg.Masc	ein
+großen	ADJA.Pos.Dat.Sg.Masc	groß
+Walde	NN.Dat.Sg.Masc	Wald
+.	$.	.
+

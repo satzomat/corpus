@@ -1,0 +1,21 @@
+Im	APPRART.Dat.Sg.Neut	in
+Städtlein	NN.Dat.Sg.Neut	Städtlein
+Jüterbogk	NE.Nom.Sg.Neut	Jüterbogk
+hat	VAFIN.3.Sg.Pres.Ind	haben
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Schmied	NN.Nom.Sg.Masc	Schmied
+gelebt	VVPP.Psp	leben
+,	$,	,
+von	APPR	von
+dem	PRELS.Dat.Sg.Masc	der
+erzählen	VVFIN.3.Pl.Pres.Ind	erzählen
+sich	PRF.3.Acc.Pl	sich
+Kinder	NN.Nom.Pl.Neut	Kind
+und	KON	und
+Alte	NN.Nom.Pl.*	Alte
+ein	ART.Acc.Sg.Neut	ein
+wundersames	ADJA.Pos.Nom.Sg.Neut	wundersames
+Märlein	NN.Nom.Sg.Neut	Märlein
+.	$.	.
+

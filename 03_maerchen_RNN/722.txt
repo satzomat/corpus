@@ -1,0 +1,23 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+einmal	ADV	einmal
+drei	CARD	drei
+Schwestern	NN.Nom.Pl.Fem	Schwester
+;	$.	;
+die	ART.Nom.Sg.Fem	der
+eine	PIS.Nom.Sg.Fem	einer
+starb	VVFIN.3.Sg.Past.Ind	sterben
+am	APPRART.Dat.Sg.Masc	an
+Abend	NN.Dat.Sg.Masc	Abend
+,	$,	,
+die	ART.Nom.Sg.Fem	der
+andre	ADJA.Pos.Nom.Sg.Fem	andrerer
+um	APPR	um
+Mitternacht	NN.Acc.Sg.Fem	Mitternacht
+und	KON	und
+die	PDS.Nom.Sg.Fem	der
+dritte	ADJA.Pos.Nom.Sg.Fem	dritte
+am	APPRART.Dat.Sg.Masc	an
+Morgen	NN.Dat.Sg.Masc	Morgen
+.	$.	.
+

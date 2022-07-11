@@ -1,0 +1,24 @@
+Ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+drei	CARD	drei
+Söhne	NN.Acc.Pl.Masc	Sohn
+hatte	VAFIN.3.Sg.Past.Ind	haben
+,	$,	,
+wurde	VAFIN.3.Sg.Past.Ind	werden
+so	ADV	so
+krank	ADJD.Pos	krank
+,	$,	,
+so	ADV	so
+sehr	ADV	sehr
+krank	ADJD.Pos	krank
+,	$,	,
+daß	KOUS	daß
+keine	PIAT.Nom.Pl.Fem	kein
+Arztneien	NN.Nom.Pl.Fem	Arztnei
+mehr	ADV	mehr
+helfen	VVINF.Inf	helfen
+wollten	VMFIN.3.Pl.Past.Ind	wollen
+.	$.	.
+

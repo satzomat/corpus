@@ -1,0 +1,14 @@
+Ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+hatte	VAFIN.3.Sg.Past.Ind	haben
+sich	PRF.3.Acc.Sg	sich
+lange	ADV	lange
+besonnen	VVPP.Psp	besinnen
+,	$,	,
+wem	PWS.Dat.Sg.*	wem
+er	PPER.3.Nom.Sg.Masc	er
+wohl	ADV	wohl
+heirathen	VVINF.Inf	heirathen
+sollte	VMFIN.3.Sg.Past.Ind	sollen
+.	$.	.
+

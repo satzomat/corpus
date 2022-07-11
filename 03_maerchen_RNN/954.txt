@@ -1,0 +1,21 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+amal	ADV	amal
+a	FM	a
+Frau	NN.Nom.Sg.Fem	Frau
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+war	VAFIN.3.Sg.Past.Ind	sein
+krank	ADJD.Pos	krank
+und	KON	und
+etz	ADV	etz
+hat	VAFIN.3.Sg.Pres.Ind	haben
+dr	NE.*.*.*	dr
+Mo	FM	Mo
+a	FM	a
+greicherts	ADV	greicherts
+Fleisch	NN.Acc.Sg.Neut	Fleisch
+holn	VVINF.Inf	holen
+müssn	VMINF.Inf	müssen
+.	$.	.
+

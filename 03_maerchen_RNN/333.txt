@@ -1,0 +1,23 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+drei	CARD	drei
+Handwerkspursche	NN.Nom.Pl.Masc	Handwerkspursch
+,	$,	,
+die	PRELS.Nom.Pl.Masc	der
+hatten	VAFIN.3.Pl.Past.Ind	haben
+es	PPER.3.Acc.Sg.Neut	es
+verabredet	VVPP.Psp	verabreden
+,	$,	,
+immer	ADV	immer
+mit	APPR	mit
+einander	ADV	einander
+zu	PTKZU	zu
+wandern	VVINF.Inf	wandern
+und	KON	und
+in	APPR	in
+Einer	ART.Dat.Sg.Fem	ein
+Stadt	NN.Dat.Sg.Fem	Stadt
+zu	PTKZU	zu
+arbeiten	VVINF.Inf	arbeiten
+.	$.	.
+

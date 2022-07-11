@@ -1,0 +1,19 @@
+Es	PPER.3.Nom.Sg.Neut	es
+lebten	VVFIN.3.Pl.Past.Subj	leben
+in	APPR	in
+einer	ART.Dat.Sg.Fem	ein
+persischen	ADJA.Pos.Dat.Sg.Fem	persisch
+Stadt	NN.Dat.Sg.Fem	Stadt
+zwei	CARD	zwei
+Brüder	NN.Nom.Pl.Masc	Bruder
+,	$,	,
+welchen	PRELS.Acc.Pl.Masc	welcher
+der	ART.Nom.Sg.Masc	der
+Vater	NN.Nom.Sg.Masc	Vater
+fast	ADV	fast
+gar	ADV	gar
+nichts	PIS.*.*.Neut	nichts
+hinterlassen	VVPP.Psp	hinterlassen
+hatte	VAFIN.3.Sg.Past.Ind	haben
+.	$.	.
+

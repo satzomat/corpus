@@ -1,0 +1,21 @@
+Ein	ART.Nom.Sg.Neut	ein
+junges	ADJA.Pos.Nom.Sg.Neut	jung
+Mädchen	NN.Nom.Sg.Neut	Mädchen
+erhielt	VVFIN.3.Sg.Past.Ind	erhalten
+von	APPR	von
+ihrer	PPOSAT.Dat.Sg.Fem	ihr
+Mutter	NN.Dat.Sg.Fem	Mutter
+eine	ART.Acc.Sg.Fem	ein
+schöne	ADJA.Pos.Acc.Sg.Fem	schön
+rot	ADJD.Pos	rot
+und	KON	und
+weiß	VVFIN.3.Sg.Pres.Ind	wissen
+marmorierte	ADJA.Pos.Acc.Sg.Fem	marmoriert
+Seifenkugel	NN.Acc.Sg.Fem	Seifenkugel
+geschenkt	VVPP.Psp	schenken
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+wunderlieblich	ADJD.Pos	wunderlieblich
+duftete	VVFIN.3.Sg.Past.Ind	duften
+.	$.	.
+

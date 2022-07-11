@@ -1,0 +1,13 @@
+Eine	ART.Nom.Sg.Fem	ein
+Maus	NN.Nom.Sg.Fem	Maus
+,	$,	,
+eine	ART.Nom.Sg.Fem	ein
+Wurst	NN.Nom.Sg.Fem	Wurst
+und	KON	und
+ein	ART.Nom.Sg.Masc	ein
+Frosch	NN.Nom.Sg.Masc	Frosch
+hielten	VVFIN.3.Pl.Past.Ind	halten
+zusammen	ADV	zusammen
+Haus	NN.Acc.Sg.Neut	Haus
+.	$.	.
+

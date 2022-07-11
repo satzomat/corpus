@@ -1,0 +1,18 @@
+Es	PPER.3.Nom.Sg.Neut	es
+lebten	VVFIN.3.Pl.Past.Ind	leben
+einmal	ADV	einmal
+zwei	CARD	zwei
+Brüder	NN.Nom.Pl.Masc	Bruder
+,	$,	,
+Rosimond	NE.Nom.Sg.*	Rosimond
+und	KON	und
+Bramint	NE.Nom.Sg.*	Bramint
+,	$,	,
+die	PRELS.Nom.Pl.*	der
+sich	PRF.3.Acc.Pl	sich
+aber	ADV	aber
+sehr	ADV	sehr
+ungleich	ADJD.Pos	ungleich
+waren	VAFIN.3.Pl.Past.Ind	sein
+.	$.	.
+

@@ -1,0 +1,14 @@
+In	APPR	in
+meiner	PPOSAT.Dat.Sg.Fem	mein
+Jugend	NN.Dat.Sg.Fem	Jugend
+faßte	VVFIN.1.Sg.Past.Ind	fassen
+ich	PPER.1.Nom.Sg.*	ich
+den	ART.Acc.Sg.Masc	der
+Entschluß	NN.Acc.Sg.Masc	Entschluß
+,	$,	,
+die	ART.Acc.Sg.Fem	der
+Welt	NN.Acc.Sg.Fem	Welt
+zu	PTKZU	zu
+besehen	VVINF.Inf	besehen
+.	$.	.
+

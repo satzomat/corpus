@@ -1,0 +1,21 @@
+In	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+Dorfe	NN.Dat.Sg.Neut	Dorf
+wohnte	VVFIN.3.Sg.Past.Ind	wohnen
+eine	ART.Nom.Sg.Fem	ein
+arme	ADJA.Pos.Nom.Sg.Fem	arm
+alte	ADJA.Pos.Nom.Sg.Fem	alt
+Frau	NN.Nom.Sg.Fem	Frau
+,	$,	,
+die	PRELS.Acc.Sg.Fem	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+ein	ART.Acc.Sg.Neut	ein
+Gericht	NN.Acc.Sg.Neut	Gericht
+Bohnen	NN.Acc.Pl.Fem	Bohne
+zusammengebracht	VVPP.Psp	zusammenbringen
+und	KON	und
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+sie	PPER.3.Acc.Sg.Fem	sie
+kochen	VVINF.Inf	kochen
+.	$.	.
+

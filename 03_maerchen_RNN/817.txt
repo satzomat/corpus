@@ -1,0 +1,9 @@
+Ein	ART.Nom.Sg.Masc	ein
+kluger	ADJA.Pos.Nom.Sg.Masc	kluger
+Mann	NN.Nom.Sg.Masc	Mann
+hatte	VAFIN.3.Sg.Past.Ind	haben
+eine	ART.Acc.Sg.Fem	ein
+dämliche	ADJA.Pos.Acc.Sg.Fem	dämliche
+Frau	NN.Acc.Sg.Fem	Frau
+.	$.	.
+

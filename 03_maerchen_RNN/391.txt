@@ -1,0 +1,17 @@
+Vor	APPR	vor
+Zeiten	NN.Dat.Pl.Fem	Zeit
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+Schneider	NN.Nom.Sg.Masc	Schneider
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+drei	CARD	drei
+Söhne	NN.Acc.Pl.Masc	Sohn
+hatte	VAFIN.3.Sg.Past.Ind	haben
+und	KON	und
+nur	ADV	nur
+eine	ART.Acc.Sg.Fem	ein
+einzige	ADJA.Pos.Nom.Sg.Fem	einziger
+Ziege	NN.Nom.Sg.Fem	Ziege
+.	$.	.
+

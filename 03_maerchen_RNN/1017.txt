@@ -1,0 +1,20 @@
+In	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+Dorfe	NN.Dat.Sg.Neut	Dorf
+lebte	VVFIN.3.Sg.Past.Ind	leben
+ein	ART.Nom.Sg.Neut	ein
+sehr	ADV	sehr
+hübsches	ADJA.Pos.Nom.Sg.Neut	hübsche
+,	$,	,
+junges	ADJA.Pos.Nom.Sg.Neut	jung
+Landmädchen	NN.Nom.Sg.Neut	Landmädchen
+,	$,	,
+das	PRELS.Nom.Sg.Neut	der
+seinen	PPOSAT.Dat.Pl.*	sein
+Eltern	NN.Dat.Pl.*	Eltern
+im	APPRART.Dat.Sg.Masc	in
+Haushalt	NN.Dat.Sg.Masc	Haushalt
+behilflich	ADJD.Pos	behilflich
+war	VAFIN.3.Sg.Past.Ind	sein
+.	$.	.
+

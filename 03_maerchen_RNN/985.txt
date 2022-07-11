@@ -1,0 +1,20 @@
+Wilhelm	NE.Nom.Sg.Masc	Wilhelm
+,	$,	,
+ein	ART.Nom.Sg.Masc	ein
+achtjähriger	ADJA.Pos.Nom.Sg.Masc	achtjähriger
+Knabe	NN.Nom.Sg.Masc	Knabe
+,	$,	,
+fand	VVFIN.3.Sg.Past.Ind	finden
+ein	ART.Acc.Sg.Neut	ein
+großes	ADJA.Pos.Acc.Sg.Neut	große
+Vergnügen	NN.Acc.Sg.Neut	Vergnügen
+daran	PROAV	daran
+ein	ART.Acc.Sg.Neut	ein
+Pferd	NN.Acc.Sg.Neut	Pferd
+zu	PTKZU	zu
+besteigen	VVINF.Inf	besteigen
+und	KON	und
+zu	PTKZU	zu
+reiten	VVINF.Inf	reiten
+.	$.	.
+

@@ -1,0 +1,12 @@
+Ein	ART.Nom.Sg.Masc	ein
+Schmied	NN.Nom.Sg.Masc	Schmied
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Söhne	NN.Acc.Pl.Masc	Sohn
+,	$,	,
+die	PRELS.Nom.Pl.Masc	der
+dienten	VVFIN.3.Pl.Past.Subj	dienen
+dem	ART.Dat.Sg.Masc	der
+Könige	NN.Dat.Sg.Masc	König
+.	$.	.
+

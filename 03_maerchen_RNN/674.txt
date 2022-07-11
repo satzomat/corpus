@@ -1,0 +1,26 @@
+Ein	ART.Nom.Sg.Masc	ein
+Wirth	NN.Nom.Sg.Masc	Wirth
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+einzigen	ADJA.Pos.Acc.Sg.Masc	einziger
+Sohn	NN.Acc.Sg.Masc	Sohn
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+Hans	NE.Nom.Sg.Masc	Hans
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+mochte	VVFIN.3.Sg.Past.Ind	mögen
+nichts	PIS.*.*.Neut	nichts
+arbeiten	VVINF.Inf	arbeiten
+und	KON	und
+nichts	PIS.*.*.Neut	nichts
+lernen	VVINF.Inf	lernen
+und	KON	und
+blieb	VVFIN.3.Sg.Past.Ind	bleiben
+in	APPR	in
+allen	PIAT.Dat.Pl.Neut	aller
+Dingen	NN.Dat.Pl.Neut	Ding
+dumm	ADJD.Pos	dumm
+.	$.	.
+

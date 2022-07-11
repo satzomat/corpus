@@ -1,0 +1,27 @@
+Es	PPER.3.Acc.Sg.Neut	es
+jagte	VVFIN.3.Sg.Past.Ind	jagen
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+in	APPR	in
+einem	ART.Dat.Sg.Masc	ein
+großen	ADJA.Pos.Dat.Sg.Masc	groß
+Wald	NN.Dat.Sg.Masc	Wald
+und	KON	und
+jagte	VVFIN.3.Sg.Past.Ind	jagen
+einem	ART.Dat.Sg.Masc	ein
+Wild	NN.Dat.Sg.Masc	Wild
+so	ADV	so
+eifrig	ADJD.Pos	eifrig
+nach	PTKVZ	nach
+,	$,	,
+daß	KOUS	daß
+ihm	PPER.3.Dat.Sg.Masc	ihm
+niemand	PIS.Nom.Sg.Masc	niemand
+von	APPR	von
+seinen	PPOSAT.Dat.Pl.*	sein
+Leuten	NN.Dat.Pl.*	Leute
+folgen	VVINF.Inf	folgen
+konnte	VMFIN.3.Sg.Past.Ind	können
+.	$.	.
+

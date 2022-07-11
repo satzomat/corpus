@@ -1,0 +1,17 @@
+Es	PPER.3.Nom.Sg.Neut	es
+lebten	VVFIN.3.Pl.Past.Subj	leben
+viele	PIS.Nom.Pl.*	viele
+und	KON	und
+mancherley	ADJD.Pos	mancherley
+Thiere	NN.Nom.Pl.Neut	Thier
+in	APPR	in
+einer	ART.Dat.Sg.Fem	ein
+grossen	ADJA.Pos.Dat.Sg.Fem	groß
+Wildniß	NN.Dat.Sg.Fem	Wildniß
+beysammen	VVFIN.3.Pl.Pres.Ind	beysammen
+,	$,	,
+ruhig	ADJD.Pos	ruhig
+und	KON	und
+friedlich	ADJD.Pos	friedlich
+.	$.	.
+

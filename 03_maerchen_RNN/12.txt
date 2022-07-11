@@ -1,0 +1,24 @@
+Hast	ADV	hast
+Du	PPER.2.Nom.Sg.*	du
+wohl	ADV	wohl
+je	ADV	je
+einen	ART.Acc.Sg.Masc	ein
+recht	ADJD.Pos	recht
+alten	ADJA.Pos.Acc.Sg.Masc	alt
+Holzschrank	NN.Acc.Sg.Masc	Holzschrank
+,	$,	,
+ganz	ADV	ganz
+schwarz	ADJD.Pos	schwarz
+vom	APPRART.Dat.Sg.Neut	von
+Alter	NN.Dat.Sg.Neut	Alter
+und	KON	und
+mit	APPR	mit
+ausgeschnitzten	ADJA.Pos.Dat.Pl.Masc	ausgeschnitzt
+Schnörkeln	NN.Dat.Sg.Neut	Schnörkeln
+und	KON	und
+Laubwerk	NN.Dat.Sg.Neut	Laubwerk
+daran	PROAV	daran
+,	$,	,
+gesehen	VVPP.Psp	sehen
+?	$.	?
+

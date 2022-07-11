@@ -1,0 +1,21 @@
+Hortensia	NE.Nom.Sg.Masc	Hortensia
+war	VAFIN.3.Sg.Past.Ind	sein
+so	ADV	so
+eitel	ADJD.Pos	eitel
+und	KON	und
+so	ADV	so
+eingebildet	VVPP.Psp	einbilden
+,	$,	,
+daß	KOUS	daß
+sie	PPER.3.Nom.Sg.Fem	sie
+sich	PRF.3.Acc.Sg	sich
+für	APPR	für
+das	ART.Acc.Sg.Neut	der
+schönste	ADJA.Sup.Acc.Sg.Neut	schön
+Mädchen	NN.Acc.Sg.Neut	Mädchen
+in	APPR	in
+der	ART.Dat.Sg.Fem	der
+Welt	NN.Dat.Sg.Fem	Welt
+hielt	VVFIN.3.Sg.Past.Ind	halten
+.	$.	.
+

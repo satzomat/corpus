@@ -1,0 +1,23 @@
+Ein	ART.Nom.Sg.Masc	ein
+Handwerksbursche	NN.Nom.Sg.Masc	Handwerksbursche
+konnte	VMFIN.3.Sg.Past.Ind	können
+nirgendwo	ADV	nirgendwo
+Arbeit	NN.Acc.Sg.Fem	Arbeit
+finden	VVINF.Inf	finden
+,	$,	,
+da	ADV	da
+ging	VVFIN.3.Sg.Past.Ind	gehen
+er	PPER.3.Nom.Sg.Masc	er
+endlich	ADV	endlich
+in	APPR	in
+das	ART.Acc.Sg.Neut	der
+Schloß	NN.Acc.Sg.Neut	Schloß
+und	KON	und
+verdingte	VVFIN.3.Sg.Past.Ind	verdingen
+sich	PRF.3.Acc.Sg	sich
+dem	ART.Dat.Sg.Masc	der
+König	NN.Dat.Sg.Masc	König
+als	APPR	als
+Stiefelputzer	NN.Acc.Sg.Masc	Stiefelputzer
+.	$.	.
+

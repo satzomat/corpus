@@ -1,0 +1,20 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Mann	NN.Nom.Sg.Masc	Mann
+und	KON	und
+eine	ART.Nom.Sg.Fem	ein
+arme	ADJA.Pos.Nom.Sg.Fem	arm
+Frau	NN.Nom.Sg.Fem	Frau
+,	$,	,
+die	PDS.Nom.Pl.*	der
+hatten	VAFIN.3.Pl.Past.Ind	haben
+weiter	ADV	weiter
+nichts	PIS.*.*.Neut	nichts
+als	KOKOM	als
+eine	ART.Acc.Sg.Fem	ein
+Hütte	NN.Acc.Sg.Fem	Hütte
+.	$.	.
+

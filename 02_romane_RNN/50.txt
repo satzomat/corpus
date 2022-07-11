@@ -1,0 +1,26 @@
+Euch	PPER.2.Dat.Pl.*	euch
+und	KON	und
+mir	PPER.1.Dat.Sg.*	mir
+die	ART.Acc.Sg.Fem	der
+Zeit	NN.Acc.Sg.Fem	Zeit
+zu	PTKZU	zu
+vertreiben	VVINF.Inf	vertreiben
+,	$,	,
+Geneigte	NE.Nom.Sg.Fem	Geneigte
+Leſer	NE.Nom.Sg.*	Le<unk>er
+!	$.	!
+
+will	VMFIN.1.Sg.Pres.Ind	wollen
+ich	PPER.1.Nom.Sg.*	ich
+itzt	PPER.1.Nom.Sg.*	itzt
+ſchreiben	VVINF.Inf	pflichtbewußt
+,	$,	,
+Eine	ART.Nom.Sg.Fem	ein
+extrafeine	ADJA.Pos.Nom.Sg.Fem	extrafeine
+Hiſtoriam	NN.Acc.Sg.Fem	Hi<unk>toriam
+Von	APPR	von
+Hieronimus	NE.Nom.Sg.Masc	Hieronimus
+Jobs	NE.Dat.Sg.Masc	Jobs
+lobeſam	ADJD.Pos	lobe<unk>am
+.	$.	.
+

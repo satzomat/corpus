@@ -1,0 +1,24 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+Mann	NN.Nom.Sg.Masc	Mann
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Söhne	NN.Acc.Pl.Masc	Sohn
+und	KON	und
+weiter	ADV	weiter
+nichts	PIS.*.*.Neut	nichts
+im	APPRART.Dat.Sg.Neut	in
+Vermögen	NN.Dat.Sg.Neut	Vermögen
+,	$,	,
+als	KOKOM	als
+sein	PPOSAT.Acc.Sg.Neut	sein
+Haus	NN.Acc.Sg.Neut	Haus
+,	$,	,
+worin	PWAV	worin
+er	PPER.3.Nom.Sg.Masc	er
+wohnte	VVFIN.3.Sg.Past.Ind	wohnen
+.	$.	.
+

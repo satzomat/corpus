@@ -1,0 +1,21 @@
+Dem	ART.Dat.Sg.Masc	der
+Teufel	NN.Dat.Sg.Masc	Teufel
+fiel	VVFIN.3.Sg.Past.Ind	fallen
+einmal	ADV	einmal
+in	APPR	in
+der	ART.Dat.Sg.Fem	der
+Hölle	NN.Dat.Sg.Fem	Hölle
+die	ART.Nom.Sg.Fem	der
+Zeit	NN.Nom.Sg.Fem	Zeit
+lang	ADJD.Pos	lang
+und	KON	und
+er	PPER.3.Nom.Sg.Masc	er
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+eine	ART.Acc.Sg.Fem	ein
+Lustfahrt	NN.Acc.Sg.Fem	Lustfahrt
+auf	APPR	auf
+die	ART.Acc.Sg.Fem	der
+Erde	NN.Acc.Sg.Fem	Erde
+machen	VVINF.Inf	machen
+.	$.	.
+

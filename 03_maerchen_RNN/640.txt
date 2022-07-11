@@ -1,0 +1,8 @@
+In	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+glücklichen	ADJA.Pos.Dat.Sg.Neut	glücklich
+Lande	NN.Dat.Sg.Neut	Land
+herschte	VVFIN.3.Sg.Past.Ind	herschen
+Güchanas	NE.Nom.Sg.*	Güchanas
+.	$.	.
+

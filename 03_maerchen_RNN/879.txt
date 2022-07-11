@@ -1,0 +1,25 @@
+Ein	ART.Nom.Sg.Masc	ein
+Schmied	NN.Nom.Sg.Masc	Schmied
+hatte	VAFIN.3.Sg.Past.Ind	haben
+ein	ART.Acc.Sg.Neut	ein
+Stück	NN.Acc.Sg.Neut	Stück
+Land	NN.Nom.Sg.Neut	Land
+im	APPRART.Dat.Sg.Masc	in
+Besitz	NN.Dat.Sg.Masc	Besitz
+,	$,	,
+das	PDS.Nom.Sg.Neut	der
+mußte	VMFIN.3.Sg.Past.Ind	müssen
+ihm	PPER.3.Dat.Sg.Masc	ihm
+seine	PPOSAT.Acc.Sg.Fem	sein
+arme	ADJA.Pos.Acc.Sg.Fem	arm
+Frau	NN.Acc.Sg.Fem	Frau
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+krank	ADJD.Pos	krank
+und	KON	und
+schwach	ADJD.Pos	schwach
+war	VAFIN.3.Sg.Past.Ind	sein
+,	$,	,
+bebauen	VVINF.Inf	bebauen
+.	$.	.
+

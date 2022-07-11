@@ -1,0 +1,27 @@
+„	XY	„
+Vierundzwanzig	ADJD.Pos	vierundzwanzig
+braune	ADJA.Pos.Nom.Pl.Masc	braun
+Sklaven	NN.Nom.Pl.Masc	Sklave
+ruderten	VVFIN.3.Pl.Past.Ind	rudern
+die	ART.Acc.Sg.Fem	der
+prächtige	ADJA.Pos.Acc.Sg.Fem	prächtig
+Galeere	NN.Acc.Sg.Fem	Galeere
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+den	ART.Acc.Sg.Masc	der
+Prinzen	NN.Acc.Sg.Masc	Prinz
+Amgiad	NE.Nom.Sg.Masc	Amgiad
+zu	APPR	zu
+dem	ART.Dat.Sg.Masc	der
+Palast	NN.Dat.Sg.Masc	Palast
+des	ART.Gen.Sg.Masc	der
+Kalifen	NN.Gen.Sg.Masc	Kalife
+bringen	VVINF.Inf	bringen
+sollte	VMFIN.3.Sg.Past.Ind	sollen
+.	$.	.
+
+[	XY	[
+…	XY	…
+]	XY	]
+“	XY	“
+

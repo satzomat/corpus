@@ -1,0 +1,19 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+alte	ADJA.Pos.Nom.Sg.Fem	alt
+Frau	NN.Nom.Sg.Fem	Frau
+,	$,	,
+du	PPER.2.Nom.Sg.*	du
+hast	VAFIN.2.Sg.Pres.Ind	haben
+wohl	ADV	wohl
+ehe	ADV	ehe
+eine	ART.Acc.Sg.Fem	ein
+alte	ADJA.Pos.Acc.Sg.Fem	alt
+Frau	NN.Acc.Sg.Fem	Frau
+seh'n	VVINF.Inf	sehen
+betteln	VVINF.Inf	betteln
+geh'n	VVINF.Inf	gehen
+?	$.	?
+

@@ -1,0 +1,16 @@
+Die	ART.Nom.Sg.Fem	der
+Wölfin	NE.Nom.Sg.Fem	Wölfin
+brachte	VVFIN.3.Sg.Past.Ind	bringen
+ein	ART.Acc.Sg.Neut	ein
+Junges	NN.Acc.Sg.Neut	Junge
+zur	APPRART.Dat.Sg.Fem	zu
+Welt	NN.Dat.Sg.Fem	Welt
+und	KON	und
+ließ	VVFIN.3.Sg.Past.Ind	lassen
+den	ART.Acc.Sg.Masc	der
+Fuchs	NN.Acc.Sg.Masc	Fuchs
+zu	APPR	zu
+Gevatter	NE.Dat.Sg.*	Gevatter
+einladen	VVINF.Inf	einladen
+.	$.	.
+

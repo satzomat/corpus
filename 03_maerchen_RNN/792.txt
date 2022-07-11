@@ -1,0 +1,23 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+einmal	ADV	einmal
+vier	CARD	vier
+Brüder	NN.Nom.Pl.Masc	Bruder
+,	$,	,
+die	ART.Nom.Pl.Masc	der
+dienten	VVFIN.3.Pl.Past.Subj	dienen
+miteinander	ADV	miteinander
+dem	ART.Dat.Sg.Masc	der
+Könige	NN.Dat.Sg.Masc	König
+und	KON	und
+standen	VVFIN.3.Pl.Past.Ind	stehen
+eines	ART.Gen.Sg.Masc	ein
+Tages	NN.Gen.Sg.Masc	Tag
+alle	PIAT.Acc.Sg.Fem	aller
+Vier	CARD	vier
+Wache	NN.Acc.Sg.Fem	Wache
+hinter	APPR	hinter
+dem	ART.Dat.Sg.Neut	der
+Königsschlosse	NN.Dat.Sg.Neut	Königsschloß
+.	$.	.
+

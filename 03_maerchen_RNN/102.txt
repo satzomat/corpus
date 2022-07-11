@@ -1,0 +1,23 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+Königin	NN.Nom.Sg.Fem	Königin
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+keine	PIAT.Acc.Pl.Neut	kein
+Kinder	NN.Acc.Pl.Neut	Kind
+und	KON	und
+wünschte	VVFIN.3.Sg.Past.Ind	wünschen
+sich	PRF.3.Dat.Sg	sich
+eins	CARD	eins
+,	$,	,
+weil	KOUS	weil
+sie	PPER.3.Nom.Sg.Fem	sie
+so	ADV	so
+ganz	ADV	ganz
+einsam	ADJD.Pos	einsam
+war	VAFIN.3.Sg.Past.Ind	sein
+.	$.	.
+

@@ -1,0 +1,11 @@
+Amenophis	NE.Nom.Sg.Masc	Amenophis
+kennt	VVFIN.3.Sg.Pres.Ind	kennen
+die	ART.Acc.Pl.Masc	der
+Ahnen	NN.Acc.Pl.Masc	Ahn
+seiner	PPOSAT.Gen.Sg.Fem	sein
+Mutter	NN.Gen.Sg.Fem	Mutter
+und	KON	und
+die	ART.Acc.Pl.*	der
+seinigen	PIS.Acc.Pl.*	seinige
+.	$.	.
+

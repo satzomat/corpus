@@ -1,0 +1,20 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+—	APPR	—
+welcher	PWAT.Nom.Sg.Masc	welcher
+Autor	NN.Nom.Sg.Masc	Autor
+darf	VMFIN.3.Sg.Pres.Ind	dürfen
+es	PPER.3.Nom.Sg.Neut	es
+jetzt	ADV	jetzt
+wohl	ADV	wohl
+noch	ADV	noch
+wagen	VVINF.Inf	wagen
+,	$,	,
+ſein	PPOSAT.Acc.Sg.Neut	<unk>
+Geſchichtlein	NN.Acc.Sg.Neut	Ge<unk>chichtlein
+alſo	ADV	al<unk>o
+zu	PTKZU	zu
+beginnen	VVINF.Inf	beginnen
+.	$.	.
+

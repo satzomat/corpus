@@ -1,0 +1,16 @@
+Ein	ART.Nom.Sg.Masc	ein
+junger	ADJA.Pos.Nom.Sg.Masc	junger
+Bursche	NN.Nom.Sg.Masc	Bursche
+hatte	VAFIN.3.Sg.Past.Ind	haben
+die	ART.Acc.Sg.Fem	der
+Schneiderprofession	NN.Acc.Sg.Fem	Schneiderprofession
+erlernt	VVPP.Psp	erlernen
+und	KON	und
+Lust	NN.Acc.Sg.Fem	Lust
+in	APPR	in
+die	ART.Acc.Sg.Fem	der
+Fremde	NN.Acc.Sg.Fem	Fremde
+zu	PTKZU	zu
+gehen	VVINF.Inf	gehen
+.	$.	.
+

@@ -1,0 +1,19 @@
+Ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+hatte	VAFIN.3.Sg.Past.Ind	haben
+nur	ADV	nur
+einen	ART.Acc.Sg.Masc	ein
+Sohn	NN.Acc.Sg.Masc	Sohn
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+war	VAFIN.3.Sg.Past.Ind	sein
+so	ADV	so
+alt	ADJD.Pos	alt
+geworden	VAPP.Psp	werden
+,	$,	,
+daß	KOUS	daß
+er	PPER.3.Nom.Sg.Masc	er
+heirathen	VVINF.Inf	heirathen
+konnte	VMFIN.3.Sg.Past.Ind	können
+.	$.	.
+

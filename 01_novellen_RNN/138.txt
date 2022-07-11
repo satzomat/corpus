@@ -1,0 +1,25 @@
+Am	APPRART.Dat.Sg.Neut	an
+obern	ADV	obern
+Ende	NN.Dat.Sg.Neut	Ende
+eines	ART.Gen.Sg.Masc	ein
+Tisches	NN.Gen.Sg.Masc	Tisch
+,	$,	,
+auf	APPR	auf
+welchem	PRELS.Dat.Sg.Masc	welcher
+das	ART.Nom.Sg.Neut	der
+Frühstück	NN.Nom.Sg.Neut	Frühstück
+geordnet	VVPP.Psp	ordnen
+stand	VVFIN.3.Sg.Past.Ind	stehen
+,	$,	,
+saß	VVFIN.3.Sg.Past.Ind	sitzen
+Herr	NN.Nom.Sg.Masc	Herr
+Steffano	NE.Nom.Sg.Masc	Steffano
+,	$,	,
+einer	PIS.Nom.Sg.Masc	einer
+der	ART.Gen.Pl.*	der
+angesehensten	ADJA.Sup.Gen.Pl.*	angesehen
+Kaufleute	NN.Gen.Pl.*	Kaufleute
+in	APPR	in
+Frankfurt	NE.Dat.Sg.Neut	Frankfurt
+.	$.	.
+

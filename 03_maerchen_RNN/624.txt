@@ -1,0 +1,13 @@
+Der	ART.Nom.Sg.Masc	der
+König	NN.Nom.Sg.Masc	König
+Zornrunzel	NE.Nom.Sg.Masc	Zornrunzel
+herrschte	VVFIN.3.Sg.Past.Ind	herrschen
+in	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+großen	ADJA.Pos.Dat.Sg.Neut	groß
+Lande	NN.Dat.Sg.Neut	Land
+in	APPR	in
+der	ART.Dat.Sg.Fem	der
+Tartarei	NN.Dat.Sg.Fem	Tartarei
+.	$.	.
+

@@ -1,0 +1,14 @@
+Es	PPER.3.Acc.Sg.Neut	es
+zog	VVFIN.3.Sg.Past.Ind	ziehen
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Bauer	NN.Nom.Sg.Masc	Bauer
+mit	APPR	mit
+einem	ART.Dat.Sg.Neut	ein
+Paar	NN.Dat.Sg.Neut	Paar
+Ochsen	NE.Nom.Sg.*	Ochsen
+zum	APPRART.Dat.Sg.Neut	zu
+Pflügen	NN.Dat.Sg.Neut	Pflügen
+aus	PTKVZ	aus
+.	$.	.
+

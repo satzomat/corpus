@@ -1,0 +1,13 @@
+Fritz	NE.Nom.Sg.Masc	Fritz
+war	VAFIN.3.Sg.Past.Ind	sein
+so	ADV	so
+zänkisch	ADJD.Pos	zänkisch
+,	$,	,
+daß	KOUS	daß
+er	PPER.3.Nom.Sg.Masc	er
+sich	PRF.3.Acc.Sg	sich
+mit	APPR	mit
+Niemanden	PIS.Dat.Pl.*	niemand
+vertrug	VVFIN.3.Sg.Past.Ind	vertragen
+.	$.	.
+

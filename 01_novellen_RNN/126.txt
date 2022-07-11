@@ -1,0 +1,18 @@
+Nach	APPR	nach
+einer	ART.Dat.Sg.Fem	ein
+glücklichen	ADJA.Pos.Dat.Sg.Fem	glücklich
+,	$,	,
+jedoch	ADV	jedoch
+für	APPR	für
+mich	PPER.1.Acc.Sg.*	mich
+sehr	ADV	sehr
+beschwerlichen	ADJA.Pos.Dat.Sg.Fem	beschwerlich
+Seefahrt	NN.Dat.Sg.Fem	Seefahrt
+,	$,	,
+erreichten	VVFIN.1.Pl.Past.Ind	erreichen
+wir	PPER.1.Nom.Pl.*	wir
+endlich	ADV	endlich
+den	ART.Acc.Sg.Masc	der
+Hafen	NN.Acc.Sg.Masc	Hafen
+.	$.	.
+

@@ -1,0 +1,24 @@
+Es	PPER.3.Nom.Sg.Neut	es
+gab	VVFIN.3.Sg.Past.Ind	geben
+einmal	ADV	einmal
+einen	ART.Acc.Sg.Masc	ein
+König	NN.Acc.Sg.Masc	König
+der	ART.Gen.Sg.Fem	der
+seine	PPOSAT.Acc.Sg.Fem	sein
+Gemahlin	NN.Acc.Sg.Fem	Gemahlin
+und	KON	und
+seine	PPOSAT.Acc.Pl.Neut	sein
+Kinder	NN.Acc.Pl.Neut	Kind
+(	$(	(
+er	PPER.3.Nom.Sg.Masc	er
+hatte	VAFIN.3.Sg.Past.Ind	haben
+deren	PDS.Gen.Pl.*	der
+nur	ADV	nur
+zwei	CARD	zwei
+)	$(	)
+,	$,	,
+sehr	ADV	sehr
+zärtlich	ADJD.Pos	zärtlich
+liebte	VVFIN.3.Sg.Past.Ind	lieben
+.	$.	.
+

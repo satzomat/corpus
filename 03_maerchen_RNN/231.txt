@@ -1,0 +1,21 @@
+Ein	ART.Nom.Sg.Masc	ein
+Strohhalm	NN.Nom.Sg.Masc	Strohhalm
+,	$,	,
+eine	ART.Nom.Sg.Fem	ein
+Kohle	NN.Nom.Sg.Fem	Kohle
+und	KON	und
+eine	ART.Nom.Sg.Fem	ein
+Bohne	NN.Nom.Sg.Fem	Bohne
+schlugen	VVFIN.3.Pl.Past.Ind	schlagen
+sich	PRF.3.Acc.Pl	sich
+zusammen	PTKVZ	zusammen
+,	$,	,
+und	KON	und
+wollten	VMFIN.3.Pl.Past.Ind	wollen
+gemeinschaftlich	ADJD.Pos	gemeinschaftlich
+eine	ART.Acc.Sg.Fem	ein
+große	ADJA.Pos.Acc.Sg.Fem	groß
+Reise	NN.Acc.Sg.Fem	Reise
+machen	VVINF.Inf	machen
+.	$.	.
+

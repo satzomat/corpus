@@ -1,0 +1,21 @@
+Ein	ART.Nom.Sg.Masc	ein
+Mann	NN.Nom.Sg.Masc	Mann
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Söhne	NN.Acc.Pl.Masc	Sohn
+,	$,	,
+von	APPR	von
+denen	PRELS.Dat.Pl.Masc	der
+erhielt	VVFIN.3.Sg.Past.Ind	erhalten
+jeder	PIS.Nom.Sg.Masc	jeder
+zweihundert	CARD	zweihundert
+Thaler	NN.Acc.Sg.Masc	Thaler
+und	KON	und
+damit	PROAV	damit
+zogen	VVFIN.3.Pl.Past.Ind	ziehen
+sie	PPER.3.Nom.Pl.Masc	sie
+in	APPR	in
+die	ART.Acc.Sg.Fem	der
+Welt	NN.Acc.Sg.Fem	Welt
+.	$.	.
+

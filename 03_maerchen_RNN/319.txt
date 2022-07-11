@@ -1,0 +1,23 @@
+Ein	ART.Nom.Sg.Neut	ein
+Kind	NN.Nom.Sg.Neut	Kind
+saß	VVFIN.3.Sg.Past.Ind	sitzen
+vor	APPR	vor
+der	ART.Dat.Sg.Fem	der
+Hausthüre	NN.Dat.Sg.Fem	Hausthüre
+auf	APPR	auf
+der	ART.Dat.Sg.Fem	der
+Erde	NN.Dat.Sg.Fem	Erde
+und	KON	und
+hatte	VAFIN.3.Sg.Past.Ind	haben
+sein	PPOSAT.Acc.Sg.Neut	sein
+Schüsselchen	NN.Acc.Sg.Neut	Schüsselchen
+mit	APPR	mit
+Milch	NN.Dat.Sg.Fem	Milch
+und	KON	und
+Weckbrocken	NN.Dat.Sg.Masc	Weckbrocken
+neben	APPR	neben
+sich	PRF.3.Dat.Sg	sich
+und	KON	und
+aß	NN.Dat.Sg.Neut	aß
+.	$.	.
+

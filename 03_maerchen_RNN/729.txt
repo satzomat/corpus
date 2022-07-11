@@ -1,0 +1,15 @@
+Ein	ART.Nom.Sg.Neut	ein
+junges	ADJA.Pos.Nom.Sg.Neut	jung
+Mädchen	NN.Nom.Sg.Neut	Mädchen
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+gern	ADV	gern
+in	APPR	in
+den	ART.Acc.Sg.Masc	der
+Wald	NN.Acc.Sg.Masc	Wald
+,	$,	,
+um	KOUI	um
+Erdbeeren	NN.Acc.Sg.Neut	Erdbeeren
+zu	PTKZU	zu
+suchen	VVINF.Inf	suchen
+.	$.	.
+

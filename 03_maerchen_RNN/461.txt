@@ -1,0 +1,24 @@
+Gott	NN.Nom.Sg.Masc	Gott
+der	ART.Nom.Sg.Masc	der
+Herr	NN.Nom.Sg.Masc	Herr
+hatte	VAFIN.3.Sg.Past.Ind	haben
+alle	PIAT.Acc.Pl.Neut	aller
+Tiere	NN.Acc.Pl.Neut	Tier
+erschaffen	VVINF.Inf	erschaffen
+und	KON	und
+sich	PRF.3.Acc.Sg	sich
+die	ART.Acc.Pl.Masc	der
+Wölfe	NN.Acc.Pl.Masc	Wolf
+zu	APPR	zu
+seinen	PPOSAT.Dat.Pl.Masc	sein
+Hunden	NN.Dat.Pl.Masc	Hund
+auserwählet	VVPP.Psp	auserwählen
+:	$.	:
+bloß	ADV	bloß
+der	ART.Nom.Sg.Masc	der
+Geiß	NN.Nom.Sg.Masc	Geiß
+hatte	VAFIN.3.Sg.Past.Ind	haben
+er	PPER.3.Nom.Sg.Masc	er
+vergessen	VVPP.Psp	vergessen
+.	$.	.
+

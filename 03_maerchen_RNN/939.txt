@@ -1,0 +1,15 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+emal	ADV	emal
+e	FM	e
+alte	ADJA.Pos.Nom.Sg.Fem	alt
+Geiß	NN.Nom.Sg.Fem	Geiß
+,	$,	,
+di	NE.Nom.Sg.*	di
+hat	VAFIN.3.Sg.Pres.Ind	haben
+7	CARD	7
+junge	ADJA.Pos.Acc.Sg.Fem	jung
+Geißli	NN.Acc.Sg.Fem	Geißli
+ghabt	VAPP.Psp	ghaben
+.	$.	.
+

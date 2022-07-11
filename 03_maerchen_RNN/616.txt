@@ -1,0 +1,17 @@
+Es	PPER.3.Acc.Sg.Neut	es
+ging	VVFIN.3.Sg.Past.Ind	gehen
+ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Jüngling	NN.Nom.Sg.Masc	Jüngling
+in	APPR	in
+dem	ART.Dat.Sg.Masc	der
+Dienst	NN.Dat.Sg.Masc	Dienst
+eines	ART.Gen.Sg.Masc	ein
+Königs	NN.Gen.Sg.Masc	König
+,	$,	,
+dem	PRELS.Dat.Sg.Masc	der
+er	PPER.3.Nom.Sg.Masc	er
+aufwarten	VVINF.Inf	aufwarten
+mußte	VMFIN.3.Sg.Past.Ind	müssen
+.	$.	.
+

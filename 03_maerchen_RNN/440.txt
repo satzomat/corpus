@@ -1,0 +1,23 @@
+In	APPR	in
+einer	ART.Dat.Sg.Fem	ein
+Mühle	NN.Dat.Sg.Fem	Mühle
+lebte	VVFIN.3.Sg.Past.Ind	leben
+ein	ART.Nom.Sg.Masc	ein
+alter	ADJA.Pos.Nom.Sg.Masc	alter
+Müller	NN.Nom.Sg.Masc	Müller
+,	$,	,
+der	PDS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+weder	KON	weder
+Frau	NN.Acc.Sg.Fem	Frau
+noch	KON	noch
+Kinder	NN.Acc.Pl.Neut	Kind
+,	$,	,
+und	KON	und
+drei	CARD	drei
+Müllerburschen	NN.Nom.Pl.Masc	Müllerbursche
+dienten	VVFIN.3.Pl.Past.Ind	dienen
+bei	APPR	bei
+ihm	PPER.3.Dat.Sg.*	ihm
+.	$.	.
+

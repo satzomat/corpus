@@ -1,0 +1,19 @@
+Der	ART.Dat.Sg.Fem	der
+Rabe	NN.Dat.Sg.Fem	Rabe
+,	$,	,
+den	PRELS.Acc.Sg.Masc	der
+die	ART.Nom.Pl.Masc	der
+Vögel	NN.Nom.Pl.Masc	Vogel
+für	APPR	für
+einen	ART.Acc.Sg.Masc	ein
+Weisen	NN.Acc.Sg.Masc	Weise
+halten	VVFIN.3.Pl.Pres.Ind	halten
+,	$,	,
+saß	VVFIN.3.Sg.Past.Ind	sitzen
+auf	APPR	auf
+einem	ART.Dat.Sg.Masc	ein
+Baume	NN.Dat.Sg.Masc	Baum
+des	ART.Gen.Sg.Masc	der
+Waldes	NN.Gen.Sg.Masc	Wald
+.	$.	.
+

@@ -1,0 +1,27 @@
+›	XY	›
+Als	KOUS	als
+der	ART.Nom.Sg.Masc	der
+Weltschluß	NN.Nom.Sg.Masc	Weltschluß
+geschlossen	VVPP.Psp	schließen
+war	VAFIN.3.Sg.Past.Ind	sein
+‹	XY	‹
+und	KON	und
+alle	PIAT.Nom.Pl.Neut	aller
+Thiere	NN.Nom.Pl.Neut	Thier
+geschaffen	VVPP.Psp	schaffen
+waren	VAFIN.3.Pl.Past.Ind	sein
+,	$,	,
+da	ADV	da
+paarten	VVFIN.3.Pl.Past.Ind	paaren
+sie	PPER.3.Nom.Pl.*	sie
+sich	PRF.3.Acc.Pl	sich
+und	KON	und
+der	ART.Nom.Sg.Masc	der
+Gockel	NN.Nom.Sg.Masc	Gockel
+hielt	VVFIN.3.Sg.Past.Ind	halten
+Hochzeit	NN.Acc.Sg.Fem	Hochzeit
+mit	APPR	mit
+dem	ART.Dat.Sg.Masc	der
+Hinkel	NN.Dat.Sg.Masc	Hinkel
+.	$.	.
+

@@ -1,0 +1,22 @@
+Franz	NE.Nom.Sg.Masc	Franz
+hatte	VAFIN.3.Sg.Past.Ind	haben
+sich	PRF.3.Acc.Sg	sich
+gewöhnt	VVPP.Psp	gewöhnen
+alles	PIS.Acc.Sg.Neut	alle
+was	PRELS.Acc.Sg.Neut	was
+er	PPER.3.Nom.Sg.Masc	er
+sah	VVFIN.3.Sg.Past.Ind	sehen
+und	KON	und
+hörte	VVFIN.3.Sg.Past.Ind	hören
+nachzuäffen	VVIZU.Infzu	nachäffen
+,	$,	,
+daher	PROAV	daher
+bekam	VVFIN.3.Sg.Past.Ind	bekommen
+er	PPER.3.Nom.Sg.Masc	er
+auch	ADV	auch
+den	ART.Acc.Sg.Masc	der
+Beinamen	NN.Acc.Sg.Masc	Beiname
+,	$,	,
+Aeffchen	NN.Acc.Sg.Neut	Aeffchen
+.	$.	.
+

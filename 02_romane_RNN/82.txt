@@ -1,0 +1,8 @@
+[	XY	[
+„	XY	„
+]Weg	NN.Nom.Sg.Masc	<unk>
+nach	APPR	nach
+Winkelſteg	NN.Dat.Sg.Masc	Winkel<unk>teg
+.	$.	.
+“	XY	“
+

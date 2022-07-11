@@ -1,0 +1,15 @@
+Der	ART.Nom.Sg.Masc	der
+Kaiser	NN.Nom.Sg.Masc	Kaiser
+Joseph	NE.Nom.Sg.Masc	Joseph
+war	VAFIN.3.Sg.Past.Ind	sein
+schon	ADV	schon
+sehr	ADV	sehr
+alt	ADJD.Pos	alt
+und	KON	und
+hatte	VAFIN.3.Sg.Past.Ind	haben
+noch	ADV	noch
+immer	ADV	immer
+keine	PIAT.Acc.Pl.Neut	kein
+Kinder	NN.Acc.Pl.Neut	Kind
+.	$.	.
+

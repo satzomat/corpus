@@ -1,0 +1,21 @@
+Mein	PPOSAT.Nom.Sg.Masc	mein
+Bruder	NN.Nom.Sg.Masc	Bruder
+Mustafa	NE.Nom.Sg.Masc	Mustafa
+und	KON	und
+meine	PPOSAT.Nom.Sg.Fem	mein
+Schwester	NN.Nom.Sg.Fem	Schwester
+Fatme	NN.Nom.Sg.Fem	Fatme
+waren	VAFIN.3.Pl.Past.Ind	sein
+beinahe	ADV	beinahe
+in	APPR	in
+gleichem	ADJA.Pos.Dat.Sg.Neut	gleichem
+Alter	NN.Dat.Sg.Neut	Alter
+;	$.	;
+jener	PDS.Nom.Sg.Masc	jener
+hatte	VAFIN.3.Sg.Past.Ind	haben
+höchstens	ADV	höchstens
+zwei	CARD	zwei
+Jahre	NN.Acc.Pl.Neut	Jahr
+voraus	PTKVZ	voraus
+.	$.	.
+

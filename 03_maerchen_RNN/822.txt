@@ -1,0 +1,37 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+einmal	ADV	einmal
+drei	CARD	drei
+Schwestern	NN.Nom.Pl.Fem	Schwester
+,	$,	,
+zu	APPR	zu
+denen	PRELS.Dat.Pl.Fem	der
+sagte	VVFIN.3.Sg.Past.Ind	sagen
+ihr	PPOSAT.Nom.Sg.Masc	ihr
+Vater	NN.Nom.Sg.Masc	Vater
+:	$.	:
+"	$(	"
+Meine	PPOSAT.Nom.Pl.Fem	mein
+lieben	VVFIN.3.Pl.Pres.Ind	lieben
+Töchter	NN.Nom.Pl.Fem	Tochter
+,	$,	,
+eine	PIS.Nom.Sg.Fem	einer
+von	APPR	von
+euch	PPER.2.Dat.Pl.*	euch
+muß	VMFIN.3.Sg.Pres.Ind	müssen
+jetzt	ADV	jetzt
+heirathen	VVINF.Inf	heirathen
+und	KON	und
+die	ART.Nom.Pl.*	der
+andern	ADJA.Pos.Nom.Pl.*	anderer
+Beiden	PIS.Nom.Pl.*	beide
+sollen	VMFIN.3.Pl.Pres.Ind	sollen
+noch	ADV	noch
+warten	VVINF.Inf	warten
+.	$.	.
+
+[	XY	[
+…	XY	…
+]	XY	]
+"	$(	"
+

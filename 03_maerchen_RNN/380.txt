@@ -1,0 +1,21 @@
+An	APPR	an
+einem	ART.Dat.Sg.Masc	ein
+Sommermorgen	NN.Dat.Sg.Masc	Sommermorgen
+saß	VVFIN.3.Sg.Past.Ind	sitzen
+ein	ART.Nom.Sg.Masc	ein
+Schneiderlein	NN.Nom.Sg.Masc	Schneiderlein
+auf	APPR	auf
+seinem	PPOSAT.Dat.Sg.Masc	sein
+Tisch	NN.Dat.Sg.Masc	Tisch
+am	APPRART.Dat.Sg.Neut	an
+Fenster	NN.Dat.Sg.Neut	Fenster
+,	$,	,
+war	VAFIN.3.Sg.Past.Ind	sein
+guter	ADJA.Pos.Gen.Pl.Neut	gut
+Dinge	NN.Gen.Pl.Neut	Ding
+und	KON	und
+nähte	VVFIN.3.Sg.Past.Ind	nähen
+aus	APPR	aus
+Leibeskräften	NN.Dat.Pl.Fem	Leibeskraft
+.	$.	.
+

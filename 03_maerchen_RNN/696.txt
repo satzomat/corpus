@@ -1,0 +1,24 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+Mutter	NN.Nom.Sg.Fem	Mutter
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+zwei	CARD	zwei
+Töchter	NN.Acc.Pl.Fem	Tochter
+,	$,	,
+von	APPR	von
+denen	PRELS.Dat.Pl.Fem	der
+mochte	VVFIN.3.Sg.Past.Ind	mögen
+sie	PPER.3.Nom.Sg.Fem	sie
+die	ART.Acc.Sg.Fem	der
+eine	ART.Acc.Sg.Fem	ein
+viel	ADV	viel
+lieber	ADJD.Comp	lieb
+als	KOKOM	als
+die	ART.Acc.Sg.Fem	der
+andere	PIS.Acc.Sg.Fem	anderer
+.	$.	.
+

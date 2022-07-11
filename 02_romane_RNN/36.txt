@@ -1,0 +1,28 @@
+Gern	ADV	gern
+moͤchte	VVFIN.1.Sg.Past.Ind	mo<unk>chen
+ich	PPER.1.Nom.Sg.*	ich
+Dich	PPER.2.Acc.Sg.*	dich
+,	$,	,
+guͤnſtiger	ADJA.Pos.Nom.Sg.Masc	gu<unk>n<unk>tiger
+Leſer	NN.Nom.Sg.Masc	Le<unk>er
+!	$.	!
+
+unter	APPR	unter
+jene	PDAT.Acc.Pl.Fem	jener
+dunkle	ADJA.Pos.Acc.Pl.Fem	dunkel
+Platanen	NN.Acc.Pl.Fem	Platane
+fuͤhren	VVFIN.3.Pl.Pres.Ind	fu<unk>hren
+,	$,	,
+wo	PWAV	wo
+ich	PPER.1.Nom.Sg.*	ich
+die	ART.Acc.Sg.Fem	der
+ſeltſame	ADJA.Pos.Acc.Sg.Fem	<unk>
+Geſchichte	NN.Acc.Sg.Fem	Ge<unk>chichte
+des	ART.Gen.Sg.Masc	der
+Bruders	NN.Gen.Sg.Masc	Bruder
+Medardus	NE.Nom.Sg.Masc	Medardus
+zum	APPRART.Dat.Sg.Neut	zu
+erſtenmale	ITJ	er<unk>tenmale
+las	VVFIN.1.Sg.Past.Ind	lesen
+.	$.	.
+

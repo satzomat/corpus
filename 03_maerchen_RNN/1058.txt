@@ -1,0 +1,19 @@
+Der	ART.Nom.Sg.Masc	der
+König	NN.Nom.Sg.Masc	König
+von	APPR	von
+Eiland	NE.Dat.Sg.Neut	Eiland
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+Sohn	NN.Acc.Sg.Masc	Sohn
+der	ART.Gen.Pl.Masc	der
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+Jakob	NE.Acc.Sg.Masc	Jakob
+,	$,	,
+der	PDS.Nom.Sg.Masc	der
+war	VAFIN.3.Sg.Past.Ind	sein
+nicht	PTKNEG	nicht
+zum	APPRART.Dat.Sg.Neut	zu
+Besten	NN.Dat.Sg.Neut	Besten
+gerathen	VVPP.Psp	gerathen
+.	$.	.
+

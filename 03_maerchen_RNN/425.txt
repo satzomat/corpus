@@ -1,0 +1,18 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+eine	ART.Nom.Sg.Fem	ein
+Königin	NN.Nom.Sg.Fem	Königin
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+unser	PPOSAT.Acc.Sg.Neut	unser
+Herrgott	NN.Acc.Sg.Neut	Herrgott
+verschlossen	VVPP.Psp	verschließen
+,	$,	,
+daß	KOUS	daß
+sie	PPER.3.Nom.Sg.Fem	sie
+keine	PIAT.Acc.Pl.Neut	kein
+Kinder	NN.Acc.Pl.Neut	Kind
+gebar	ADJD.Pos	gebar
+.	$.	.
+

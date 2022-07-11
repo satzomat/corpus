@@ -1,0 +1,19 @@
+Ein	ART.Nom.Sg.Masc	ein
+Samenhändler	NN.Nom.Sg.Masc	Samenhändler
+reiste	VVFIN.3.Sg.Past.Ind	reisen
+einst	ADV	einst
+über	APPR	über
+den	ART.Acc.Sg.Masc	der
+Rhein	NE.Acc.Sg.Masc	Rhein
+,	$,	,
+ließ	VVFIN.3.Sg.Past.Ind	lassen
+aber	ADV	aber
+vorher	ADV	vorher
+auf	APPR	auf
+dem	ART.Dat.Sg.Masc	der
+Schwarzwalde	NE.Dat.Sg.Masc	Schwarzwalde
+ein	ART.Nom.Sg.Masc	ein
+Samenkorn	NN.Acc.Sg.Neut	Samenkorn
+fallen	VVINF.Inf	fallen
+.	$.	.
+

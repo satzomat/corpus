@@ -1,0 +1,24 @@
+Jean	NE.Nom.Sg.Masc	Jean
+Paul	NE.Nom.Sg.Masc	Paul
+ſagt	VVFIN.3.Sg.Pres.Ind	<unk>
+:	$.	:
+„	XY	„
+Friede	NN.Nom.Sg.Masc	Friede
+mit	APPR	mit
+der	ART.Dat.Sg.Fem	der
+Zeit	NN.Dat.Sg.Fem	Zeit
+!	$.	!
+
+ſollte	VMFIN.3.Sg.Past.Ind	ellen
+man	PIS.Nom.Sg.*	man
+oͤfter	ADV	o<unk>fter
+in	APPR	in
+ſich	PPER.1.Acc.Sg.*	<unk>
+hineinrufen	VVINF.Inf	hineinrufen
+.	$.	.
+
+[	XY	[
+…	XY	…
+]	XY	]
+“	XY	“
+

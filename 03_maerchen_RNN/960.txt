@@ -1,0 +1,15 @@
+Karl	NE.Nom.Sg.Masc	Karl
+war	VAFIN.3.Sg.Past.Ind	sein
+immer	ADV	immer
+ungehorsam	ADJD.Pos	ungehorsam
+und	KON	und
+unfolgsam	ADJD.Pos	unfolgsam
+,	$,	,
+und	KON	und
+kränkte	VVFIN.3.Sg.Past.Ind	kränken
+seine	PPOSAT.Acc.Pl.*	sein
+Eltern	NN.Acc.Pl.*	Eltern
+dadurch	PROAV	dadurch
+unaufhörlich	ADJD.Pos	unaufhörlich
+.	$.	.
+

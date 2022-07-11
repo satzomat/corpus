@@ -1,0 +1,8 @@
+A	FM	A
+mal	ADV	mal
+is	FM	is
+a	NE.*.*.*	a
+Schneida	NE.Nom.Sg.*	Schneida
+gewesen	VAPP.Psp	sein
+.	$.	.
+

@@ -1,0 +1,13 @@
+„	$(	„
+Du	PPER.2.Nom.Sg.*	du
+willst	VMFIN.2.Sg.Pres.Ind	wollen
+wirklich	ADJD.Pos	wirklich
+nicht	PTKNEG	nicht
+mehr	ADV	mehr
+weiterspielen	VVINF.Inf	weiterspielen
+,	$,	,
+Else	NE.Nom.Sg.Fem	Else
+?	$.	?
+
+“	XY	“
+

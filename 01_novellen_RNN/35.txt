@@ -1,0 +1,7 @@
+Ende	NN.*.Sg.Neut	Ende
+Juli	NN.*.Sg.Masc	Juli
+war	VAFIN.3.Sg.Past.Ind	sein
+Großmamas	NE.Gen.Sg.Neut	Großmama
+Geburtstag	NN.Nom.Sg.Masc	Geburtstag
+.	$.	.
+

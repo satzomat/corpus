@@ -1,0 +1,16 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Soldat	NN.Nom.Sg.Masc	Soldat
+mit	APPR	mit
+Namen	NN.Dat.Pl.Masc	Name
+Lorenz	NE.Dat.Sg.Masc	Lorenz
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+diente	VVFIN.3.Sg.Past.Ind	dienen
+bei	APPR	bei
+einem	ART.Dat.Sg.Masc	ein
+Könige	NN.Dat.Sg.Masc	König
+.	$.	.
+

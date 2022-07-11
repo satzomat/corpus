@@ -1,0 +1,21 @@
+Es	PPER.3.Nom.Sg.Neut	es
+ist	VAFIN.3.Sg.Pres.Ind	sein
+nun	ADV	nun
+schon	ADV	schon
+lange	ADV	lange
+her	PTKVZ	her
+,	$,	,
+da	ADV	da
+lebte	VVFIN.3.Sg.Past.Ind	leben
+ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+,	$,	,
+dessen	PRELAT.Gen.Sg.Masc	der
+Weisheit	NN.Nom.Sg.Fem	Weisheit
+im	APPRART.Dat.Sg.Neut	in
+ganzen	ADJA.Pos.Dat.Sg.Neut	ganzen
+Lande	NN.Dat.Sg.Neut	Land
+berühmt	ADJD.Pos	berühmt
+war	VAFIN.3.Sg.Past.Ind	sein
+.	$.	.
+

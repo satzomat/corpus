@@ -1,0 +1,18 @@
+Berlin	NE.Nom.Sg.Neut	Berlin
+ſchlief	VVFIN.3.Sg.Past.Ind	chlafen
+noch	ADV	noch
+,	$,	,
+aber	KON	aber
+es	PPER.3.Nom.Sg.Neut	es
+lag	VVFIN.3.Sg.Past.Ind	liegen
+in	APPR	in
+jenem	PDAT.Dat.Sg.Masc	jener
+leiſen	ADJA.Pos.Dat.Sg.Masc	lei<unk>en
+Schlummer	NN.Dat.Sg.Masc	Schlummer
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+dem	ART.Dat.Sg.Neut	der
+Erwachen	NN.Dat.Sg.Neut	Erwachen
+vorhergeht	VVFIN.3.Sg.Pres.Ind	vorhergehen
+.	$.	.
+

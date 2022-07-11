@@ -1,0 +1,26 @@
+Es	PPER.3.Nom.Sg.Neut	es
+lebte	VVFIN.3.Sg.Past.Ind	leben
+vor	APPR	vor
+Zeiten	NN.Dat.Pl.Fem	Zeit
+ein	ART.Nom.Sg.Masc	ein
+fröhlicher	ADJA.Pos.Nom.Sg.Masc	fröhlicher
+Müller	NN.Nom.Sg.Masc	Müller
+in	APPR	in
+Schwaben	NE.Dat.Sg.Neut	Schwaben
+,	$,	,
+der	PDS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+über	APPR	über
+seine	PPOSAT.Acc.Sg.Fem	sein
+Hausthür	NN.Acc.Sg.Fem	Hausthür
+die	ART.Acc.Pl.Neut	der
+Worte	NN.Acc.Pl.Neut	Wort
+geschrieben	VVPP.Psp	schreiben
+:	$.	:
+»	XY	»
+Hans	NE.Nom.Sg.Masc	Hans
+ohne	APPR	ohne
+Sorgen	NN.Acc.Pl.Fem	Sorge
+.	$.	.
+«	$(	«
+

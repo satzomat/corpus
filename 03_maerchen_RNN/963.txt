@@ -1,0 +1,18 @@
+In	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+Dorfe	NN.Dat.Sg.Neut	Dorf
+waren	VAFIN.3.Pl.Past.Ind	sein
+einst	ADV	einst
+die	ART.Nom.Pl.Masc	der
+Bauern	NN.Nom.Pl.Masc	Bauer
+,	$,	,
+die	PRELS.Nom.Pl.Masc	der
+es	PPER.3.Acc.Sg.Neut	es
+bewohnten	VVFIN.3.Pl.Past.Ind	bewohnen
+,	$,	,
+sehr	ADV	sehr
+abergläubisch	ADJD.Pos	abergläubisch
+und	KON	und
+furchtsam	ADJD.Pos	furchtsam
+.	$.	.
+

@@ -1,0 +1,8 @@
+Seht	VVFIN.3.Sg.Pres.Ind	sehen
+,	$,	,
+nun	ADV	nun
+fangen	VVFIN.1.Pl.Pres.Ind	fangen
+wir	PPER.1.Nom.Pl.*	wir
+an	PTKVZ	an
+.	$.	.
+

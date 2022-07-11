@@ -1,0 +1,18 @@
+Vom	APPRART.Dat.Sg.Neut	von
+großen	ADJA.Pos.Dat.Sg.Neut	groß
+und	KON	und
+gewaltigen	ADJA.Pos.Dat.Sg.Neut	gewaltigen
+Roland	NN.Dat.Sg.Neut	Roland
+hat	VAFIN.3.Sg.Pres.Ind	haben
+doch	ADV	doch
+Jedes	PIS.Nom.Sg.Neut	jeder
+von	APPR	von
+Euch	PPER.2.Dat.Pl.*	euch
+gehört	VVPP.Psp	hören
+,	$,	,
+will	VMFIN.1.Sg.Pres.Ind	wollen
+ich	PPER.1.Nom.Sg.*	ich
+wohl	ADV	wohl
+hoffen	VVINF.Inf	hoffen
+?	$.	?
+

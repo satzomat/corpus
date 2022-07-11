@@ -1,0 +1,16 @@
+Eine	ART.Nom.Sg.Fem	ein
+Frau	NN.Nom.Sg.Fem	Frau
+lebte	VVFIN.3.Sg.Past.Ind	leben
+mit	APPR	mit
+drei	CARD	drei
+Töchtern	NN.Dat.Pl.Fem	Tochter
+in	APPR	in
+einem	ART.Dat.Sg.Masc	ein
+großen	ADJA.Pos.Dat.Sg.Masc	groß
+Walde	NN.Dat.Sg.Masc	Wald
+von	APPR	von
+allen	PIAT.Dat.Pl.Masc	aller
+Menschen	NN.Dat.Pl.Masc	Mensch
+abgesondert	VVPP.Psp	absondern
+.	$.	.
+

@@ -1,0 +1,23 @@
+Als	KOUS	als
+mein	PPOSAT.Nom.Sg.Masc	mein
+Freund	NN.Nom.Sg.Masc	Freund
+Stilpe	NE.Nom.Sg.Masc	Stilpe
+geboren	VVPP.Psp	gebären
+worden	VAPP.Psp	werden
+war	VAFIN.3.Sg.Past.Ind	sein
+,	$,	,
+herrſchte	VVFIN.3.Sg.Past.Ind	herr<unk>chen
+,	$,	,
+wie	PWAV	wie
+das	PDS.Nom.Sg.Neut	der
+ſo	ADV	<unk>
+üblich	ADJD.Pos	üblich
+iſt	VAFIN.3.Sg.Pres.Ind	sein
+,	$,	,
+viel	PIAT.*.*.*	viel
+Freude	NN.Nom.Sg.Fem	Freude
+in	APPR	in
+der	ART.Dat.Sg.Fem	der
+Familie	NN.Dat.Sg.Fem	Familie
+.	$.	.
+

@@ -1,0 +1,17 @@
+Es	PPER.3.Nom.Sg.Neut	es
+ist	VAFIN.3.Sg.Pres.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Mann	NN.Nom.Sg.Masc	Mann
+gewesen	VAPP.Psp	sein
+,	$,	,
+dessen	PRELAT.Gen.Sg.Masc	der
+Frau	NN.Nom.Sg.Fem	Frau
+kommt	VVFIN.3.Sg.Pres.Ind	kommen
+nieder	ADV	nieder
+mit	APPR	mit
+ihrem	PPOSAT.Dat.Sg.Neut	ihr
+siebenten	ADJA.Pos.Dat.Sg.Neut	siebenten
+Kinde	NN.Dat.Sg.Neut	Kind
+.	$.	.
+

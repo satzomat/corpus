@@ -1,0 +1,21 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+einmal	ADV	einmal
+sieben	CARD	sieben
+Schwaben	NN.Nom.Pl.Masc	Schwabe
+,	$,	,
+die	ART.Nom.Pl.Masc	der
+wollten	VMFIN.3.Pl.Past.Ind	wollen
+große	ADJA.Pos.Nom.Pl.Masc	groß
+Helden	NN.Nom.Pl.Masc	Held
+sein	VAINF.Inf	sein
+und	KON	und
+auf	APPR	auf
+Abenteuer	NN.Acc.Pl.Neut	Abenteuer
+wandern	VVINF.Inf	wandern
+durch	APPR	durch
+die	ART.Acc.Sg.Fem	der
+ganze	ADJA.Pos.Acc.Sg.Fem	ganz
+Welt	NN.Acc.Sg.Fem	Welt
+.	$.	.
+

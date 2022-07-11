@@ -1,0 +1,26 @@
+Ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Hirte	NN.Nom.Sg.Masc	Hirte
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+einzigen	ADJA.Pos.Acc.Sg.Masc	einziger
+Sohn	NN.Acc.Sg.Masc	Sohn
+und	KON	und
+kein	PIAT.Acc.Sg.Neut	kein
+Kind	NN.Acc.Sg.Neut	Kind
+außer	APPR	außer
+ihm	PPER.3.Dat.Sg.Masc	ihm
+,	$,	,
+da	ADV	da
+war	VAFIN.3.Sg.Past.Ind	sein
+es	PPER.3.Nom.Sg.Neut	es
+kein	PIAT.Nom.Sg.Neut	kein
+Wunder	NN.Nom.Sg.Neut	Wunder
+,	$,	,
+daß	KOUS	daß
+der	ART.Nom.Sg.Masc	der
+Knabe	NN.Nom.Sg.Masc	Knabe
+verzogen	VVPP.Psp	verziehen
+wurde	VAFIN.3.Sg.Past.Ind	werden
+.	$.	.
+

@@ -1,0 +1,20 @@
+In	APPR	in
+einer	ART.Dat.Sg.Fem	ein
+Schlucht	NN.Dat.Sg.Fem	Schlucht
+mitten	ADV	mitten
+im	APPRART.Dat.Sg.Neut	in
+tiefsten	ADJA.Sup.Dat.Sg.Neut	tief
+Waldgebirge	NN.Dat.Sg.Neut	Waldgebirge
+stand	VVFIN.3.Sg.Past.Ind	stehen
+ein	ART.Nom.Sg.Masc	ein
+junger	ADJA.Pos.Nom.Sg.Masc	junger
+Mann	NN.Nom.Sg.Masc	Mann
+,	$,	,
+an	APPR	an
+den	ART.Acc.Sg.Masc	der
+Stamm	NN.Acc.Sg.Masc	Stamm
+einer	ART.Gen.Sg.Fem	ein
+Eiche	NN.Gen.Sg.Fem	Eiche
+gelehnt	VVPP.Psp	lehnen
+.	$.	.
+

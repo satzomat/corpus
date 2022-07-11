@@ -1,0 +1,16 @@
+Auf	APPR	auf
+einer	PIS.Dat.Sg.Fem	einer
+der	ART.Gen.Pl.Fem	der
+Felseninseln	NN.Gen.Pl.Fem	Felseninsel
+Schottlands	NE.Gen.Sg.Neut	Schottland
+lebten	VVFIN.3.Pl.Past.Ind	leben
+vor	APPR	vor
+vielen	PIAT.Dat.Pl.Neut	vieler
+Jahren	NN.Dat.Pl.Neut	Jahr
+zwei	CARD	zwei
+Fischer	NN.Nom.Pl.Masc	Fischer
+in	APPR	in
+glücklicher	ADJA.Pos.Dat.Sg.Fem	glücklicher
+Eintracht	NN.Dat.Sg.Fem	Eintracht
+.	$.	.
+

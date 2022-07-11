@@ -1,0 +1,18 @@
+GLeich	ADJD.Pos	gleich
+wie	KOKOM	wie
+der	ART.Nom.Sg.Masc	der
+Apffel	NN.Nom.Sg.Masc	Apffel
+nit	ADV	nit
+weit	ADJD.Pos	weit
+vom	APPRART.Dat.Sg.Masc	von
+Stamm	NN.Dat.Sg.Masc	Stamm
+faͤllt/	VVFIN.3.Sg.Past.Ind	fa<unk>llen
+alſo	ADV	al<unk>o
+ſchlaͤgt	VVFIN.3.Sg.Pres.Ind	<unk>
+kein	PIAT.Nom.Sg.Masc	kein
+Zweig	NN.Nom.Sg.Masc	Zweig
+aus	APPR	aus
+ſeiner	PPOSAT.Dat.Sg.Fem	<unk>
+Art	NN.Dat.Sg.Fem	Art
+!	$.	!
+

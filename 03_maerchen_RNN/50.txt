@@ -1,0 +1,9 @@
+Abdala	NE.Nom.Sg.*	Abdala
+führte	VVFIN.3.Sg.Past.Ind	führen
+den	ART.Acc.Sg.Masc	der
+schuldlosen	ADJA.Pos.Acc.Sg.Masc	schuldlos
+Knaben	NN.Acc.Sg.Masc	Knabe
+zur	APPRART.Dat.Sg.Fem	zu
+Höhle	NN.Dat.Sg.Fem	Höhle
+.	$.	.
+

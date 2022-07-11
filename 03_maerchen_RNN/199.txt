@@ -1,0 +1,23 @@
+Ein	ART.Nom.Sg.Masc	ein
+Mann	NN.Nom.Sg.Masc	Mann
+war	VAFIN.3.Sg.Past.Ind	sein
+hinaus	APZR	hinaus
+gegangen	VVPP.Psp	gehen
+in	APPR	in
+den	ART.Acc.Sg.Masc	der
+Wald	NN.Acc.Sg.Masc	Wald
+,	$,	,
+und	KON	und
+spaltete	VVFIN.3.Sg.Past.Ind	spalten
+da	ADV	da
+einen	ART.Acc.Sg.Masc	ein
+ungeheuer	ADJD.Pos	ungeheuer
+langen	ADJA.Pos.Acc.Sg.Masc	lang
+Baum	NN.Acc.Sg.Masc	Baum
+der	ART.Gen.Sg.Fem	der
+Länge	NN.Gen.Sg.Fem	Länge
+nach	APPO.Dat	nach
+in	APPR	in
+Scheiter	NN.Dat.Sg.Fem	Scheiter
+.	$.	.
+

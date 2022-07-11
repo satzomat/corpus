@@ -1,0 +1,27 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+an	APPR	an
+einem	ART.Dat.Sg.Masc	ein
+schönen	ADJA.Pos.Dat.Sg.Masc	schön
+Junitage	NN.Dat.Sg.Masc	Junitag
+,	$,	,
+das	ART.Nom.Sg.Neut	der
+Gras	NN.Nom.Sg.Neut	Gras
+lag	VVFIN.3.Sg.Past.Ind	liegen
+in	APPR	in
+langen	ADJA.Pos.Dat.Pl.Fem	lang
+Reihen	NN.Dat.Pl.Fem	Reihe
+und	KON	und
+begann	VVFIN.3.Sg.Past.Ind	beginnen
+unter	APPR	unter
+dem	ART.Dat.Sg.Masc	der
+Strahl	NN.Dat.Sg.Masc	Strahl
+der	ART.Gen.Sg.Fem	der
+Sonne	NN.Gen.Sg.Fem	Sonne
+zu	PTKZU	zu
+welken	VVINF.Inf	welken
+und	KON	und
+zu	PTKZU	zu
+duften	VVINF.Inf	duften
+.	$.	.
+

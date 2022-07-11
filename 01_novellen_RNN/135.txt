@@ -1,0 +1,23 @@
+Ihr	PPER.2.Nom.Pl.*	ihr
+wißt	VVFIN.2.Pl.Pres.Ind	wissen
+doch	ADV	doch
+,	$,	,
+daß	KOUS	daß
+ich	PPER.1.Nom.Sg.*	ich
+als	APPR	als
+Büchsenspanner	NN.Nom.Sg.Masc	Büchsenspanner
+beim	APPRART.Dat.Sg.Masc	bei
+Prinzen	NN.Dat.Sg.Masc	Prinz
+Adolph	NE.Nom.Sg.Masc	Adolph
+diente	VVFIN.1.Sg.Past.Ind	dienen
+,	$,	,
+ehe	KOUS	ehe
+ich	PPER.1.Nom.Sg.*	ich
+mit	APPR	mit
+unserer	PPOSAT.Dat.Sg.Fem	unser
+Gnädigen	NN.Dat.Sg.Fem	Gnädige
+nach	APPR	nach
+Carlsstadt	NN.Dat.Sg.Fem	Carlsstadt
+herüberkam	VVFIN.1.Sg.Past.Ind	herüberkommen
+.	$.	.
+

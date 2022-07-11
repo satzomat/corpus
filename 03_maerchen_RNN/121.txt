@@ -1,0 +1,25 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+gewaltiger	ADJA.Pos.Nom.Sg.Masc	gewaltiger
+Rittersmann	NN.Nom.Sg.Masc	Rittersmann
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+viel	PIAT.*.*.*	viel
+Geld	NN.Acc.Sg.Neut	Geld
+und	KON	und
+Gut	NN.Acc.Sg.Neut	Gut
+,	$,	,
+und	KON	und
+lebte	VVFIN.3.Sg.Past.Ind	leben
+auf	APPR	auf
+seinem	PPOSAT.Dat.Sg.Neut	sein
+Schlosse	NN.Dat.Sg.Neut	Schloß
+herrlich	ADJD.Pos	herrlich
+und	KON	und
+in	APPR	in
+Freuden	NN.Dat.Pl.Fem	Freude
+.	$.	.
+

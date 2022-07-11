@@ -1,0 +1,22 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+junger	ADJA.Pos.Nom.Sg.Masc	junger
+Bauer	NN.Nom.Sg.Masc	Bauer
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+Hans	NE.Nom.Sg.Masc	Hans
+,	$,	,
+dem	PRELS.Dat.Sg.Masc	der
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+sein	PPOSAT.Nom.Sg.Masc	sein
+Vetter	NN.Nom.Sg.Masc	Vetter
+gern	ADV	gern
+eine	ART.Acc.Sg.Fem	ein
+reiche	ADJA.Pos.Acc.Sg.Fem	reiche
+Frau	NN.Acc.Sg.Fem	Frau
+werben	VVINF.Inf	werben
+.	$.	.
+

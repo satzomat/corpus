@@ -1,0 +1,13 @@
+Es	PPER.3.Nom.Sg.Neut	es
+ist	VAFIN.3.Sg.Pres.Ind	sein
+Niemand	PIS.Nom.Sg.Masc	niemand
+so	ADV	so
+glücklich	ADJD.Pos	glücklich
+,	$,	,
+daß	KOUS	daß
+er	PPER.3.Nom.Sg.Masc	er
+das	ART.Acc.Sg.Neut	der
+Wünschen	NN.Acc.Sg.Neut	Wünschen
+verlernte	VVFIN.3.Sg.Past.Ind	verlernen
+.	$.	.
+

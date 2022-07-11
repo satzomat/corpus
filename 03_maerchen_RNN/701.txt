@@ -1,0 +1,26 @@
+Es	PPER.3.Nom.Sg.Neut	es
+ist	VAFIN.3.Sg.Pres.Ind	sein
+schon	ADV	schon
+lange	ADV	lange
+her	PTKVZ	her
+,	$,	,
+da	ADV	da
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+Gräfin	NN.Nom.Sg.Fem	Gräfin
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+befand	VVFIN.3.Sg.Past.Ind	befinden
+sich	PRF.3.Acc.Sg	sich
+nicht	PTKNEG	nicht
+wohl	ADV	wohl
+und	KON	und
+gieng	VVFIN.3.Sg.Past.Ind	geingen
+deshalb	PROAV	deshalb
+an	APPR	an
+einem	ART.Dat.Sg.Masc	ein
+See	NN.Dat.Sg.Masc	See
+spazieren	VVINF.Inf	spazieren
+.	$.	.
+

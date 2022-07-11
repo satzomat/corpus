@@ -1,0 +1,15 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Müller	NN.Nom.Sg.Masc	Müller
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Söhne	NN.Acc.Pl.Masc	Sohn
+und	KON	und
+eine	ART.Acc.Sg.Fem	ein
+Tochter	NN.Acc.Sg.Fem	Tochter
+.	$.	.
+

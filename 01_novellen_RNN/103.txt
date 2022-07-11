@@ -1,0 +1,24 @@
+Wo	PWAV	wo
+der	ART.Nom.Sg.Masc	der
+Arlberg	NN.Nom.Sg.Masc	Arlberg
+steil	ADJD.Pos	steil
+niedergeht	VVFIN.3.Sg.Pres.Ind	niedergehen
+ins	APPRART.Acc.Sg.Neut	in
+Land	NN.Acc.Sg.Neut	Land
+an	APPR	an
+der	ART.Dat.Sg.Fem	der
+Iller	NN.Dat.Sg.Fem	Iller
+,	$,	,
+am	APPRART.Dat.Sg.Masc	an
+Rhein	NE.Dat.Sg.Masc	Rhein
+und	KON	und
+am	APPRART.Dat.Sg.Masc	an
+Bodensee	NE.Dat.Sg.Masc	Bodensee
+,	$,	,
+liegt	VVFIN.3.Sg.Pres.Ind	liegen
+der	ART.Nom.Sg.Masc	der
+kleine	ADJA.Pos.Nom.Sg.Masc	klein
+Ort	NN.Nom.Sg.Masc	Ort
+Stuben	NN.Acc.Pl.Fem	Stube
+.	$.	.
+

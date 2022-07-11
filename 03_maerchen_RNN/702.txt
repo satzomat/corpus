@@ -1,0 +1,22 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+Frau	NN.Nom.Sg.Fem	Frau
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+erwartete	VVFIN.3.Sg.Past.Ind	erwarten
+Besuch	NN.Acc.Sg.Masc	Besuch
+und	KON	und
+hatte	VAFIN.3.Sg.Past.Ind	haben
+deshalb	PROAV	deshalb
+drei	CARD	drei
+Pasteten	NN.Acc.Pl.Fem	Pastete
+gebacken	VVPP.Psp	backen
+und	KON	und
+in	APPR	in
+den	ART.Acc.Sg.Masc	der
+Keller	NN.Acc.Sg.Masc	Keller
+gestellt	VVPP.Psp	stellen
+.	$.	.
+

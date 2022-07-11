@@ -1,0 +1,24 @@
+Zwei	CARD	zwei
+Bauersleute	NN.Nom.Pl.*	Bauersleute
+hatten	VAFIN.3.Pl.Past.Ind	haben
+ein	ART.Acc.Sg.Neut	ein
+Kind	NN.Acc.Sg.Neut	Kind
+und	KON	und
+wie	PWAV	wie
+es	PPER.3.Nom.Sg.Neut	es
+denn	ADV	denn
+in	APPR	in
+der	ART.Dat.Sg.Fem	der
+Welt	NN.Dat.Sg.Fem	Welt
+geht	VVFIN.3.Sg.Pres.Ind	gehen
+,	$,	,
+wo	PWAV	wo
+nur	ADV	nur
+eins	PIS.Nom.Sg.Neut	einer
+ist	VAFIN.3.Sg.Pres.Ind	sein
+,	$,	,
+da	ADV	da
+wird's	VAFIN	werden
+verzogen	VVPP.Psp	verziehen
+.	$.	.
+

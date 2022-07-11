@@ -1,0 +1,19 @@
+Nicht	PTKNEG	nicht
+weit	ADJD.Pos	weit
+vom	APPRART.Dat.Sg.Masc	von
+mansfelder	ADJA.Pos.Dat.Sg.Masc	mansfelder
+süßen	ADJA.Pos.Dat.Sg.Masc	süß
+See	NN.Dat.Sg.Masc	See
+liegt	VVFIN.3.Sg.Pres.Ind	liegen
+ein	ART.Nom.Sg.Neut	ein
+Dorf	NN.Nom.Sg.Neut	Dorf
+,	$,	,
+doch	KON	doch
+wie	PWAV	wie
+es	PPER.3.Nom.Sg.Neut	es
+heißt	VVFIN.3.Sg.Pres.Ind	heißen
+weiß	VVFIN.1.Sg.Pres.Ind	wissen
+ich	PPER.1.Nom.Sg.*	ich
+nicht	PTKNEG	nicht
+.	$.	.
+

@@ -1,0 +1,23 @@
+Ein	ART.Nom.Sg.Masc	ein
+angesehener	ADJA.Pos.Nom.Sg.Masc	angesehener
+und	KON	und
+begüterter	ADJA.Pos.Nom.Sg.Masc	begüterter
+Mann	NN.Nom.Sg.Masc	Mann
+auf	APPR	auf
+dem	ART.Dat.Sg.Neut	der
+Lande	NN.Dat.Sg.Neut	Land
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+mit	APPR	mit
+seinem	PPOSAT.Dat.Sg.Masc	sein
+Nachbar	NN.Dat.Sg.Masc	Nachbar
+in	APPR	in
+immerwährender	ADJA.Pos.Dat.Sg.Fem	immerwährender
+Feindschaft	NN.Dat.Sg.Fem	Feindschaft
+lebte	VVFIN.3.Sg.Past.Ind	leben
+,	$,	,
+hatte	VAFIN.3.Sg.Past.Ind	haben
+zwei	CARD	zwei
+Söhne	NN.Acc.Pl.Masc	Sohn
+.	$.	.
+

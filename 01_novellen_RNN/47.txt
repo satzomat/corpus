@@ -1,0 +1,18 @@
+Dem	ART.Dat.Sg.Neut	der
+Geſtade	NN.Dat.Sg.Neut	Ge<unk>tade
+der	ART.Gen.Sg.Fem	der
+Oſtſee	NN.Gen.Sg.Fem	O<unk>t<unk>ee
+unfern	ADJD.Pos	unfern
+liegt	VVFIN.3.Sg.Pres.Ind	liegen
+das	ART.Nom.Sg.Neut	der
+Stammſchloß	NN.Nom.Sg.Neut	Stamm<unk>chloß
+der	ART.Gen.Sg.Fem	der
+Freiherrlich	NN.Gen.Sg.Fem	Freiherrlich
+von	APPR	von
+R..ſchen	NN.Dat.Pl.Fem	R..
+Familie	NN.Dat.Sg.Fem	Familie
+,	$,	,
+R..ſitten	NE.Nom.Sg.*	R..
+genannt	VVPP.Psp	nennen
+.	$.	.
+

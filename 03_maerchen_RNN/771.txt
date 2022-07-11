@@ -1,0 +1,26 @@
+In	APPR	in
+Stolberg	NE.Dat.Sg.Neut	Stolberg
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Glockengießer	NN.Nom.Sg.Masc	Glockengießer
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+Lehrling	NN.Acc.Sg.Masc	Lehrling
+,	$,	,
+welcher	PWS.Nom.Sg.Masc	welcher
+funfzehn	CARD	funfzehn
+Jahre	NN.Acc.Pl.Neut	Jahr
+alt	ADJD.Pos	alt
+war	VAFIN.3.Sg.Past.Ind	sein
+und	KON	und
+hatte	VAFIN.3.Sg.Past.Ind	haben
+in	APPR	in
+Arbeit	NN.Dat.Sg.Fem	Arbeit
+eine	ART.Acc.Sg.Fem	ein
+große	ADJA.Pos.Acc.Sg.Fem	groß
+Glocke	NN.Acc.Sg.Fem	Glocke
+.	$.	.
+

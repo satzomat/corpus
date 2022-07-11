@@ -1,0 +1,23 @@
+Ein	ART.Nom.Sg.Masc	ein
+Mann	NN.Nom.Sg.Masc	Mann
+,	$,	,
+welcher	PWS.Nom.Sg.Masc	welcher
+mehrere	PIAT.Acc.Pl.Neut	mehrere
+Kinder	NN.Acc.Pl.Neut	Kind
+hatte	VAFIN.3.Sg.Past.Ind	haben
+,	$,	,
+kaufte	VVFIN.3.Sg.Past.Ind	kaufen
+sich	PRF.3.Acc.Sg	sich
+ein	ART.Nom.Sg.Neut	ein
+Gut	NN.Nom.Sg.Neut	Gut
+auf	APPR	auf
+dem	ART.Dat.Sg.Neut	der
+Lande	NN.Dat.Sg.Neut	Land
+,	$,	,
+um	KOUI	um
+es	PPER.3.Acc.Sg.Neut	es
+selbst	ADV	selbst
+zu	PTKZU	zu
+bewohnen	VVINF.Inf	bewohnen
+.	$.	.
+

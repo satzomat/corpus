@@ -1,0 +1,10 @@
+Hansens	NE.Gen.Sg.*	Hansen
+Trine	NN.Nom.Sg.Masc	Trine
+war	VAFIN.3.Sg.Past.Ind	sein
+faul	ADJD.Pos	faul
+und	KON	und
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+nichts	PIS.*.*.Neut	nichts
+thun	VVINF.Inf	thun
+.	$.	.
+

@@ -1,0 +1,16 @@
+Zwei	CARD	zwei
+Kinder	NN.Nom.Pl.Neut	Kind
+hatten	VAFIN.3.Pl.Past.Ind	haben
+sich	PRF.3.Acc.Pl	sich
+im	APPRART.Dat.Sg.Masc	in
+Walde	NN.Dat.Sg.Masc	Wald
+verirret	VVPP.Psp	verirren
+und	KON	und
+starben	VVFIN.3.Pl.Past.Ind	sterben
+fast	ADV	fast
+vor	APPR	vor
+Hunger	NN.Dat.Sg.Masc	Hunger
+und	KON	und
+Müdigkeit	NN.Dat.Sg.Fem	Müdigkeit
+.	$.	.
+

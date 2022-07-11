@@ -1,0 +1,24 @@
+Im	APPRART.Dat.Sg.Neut	in
+14.	ADJA.Pos.Dat.Sg.Neut	14.
+Jahrhundert	NN.Dat.Sg.Neut	Jahrhundert
+in	APPR	in
+Nordschleswig	NE.Dat.Sg.Neut	Nordschleswig
+war	VAFIN.3.Sg.Past.Ind	sein
+es	PPER.3.Nom.Sg.Neut	es
+,	$,	,
+als	KOUS	als
+dort	ADV	dort
+im	APPRART.Dat.Sg.Masc	in
+tiefen	ADJA.Pos.Dat.Sg.Masc	tief
+Buchenwalde	NN.Dat.Sg.Masc	Buchenwald
+der	ART.Nom.Sg.Masc	der
+Ritter	NN.Nom.Sg.Masc	Ritter
+Claus	NE.Nom.Sg.Masc	Claus
+Lembeck	NE.Nom.Sg.Masc	Lembeck
+auf	APPR	auf
+seiner	PPOSAT.Dat.Sg.Fem	sein
+Höhenfeste	NN.Dat.Sg.Fem	Höhenfeste
+Dorning	FM	Dorning
+saß	VVFIN.3.Sg.Past.Ind	sitzen
+.	$.	.
+

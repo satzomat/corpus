@@ -1,0 +1,24 @@
+Die	ART.Nom.Sg.Fem	der
+Achse	NN.Nom.Sg.Fem	Achse
+hält	VVFIN.3.Sg.Pres.Ind	halten
+den	ART.Acc.Sg.Masc	der
+Weg	NN.Acc.Sg.Masc	Weg
+noch	ADV	noch
+zweimal	ADV	zweimal
+aus	PTKVZ	aus
+,	$,	,
+schrie	VVFIN.3.Sg.Past.Ind	schreien
+Paul	NE.Nom.Sg.Fem	Paul
+,	$,	,
+macht	VVFIN.3.Sg.Pres.Ind	machen
+nur	ADV	nur
+den	ART.Acc.Sg.Masc	der
+Riemen	NN.Acc.Sg.Masc	Riemen
+geschwind	ADJD.Pos	geschwind
+zurecht	PTKVZ	zurecht
+,	$,	,
+daß	KOUS	daß
+wir	PPER.1.Nom.Pl.*	wir
+fortkommen	VVFIN.1.Pl.Pres.Ind	fortkommen
+!	$.	!
+

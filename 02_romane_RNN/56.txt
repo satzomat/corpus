@@ -1,0 +1,8 @@
+Eine	ART.Nom.Sg.Fem	ein
+Schlange	NN.Nom.Sg.Fem	Schlange
+jagt	VVFIN.3.Sg.Pres.Ind	jagen
+über	APPR	über
+das	ART.Acc.Sg.Neut	der
+Eis	NN.Acc.Sg.Neut	Eis
+.	$.	.
+

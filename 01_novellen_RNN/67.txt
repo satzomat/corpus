@@ -1,0 +1,15 @@
+Nach	APPR	nach
+der	ART.Dat.Sg.Fem	der
+Aufzeichnung	NN.Dat.Sg.Fem	Aufzeichnung
+des	ART.Gen.Sg.Masc	der
+heiligen	ADJA.Pos.Gen.Sg.Masc	heilig
+Gregorius	NE.Gen.Sg.Masc	Gregorius
+war	VAFIN.3.Sg.Past.Ind	sein
+Muſa	NE.Nom.Sg.*	Mu<unk>a
+die	ART.Nom.Sg.Fem	der
+Tänzerin	NN.Nom.Sg.Fem	Tänzerin
+unter	APPR	unter
+den	ART.Dat.Pl.*	der
+Heiligen	NN.Dat.Pl.*	Heilige
+.	$.	.
+

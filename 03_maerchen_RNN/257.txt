@@ -1,0 +1,24 @@
+Ein	ART.Nom.Sg.Masc	ein
+Schneider	NN.Nom.Sg.Masc	Schneider
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+Sohn	NN.Acc.Sg.Masc	Sohn
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+war	VAFIN.3.Sg.Past.Ind	sein
+klein	ADJD.Pos	klein
+gerathen	ADJD.Pos	gerathen
+und	KON	und
+nicht	PTKNEG	nicht
+größer	ADJD.Comp	groß
+als	KOKOM	als
+ein	ART.Nom.Sg.Neut	ein
+Daumen	NN.Nom.Sg.Neut	Daumen
+,	$,	,
+darum	PROAV	darum
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+er	PPER.3.Nom.Sg.Masc	er
+der	ART.Nom.Sg.Masc	der
+Daumerling	NN.Nom.Sg.Masc	Daumerling
+.	$.	.
+

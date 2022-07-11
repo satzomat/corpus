@@ -1,0 +1,22 @@
+Da	ADV	da
+saß	VVFIN.3.Sg.Past.Ind	sitzen
+eine	ART.Nom.Sg.Fem	ein
+Mutter	NN.Nom.Sg.Fem	Mutter
+bei	APPR	bei
+ihrem	PPOSAT.Dat.Sg.Neut	ihr
+kleinen	ADJA.Pos.Dat.Sg.Neut	kleinen
+Kinde	NN.Dat.Sg.Neut	Kind
+,	$,	,
+sie	PPER.3.Nom.Sg.Fem	sie
+war	VAFIN.3.Sg.Past.Ind	sein
+sehr	ADV	sehr
+betrübt	ADJD.Pos	betrübt
+und	KON	und
+besorgt	ADJD.Pos	besorgt
+,	$,	,
+daß	KOUS	daß
+es	PPER.3.Nom.Sg.Neut	es
+sterben	VVINF.Inf	sterben
+möchte	VMFIN.3.Sg.Pres.Ind	möchten
+.	$.	.
+

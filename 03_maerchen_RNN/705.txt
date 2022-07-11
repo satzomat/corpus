@@ -1,0 +1,21 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+einmal	ADV	einmal
+drei	CARD	drei
+Brüder	NN.Nom.Pl.Masc	Bruder
+,	$,	,
+von	APPR	von
+denen	PRELS.Dat.Pl.Masc	der
+wollten	VMFIN.3.Pl.Past.Ind	wollen
+zwei	CARD	zwei
+auf	APPR	auf
+Reisen	NN.Acc.Pl.Fem	Reise
+gehn	VVINF.Inf	gehn
+,	$,	,
+um	KOUI	um
+sich	PRF.3.Dat.Pl	sich
+eine	ART.Acc.Sg.Fem	ein
+Frau	NN.Acc.Sg.Fem	Frau
+auszusuchen	VVIZU.Infzu	aussuchen
+.	$.	.
+

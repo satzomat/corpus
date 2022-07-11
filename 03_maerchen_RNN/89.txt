@@ -1,0 +1,25 @@
+In	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+kleinen	ADJA.Pos.Dat.Sg.Neut	kleinen
+Städtchen	NN.Dat.Sg.Neut	Städtchen
+lebte	VVFIN.3.Sg.Past.Ind	leben
+ein	ART.Nom.Sg.Masc	ein
+ehrlicher	ADJA.Pos.Nom.Sg.Masc	ehrlicher
+Schneider	NN.Nom.Sg.Masc	Schneider
+mit	APPR	mit
+seiner	PPOSAT.Dat.Sg.Fem	sein
+Familie	NN.Dat.Sg.Fem	Familie
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+fünf	CARD	fünf
+Häupter	NN.Acc.Pl.Neut	Haupt
+zählte	VVFIN.3.Sg.Past.Ind	zählen
+:	$.	:
+Vater	NN.Nom.Sg.Masc	Vater
+,	$,	,
+Mutter	NN.Nom.Sg.Fem	Mutter
+und	KON	und
+drei	CARD	drei
+Söhne	NN.Nom.Pl.Masc	Sohn
+.	$.	.
+

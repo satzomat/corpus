@@ -1,0 +1,15 @@
+Diese	PDAT.Nom.Sg.Fem	dieser
+Geschichte	NN.Nom.Sg.Fem	Geschichte
+scheint	VVFIN.3.Sg.Pres.Ind	scheinen
+zwar	ADV	zwar
+lügenhaft	ADJD.Pos	lügenhaft
+und	KON	und
+ganz	ADV	ganz
+unglaublich	ADJD.Pos	unglaublich
+,	$,	,
+ist	VAFIN.3.Sg.Pres.Ind	sein
+aber	ADV	aber
+doch	ADV	doch
+wahr	ADJD.Pos	wahr
+.	$.	.
+

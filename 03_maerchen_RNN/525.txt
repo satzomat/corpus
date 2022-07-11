@@ -1,0 +1,21 @@
+In	APPR	in
+Oberschwaben	NE.Dat.Sg.Neut	Oberschwaben
+stehen	VVFIN.3.Pl.Pres.Ind	stehen
+noch	ADV	noch
+heutzutage	ADV	heutzutage
+die	ART.Nom.Pl.Fem	der
+Mauern	NN.Nom.Pl.Fem	Mauer
+einer	ART.Gen.Sg.Fem	ein
+Burg	NN.Gen.Sg.Fem	Burg
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+einst	ADV	einst
+die	ART.Nom.Sg.Fem	der
+stattlichste	ADJA.Sup.Nom.Sg.Fem	stattlich
+der	ART.Gen.Sg.Fem	der
+Gegend	NN.Gen.Sg.Fem	Gegend
+war	VAFIN.3.Sg.Past.Ind	sein
+,	$,	,
+Hohenzollern	NN.Dat.Pl.Masc	Hohenzoller
+.	$.	.
+

@@ -1,0 +1,21 @@
+Ein	ART.Nom.Sg.Neut	ein
+Läuschen	NN.Nom.Sg.Neut	Läuschen
+und	KON	und
+ein	ART.Nom.Sg.Neut	ein
+Flöhchen	NN.Nom.Sg.Neut	Flöhchen
+die	PDS.Nom.Pl.Fem	der
+lebten	VVFIN.3.Pl.Past.Ind	leben
+zusammen	ADV	zusammen
+in	APPR	in
+einem	ART.Dat.Sg.Masc	ein
+Haushalt	NN.Dat.Sg.Masc	Haushalt
+,	$,	,
+und	KON	und
+brauten	VVFIN.3.Pl.Past.Ind	brauen
+sich	PRF.3.Acc.Pl	sich
+Bier	NN.Acc.Sg.Neut	Bier
+in	APPR	in
+einer	ART.Dat.Sg.Fem	ein
+Eierschale	NN.Dat.Sg.Fem	Eierschale
+.	$.	.
+

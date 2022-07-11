@@ -1,0 +1,14 @@
+Ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+fragte	VVFIN.3.Sg.Past.Ind	fragen
+einstmals	ADV	einstmals
+seine	PPOSAT.Acc.Sg.Fem	sein
+Tochter	NN.Acc.Sg.Fem	Tochter
+,	$,	,
+wie	PWAV	wie
+lieb	VVFIN.3.Sg.Past.Ind	leiben
+sie	PPER.3.Nom.Sg.Fem	sie
+ihn	PPER.3.Acc.Sg.Masc	ihn
+habe	VAFIN.3.Sg.Pres.Subj	haben
+?	$.	?
+

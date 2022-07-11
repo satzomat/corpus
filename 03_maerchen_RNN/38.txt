@@ -1,0 +1,11 @@
+Hast	ADV	hast
+Du	PPER.2.Nom.Sg.*	du
+die	ART.Acc.Sg.Fem	der
+Geschichte	NN.Acc.Sg.Fem	Geschichte
+von	APPR	von
+der	ART.Dat.Sg.Fem	der
+alten	ADJA.Pos.Dat.Sg.Fem	alt
+Straßenlaterne	NN.Dat.Sg.Fem	Straßenlaterne
+gehört	VVFIN.3.Sg.Pres.Ind	gehören
+?	$.	?
+

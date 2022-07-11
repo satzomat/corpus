@@ -1,0 +1,24 @@
+Ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+und	KON	und
+eine	ART.Nom.Sg.Fem	ein
+Königin	NN.Nom.Sg.Fem	Königin
+hatten	VAFIN.3.Pl.Past.Ind	haben
+eine	ART.Acc.Sg.Fem	ein
+wunderschöne	ADJA.Pos.Acc.Sg.Fem	wunderschöne
+Tochter	NN.Acc.Sg.Fem	Tochter
+,	$,	,
+an	APPR	an
+deren	PRELAT.Gen.Sg.Fem	der
+Wiege	NN.Acc.Pl.Masc	Wieg
+traten	VVFIN.3.Pl.Past.Ind	treten
+böse	ADJA.Pos.Nom.Pl.Masc	böse
+Feen	NN.Nom.Pl.Masc	Fee
+und	KON	und
+wünschten	VVFIN.3.Pl.Past.Ind	wünschen
+dem	ART.Dat.Sg.Neut	der
+Kinde	NN.Dat.Sg.Neut	Kind
+allerlei	PIAT.*.*.*	allerlei
+Übles	NN.Acc.Sg.Neut	Üble
+.	$.	.
+

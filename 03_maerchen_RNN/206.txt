@@ -1,0 +1,23 @@
+Im	APPRART.Dat.Sg.Neut	in
+Gebirge	NN.Dat.Sg.Neut	Gebirge
+lebte	VVFIN.3.Sg.Past.Ind	leben
+eine	ART.Nom.Sg.Fem	ein
+arme	ADJA.Pos.Nom.Sg.Fem	arm
+Wittwe	NN.Nom.Sg.Fem	Wittwe
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+von	APPR	von
+mancher	PIAT.Dat.Sg.Fem	mancher
+Sorge	NN.Dat.Sg.Fem	Sorge
+für	APPR	für
+sich	PRF.3.Acc.Sg	sich
+und	KON	und
+ihren	PPOSAT.Acc.Sg.Masc	ihr
+Knaben	NN.Acc.Sg.Masc	Knabe
+,	$,	,
+Wilhelm	NN.Acc.Sg.Masc	Wilhelm
+,	$,	,
+bedrängt	VVPP.Psp	bedrängen
+ward	VAFIN.3.Sg.Past.Ind	werden
+.	$.	.
+

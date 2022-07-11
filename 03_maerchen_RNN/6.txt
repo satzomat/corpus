@@ -1,0 +1,23 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+einmal	ADV	einmal
+fünfundzwanzig	CARD	fünfundzwanzig
+Zinnsoldaten	NN.Nom.Pl.Masc	Zinnsoldat
+,	$,	,
+die	PRELS.Nom.Pl.Masc	der
+waren	VAFIN.3.Pl.Past.Ind	sein
+alle	PIAT.Nom.Pl.Masc	aller
+Brüder	NN.Nom.Pl.Masc	Bruder
+,	$,	,
+denn	KON	denn
+sie	PPER.3.Nom.Pl.Masc	sie
+waren	VAFIN.3.Pl.Past.Ind	sein
+aus	APPR	aus
+einem	ART.Dat.Sg.Masc	ein
+alten	ADJA.Pos.Dat.Sg.Masc	alt
+zinnernen	ADJA.Pos.Dat.Sg.Masc	zinnern
+Löffel	NN.Dat.Sg.Masc	Löffel
+gemacht	VVPP.Psp	machen
+worden	VAPP.Psp	werden
+.	$.	.
+

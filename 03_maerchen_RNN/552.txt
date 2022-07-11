@@ -1,0 +1,20 @@
+Eine	ART.Nom.Sg.Fem	ein
+Mutter	NN.Nom.Sg.Fem	Mutter
+hatte	VAFIN.3.Sg.Past.Ind	haben
+ein	ART.Acc.Sg.Neut	ein
+kleines	ADJA.Pos.Acc.Sg.Neut	klein
+Töchterchen	NN.Acc.Sg.Neut	Töchterchen
+,	$,	,
+mit	APPR	mit
+diesem	PDS.Dat.Sg.Masc	dieser
+ging	VVFIN.3.Sg.Past.Ind	gehen
+sie	PPER.3.Nom.Pl.Neut	sie
+spazieren	VVINF.Inf	spazieren
+,	$,	,
+hinaus	ADV	hinaus
+auf	APPR	auf
+das	ART.Acc.Sg.Neut	der
+grüne	ADJA.Pos.Acc.Sg.Neut	grüne
+Feld	NN.Acc.Sg.Neut	Feld
+.	$.	.
+

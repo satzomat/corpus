@@ -1,0 +1,15 @@
+Vor	APPR	vor
+uralten	ADJA.Pos.Dat.Pl.Fem	uralt
+Zeiten	NN.Dat.Pl.Fem	Zeit
+lebte	VVFIN.3.Sg.Past.Ind	leben
+im	APPRART.Dat.Sg.Neut	in
+Morgenlande	NN.Dat.Sg.Neut	Morgenland
+ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+;	$.	;
+der	PDS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drey	PIAT.Acc.Pl.Masc	drey
+Söhne	NN.Acc.Pl.Masc	Sohn
+.	$.	.
+

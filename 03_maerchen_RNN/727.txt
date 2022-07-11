@@ -1,0 +1,24 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+einmal	ADV	einmal
+zwei	CARD	zwei
+englische	ADJA.Pos.Nom.Pl.Masc	englisch
+Offiziere	NN.Nom.Pl.Masc	Offizier
+,	$,	,
+die	PRELS.Nom.Pl.Masc	der
+hatten	VAFIN.3.Pl.Past.Ind	haben
+sich	PRF.3.Acc.Pl	sich
+unter	APPR	unter
+das	ART.Acc.Sg.Neut	der
+preußische	ADJA.Pos.Acc.Sg.Neut	preußisch
+Militär	NN.Acc.Sg.Neut	Militär
+aufnehmen	VVINF.Inf	aufnehmen
+laßen	VVFIN.3.Pl.Past.Ind	lessen
+und	KON	und
+dienten	VVFIN.3.Pl.Past.Ind	dienen
+hier	ADV	hier
+schon	ADV	schon
+lange	ADJA.Pos.Acc.Sg.Fem	lang
+Zeit	NN.Acc.Sg.Fem	Zeit
+.	$.	.
+

@@ -1,0 +1,12 @@
+Unſere	ADJA.Pos.Nom.Sg.Fem	un<unk>er
+Kirche	NN.Nom.Sg.Fem	Kirche
+feiert	VVFIN.3.Sg.Pres.Ind	feiern
+verſchiedene	ADJA.Pos.Acc.Sg.Fem	ver<unk>chiedene
+Feſte	NN.Acc.Sg.Fem	Fe<unk>te
+,	$,	,
+welche	PWAT.Nom.Pl.Neut	welcher
+zum	APPRART.Dat.Sg.Neut	zu
+Herzen	NN.Dat.Sg.Neut	Herz
+dringen	VVFIN.3.Pl.Pres.Ind	dringen
+.	$.	.
+

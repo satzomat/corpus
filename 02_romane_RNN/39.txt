@@ -1,0 +1,10 @@
+Was	PWS.Nom.Sg.Neut	was
+für	APPR	für
+ein	ART.Acc.Sg.Neut	ein
+ſchändliches	ADJA.Pos.Acc.Sg.Neut	<unk>
+Laſter	NN.Acc.Sg.Neut	La<unk>ter
+iſt	VAFIN.3.Sg.Pres.Ind	sein
+das	ART.Nom.Sg.Neut	der
+Lügen	NN.Nom.Sg.Neut	Lügen
+!	$.	!
+

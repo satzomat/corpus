@@ -1,0 +1,22 @@
+Ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Schuster	NN.Nom.Sg.Masc	Schuster
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+Sohn	NN.Acc.Sg.Masc	Sohn
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+Hans	NE.Dat.Sg.*	Hans
+und	KON	und
+war	VAFIN.3.Sg.Past.Ind	sein
+der	ART.Nom.Sg.Masc	der
+wildeste	ADJA.Sup.Nom.Sg.Masc	wild
+und	KON	und
+unerschrockenste	ADJA.Sup.Nom.Sg.Masc	unerschrocken
+Bube	NN.Nom.Sg.Masc	Bube
+im	APPRART.Dat.Sg.Neut	in
+ganzen	ADJA.Pos.Dat.Sg.Neut	ganzen
+Dorf	NN.Dat.Sg.Neut	Dorf
+.	$.	.
+

@@ -1,0 +1,9 @@
+Ein	ART.Nom.Sg.Masc	ein
+reicher	ADJA.Pos.Nom.Sg.Masc	reicher
+Herr	NN.Nom.Sg.Masc	Herr
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+einzigen	ADJA.Pos.Acc.Sg.Masc	einziger
+Sohn	NN.Acc.Sg.Masc	Sohn
+.	$.	.
+

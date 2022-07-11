@@ -1,0 +1,26 @@
+An	APPR	an
+einem	ART.Dat.Sg.Masc	ein
+Orte	NN.Dat.Sg.Masc	Ort
+hatten	VAFIN.3.Pl.Past.Ind	haben
+sie	PPER.3.Nom.Pl.*	sie
+einen	ART.Acc.Sg.Masc	ein
+schlechten	ADJA.Pos.Acc.Sg.Masc	schlecht
+Pfarrer	NN.Acc.Sg.Masc	Pfarrer
+und	KON	und
+einen	ART.Acc.Sg.Masc	ein
+noch	ADV	noch
+schlechtern	ADJA.Comp.Acc.Sg.Masc	schlecht
+Amtmann	NN.Acc.Sg.Masc	Amtmann
+,	$,	,
+darum	PROAV	darum
+waren	VAFIN.3.Pl.Past.Ind	sein
+sie	PPER.3.Nom.Pl.*	sie
+der	ART.Dat.Sg.Fem	der
+Geistlichkeit	NN.Dat.Sg.Fem	Geistlichkeit
+und	KON	und
+dem	ART.Dat.Sg.Masc	der
+Jus	NN.Dat.Sg.Masc	Jus
+gar	ADV	gar
+abhold	ADJD.Pos	abhold
+.	$.	.
+

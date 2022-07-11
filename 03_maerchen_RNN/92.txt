@@ -1,0 +1,23 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Müller	NN.Nom.Sg.Masc	Müller
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+war	VAFIN.3.Sg.Past.Ind	sein
+reich	ADJD.Pos	reich
+an	APPR	an
+Geld	NN.Dat.Sg.Neut	Geld
+und	KON	und
+Gut	NN.Dat.Sg.Neut	Gut
+und	KON	und
+führte	VVFIN.3.Sg.Past.Ind	führen
+mit	APPR	mit
+seiner	PPOSAT.Dat.Sg.Fem	sein
+Frau	NN.Dat.Sg.Fem	Frau
+ein	ART.Acc.Sg.Neut	ein
+vergnügtes	ADJA.Pos.Acc.Sg.Neut	vergnügte
+Leben	NN.Acc.Sg.Neut	Leben
+.	$.	.
+

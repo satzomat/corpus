@@ -1,0 +1,21 @@
+Auf	APPR	auf
+eine	ART.Acc.Sg.Fem	ein
+Zeit	NN.Acc.Sg.Fem	Zeit
+lebte	VVFIN.3.Sg.Past.Ind	leben
+eine	ART.Nom.Sg.Fem	ein
+Blutwurst	NN.Nom.Sg.Fem	Blutwurst
+und	KON	und
+eine	ART.Nom.Sg.Fem	ein
+Leberwurst	NN.Nom.Sg.Fem	Leberwurst
+zusammen	PTKVZ	zusammen
+,	$,	,
+und	KON	und
+die	ART.Nom.Sg.Fem	der
+Blutwurst	NN.Nom.Sg.Fem	Blutwurst
+bat	VVFIN.3.Sg.Past.Ind	bitten
+die	ART.Acc.Sg.Fem	der
+Leberwurst	NN.Acc.Sg.Fem	Leberwurst
+zu	APPR	zu
+Gast	NN.Dat.Sg.Masc	Gast
+.	$.	.
+

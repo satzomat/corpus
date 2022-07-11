@@ -1,0 +1,23 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+einmal	ADV	einmal
+zwei	CARD	zwei
+Brüder	NN.Nom.Pl.Masc	Bruder
+,	$,	,
+die	PRELS.Nom.Pl.Masc	der
+lebten	VVFIN.3.Pl.Past.Subj	leben
+beide	PIS.Nom.Pl.*	beide
+im	APPRART.Dat.Sg.Masc	in
+Soldatenstand	NN.Dat.Sg.Masc	Soldatenstand
+,	$,	,
+und	KON	und
+war	VAFIN.3.Sg.Past.Ind	sein
+der	ART.Nom.Sg.Masc	der
+eine	ART.Nom.Sg.Masc	ein
+reich	ADJD.Pos	reich
+,	$,	,
+der	ART.Nom.Sg.Masc	der
+andere	PIS.Nom.Sg.Masc	anderer
+arm	ADJD.Pos	arm
+.	$.	.
+

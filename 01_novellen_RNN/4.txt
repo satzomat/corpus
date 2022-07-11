@@ -1,0 +1,19 @@
+Zweimal	ADV	zweimal
+war	VAFIN.3.Sg.Past.Ind	sein
+er	PPER.3.Nom.Sg.Masc	er
+ſchon	ADV	<unk>
+an	APPR	an
+dem	ART.Dat.Sg.Neut	der
+ſtaatsmäßig	ADJD.Pos	<unk>
+hohen	ADJA.Pos.Dat.Sg.Neut	hoch
+und	KON	und
+großen	ADJA.Pos.Dat.Sg.Neut	groß
+Hauſe	NN.Dat.Sg.Neut	Hau<unk>e
+vorübergegangen	VVPP.Psp	vorübergehen
+und	KON	und
+hatte	VAFIN.3.Sg.Past.Ind	haben
+ſich	PRF.3.Acc.Sg	sich
+nicht	PTKNEG	nicht
+hineingetraut	VVPP.Psp	hineintrauen
+.	$.	.
+

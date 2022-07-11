@@ -1,0 +1,14 @@
+In	APPR	in
+den	ART.Acc.Sg.Masc	der
+Krug	NN.Acc.Sg.Masc	Krug
+von	APPR	von
+Hedeper	NE.Dat.Sg.*	Hedeper
+kam	VVFIN.3.Sg.Past.Ind	kommen
+er	PPER.3.Nom.Sg.Masc	er
+und	KON	und
+zwar	ADV	zwar
+zu	APPR	zu
+ungewohnter	ADJA.Pos.Dat.Sg.Fem	ungewohnter
+Stunde	NN.Dat.Sg.Fem	Stunde
+.	$.	.
+

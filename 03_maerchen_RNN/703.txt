@@ -1,0 +1,24 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+Markt	NN.Nom.Sg.Masc	Markt
+in	APPR	in
+einem	ART.Dat.Sg.Masc	ein
+Orte	NN.Dat.Sg.Masc	Ort
+;	$.	;
+da	ADV	da
+kam	VVFIN.3.Sg.Past.Ind	kommen
+Abends	ADV	abends
+ein	ART.Nom.Sg.Masc	ein
+fremder	ADJA.Pos.Nom.Sg.Masc	fremder
+Mann	NN.Nom.Sg.Masc	Mann
+in	APPR	in
+ein	ART.Acc.Sg.Neut	ein
+Wirthshaus	NN.Acc.Sg.Neut	Wirthshaus
+und	KON	und
+wünschte	VVFIN.3.Sg.Past.Ind	wünschen
+daselbst	ADV	daselbst
+zu	PTKZU	zu
+übernachten	VVINF.Inf	übernachten
+.	$.	.
+

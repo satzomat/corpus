@@ -1,0 +1,17 @@
+Ein	ART.Nom.Sg.Masc	ein
+Schäferhund	NN.Nom.Sg.Masc	Schäferhund
+hatte	VAFIN.3.Sg.Past.Ind	haben
+keinen	PIAT.Acc.Sg.Masc	kein
+guten	ADJA.Pos.Acc.Sg.Masc	gut
+Herrn	NN.Acc.Sg.Masc	Herr
+,	$,	,
+sondern	KON	sondern
+einen	PIS.Acc.Sg.Masc	einer
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+ihn	PPER.3.Acc.Sg.Masc	ihn
+Hunger	NN.Acc.Sg.Masc	Hunger
+leiden	VVINF.Inf	leiden
+ließ	VVFIN.3.Sg.Past.Ind	lassen
+.	$.	.
+

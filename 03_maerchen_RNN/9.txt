@@ -1,0 +1,5 @@
+Nun	ADV	nun
+höre	VVFIN.3.Sg.Pres.Subj	hören
+einmal	ADV	einmal
+!	$.	!
+

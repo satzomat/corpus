@@ -1,0 +1,9 @@
+Ich	PPER.1.Nom.Sg.*	ich
+ritt	VVFIN.1.Sg.Past.Ind	reiten
+von	APPR	von
+Sir	NN.Nom.Sg.Masc	Sir
+Drunkner	NN.Nom.Sg.Masc	Drunkner
+nach	APPR	nach
+Hause	NN.Dat.Sg.Neut	Haus
+.	$.	.
+

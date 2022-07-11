@@ -1,0 +1,11 @@
+Ein	ART.Nom.Sg.Masc	ein
+Schreiner	NN.Nom.Sg.Masc	Schreiner
+und	KON	und
+ein	ART.Nom.Sg.Masc	ein
+Drechsler	NN.Nom.Sg.Masc	Drechsler
+sollten	VMFIN.3.Pl.Past.Subj	sollen
+ihr	PPOSAT.Acc.Sg.Neut	ihr
+Meisterstück	NN.Acc.Sg.Neut	Meisterstück
+machen	VVINF.Inf	machen
+.	$.	.
+

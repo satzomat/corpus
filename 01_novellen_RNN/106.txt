@@ -1,0 +1,27 @@
+Vor	APPR	vor
+meinem	PPOSAT.Dat.Sg.Neut	mein
+väterlichen	ADJA.Pos.Dat.Sg.Neut	väterliche
+Geburtshauſe	NN.Dat.Sg.Neut	Geburtshau<unk>
+dicht	ADJD.Pos	dicht
+neben	APPR	neben
+der	ART.Dat.Sg.Fem	der
+Eingangsthür	NN.Dat.Sg.Fem	Eingangsthür
+in	APPR	in
+dasſelbe	PDS.Acc.Sg.Neut	daselbe
+liegt	VVFIN.3.Sg.Pres.Ind	liegen
+ein	ART.Nom.Sg.Masc	ein
+großer	ADJA.Pos.Nom.Sg.Masc	großer
+achtekiger	ADJA.Pos.Nom.Sg.Masc	achtekiger
+Stein	NN.Nom.Sg.Masc	Stein
+von	APPR	von
+der	ART.Dat.Sg.Fem	der
+Geſtalt	NN.Dat.Sg.Fem	Ge<unk>talt
+eines	ART.Gen.Sg.Masc	ein
+ſehr	ADV	<unk>
+in	APPR	in
+die	ART.Acc.Sg.Fem	der
+Länge	NN.Acc.Sg.Fem	Länge
+gezogenen	ADJA.Pos.Gen.Sg.Masc	gezogen
+Würfels	NN.Gen.Sg.Masc	Würfel
+.	$.	.
+

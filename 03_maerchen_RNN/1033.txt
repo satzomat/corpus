@@ -1,0 +1,26 @@
+Achtzehen	NN.Nom.Sg.Neut	Achtzehen
+Soldaten	NN.Nom.Pl.Masc	Soldat
+,	$,	,
+nämlich	ADV	nämlich
+ein	ART.Nom.Sg.Masc	ein
+Feldwebel	NN.Nom.Sg.Masc	Feldwebel
+,	$,	,
+ein	ART.Nom.Sg.Neut	ein
+Sergeant	NN.Nom.Sg.Neut	Sergeant
+,	$,	,
+ein	ART.Nom.Sg.Neut	ein
+Corporal	NN.Nom.Sg.Neut	Corporal
+,	$,	,
+ein	ART.Nom.Sg.Neut	ein
+Tambour	NN.Nom.Sg.Neut	Tambour
+und	KON	und
+vierzehen	ADJA.Pos.Nom.Pl.*	vierzeher
+Gemeine	NN.Nom.Pl.Neut	Gemein
+waren	VAFIN.3.Pl.Past.Ind	sein
+zusammen	ADV	zusammen
+auf	APPR	auf
+einer	ART.Dat.Sg.Fem	ein
+einsamen	ADJA.Pos.Dat.Sg.Fem	einsam
+Wacht	NN.Dat.Sg.Fem	Wacht
+.	$.	.
+

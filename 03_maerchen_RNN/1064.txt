@@ -1,0 +1,21 @@
+Ein	ART.Nom.Sg.Masc	ein
+Kaufmann	NN.Nom.Sg.Masc	Kaufmann
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+Sohn	NN.Acc.Sg.Masc	Sohn
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+war	VAFIN.3.Sg.Past.Ind	sein
+sehr	ADV	sehr
+verzogen	ADJD.Pos	verzogen
+und	KON	und
+gewohnt	ADJD.Pos	gewohnt
+,	$,	,
+nur	ADV	nur
+seinem	PPOSAT.Dat.Sg.Masc	sein
+eignen	ADJA.Pos.Dat.Sg.Masc	eignen
+Willen	NN.Dat.Sg.Masc	Wille
+zu	PTKZU	zu
+folgen	VVINF.Inf	folgen
+.	$.	.
+

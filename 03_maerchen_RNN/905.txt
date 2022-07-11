@@ -1,0 +1,12 @@
+Es	PPER.3.Nom.Sg.Neut	es
+geht	VVFIN.3.Sg.Pres.Ind	gehen
+doch	ADV	doch
+nirgends	ADV	nirgends
+wunderlicher	ADJD.Comp	wunderlich
+zu	PTKVZ	zu
+als	KOKOM	als
+in	APPR	in
+der	ART.Dat.Sg.Fem	der
+Welt	NN.Dat.Sg.Fem	Welt
+.	$.	.
+

@@ -1,0 +1,15 @@
+Ein	ART.Nom.Sg.Masc	ein
+reicher	ADJA.Pos.Nom.Sg.Masc	reicher
+Bauer	NN.Nom.Sg.Masc	Bauer
+hatte	VAFIN.3.Sg.Past.Ind	haben
+eine	ART.Acc.Sg.Fem	ein
+arme	ADJA.Pos.Acc.Sg.Fem	arm
+Braut	NN.Acc.Sg.Fem	Braut
+und	KON	und
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+mit	APPR	mit
+ihr	PPER.3.Dat.Sg.Fem	ihr
+Hochzeit	NN.Dat.Sg.Fem	Hochzeit
+halten	VVINF.Inf	halten
+.	$.	.
+

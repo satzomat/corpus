@@ -1,0 +1,13 @@
+»	$(	»
+Gut'n	ADJA.Pos.Acc.Sg.Masc	gut
+Tag	NN.Nom.Sg.Masc	Tag
+,	$,	,
+Frau	NN.Nom.Sg.Fem	Frau
+Katzenschmatz	NE.Nom.Sg.Fem	Katzenschmatz
+!	$.	!
+
+[	XY	[
+…	XY	…
+]	XY	]
+«	XY	«
+

@@ -1,0 +1,22 @@
+Auf	APPR	auf
+eine	ART.Acc.Sg.Fem	ein
+Zeit	NN.Acc.Sg.Fem	Zeit
+ging	VVFIN.3.Sg.Past.Ind	gehen
+das	ART.Nom.Sg.Neut	der
+Hühnchen	NN.Nom.Sg.Neut	Hühnchen
+mit	APPR	mit
+dem	ART.Dat.Sg.Neut	der
+Hähnchen	NN.Dat.Sg.Neut	Hähnchen
+in	APPR	in
+den	ART.Acc.Sg.Masc	der
+Nußberg	NN.Acc.Sg.Masc	Nußberg
+,	$,	,
+waren	VAFIN.3.Pl.Past.Ind	sein
+da	ADV	da
+lustig	ADJD.Pos	lustig
+und	KON	und
+aßen	VVFIN.3.Pl.Past.Ind	essen
+Nüsse	NN.Nom.Pl.Masc	Nuß
+zusammen	PTKVZ	zusammen
+.	$.	.
+

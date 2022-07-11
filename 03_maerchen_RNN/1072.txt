@@ -1,0 +1,25 @@
+In	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+Dorf	NN.Dat.Sg.Neut	Dorf
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+Mann	NN.Nom.Sg.Masc	Mann
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+war	VAFIN.3.Sg.Past.Ind	sein
+nur	ADV	nur
+ein	ART.Nom.Sg.Masc	ein
+Bauer	NN.Nom.Sg.Masc	Bauer
+,	$,	,
+aber	KON	aber
+Geld	NN.Acc.Sg.Neut	Geld
+hatte	VAFIN.3.Sg.Past.Ind	haben
+er	PPER.3.Nom.Sg.Masc	er
+genug	ADV	genug
+und	KON	und
+einen	ART.Acc.Sg.Masc	ein
+einzigen	ADJA.Pos.Acc.Sg.Masc	einziger
+Buben	NN.Acc.Sg.Masc	Bube
+dazu	PROAV	dazu
+.	$.	.
+

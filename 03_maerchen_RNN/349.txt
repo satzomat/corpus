@@ -1,0 +1,14 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+zwei	CARD	zwei
+Brüder	NN.Nom.Pl.Masc	Bruder
+,	$,	,
+einer	PIS.Nom.Sg.Masc	einer
+war	VAFIN.3.Sg.Past.Ind	sein
+reich	ADJD.Pos	reich
+,	$,	,
+der	ART.Nom.Sg.Masc	der
+andere	PIS.Nom.Sg.Masc	anderer
+arm	ADJD.Pos	arm
+.	$.	.
+

@@ -1,0 +1,12 @@
+Ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+hatte	VAFIN.3.Sg.Past.Ind	haben
+eine	ART.Acc.Sg.Fem	ein
+sehr	ADV	sehr
+schöne	ADJA.Pos.Acc.Sg.Fem	schön
+,	$,	,
+aber	KON	aber
+blinde	ADJA.Pos.Acc.Sg.Fem	blinde
+Tochter	NN.Acc.Sg.Fem	Tochter
+.	$.	.
+

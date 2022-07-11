@@ -1,0 +1,19 @@
+Der	ART.Nom.Sg.Masc	der
+Buchhändler	NN.Nom.Sg.Masc	Buchhändler
+Willmar	NE.Nom.Sg.Masc	Willmar
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+sehr	ADV	sehr
+geachteter	ADJA.Pos.Nom.Sg.Masc	geachteter
+Mann	NN.Nom.Sg.Masc	Mann
+gewesen	VAPP.Psp	sein
+,	$,	,
+sein	PPOSAT.Acc.Sg.Neut	sein
+Verlagsgeschäft	NN.Acc.Sg.Neut	Verlagsgeschäft
+eines	PIS.Gen.Sg.Masc	einer
+der	ART.Gen.Pl.*	der
+bekanntesten	ADJA.Sup.Gen.Pl.*	bekannt
+und	KON	und
+thätigsten	ADJA.Sup.Gen.Pl.Neut	thätig
+.	$.	.
+

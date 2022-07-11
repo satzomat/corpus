@@ -1,0 +1,19 @@
+Einmal	ADV	einmal
+kam	VVFIN.3.Sg.Past.Ind	kommen
+ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Handwerksbursch	NN.Nom.Sg.Masc	Handwerksbursch
+recht	ADJD.Pos	recht
+müde	ADJD.Pos	müde
+spät	ADJD.Pos	spät
+abends	ADV	abends
+zu	APPR	zu
+einem	ART.Dat.Sg.Neut	ein
+Wirtshaus	NN.Dat.Sg.Neut	Wirtshaus
+und	KON	und
+bat	VVFIN.3.Sg.Past.Ind	bitten
+um	APPR	um
+ein	ART.Acc.Sg.Neut	ein
+Nachtlager	NN.Acc.Sg.Neut	Nachtlager
+.	$.	.
+

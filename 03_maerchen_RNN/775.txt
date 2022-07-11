@@ -1,0 +1,25 @@
+Eine	ART.Nom.Sg.Fem	ein
+arme	ADJA.Pos.Nom.Sg.Fem	arm
+Witwe	NN.Nom.Sg.Fem	Witwe
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+Sohn	NN.Acc.Sg.Masc	Sohn
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+verlor	VVFIN.3.Sg.Past.Ind	verlieren
+sich	PRF.3.Acc.Sg	sich
+an	APPR	an
+dem	ART.Dat.Sg.Masc	der
+Tage	NN.Dat.Sg.Masc	Tag
+,	$,	,
+wo	PWAV	wo
+er	PPER.3.Nom.Sg.Masc	er
+funfzehn	CARD	funfzehn
+Jahre	NN.Acc.Pl.Neut	Jahr
+alt	ADJD.Pos	alt
+war	VAFIN.3.Sg.Past.Ind	sein
+,	$,	,
+im	APPRART.Dat.Sg.Masc	in
+Walde	NN.Dat.Sg.Masc	Wald
+.	$.	.
+

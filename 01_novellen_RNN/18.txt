@@ -1,0 +1,17 @@
+„	$(	„
+Das	PDS.Nom.Sg.Neut	der
+iſt	VAFIN.3.Sg.Pres.Ind	sein
+ja	ADV	ja
+eine	ART.Nom.Sg.Fem	ein
+empoͤrende	ADJA.Pos.Nom.Sg.Fem	empo<unk>rende
+Nichtswuͤrdigkeit	NN.Nom.Sg.Fem	Nichtswu<unk>rdigkeit
+!	$.	!
+
+“	XY	“
+rief	VVFIN.3.Sg.Past.Ind	rufen
+die	ART.Nom.Sg.Fem	der
+Dame	NN.Nom.Sg.Fem	Dame
+vom	APPRART.Dat.Sg.Neut	von
+Hauſe	NN.Dat.Sg.Neut	Hau<unk>e
+.	$.	.
+

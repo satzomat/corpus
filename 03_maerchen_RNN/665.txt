@@ -1,0 +1,27 @@
+Ein	ART.Nom.Sg.Masc	ein
+Vater	NN.Nom.Sg.Masc	Vater
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Töchter	NN.Acc.Pl.Fem	Tochter
+,	$,	,
+von	APPR	von
+denen	PRELS.Dat.Pl.Fem	der
+wünschte	VVFIN.3.Sg.Past.Ind	wünschen
+ein	ART.Nom.Sg.Masc	ein
+Mann	NN.Nom.Sg.Masc	Mann
+sich	PRF.3.Acc.Sg	sich
+eine	PIS.Acc.Sg.Fem	einer
+zur	APPRART.Dat.Sg.Fem	zu
+Frau	NN.Dat.Sg.Fem	Frau
+und	KON	und
+zwar	ADV	zwar
+diejenige	PDS.Acc.Sg.Fem	derjenige
+,	$,	,
+welche	PRELS.Acc.Sg.Fem	welcher
+der	ART.Nom.Sg.Masc	der
+Vater	NN.Nom.Sg.Masc	Vater
+ihm	PPER.3.Dat.Sg.Masc	ihm
+geben	VVINF.Inf	geben
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+.	$.	.
+

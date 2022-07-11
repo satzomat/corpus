@@ -1,0 +1,21 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+reicher	ADJA.Pos.Nom.Sg.Masc	reicher
+Edelmann	NE.Nom.Sg.Masc	Edelmann
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Töchter	NN.Acc.Pl.Fem	Tochter
+,	$,	,
+die	PRELS.Nom.Pl.Fem	der
+hießen	VVFIN.3.Pl.Pres.Ind	hießen
+Bärenheid	NE.Acc.Sg.*	Bärenheid
+,	$,	,
+Adelheid	NE.Acc.Sg.*	Adelheid
+und	KON	und
+Wallfild	NN.Acc.Sg.Neut	Wallfild
+.	$.	.
+

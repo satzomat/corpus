@@ -1,0 +1,16 @@
+Ein	ART.Nom.Sg.Masc	ein
+Graf	NN.Nom.Sg.Masc	Graf
+war	VAFIN.3.Sg.Past.Ind	sein
+krank	ADJD.Pos	krank
+,	$,	,
+und	KON	und
+alle	PIAT.Nom.Pl.Masc	aller
+Ärzte	NN.Nom.Pl.Masc	Arzt
+der	ART.Gen.Sg.Fem	der
+Welt	NN.Gen.Sg.Fem	Welt
+konnten	VMFIN.3.Pl.Past.Ind	können
+ihm	PPER.3.Dat.Sg.*	ihm
+nicht	PTKNEG	nicht
+helfen	VVINF.Inf	helfen
+.	$.	.
+

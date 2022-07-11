@@ -1,0 +1,21 @@
+Zur	APPRART.Dat.Sg.Fem	zu
+Zeit	NN.Dat.Sg.Fem	Zeit
+Harun	NE.Nom.Sg.Masc	Harun
+Al-Raschids	NE.Gen.Sg.Masc	Al-Raschid
+,	$,	,
+des	ART.Gen.Sg.Masc	der
+Beherrschers	NN.Gen.Sg.Masc	Beherrscher
+von	APPR	von
+Bagdad	NE.Dat.Sg.Neut	Bagdad
+,	$,	,
+lebte	VVFIN.3.Sg.Past.Ind	leben
+ein	ART.Nom.Sg.Masc	ein
+Mann	NN.Nom.Sg.Masc	Mann
+in	APPR	in
+Balsora	NE.Dat.Sg.Neut	Balsora
+,	$,	,
+mit	APPR	mit
+Namen	NN.Dat.Pl.Masc	Name
+Benezar	NE.Dat.Sg.Masc	Benezar
+.	$.	.
+

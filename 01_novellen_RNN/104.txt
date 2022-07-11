@@ -1,0 +1,17 @@
+Erschrick	ADJD.Pos	erschrick
+nicht	PTKNEG	nicht
+,	$,	,
+lieber	ADJA.Pos.Nom.Sg.Masc	lieber
+Paul	NE.Nom.Sg.Masc	Paul
+,	$,	,
+wenn	KOUS	wenn
+du	PPER.2.Nom.Sg.*	du
+diesen	PDAT.Acc.Sg.Masc	dieser
+Brief	NN.Acc.Sg.Masc	Brief
+öffnest	VVFIN.2.Sg.Pres.Ind	öffnen
+und	KON	und
+meine	PPOSAT.Acc.Sg.Fem	mein
+Unterschrift	NN.Acc.Sg.Fem	Unterschrift
+liest	VVFIN.3.Sg.Pres.Ind	lesen
+.	$.	.
+

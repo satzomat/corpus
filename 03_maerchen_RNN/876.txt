@@ -1,0 +1,20 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Mann	NN.Nom.Sg.Masc	Mann
+,	$,	,
+der	PDS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+Sohn	NN.Acc.Sg.Masc	Sohn
+,	$,	,
+konnte	VMFIN.3.Sg.Past.Ind	können
+aber	ADV	aber
+den	ART.Acc.Sg.Masc	der
+Knaben	NN.Acc.Sg.Masc	Knabe
+nicht	PTKNEG	nicht
+ernähren	VVINF.Inf	ernähren
+.	$.	.
+

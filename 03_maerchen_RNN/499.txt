@@ -1,0 +1,24 @@
+Eines	ART.Gen.Sg.Masc	ein
+Tages	NN.Gen.Sg.Masc	Tag
+saß	VVFIN.3.Sg.Past.Ind	sitzen
+vor	APPR	vor
+einem	ART.Dat.Sg.Neut	ein
+ärmlichen	ADJA.Pos.Dat.Sg.Neut	ärmlichen
+Hause	NN.Dat.Sg.Neut	Haus
+ein	ART.Nom.Sg.Masc	ein
+alter	ADJA.Pos.Nom.Sg.Masc	alter
+Mann	NN.Nom.Sg.Masc	Mann
+mit	APPR	mit
+seiner	PPOSAT.Dat.Sg.Fem	sein
+Frau	NN.Dat.Sg.Fem	Frau
+,	$,	,
+und	KON	und
+wollten	VMFIN.3.Pl.Past.Ind	wollen
+von	APPR	von
+der	ART.Dat.Sg.Fem	der
+Arbeit	NN.Dat.Sg.Fem	Arbeit
+ein	ART.*.*.*	ein
+wenig	PIS.*.*.*	wenig
+ausruhen	VVINF.Inf	ausruhen
+.	$.	.
+

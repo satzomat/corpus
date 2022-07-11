@@ -1,0 +1,8 @@
+Die	ART.Nom.Sg.Fem	der
+Sonne	NN.Nom.Sg.Fem	Sonne
+war	VAFIN.3.Sg.Past.Ind	sein
+noch	ADV	noch
+nicht	PTKNEG	nicht
+aufgegangen	VVPP.Psp	aufgehen
+.	$.	.
+

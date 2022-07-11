@@ -1,0 +1,18 @@
+Meister	NN.Nom.Sg.Masc	Meister
+Pfriem	NE.Nom.Sg.Masc	Pfriem
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+kleiner	ADJA.Pos.Nom.Sg.Masc	kleiner
+hagerer	ADJA.Pos.Nom.Sg.Masc	hagerer
+,	$,	,
+aber	KON	aber
+lebhafter	ADJA.Pos.Nom.Sg.Masc	lebhafter
+Mann	NN.Nom.Sg.Masc	Mann
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+keinen	PIAT.Acc.Sg.Masc	kein
+Augenblick	NN.Acc.Sg.Masc	Augenblick
+Ruhe	NN.Acc.Sg.Fem	Ruhe
+hatte	VAFIN.3.Sg.Past.Ind	haben
+.	$.	.
+

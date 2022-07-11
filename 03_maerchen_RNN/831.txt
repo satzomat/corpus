@@ -1,0 +1,17 @@
+Der	ART.Nom.Sg.Masc	der
+König	NN.Nom.Sg.Masc	König
+von	APPR	von
+Preußen	NE.Dat.Sg.Neut	Preußen
+,	$,	,
+der	ART.Nom.Sg.Masc	der
+alte	ADJA.Pos.Nom.Sg.Masc	alt
+Fritz	NE.Nom.Sg.Masc	Fritz
+,	$,	,
+hatte	VAFIN.3.Sg.Past.Ind	haben
+Jahre	NN.Acc.Pl.Neut	Jahr
+lang	ADJD.Pos	lang
+einen	ART.Acc.Sg.Masc	ein
+Tambour	NN.Acc.Sg.Masc	Tambour
+gehabt	VAPP.Psp	haben
+.	$.	.
+

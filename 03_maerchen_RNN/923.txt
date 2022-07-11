@@ -1,0 +1,25 @@
+In	APPR	in
+den	ART.Dat.Pl.Fem	der
+alten	ADJA.Pos.Dat.Pl.Fem	alt
+Zeiten	NN.Dat.Pl.Fem	Zeit
+war	VAFIN.3.Sg.Past.Ind	sein
+Vieles	PIS.Nom.Sg.Neut	viele
+besser	ADJD.Comp	gut
+als	KOKOM	als
+heut	ADJD.Pos	heut
+,	$,	,
+doch	KON	doch
+wer	PWS.Nom.Sg.Masc	wer
+kein	PIAT.Acc.Sg.Neut	kein
+Geld	NN.Acc.Sg.Neut	Geld
+hatte	VAFIN.3.Sg.Past.Ind	haben
+,	$,	,
+der	PDS.Nom.Sg.Masc	der
+war	VAFIN.3.Sg.Past.Ind	sein
+auch	ADV	auch
+damals	ADV	damals
+schon	ADV	schon
+übel	ADJD.Pos	übel
+dran	PROAV	dran
+.	$.	.
+

@@ -1,0 +1,26 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+und	KON	und
+eine	ART.Nom.Sg.Fem	ein
+Königin	NN.Nom.Sg.Fem	Königin
+,	$,	,
+die	PRELS.Nom.Pl.Fem	der
+lebten	VVFIN.3.Pl.Past.Ind	leben
+in	APPR	in
+Frieden	NN.Acc.Sg.Masc	Frieden
+miteinander	PTKVZ	miteinander
+und	KON	und
+hatten	VAFIN.3.Pl.Past.Ind	haben
+zwölf	CARD	zwölf
+Kinder	NN.Acc.Pl.Neut	Kind
+,	$,	,
+das	PDS.Nom.Sg.Neut	der
+waren	VAFIN.3.Pl.Past.Ind	sein
+aber	ADV	aber
+lauter	ADJD.Comp	laut
+Buben	NN.Gen.Pl.Fem	Bube
+.	$.	.
+

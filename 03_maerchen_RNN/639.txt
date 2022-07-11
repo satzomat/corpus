@@ -1,0 +1,18 @@
+Eine	ART.Nom.Sg.Fem	ein
+Frau	NN.Nom.Sg.Fem	Frau
+in	APPR	in
+Indien	NE.Dat.Sg.Neut	Indien
+brachte	VVFIN.3.Sg.Past.Ind	bringen
+statt	APPR	statt
+eines	ART.Gen.Sg.Masc	ein
+Menschen	NN.Gen.Sg.Masc	Mensch
+ein	ART.Acc.Sg.Neut	ein
+häßliches	ADJA.Pos.Acc.Sg.Neut	häßliche
+Wunderding	NN.Acc.Sg.Neut	Wunderding
+zur	APPRART.Dat.Sg.Fem	zu
+Welt	NN.Dat.Sg.Fem	Welt
+,	$,	,
+einen	ART.Acc.Sg.Masc	ein
+Maßang	NN.Acc.Sg.Masc	Maßang
+.	$.	.
+

@@ -1,0 +1,20 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+Bauer	NN.Nom.Sg.Masc	Bauer
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+viele	PIAT.Acc.Pl.Masc	vieler
+Söhne	NN.Acc.Pl.Masc	Sohn
+,	$,	,
+von	APPR	von
+denen	PRELS.Dat.Pl.Masc	der
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+der	ART.Nom.Sg.Masc	der
+eine	PIS.Nom.Sg.Masc	einer
+ein	ART.Nom.Sg.Masc	ein
+Schäfer	NN.Nom.Sg.Masc	Schäfer
+werden	VAINF.Inf	werden
+.	$.	.
+

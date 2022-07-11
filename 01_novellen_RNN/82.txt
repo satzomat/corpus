@@ -1,0 +1,25 @@
+Unter	APPR	unter
+den	ART.Dat.Pl.Masc	der
+Handwerkern	NN.Dat.Pl.Masc	Handwerker
+ist	VAFIN.3.Sg.Pres.Ind	sein
+der	ART.Nom.Sg.Masc	der
+Schneider	NN.Nom.Sg.Masc	Schneider
+von	APPR	von
+Alters	NN.Dat.Pl.Neut	Alter
+her	ADV	her
+eine	ART.Nom.Sg.Fem	ein
+humoristische	ADJA.Pos.Nom.Sg.Fem	humoristisch
+Figur	NN.Nom.Sg.Fem	Figur
+gewesen	VAPP.Psp	sein
+;	$.	;
+die	ART.Nom.Sg.Fem	der
+Thatsache	NN.Nom.Sg.Fem	Thatsache
+ist	VAFIN.3.Sg.Pres.Ind	sein
+unleugbar	ADJD.Pos	unleugbar
+und	KON	und
+nicht	PTKNEG	nicht
+schwer	ADJD.Pos	schwer
+zu	PTKZU	zu
+erklären	VVINF.Inf	erklären
+.	$.	.
+

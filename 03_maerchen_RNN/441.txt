@@ -1,0 +1,18 @@
+Berg	NE.Nom.Sg.*	Berg
+und	KON	und
+Tal	NN.Nom.Sg.Neut	Tal
+begegnen	VVFIN.3.Pl.Pres.Ind	begegnen
+sich	PRF.3.Acc.Pl	sich
+nicht	PTKNEG	nicht
+,	$,	,
+wohl	ADV	wohl
+aber	ADV	aber
+die	ART.Nom.Pl.Neut	der
+Menschenkinder	NN.Nom.Pl.Neut	Menschenkind
+,	$,	,
+zumal	ADV	zumal
+gute	ADJA.Pos.Nom.Pl.Masc	gut
+und	KON	und
+böse	ADJD.Pos	böse
+.	$.	.
+

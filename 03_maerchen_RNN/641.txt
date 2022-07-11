@@ -1,0 +1,24 @@
+Vor	APPR	vor
+alter	ADJA.Pos.Dat.Sg.Fem	alter
+Zeit	NN.Dat.Sg.Fem	Zeit
+lebte	VVFIN.3.Sg.Past.Ind	leben
+ein	ART.Nom.Sg.Masc	ein
+Hausvater	NN.Nom.Sg.Masc	Hausvater
+in	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+blühenden	ADJA.Pos.Dat.Sg.Neut	blühender
+Lande	NN.Dat.Sg.Neut	Land
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Töchter	NN.Acc.Pl.Fem	Tochter
+,	$,	,
+die	PRELS.Nom.Pl.Fem	der
+abwechselnd	ADJD.Pos	abwechselnd
+die	ART.Acc.Pl.Masc	der
+Kälber	NN.Acc.Pl.Masc	Kälber
+hüten	VVINF.Inf	pflichtbewußt
+mußten	VMFIN.3.Pl.Past.Ind	müssen
+.	$.	.
+

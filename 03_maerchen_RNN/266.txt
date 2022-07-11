@@ -1,0 +1,18 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Müller	NN.Nom.Sg.Masc	Müller
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+war	VAFIN.3.Sg.Past.Ind	sein
+arm	ADJD.Pos	arm
+,	$,	,
+aber	KON	aber
+er	PPER.3.Nom.Sg.Masc	er
+hatte	VAFIN.3.Sg.Past.Ind	haben
+eine	ART.Acc.Sg.Fem	ein
+schöne	ADJA.Pos.Acc.Sg.Fem	schön
+Tochter	NN.Acc.Sg.Fem	Tochter
+.	$.	.
+

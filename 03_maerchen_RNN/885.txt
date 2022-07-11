@@ -1,0 +1,15 @@
+Vor	APPR	vor
+einem	ART.Dat.Sg.Masc	ein
+Walde	NN.Dat.Sg.Masc	Wald
+stand	VVFIN.3.Sg.Past.Ind	stehen
+ein	ART.Nom.Sg.Neut	ein
+Wirthshaus	NN.Nom.Sg.Neut	Wirthshaus
+,	$,	,
+darin	PROAV	darin
+kehrte	VVFIN.3.Sg.Past.Ind	kehren
+einst	ADV	einst
+ein	ART.Nom.Sg.Neut	ein
+Fleischerknecht	NN.Nom.Sg.Neut	Fleischerknecht
+ein	PTKVZ	ein
+.	$.	.
+

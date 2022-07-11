@@ -1,0 +1,12 @@
+Gottlieb	NN.Nom.Sg.Masc	Gottlieb
+war	VAFIN.3.Sg.Past.Ind	sein
+von	APPR	von
+Jugend	NN.Dat.Sg.Fem	Jugend
+auf	APPR	auf
+ein	ART.Nom.Sg.Masc	ein
+fleißiger	ADJA.Pos.Nom.Sg.Masc	fleißiger
+,	$,	,
+gutmüthiger	ADJA.Pos.Nom.Sg.Masc	gutmüthiger
+Knabe	NN.Nom.Sg.Masc	Knabe
+.	$.	.
+

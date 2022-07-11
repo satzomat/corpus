@@ -1,0 +1,25 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+Gastwirtin	NN.Nom.Sg.Fem	Gastwirtin
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+taugte	VVFIN.3.Sg.Past.Ind	taugen
+sehr	ADV	sehr
+wenig	PIS.*.*.*	wenig
+;	$.	;
+sie	PPER.3.Nom.Sg.Fem	sie
+wog	VVFIN.3.Sg.Past.Ind	wiegen
+falsch	ADJD.Pos	falsch
+,	$,	,
+sie	PPER.3.Nom.Sg.Fem	sie
+maß	VVFIN.3.Sg.Past.Ind	messen
+falsch	ADJD.Pos	falsch
+,	$,	,
+sie	PPER.3.Nom.Sg.Fem	sie
+log	VVFIN.3.Sg.Past.Ind	liegen
+und	KON	und
+trog	VVFIN.3.Sg.Past.Ind	triegen
+.	$.	.
+

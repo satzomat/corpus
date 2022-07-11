@@ -1,0 +1,11 @@
+Tante	NE.Nom.Sg.Fem	Tante
+Julie	NE.Nom.Sg.Fem	Julie
+war	VAFIN.3.Sg.Past.Ind	sein
+die	ART.Nom.Sg.Fem	der
+liebenswürdigste	ADJA.Sup.Nom.Sg.Fem	liebenswürdig
+Frau	NN.Nom.Sg.Fem	Frau
+in	APPR	in
+unserer	PPOSAT.Dat.Sg.Fem	unser
+Familie	NN.Dat.Sg.Fem	Familie
+.	$.	.
+

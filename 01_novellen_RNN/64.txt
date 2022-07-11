@@ -1,0 +1,17 @@
+Ein	ART.Nom.Sg.Masc	ein
+Kloſter	NN.Nom.Sg.Masc	Klo<unk>ter
+lag	VVFIN.3.Sg.Past.Ind	liegen
+weit	ADJD.Pos	weit
+ausſchauend	ADJD.Pos	aus<unk>chauend
+auf	APPR	auf
+einem	ART.Dat.Sg.Masc	ein
+Berge	NN.Dat.Sg.Masc	Berg
+und	KON	und
+ſeine	PPOSAT.Acc.Pl.Fem	<unk>
+Mauern	NN.Acc.Pl.Fem	Mauer
+glänzten	VVFIN.3.Pl.Past.Ind	glänzen
+über	APPR	über
+die	ART.Acc.Pl.Neut	der
+Lande	NN.Acc.Pl.Neut	Land
+.	$.	.
+

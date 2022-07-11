@@ -1,0 +1,10 @@
+Ein	ART.Nom.Sg.Masc	ein
+heiterer	ADJA.Pos.Nom.Sg.Masc	heiterer
+Juniusnachmittag	NN.Nom.Sg.Masc	Juniusnachmittag
+beſonnte	VVFIN.3.Sg.Past.Ind	be<unk>onnen
+die	ART.Acc.Pl.Fem	der
+Straßen	NN.Acc.Pl.Fem	Straße
+der	ART.Gen.Sg.Fem	der
+Reſidenzſtadt	NN.Gen.Sg.Fem	Re<unk>idenz<unk>tadt
+.	$.	.
+

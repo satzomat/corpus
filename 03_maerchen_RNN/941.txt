@@ -1,0 +1,15 @@
+A	NE.Nom.Sg.*	A
+mal	ADV	mal
+gingen	VVFIN.3.Pl.Past.Ind	gehen
+a	NE.*.*.*	a
+Hennerl	NE.Nom.Sg.*	Hennerl
+und	KON	und
+a	NE.Nom.Sg.*	a
+Hannerl	NE.Nom.Sg.*	Hannerl
+spazieren	VVFIN.3.Pl.Pres.Ind	spazieren
+am	APPRART.Dat.Sg.Masc	an
+Berg	NN.Dat.Sg.Masc	Berg
+in	APPR	in
+Nußkern	NE.Dat.Sg.Neut	Nußkern
+.	$.	.
+

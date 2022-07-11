@@ -1,0 +1,20 @@
+Adolph	NE.Nom.Sg.Masc	Adolph
+war	VAFIN.3.Sg.Past.Ind	sein
+sehr	ADV	sehr
+muthwillig	ADJD.Pos	muthwillig
+,	$,	,
+neckte	VVFIN.3.Sg.Past.Ind	necken
+und	KON	und
+plagte	VVFIN.3.Sg.Past.Ind	plagen
+seine	PPOSAT.Acc.Pl.*	sein
+Geschwister	NN.Acc.Pl.*	Geschwister
+und	KON	und
+Spielkameraden	NN.Acc.Pl.Masc	Spielkamerad
+und	KON	und
+ängstigte	VVFIN.3.Sg.Past.Ind	ängstigen
+sie	PPER.3.Acc.Sg.Fem	sie
+durch	APPR	durch
+unzeitige	ADJA.Pos.Acc.Pl.Masc	unzeitig
+Späße	NN.Acc.Pl.Masc	Spaß
+.	$.	.
+

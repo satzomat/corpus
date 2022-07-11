@@ -1,0 +1,27 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+Schuster	NN.Nom.Sg.Masc	Schuster
+ohne	APPR	ohne
+seine	PPOSAT.Acc.Sg.Fem	sein
+Schuld	NN.Acc.Sg.Fem	Schuld
+so	ADV	so
+arm	ADJD.Pos	arm
+geworden	VAPP.Psp	werden
+,	$,	,
+daß	KOUS	daß
+ihm	PPER.3.Dat.Sg.Masc	ihm
+endlich	ADV	endlich
+nichts	PIS.*.*.Neut	nichts
+mehr	ADV	mehr
+übrig	ADJD.Pos	übrig
+blieb	VVFIN.3.Sg.Past.Ind	bleiben
+als	KOKOM	als
+Leder	NN.Nom.Sg.Neut	Leder
+zu	APPR	zu
+einem	ART.Dat.Sg.Neut	ein
+einzigen	ADJA.Pos.Dat.Sg.Neut	einziger
+Paar	NN.Dat.Sg.Neut	Paar
+Schuhe	NN.Nom.Pl.Masc	Schuh
+.	$.	.
+

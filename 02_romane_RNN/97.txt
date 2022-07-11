@@ -1,0 +1,15 @@
+Auch	ADV	auch
+Einer	PIS.Nom.Sg.Masc	einer
+von	APPR	von
+denjenigen	PDS.Dat.Pl.*	derjenige
+nemlich	ADV	nemlich
+—	FM	—
+—	FM	—
+—	FM	—
+kurz	ADJD.Pos	kurz
+,	$,	,
+man	PIS.Nom.Sg.*	man
+verſteht	VVFIN.3.Sg.Pres.Ind	ver<unk>tehen
+mich	PPER.1.Acc.Sg.*	mich
+.	$.	.
+

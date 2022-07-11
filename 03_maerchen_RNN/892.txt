@@ -1,0 +1,22 @@
+Einst	ADV	einst
+war	VAFIN.3.Sg.Past.Ind	sein
+eine	ART.Nom.Sg.Fem	ein
+bitterböse	ADJA.Pos.Nom.Sg.Fem	bitterböse
+Zeit	NN.Nom.Sg.Fem	Zeit
+auf	APPR	auf
+dem	ART.Dat.Sg.Neut	der
+Harze	NN.Dat.Sg.Neut	Harz
+,	$,	,
+die	ART.Nom.Pl.Masc	der
+Gruben	NN.Nom.Pl.*	Gruben
+waren	VAFIN.3.Pl.Past.Ind	sein
+wegen	APPR	wegen
+des	ART.Gen.Sg.Masc	der
+Wassermangels	NN.Gen.Sg.Masc	Wassermangel
+unbrauchbar	ADJD.Pos	unbrauchbar
+und	KON	und
+viele	PIAT.Nom.Pl.*	vieler
+Bergleute	NN.Nom.Pl.*	Bergleute
+brodlos	ADJD.Pos	brodlos
+.	$.	.
+

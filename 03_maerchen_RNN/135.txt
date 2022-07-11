@@ -1,0 +1,14 @@
+Ein	ART.Nom.Sg.Masc	ein
+Schuhmacher	NN.Nom.Sg.Masc	Schuhmacher
+und	KON	und
+ein	ART.Nom.Sg.Masc	ein
+Schneider	NN.Nom.Sg.Masc	Schneider
+sind	VAFIN.3.Pl.Pres.Ind	sein
+einmal	ADV	einmal
+miteinander	ADV	miteinander
+auf	APPR	auf
+die	ART.Acc.Sg.Fem	der
+Wanderschaft	NN.Acc.Sg.Fem	Wanderschaft
+gegangen	VVPP.Psp	gehen
+.	$.	.
+

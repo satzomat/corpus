@@ -1,0 +1,27 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+Mutter	NN.Nom.Sg.Fem	Mutter
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+nur	ADV	nur
+ihre	PPOSAT.Acc.Sg.Fem	ihr
+rechte	ADJA.Pos.Acc.Sg.Fem	rechter
+Tochter	NN.Acc.Sg.Fem	Tochter
+lieb	VVFIN.3.Sg.Past.Ind	leiben
+und	KON	und
+haßte	VVFIN.3.Sg.Past.Ind	hassen
+ihre	PPOSAT.Acc.Sg.Fem	ihr
+Stieftochter	NN.Acc.Sg.Fem	Stieftochter
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+doch	ADV	doch
+tausendmal	ADV	tausendmal
+schöner	ADJD.Comp	schön
+und	KON	und
+besser	ADJD.Comp	gut
+war	VAFIN.3.Sg.Past.Ind	sein
+.	$.	.
+

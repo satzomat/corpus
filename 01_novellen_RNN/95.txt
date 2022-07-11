@@ -1,0 +1,39 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+um	APPR	um
+die	ART.Acc.Sg.Fem	der
+Mitte	NN.Acc.Sg.Fem	Mitte
+der	ART.Gen.Pl.Neut	der
+Fünfziger-Jahre	NN.Gen.Pl.Neut	Fünfziger-Jahr
+,	$,	,
+im	APPRART.Dat.Sg.Masc	in
+Hochſommer	NN.Dat.Sg.Masc	Hoch<unk>ommer
+,	$,	,
+als	KOUS	als
+ich	PPER.1.Nom.Sg.*	ich
+,	$,	,
+damals	ADV	damals
+noch	ADV	noch
+in	APPR	in
+Militärdienſten	NN.Dat.Pl.Fem	Militärdien<unk>te
+ſtehend	ADJD.Pos	<unk>
+,	$,	,
+mit	APPR	mit
+einer	ART.Dat.Sg.Fem	ein
+Abtheilung	NN.Dat.Sg.Fem	Abtheilung
+meines	PPOSAT.Gen.Sg.Neut	mein
+Regimentes	NN.Gen.Sg.Neut	Regiment
+in	APPR	in
+dem	ART.Dat.Sg.Neut	der
+mähriſchen	ADJA.Pos.Dat.Sg.Neut	mähri<unk>chen
+Städtchen	NN.Dat.Sg.Neut	Städtchen
+K	NN.Nom.Sg.*	K
+.	$.	.
+
+.	$.	.
+
+.	$.	.
+
+einrückte	VVFIN.3.Sg.Past.Ind	einrücken
+.	$.	.
+

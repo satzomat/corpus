@@ -1,0 +1,13 @@
+Im	APPRART.Dat.Sg.Neut	in
+Jahre	NN.Dat.Sg.Neut	Jahr
+1594	CARD	1594
+hatte	VAFIN.3.Sg.Past.Ind	haben
+der	ART.Nom.Sg.Masc	der
+Stadtschreiber	NN.Nom.Sg.Masc	Stadtschreiber
+von	APPR	von
+Nördlingen	NN.Dat.Pl.Masc	Nördling
+einen	ART.Acc.Sg.Masc	ein
+seltsamen	ADJA.Pos.Acc.Sg.Masc	seltsam
+Besuch	NN.Acc.Sg.Masc	Besuch
+.	$.	.
+

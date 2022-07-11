@@ -1,0 +1,24 @@
+Der	ART.Nom.Sg.Masc	der
+fluchwürdigste	ADJA.Sup.Nom.Sg.Masc	fluchwürdig
+Zauberer	NN.Nom.Sg.Masc	Zauberer
+und	KON	und
+der	ART.Nom.Sg.Masc	der
+größeste	ADJA.Sup.Nom.Sg.Masc	groß
+an	APPR	an
+Gewalt	NN.Dat.Sg.Fem	Gewalt
+,	$,	,
+der	ART.Nom.Sg.Masc	der
+ärgste	ADJA.Sup.Nom.Sg.Masc	arg
+aber	ADV	aber
+an	APPR	an
+Bosheit	NN.Dat.Sg.Fem	Bosheit
+war	VAFIN.3.Sg.Past.Ind	sein
+Mograby	NE.Nom.Sg.Masc	Mograby
+,	$,	,
+das	ART.Nom.Sg.Neut	der
+furchtbarste	ADJA.Sup.Nom.Sg.Neut	furchtbar
+Werkzeug	NN.Nom.Sg.Neut	Werkzeug
+des	ART.Gen.Sg.Masc	der
+Zatanai	NE.Gen.Sg.Masc	Zatanai
+.	$.	.
+

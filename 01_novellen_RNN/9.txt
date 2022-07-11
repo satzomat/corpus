@@ -1,0 +1,12 @@
+Die	ART.Nom.Pl.Fem	der
+Sarmaten	NN.Nom.Pl.Fem	Sarmate
+feierten	VVFIN.3.Pl.Past.Ind	feiern
+den	ART.Acc.Sg.Masc	der
+Abgang	NN.Acc.Sg.Masc	Abgang
+ihres	PPOSAT.Gen.Sg.Masc	ihr
+Seniors	NN.Gen.Sg.Masc	Senior
+von	APPR	von
+der	ART.Dat.Sg.Fem	der
+Akademie	NN.Dat.Sg.Fem	Akademie
+.	$.	.
+

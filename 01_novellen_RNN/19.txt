@@ -1,0 +1,13 @@
+In	APPR	in
+dem	ART.Dat.Sg.Masc	der
+Salon	NN.Dat.Sg.Masc	Salon
+war	VAFIN.3.Sg.Past.Ind	sein
+wieder	ADV	wieder
+der	ART.Nom.Sg.Masc	der
+gewoͤhnliche	ADJA.Pos.Nom.Sg.Masc	gewo<unk>hnlich
+Kreis	NN.Nom.Sg.Masc	Kreis
+von	APPR	von
+Hausfreunden	NN.Dat.Pl.Masc	Hausfreund
+verſammelt	VVPP.Psp	ver<unk>ammeln
+.	$.	.
+

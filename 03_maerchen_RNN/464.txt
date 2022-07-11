@@ -1,0 +1,26 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Neut	ein
+Hirtenbübchen	NN.Nom.Sg.Neut	Hirtenbübchen
+,	$,	,
+das	PDS.Nom.Sg.Neut	der
+war	VAFIN.3.Sg.Past.Ind	sein
+wegen	APPR	wegen
+seiner	PPOSAT.Gen.Pl.Fem	sein
+weisen	ADJA.Pos.Gen.Pl.Fem	weise
+Antworten	NN.Gen.Pl.Fem	Antwort
+,	$,	,
+die	PRELS.Acc.Pl.Fem	der
+es	PPER.3.Nom.Sg.Neut	es
+auf	APPR	auf
+alle	PIAT.Acc.Pl.Fem	aller
+Fragen	NN.Acc.Pl.Fem	Frage
+gab	VVFIN.3.Sg.Past.Ind	geben
+,	$,	,
+weit	ADJD.Pos	weit
+und	KON	und
+breit	ADJD.Pos	breit
+berühmt	ADJD.Pos	berühmt
+.	$.	.
+

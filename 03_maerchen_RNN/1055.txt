@@ -1,0 +1,24 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+in	APPR	in
+einem	ART.Dat.Sg.Masc	ein
+heißen	ADJA.Pos.Dat.Sg.Masc	heiß
+Sommer	NN.Dat.Sg.Masc	Sommer
+,	$,	,
+da	ADV	da
+zündeten	VVFIN.3.Pl.Past.Ind	zünden
+zwei	CARD	zwei
+Hirtenknaben	NN.Nom.Pl.Masc	Hirtenknabe
+ein	ART.Acc.Sg.Neut	ein
+Feuerchen	NN.Acc.Sg.Neut	Feuerchen
+im	APPRART.Dat.Sg.Masc	in
+Walde	NN.Dat.Sg.Masc	Wald
+an	PTKVZ	an
+,	$,	,
+um	KOUI	um
+sich	PRF.3.Dat.Pl	sich
+Kartoffeln	NN.Acc.Pl.Fem	Kartoffel
+zu	PTKZU	zu
+braten	VVINF.Inf	braten
+.	$.	.
+

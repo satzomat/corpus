@@ -1,0 +1,10 @@
+»	XY	»
+Guten	ADJA.Pos.Acc.Sg.Masc	gut
+Tag	NN.Acc.Sg.Masc	Tag
+,	$,	,
+Vater	NN.Nom.Sg.Masc	Vater
+Hollenthe	NE.*.*.*	Hollenthe
+!	$.	!
+
+«	XY	«
+

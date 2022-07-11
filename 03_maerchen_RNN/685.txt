@@ -1,0 +1,22 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Reisender	NN.Nom.Sg.Masc	Reisender
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+kam	VVFIN.3.Sg.Past.Ind	kommen
+ganz	ADV	ganz
+durchnäßt	VVFIN.3.Sg.Pres.Ind	durchnaßen
+in	APPR	in
+ein	ART.Acc.Sg.Neut	ein
+Landstädtchen	NN.Acc.Sg.Neut	Landstädtchen
+und	KON	und
+bat	VVFIN.3.Sg.Past.Ind	bitten
+einen	ART.Acc.Sg.Masc	ein
+Wirth	NN.Acc.Sg.Masc	Wirth
+um	APPR	um
+Herberge	NN.Acc.Sg.Fem	Herberge
+.	$.	.
+

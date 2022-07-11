@@ -1,0 +1,20 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+Königstochter	NN.Nom.Sg.Fem	Königstochter
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+ging	VVFIN.3.Sg.Past.Ind	gehen
+hinaus	ADV	hinaus
+in	APPR	in
+den	ART.Acc.Sg.Masc	der
+Wald	NN.Acc.Sg.Masc	Wald
+und	KON	und
+setzte	VVFIN.3.Sg.Past.Ind	setzen
+an	APPR	an
+einen	ART.Acc.Sg.Masc	ein
+kühlen	ADJA.Pos.Acc.Sg.Masc	kühl
+Brunnen	NN.Acc.Sg.Masc	Brunnen
+.	$.	.
+

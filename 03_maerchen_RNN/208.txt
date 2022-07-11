@@ -1,0 +1,23 @@
+In	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+kleinen	ADJA.Pos.Dat.Sg.Neut	kleinen
+Dorfe	NN.Dat.Sg.Neut	Dorf
+wohnte	VVFIN.3.Sg.Past.Ind	wohnen
+ein	ART.Nom.Sg.Masc	ein
+Bauer	NN.Nom.Sg.Masc	Bauer
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+Haus	NN.Acc.Sg.Neut	Haus
+und	KON	und
+Hof	NN.Acc.Sg.Masc	Hof
+und	KON	und
+Scheune	NN.Acc.Sg.Fem	Scheune
+und	KON	und
+Ställe	NN.Acc.Pl.Masc	Stall
+,	$,	,
+und	KON	und
+drei	CARD	drei
+Söhne	NN.Acc.Pl.Masc	Sohn
+.	$.	.
+

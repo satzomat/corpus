@@ -1,0 +1,7 @@
+Das	ART.Nom.Sg.Neut	der
+Schauſpiel	NN.Nom.Sg.Neut	Schau<unk>piel
+dauerte	VVFIN.3.Sg.Past.Ind	dauern
+ſehr	ADV	<unk>
+lange	ADJD	lange
+.	$.	.
+

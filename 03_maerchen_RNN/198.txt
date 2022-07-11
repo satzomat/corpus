@@ -1,0 +1,20 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmahl	ADV	einmahl
+eine	ART.Nom.Sg.Fem	ein
+große	ADJA.Pos.Nom.Sg.Fem	groß
+Dürrung	NN.Nom.Sg.Fem	Dürrung
+im	APPRART.Dat.Sg.Neut	in
+Lande	NN.Dat.Sg.Neut	Land
+,	$,	,
+daß	KOUS	daß
+schier	ADJD.Pos	schier
+alle	PIAT.Nom.Pl.Masc	aller
+Brunnen	NN.Nom.Pl.Masc	Brunnen
+austrockneten	VVFIN.3.Pl.Past.Ind	austrocknen
+und	KON	und
+alle	PIAT.Acc.Pl.Fem	aller
+Quellen	NN.Acc.Pl.Fem	Quelle
+versiegten	VVFIN.3.Pl.Past.Ind	versiegen
+.	$.	.
+

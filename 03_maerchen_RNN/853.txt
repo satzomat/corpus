@@ -1,0 +1,14 @@
+Es	PPER.3.Nom.Sg.Neut	es
+fing	VVFIN.3.Sg.Past.Ind	fangen
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Fuchs	NN.Nom.Sg.Masc	Fuchs
+eine	ART.Acc.Sg.Fem	ein
+Gans	NN.Acc.Sg.Fem	Gans
+und	KON	und
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+sie	PPER.3.Acc.Sg.Fem	sie
+eben	ADV	eben
+verzehren	VVINF.Inf	verzehren
+.	$.	.
+

@@ -1,0 +1,15 @@
+In	APPR	in
+den	ART.Dat.Pl.Fem	der
+alten	ADJA.Pos.Dat.Pl.Fem	alt
+Zeiten	NN.Dat.Pl.Fem	Zeit
+,	$,	,
+da	ADV	da
+hatte	VAFIN.3.Sg.Past.Ind	haben
+jeder	PIAT.Nom.Sg.Masc	jeder
+Klang	NN.Nom.Sg.Masc	Klang
+noch	ADV	noch
+Sinn	NN.Acc.Sg.Masc	Sinn
+und	KON	und
+Bedeutung	NN.Acc.Sg.Fem	Bedeutung
+.	$.	.
+

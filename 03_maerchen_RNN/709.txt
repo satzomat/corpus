@@ -1,0 +1,24 @@
+Da	ADV	da
+ist	VAFIN.3.Sg.Pres.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Mann	NN.Nom.Sg.Masc	Mann
+gewesen	VAPP.Psp	sein
+,	$,	,
+der	PDS.Nom.Sg.Masc	der
+hat	VAFIN.3.Sg.Pres.Ind	haben
+so	ADV	so
+viele	PIAT.Acc.Pl.Fem	vieler
+Ratten	NN.Acc.Pl.Fem	Ratte
+im	APPRART.Dat.Sg.Neut	in
+Hause	NN.Dat.Sg.Neut	Haus
+gehabt	VAPP.Psp	haben
+,	$,	,
+daß	KOUS	daß
+es	PPER.3.Nom.Sg.Neut	es
+nicht	PTKNEG	nicht
+mehr	ADV	mehr
+auszuhalten	VVIZU.Infzu	aushalten
+war	VAFIN.3.Sg.Past.Ind	sein
+.	$.	.
+

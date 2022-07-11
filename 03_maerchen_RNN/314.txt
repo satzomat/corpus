@@ -1,0 +1,16 @@
+Ein	ART.Nom.Sg.Masc	ein
+abgedankter	ADJA.Pos.Nom.Sg.Masc	abgedankter
+Soldat	NN.Nom.Sg.Masc	Soldat
+hatte	VAFIN.3.Sg.Past.Ind	haben
+nichts	PIS.*.*.Neut	nichts
+zu	PTKZU	zu
+leben	VVINF.Inf	leben
+und	KON	und
+wußte	VVFIN.3.Sg.Past.Ind	wissen
+sich	PRF.3.Acc.Sg	sich
+nicht	PTKNEG	nicht
+mehr	ADV	mehr
+zu	PTKZU	zu
+helfen	VVINF.Inf	helfen
+.	$.	.
+

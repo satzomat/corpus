@@ -1,0 +1,26 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.*.*.*	ein
+paar	PIAT.*.*.*	paar
+arme	ADJA.Pos.Nom.Pl.Fem	arm
+Besenbindersjungen	NN.Nom.Pl.Fem	Besenbindersjung
+,	$,	,
+die	PDS.Nom.Pl.Fem	der
+hatten	VAFIN.3.Pl.Past.Ind	haben
+noch	ADV	noch
+ein	ART.Acc.Sg.Neut	ein
+Schwesterchen	NN.Acc.Sg.Neut	Schwesterchen
+zu	PTKZU	zu
+ernähren	VVINF.Inf	ernähren
+,	$,	,
+da	ADV	da
+ging	VVFIN.3.Sg.Past.Ind	gehen
+es	PPER.3.Nom.Sg.Neut	es
+ihnen	PPER.3.Dat.Pl.*	ihnen
+allen	PIS.Dat.Pl.*	alle
+knapp	ADJD.Pos	knapp
+und	KON	und
+kümmerlich	ADJD.Pos	kümmerlich
+.	$.	.
+

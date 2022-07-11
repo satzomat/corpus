@@ -1,0 +1,17 @@
+Lieutenant	NN.Nom.Sg.Masc	Lieutenant
+bei	APPR	bei
+„	NE.*.*.*	„
+Treuenfels	FM	Treuenfels
+“	$(	“
+war	VAFIN.3.Sg.Past.Ind	sein
+er	PPER.3.Nom.Sg.Masc	er
+gewesen	VAPP.Psp	sein
+,	$,	,
+der	ART.Nom.Sg.Masc	der
+Muhme	NN.Nom.Sg.Masc	Muhme
+Wawerle	NE.Nom.Sg.Masc	Wawerle
+ihr	PPOSAT.Nom.Sg.Masc	ihr
+verstorbener	ADJA.Pos.Nom.Sg.Masc	verstorbener
+Mann	NN.Nom.Sg.Masc	Mann
+.	$.	.
+

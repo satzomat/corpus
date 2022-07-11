@@ -1,0 +1,23 @@
+Es	PPER.3.Nom.Sg.Neut	es
+hatte	VAFIN.3.Sg.Past.Ind	haben
+ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Mann	NN.Nom.Sg.Masc	Mann
+zwölf	CARD	zwölf
+Kinder	NN.Acc.Pl.Neut	Kind
+und	KON	und
+mußte	VMFIN.3.Sg.Past.Ind	müssen
+Tag	NN.Acc.Sg.Masc	Tag
+und	KON	und
+Nacht	NN.Acc.Sg.Fem	Nacht
+arbeiten	VVINF.Inf	arbeiten
+,	$,	,
+damit	KOUS	damit
+er	PPER.3.Nom.Sg.Masc	er
+ihnen	PPER.3.Dat.Pl.*	ihnen
+nur	ADV	nur
+Brot	NN.Acc.Sg.Neut	Brot
+geben	VVINF.Inf	geben
+konnte	VMFIN.3.Sg.Past.Ind	können
+.	$.	.
+

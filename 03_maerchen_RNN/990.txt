@@ -1,0 +1,19 @@
+Die	ART.Nom.Sg.Fem	der
+kleine	ADJA.Pos.Nom.Sg.Fem	kleine
+Nina	NE.Nom.Sg.Fem	Nina
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Neut	ein
+so	ADV	so
+gutes	ADJA.Pos.Nom.Sg.Neut	gut
+,	$,	,
+freundliches	ADJA.Pos.Nom.Sg.Neut	freundliche
+Kind	NN.Nom.Sg.Neut	Kind
+,	$,	,
+daß	KOUS	daß
+jedermann	PIS.Nom.Sg.Masc	jedermann
+sie	PPER.3.Nom.Sg.Fem	sie
+herzlich	ADJD.Pos	herzlich
+lieb	VVFIN.3.Sg.Past.Ind	leiben
+hatte	VAFIN.3.Sg.Past.Ind	haben
+.	$.	.
+

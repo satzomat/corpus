@@ -1,0 +1,24 @@
+Mal	ADV	mal
+ging	VVFIN.3.Sg.Past.Ind	gehen
+der	ART.Nom.Sg.Masc	der
+Wolf	NN.Nom.Sg.Masc	Wolf
+so	ADV	so
+im	APPRART.Dat.Sg.Masc	in
+Wald	NN.Dat.Sg.Masc	Wald
+spatzieren	VVINF.Inf	spatzieren
+,	$,	,
+da	ADV	da
+kam	VVFIN.3.Sg.Past.Ind	kommen
+ein	ART.Nom.Sg.Masc	ein
+Bauer	NN.Nom.Sg.Masc	Bauer
+angefahren	VVPP.Psp	anfahren
+,	$,	,
+dem	PRELS.Dat.Sg.Masc	der
+folgte	VVFIN.3.Sg.Past.Ind	folgen
+in	APPR	in
+einiger	PIAT.Dat.Sg.Fem	einiger
+Entfernung	NN.Dat.Sg.Fem	Entfernung
+sein	PPOSAT.Nom.Sg.Masc	sein
+Hund	NN.Nom.Sg.Masc	Hund
+.	$.	.
+

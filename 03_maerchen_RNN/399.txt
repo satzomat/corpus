@@ -1,0 +1,17 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Neut	ein
+Hühnchen	NN.Nom.Sg.Neut	Hühnchen
+und	KON	und
+ein	ART.Nom.Sg.Neut	ein
+Hähnchen	NN.Nom.Sg.Neut	Hähnchen
+,	$,	,
+die	PDS.Nom.Pl.Fem	der
+wollten	VMFIN.3.Pl.Past.Ind	wollen
+zusammen	ADV	zusammen
+eine	ART.Acc.Sg.Fem	ein
+Reise	NN.Acc.Sg.Fem	Reise
+machen	VVINF.Inf	machen
+.	$.	.
+

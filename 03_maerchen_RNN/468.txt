@@ -1,0 +1,16 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Neut	ein
+Mädchen	NN.Nom.Sg.Neut	Mädchen
+,	$,	,
+das	PDS.Nom.Sg.Neut	der
+war	VAFIN.3.Sg.Past.Ind	sein
+schön	ADJD.Pos	schön
+,	$,	,
+aber	KON	aber
+faul	ADJD.Pos	faul
+und	KON	und
+nachlässig	ADJD.Pos	nachlässig
+.	$.	.
+

@@ -1,0 +1,27 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+alte	ADJA.Pos.Nom.Sg.Fem	alt
+Geiß	NN.Nom.Sg.Fem	Geiß
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+sieben	CARD	sieben
+junge	ADJA.Pos.Acc.Sg.Fem	jung
+Geißlein	NN.Acc.Sg.Fem	Geißlein
+,	$,	,
+und	KON	und
+hatte	VAFIN.3.Sg.Past.Ind	haben
+sie	PPER.3.Acc.Sg.Fem	sie
+lieb	VVFIN.3.Sg.Past.Ind	leiben
+,	$,	,
+wie	PWAV	wie
+eine	ART.Nom.Sg.Fem	ein
+Mutter	NN.Nom.Sg.Fem	Mutter
+ihre	PPOSAT.Acc.Pl.Neut	ihr
+Kinder	NN.Acc.Pl.Neut	Kind
+lieb	VVFIN.3.Sg.Past.Ind	leiben
+hat	VAFIN.3.Sg.Pres.Ind	haben
+.	$.	.
+

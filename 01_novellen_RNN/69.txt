@@ -1,0 +1,19 @@
+Besser	ADJD.Comp	gut
+lerne	VVFIN.1.Sg.Pres.Ind	lernen
+ich	PPER.1.Nom.Sg.*	ich
+die	ART.Acc.Sg.Fem	der
+F-Moll-Sonate	NN.Acc.Sg.Fem	F-Moll-Sonate
+doch	ADV	doch
+nicht	PTKNEG	nicht
+spielen	VVINF.Inf	spielen
+,	$,	,
+sagte	VVFIN.3.Sg.Past.Ind	sagen
+Ida	NE.Nom.Sg.*	Ida
+und	KON	und
+stand	VVFIN.3.Sg.Past.Ind	stehen
+müde	ADJD.Pos	müde
+vom	APPRART.Dat.Sg.Neut	von
+Klavier	NN.Dat.Sg.Neut	Klavier
+auf	PTKVZ	auf
+.	$.	.
+

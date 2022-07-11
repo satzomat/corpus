@@ -1,0 +1,16 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmahl	ADV	einmahl
+eine	ART.Nom.Sg.Fem	ein
+zahlreiche	ADJA.Pos.Nom.Sg.Fem	zahlreiche
+Familie	NN.Nom.Sg.Fem	Familie
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+aus	APPR	aus
+kleinen	ADJA.Pos.Dat.Pl.*	klein
+und	KON	und
+großen	ADJA.Pos.Dat.Pl.*	groß
+Leuten	NN.Dat.Pl.*	Leute
+beſtand	VVFIN.3.Sg.Past.Ind	be<unk>tehen
+.	$.	.
+

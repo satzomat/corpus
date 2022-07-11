@@ -1,0 +1,27 @@
+Es	PPER.3.Nom.Sg.Neut	es
+hatte	VAFIN.3.Sg.Past.Ind	haben
+ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+drei	CARD	drei
+Söhne	NN.Acc.Pl.Masc	Sohn
+,	$,	,
+unter	APPR	unter
+welchen	PWAT.Dat.Pl.Fem	welcher
+der	ART.Nom.Sg.Masc	der
+Jüngste	ADJA.Sup.Nom.Sg.Masc	jung
+für	APPR	für
+ein	ART.Acc.Sg.Neut	ein
+Bißchen	NN.Acc.Sg.Neut	Bißchen
+dumm	ADJD.Pos	dumm
+gehalten	VVPP.Psp	halten
+wurde	VAFIN.3.Sg.Past.Ind	werden
+,	$,	,
+weil	KOUS	weil
+er	PPER.3.Nom.Sg.Masc	er
+so	ADV	so
+still	ADJD.Pos	still
+und	KON	und
+friedlich	ADJD.Pos	friedlich
+war	VAFIN.3.Sg.Past.Ind	sein
+.	$.	.
+

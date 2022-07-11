@@ -1,0 +1,7 @@
+Heil’ger	ADJA.Pos.Nom.Sg.Masc	Heil<unk>ger
+Abend	NN.Nom.Sg.Masc	Abend
+iſt’s	ADV	i<unk>t<unk>s
+vor	APPR	vor
+Pfingſten	NN.Dat.Pl.Neut	Pfing<unk>t
+.	$.	.
+

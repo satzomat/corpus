@@ -1,0 +1,19 @@
+Der	ART.Nom.Sg.Masc	der
+Wolf	NE.Nom.Sg.Masc	Wolf
+lag	VVFIN.3.Sg.Past.Ind	liegen
+in	APPR	in
+einer	ART.Dat.Sg.Fem	ein
+Nacht	NN.Dat.Sg.Fem	Nacht
+in	APPR	in
+seinem	PPOSAT.Dat.Sg.Neut	sein
+Loche	NN.Dat.Sg.Neut	Loche
+,	$,	,
+da	ADV	da
+klang	VVFIN.3.Sg.Past.Ind	klingen
+es	PPER.3.Nom.Sg.Neut	es
+ihm	PPER.3.Dat.Sg.Masc	ihm
+im	APPRART.Dat.Sg.Neut	in
+linken	ADJA.Pos.Dat.Sg.Neut	linken
+Ohr	NN.Dat.Sg.Neut	Ohr
+.	$.	.
+

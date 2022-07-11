@@ -1,0 +1,21 @@
+Ein	ART.Nom.Sg.Masc	ein
+Holzhacker	NN.Nom.Sg.Masc	Holzhacker
+hackte	VVFIN.3.Sg.Past.Ind	hacken
+vor	APPR	vor
+des	ART.Gen.Sg.Masc	der
+Königs	NN.Gen.Sg.Masc	König
+Haus	NN.Dat.Sg.Neut	Haus
+Holz	NE.Nom.Sg.Masc	Holz
+,	$,	,
+oben	ADV	oben
+am	APPRART.Dat.Sg.Neut	an
+Fenster	NN.Dat.Sg.Neut	Fenster
+stand	VVFIN.3.Sg.Past.Ind	stehen
+die	ART.Nom.Sg.Fem	der
+Prinzessin	NN.Nom.Sg.Fem	Prinzessin
+und	KON	und
+sah	VVFIN.3.Sg.Past.Ind	sehen
+ihm	PPER.3.Dat.Sg.Masc	ihm
+zu	PTKVZ	zu
+.	$.	.
+

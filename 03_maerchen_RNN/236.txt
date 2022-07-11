@@ -1,0 +1,21 @@
+Eine	ART.Nom.Sg.Fem	ein
+Wittwe	NN.Nom.Sg.Fem	Wittwe
+hatte	VAFIN.3.Sg.Past.Ind	haben
+zwei	CARD	zwei
+Töchter	NN.Acc.Pl.Fem	Tochter
+,	$,	,
+davon	PROAV	davon
+war	VAFIN.3.Sg.Past.Ind	sein
+die	ART.Nom.Sg.Fem	der
+eine	PIS.Nom.Sg.Fem	einer
+schön	ADJD.Pos	schön
+und	KON	und
+fleißig	ADJD.Pos	fleißig
+,	$,	,
+die	ART.Nom.Sg.Fem	der
+andere	PIS.Nom.Sg.Fem	anderer
+häßlich	ADJD.Pos	häßlich
+und	KON	und
+faul	ADJD.Pos	faul
+.	$.	.
+

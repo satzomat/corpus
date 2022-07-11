@@ -1,0 +1,16 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Neut	ein
+Mädchen	NN.Nom.Sg.Neut	Mädchen
+noch	ADV	noch
+so	ADV	so
+jung	ADJD.Pos	jung
+und	KON	und
+ward	VVFIN.3.Sg.Past.Ind	werden
+doch	ADV	doch
+schon	ADV	schon
+des	ART.Gen.Sg.Masc	der
+Todes	NN.Gen.Sg.Masc	Tod
+schuldig	ADJD.Pos	schuldig
+.	$.	.
+

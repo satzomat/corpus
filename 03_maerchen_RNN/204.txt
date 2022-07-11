@@ -1,0 +1,8 @@
+Die	ART.Nom.Pl.Fem	der
+Affen	NN.Nom.Pl.Fem	Affe
+hatten	VAFIN.3.Pl.Past.Ind	haben
+einst	ADV	einst
+einen	ART.Acc.Sg.Masc	ein
+König	NN.Acc.Sg.Masc	König
+.	$.	.
+

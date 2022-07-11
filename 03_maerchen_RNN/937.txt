@@ -1,0 +1,21 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+Frau	NN.Nom.Sg.Fem	Frau
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Töchter	NN.Acc.Pl.Fem	Tochter
+;	$.	;
+die	PRELS.Nom.Pl.Fem	der
+hießen	VVFIN.3.Pl.Pres.Ind	hießen
+:	$.	:
+Hulda	NE.Nom.Sg.Fem	Hulda
+,	$,	,
+Maria	NE.Nom.Sg.Fem	Maria
+und	KON	und
+Venus	NE.Nom.Sg.Neut	Venus
+.	$.	.
+

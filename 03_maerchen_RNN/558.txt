@@ -1,0 +1,19 @@
+Vor	APPR	vor
+langer	ADJA.Pos.Dat.Sg.Fem	langer
+,	$,	,
+langer	ADJA.Pos.Dat.Sg.Fem	langer
+Zeit	NN.Dat.Sg.Fem	Zeit
+lebte	VVFIN.3.Sg.Past.Ind	leben
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+ein	ART.Nom.Sg.Masc	ein
+braver	ADJA.Pos.Nom.Sg.Masc	braver
+und	KON	und
+frommer	ADJA.Pos.Nom.Sg.Masc	frommer
+Mann	NN.Nom.Sg.Masc	Mann
+war	VAFIN.3.Sg.Past.Ind	sein
+.	$.	.
+

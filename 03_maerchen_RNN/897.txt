@@ -1,0 +1,15 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+Ritter	NN.Nom.Sg.Masc	Ritter
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+freite	VVFIN.3.Sg.Pres.Subj	freiten
+um	APPR	um
+eine	ART.Acc.Sg.Fem	ein
+Nonne	NN.Acc.Sg.Fem	Nonne
+aus	APPR	aus
+dem	ART.Dat.Sg.Neut	der
+Kloster	NN.Dat.Sg.Neut	Kloster
+.	$.	.
+

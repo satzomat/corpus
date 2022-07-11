@@ -1,0 +1,23 @@
+Vor	APPR	vor
+alter	ADJA.Pos.Dat.Sg.Fem	alter
+laͤngſt	VVFIN.3.Sg.Pres.Ind	la<unk>ngen
+verfloßner	ADJA.Pos.Dat.Sg.Fem	verfloßner
+Zeit	NN.Dat.Sg.Fem	Zeit
+lebte	VVFIN.3.Sg.Past.Ind	leben
+in	APPR	in
+einem	ART.Dat.Sg.Masc	ein
+wilden	ADJA.Pos.Dat.Sg.Masc	wild
+einſamen	ADJA.Pos.Dat.Sg.Masc	ein<unk>am
+Forſt	NN.Dat.Sg.Masc	For<unk>t
+des	ART.Gen.Sg.Neut	der
+Fuldaiſchen	ADJA.Pos.Gen.Sg.Neut	fuldai<unk>chen
+Gebiets	NN.Gen.Sg.Neut	Gebiet
+ein	ART.Nom.Sg.Masc	ein
+wackrer	ADJA.Pos.Nom.Sg.Masc	wackrer
+Jaͤgersmann	NN.Nom.Sg.Masc	Ja<unk>gersmann
+,	$,	,
+Andres	NE.Nom.Sg.Masc	Andres
+mit	APPR	mit
+Namen	NN.Dat.Pl.Masc	Name
+.	$.	.
+

@@ -1,0 +1,19 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+einmal	ADV	einmal
+an	APPR	an
+einem	ART.Dat.Sg.Masc	ein
+Orte	NN.Dat.Sg.Masc	Ort
+zwei	CARD	zwei
+Pfarrer	NN.Nom.Pl.Masc	Pfarrer
+,	$,	,
+die	PRELS.Nom.Pl.Masc	der
+waren	VAFIN.3.Pl.Past.Ind	sein
+den	ART.Acc.Sg.Masc	der
+ganzen	ADJA.Pos.Acc.Sg.Masc	ganz
+Tag	NN.Acc.Sg.Masc	Tag
+über	APPR	über
+miteinander	ADV	miteinander
+betrunken	VVPP.Psp	betrinken
+.	$.	.
+

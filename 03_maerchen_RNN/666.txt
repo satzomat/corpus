@@ -1,0 +1,14 @@
+Ein	ART.Nom.Sg.Masc	ein
+Schneider	NN.Nom.Sg.Masc	Schneider
+schlug	VVFIN.3.Sg.Past.Ind	schlagen
+einst	ADV	einst
+einen	ART.Acc.Sg.Masc	ein
+Juden	NN.Acc.Sg.Masc	Jude
+todt	PTKVZ	todt
+,	$,	,
+um	KOUI	um
+ihn	PPER.3.Acc.Sg.Masc	ihn
+zu	PTKZU	zu
+berauben	VVINF.Inf	berauben
+.	$.	.
+

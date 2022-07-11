@@ -1,0 +1,9 @@
+Amol	NE.Nom.Sg.*	Amol
+is	FM	is
+era	ADV	era
+Frau	NN.Nom.Sg.Fem	Frau
+ihr	PPOSAT.Acc.Sg.Neut	ihr
+Kind	NN.Nom.Sg.Neut	Kind
+gstorbn	VVPP.Psp	gsterben
+.	$.	.
+

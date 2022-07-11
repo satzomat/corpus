@@ -1,0 +1,27 @@
+»	XY	»
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Einsiedler	NN.Nom.Sg.Masc	Einsiedler
+,	$,	,
+dem	PRELS.Dat.Sg.Masc	der
+schenkte	VVFIN.3.Sg.Past.Ind	schenken
+ein	ART.Nom.Sg.Masc	ein
+frommer	ADJA.Pos.Nom.Sg.Masc	frommer
+Mann	NN.Nom.Sg.Masc	Mann
+aus	APPR	aus
+Barmherzigkeit	NN.Dat.Sg.Fem	Barmherzigkeit
+und	KON	und
+um	APPR	um
+Gottes	NN.Gen.Sg.Masc	Gott
+Willen	NN.Dat.Sg.Masc	Wille
+eine	ART.Acc.Sg.Fem	ein
+Kuh	NN.Acc.Sg.Fem	Kuh
+.	$.	.
+
+[	XY	[
+…	XY	…
+]	XY	]
+«	XY	«
+

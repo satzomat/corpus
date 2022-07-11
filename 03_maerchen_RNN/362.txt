@@ -1,0 +1,25 @@
+Drei	CARD	drei
+Frauen	NN.Nom.Pl.Fem	Frau
+waren	VAFIN.3.Pl.Past.Ind	sein
+verwandelt	VVPP.Psp	verwandeln
+in	APPR	in
+Blumen	NN.Acc.Pl.Fem	Blume
+,	$,	,
+die	PRELS.Nom.Pl.Fem	der
+auf	APPR	auf
+dem	ART.Dat.Sg.Neut	der
+Felde	NN.Dat.Sg.Neut	Feld
+standen	VVFIN.3.Pl.Past.Ind	stehen
+,	$,	,
+doch	KON	doch
+deren	PRELAT.Gen.Pl.Fem	der
+eine	PIS.Nom.Sg.Fem	einer
+durft	VVFIN.3.Sg.Pres.Ind	dürfen
+des	ART.Gen.Sg.Masc	der
+Nachts	NN.Gen.Sg.Masc	Nacht
+in	APPR	in
+ihrem	PPOSAT.Dat.Sg.Neut	ihr
+Hause	NN.Dat.Sg.Neut	Haus
+seyn	VVFIN.3.Pl.Pres.Ind	seyn
+.	$.	.
+

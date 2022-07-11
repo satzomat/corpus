@@ -1,0 +1,24 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+eine	ART.Nom.Sg.Fem	ein
+regierende	ADJA.Pos.Nom.Sg.Fem	regierend
+Königin	NN.Nom.Sg.Fem	Königin
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+ein	ART.*.*.*	ein
+wenig	PIS.*.*.*	wenig
+alt	ADJD.Pos	alt
+geworden	VAPP.Psp	werden
+war	VAFIN.3.Sg.Past.Ind	sein
+,	$,	,
+nämlich	ADV	nämlich
+ein	ART.Nom.Sg.Neut	ein
+ganz	ADV	ganz
+klein	ADJD.Pos	klein
+Bischen	NN.Nom.Sg.Neut	Bischen
+nur	ADV	nur
+über	ADV	über
+90	CARD	90
+Jahr	NN.*.*.Neut	Jahr
+.	$.	.
+

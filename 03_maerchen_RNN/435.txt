@@ -1,0 +1,25 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+Königin	NN.Nom.Sg.Fem	Königin
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+ein	ART.Acc.Sg.Neut	ein
+Töchterchen	NN.Acc.Sg.Neut	Töchterchen
+,	$,	,
+das	PDS.Nom.Sg.Neut	der
+war	VAFIN.3.Sg.Past.Ind	sein
+noch	ADV	noch
+klein	ADJD.Pos	klein
+und	KON	und
+mußte	VMFIN.3.Sg.Past.Ind	müssen
+noch	ADV	noch
+auf	APPR	auf
+dem	ART.Dat.Sg.Masc	der
+Arm	NN.Dat.Sg.Masc	Arm
+getragen	VVPP.Psp	tragen
+werden	VAINF.Inf	werden
+.	$.	.
+

@@ -1,0 +1,24 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+reicher	ADJA.Pos.Nom.Sg.Masc	reicher
+Jude	NN.Nom.Sg.Masc	Jude
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+reiste	VVFIN.3.Sg.Past.Ind	reisen
+durch	APPR	durch
+ein	ART.Acc.Sg.Neut	ein
+Königreich	NN.Acc.Sg.Neut	Königreich
+und	KON	und
+trug	VVFIN.3.Sg.Past.Ind	tragen
+mit	APPR	mit
+sich	PRF.3.Dat.Sg	sich
+einen	ART.Acc.Sg.Masc	ein
+großen	ADJA.Pos.Acc.Sg.Masc	groß
+Schatz	NN.Acc.Sg.Masc	Schatz
+an	APPR	an
+Geld	NN.Dat.Sg.Neut	Geld
+und	KON	und
+Gute	NN.Dat.Sg.Neut	gut
+.	$.	.
+

@@ -1,0 +1,21 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Prinz	NN.Nom.Sg.Masc	Prinz
+,	$,	,
+der	PDS.Nom.Sg.Masc	der
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+eine	ART.Acc.Sg.Fem	ein
+Prinzessin	NN.Acc.Sg.Fem	Prinzessin
+heiraten	VVINF.Inf	heiraten
+,	$,	,
+aber	KON	aber
+es	PPER.3.Nom.Sg.Neut	es
+sollte	VMFIN.3.Sg.Past.Ind	sollen
+eine	ART.Nom.Sg.Fem	ein
+wirkliche	ADJA.Pos.Nom.Sg.Fem	wirklich
+Prinzessin	NN.Nom.Sg.Fem	Prinzessin
+sein	VAINF.Inf	sein
+.	$.	.
+

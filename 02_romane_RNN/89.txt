@@ -1,0 +1,15 @@
+Die	ART.Nom.Pl.Masc	der
+alten	ADJA.Pos.Nom.Pl.Masc	alt
+Götter	NN.Nom.Pl.Masc	Gott
+sind	VAFIN.3.Pl.Pres.Ind	sein
+todt	ADJD.Pos	todt
+–	APPR	–
+der	ART.Nom.Sg.Masc	der
+Glaube	NN.Nom.Sg.Masc	Glaube
+ist	VAFIN.3.Sg.Pres.Ind	sein
+verschwunden	VVPP.Psp	verschwinden
+von	APPR	von
+der	ART.Dat.Sg.Fem	der
+Welt	NN.Dat.Sg.Fem	Welt
+.	$.	.
+

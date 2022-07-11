@@ -1,0 +1,21 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Neut	ein
+Hühnchen	NN.Nom.Sg.Neut	Hühnchen
+und	KON	und
+ein	ART.Nom.Sg.Neut	ein
+Hähnchen	NN.Nom.Sg.Neut	Hähnchen
+,	$,	,
+die	PDS.Nom.Pl.Neut	der
+gingen	VVFIN.3.Pl.Past.Ind	gehen
+miteinander	ADV	miteinander
+auf	APPR	auf
+den	ART.Acc.Sg.Masc	der
+Nußberg	NN.Acc.Sg.Masc	Nußberg
+und	KON	und
+suchten	VVFIN.3.Pl.Past.Ind	suchen
+sich	PRF.3.Acc.Pl	sich
+Nüßchen	NN.Acc.Sg.Neut	Nüßchen
+.	$.	.
+

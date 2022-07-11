@@ -1,0 +1,17 @@
+Ein	ART.Nom.Sg.Masc	ein
+Schweinhirt	NN.Nom.Sg.Masc	Schweinhirt
+hatte	VAFIN.3.Sg.Past.Ind	haben
+viele	PIAT.Acc.Pl.Masc	vieler
+Söhne	NN.Acc.Pl.Masc	Sohn
+,	$,	,
+von	APPR	von
+denen	PRELS.Dat.Pl.Masc	der
+trieb	VVFIN.3.Sg.Past.Ind	treiben
+der	ART.Nom.Sg.Masc	der
+älteste	ADJA.Sup.Nom.Sg.Masc	alt
+mit	APPR	mit
+den	ART.Dat.Pl.Neut	der
+Ferken	NN.Dat.Pl.Neut	Ferk
+aus	PTKVZ	aus
+.	$.	.
+

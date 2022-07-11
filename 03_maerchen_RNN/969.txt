@@ -1,0 +1,20 @@
+Friederike	NN.Nom.Sg.Fem	Friederike
+war	VAFIN.3.Sg.Past.Ind	sein
+nicht	PTKNEG	nicht
+bloß	ADV	bloß
+genäschig	ADJD.Pos	genäschig
+,	$,	,
+sie	PPER.3.Nom.Sg.Fem	sie
+läugnete	VVFIN.3.Sg.Past.Ind	läugnen
+es	PPER.3.Acc.Sg.Neut	es
+sogar	ADV	sogar
+,	$,	,
+selbst	ADV	selbst
+wenn	KOUS	wenn
+sie	PPER.3.Nom.Sg.Fem	sie
+beim	APPRART.Dat.Sg.Neut	bei
+Naschen	NN.Dat.Sg.Neut	Naschen
+erwischt	VVPP.Psp	erwischen
+wurde	VAFIN.3.Sg.Past.Ind	werden
+.	$.	.
+

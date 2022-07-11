@@ -1,0 +1,23 @@
+Das	ART.Nom.Sg.Neut	der
+Gärtchen	NN.Nom.Sg.Neut	Gärtchen
+liegt	VVFIN.3.Sg.Pres.Ind	liegen
+zwiſchen	APPR	zwi<unk>chen
+dem	ART.Dat.Sg.Neut	der
+Wohnhauſe	NN.Dat.Sg.Neut	Wohnhau<unk>
+und	KON	und
+dem	ART.Dat.Sg.Neut	der
+Schieferſchuppen	NN.Dat.Sg.Neut	Schiefer<unk>chuppen
+;	$.	;
+wer	PWS.Nom.Sg.Masc	wer
+von	APPR	von
+dem	ART.Dat.Sg.Neut	der
+einen	PIS.Dat.Sg.*	einer
+zum	APPRART.Dat.Sg.*	zu
+andern	PIS.Dat.Sg.*	anderer
+geht	VVFIN.3.Sg.Pres.Ind	gehen
+,	$,	,
+muß	VMFIN.3.Sg.Pres.Ind	müssen
+daran	PROAV	daran
+vorbei	PTKVZ	vorbei
+.	$.	.
+

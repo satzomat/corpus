@@ -1,0 +1,18 @@
+In	APPR	in
+einer	ART.Dat.Sg.Fem	ein
+kalten	ADJA.Pos.Dat.Sg.Fem	kalt
+Winternacht	NN.Dat.Sg.Fem	Winternacht
+kroch	VVFIN.3.Sg.Past.Ind	kriechen
+ein	ART.Nom.Sg.Masc	ein
+hungeriger	ADJA.Pos.Nom.Sg.Masc	hungeriger
+Fuchs	NN.Nom.Sg.Masc	Fuchs
+aus	APPR	aus
+seinem	PPOSAT.Dat.Sg.Masc	sein
+Bau	NN.Dat.Sg.Masc	Bau
+und	KON	und
+ging	VVFIN.3.Sg.Past.Ind	gehen
+dem	ART.Dat.Sg.Masc	der
+Fange	NN.Dat.Sg.Masc	Fang
+nach	PTKVZ	nach
+.	$.	.
+

@@ -1,0 +1,14 @@
+Es	PPER.3.Acc.Sg.Neut	es
+kam	VVFIN.3.Sg.Past.Ind	kommen
+ein	ART.Nom.Sg.Masc	ein
+Soldat	NN.Nom.Sg.Masc	Soldat
+auf	APPR	auf
+der	ART.Dat.Sg.Fem	der
+Landstraße	NN.Dat.Sg.Fem	Landstraße
+dahermarschiert	VVFIN.3.Sg.Pres.Ind	dahermarschieren
+:	$.	:
+Eins	PIS.Nom.Sg.Neut	einer
+,	$,	,
+zwei	CARD	zwei
+!	$.	!
+

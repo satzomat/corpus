@@ -1,0 +1,10 @@
+Der	ART.Nom.Sg.Masc	der
+liebe	ADJA.Pos.Nom.Sg.Masc	lieb
+Jesus	NE.Nom.Sg.Masc	Jesus
+ging	VVFIN.3.Sg.Past.Ind	gehen
+einmal	ADV	einmal
+mit	APPR	mit
+Petrus	NE.Dat.Sg.*	Petrus
+überland	PTKVZ	überland
+.	$.	.
+

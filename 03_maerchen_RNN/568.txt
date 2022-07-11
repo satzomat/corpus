@@ -1,0 +1,26 @@
+Ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+wunderschönen	ADJA.Pos.Acc.Sg.Masc	wunderschön
+Garten	NN.Acc.Sg.Masc	Garten
+,	$,	,
+und	KON	und
+in	APPR	in
+dem	ART.Dat.Sg.Masc	der
+Garten	NN.Dat.Sg.Masc	Garten
+stand	VVFIN.3.Sg.Past.Ind	stehen
+ein	ART.Nom.Sg.Masc	ein
+großer	ADJA.Pos.Nom.Sg.Masc	großer
+,	$,	,
+weitgeasteter	ADJA.Pos.Nom.Sg.Masc	weitgeasteter
+Baum	NN.Nom.Sg.Masc	Baum
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+trug	VVFIN.3.Sg.Past.Ind	tragen
+alljährlich	ADJD.Pos	alljährlich
+viel	PIAT.*.*.*	viel
+goldene	ADJA.Pos.Acc.Pl.Masc	golden
+Aepfel	NN.Acc.Pl.Masc	Aepfel
+.	$.	.
+

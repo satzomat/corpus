@@ -1,0 +1,5 @@
+Zehn	CARD	zehn
+Uhr	NN.Nom.Sg.Fem	Uhr
+Abends	NN.Nom.Pl.Masc	Abend
+.	$.	.
+

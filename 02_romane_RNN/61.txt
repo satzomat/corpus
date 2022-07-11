@@ -1,0 +1,20 @@
+Die	ART.Nom.Sg.Fem	der
+Abkunft	NN.Nom.Sg.Fem	Abkunft
+unſers	ADV	un<unk>ers
+Biographen	NN.Gen.Sg.Masc	Biograph
+kann	VMFIN.3.Sg.Pres.Ind	können
+bei	APPR	bei
+dem	ART.Dat.Sg.Masc	der
+verloren	ADJD.Pos	verloren
+gegangenen	ADJA.Pos.Dat.Sg.Masc	gegangen
+Anfange	NN.Dat.Sg.Masc	Anfang
+ſeiner	PPOSAT.Gen.Sg.Fem	<unk>
+Schrift	NN.Gen.Sg.Fem	Schrift
+nicht	PTKNEG	nicht
+mehr	ADV	mehr
+mit	APPR	mit
+Genauigkeit	NN.Dat.Sg.Fem	Genauigkeit
+beſtimmt	VVPP.Psp	be<unk>timmen
+werden	VAINF.Inf	werden
+.	$.	.
+

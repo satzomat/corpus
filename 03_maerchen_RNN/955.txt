@@ -1,0 +1,27 @@
+Da	ADV	da
+war	VAFIN.3.Sg.Past.Ind	sein
+amal	ADV	amal
+a	NE.*.*.*	a
+Mädla	FM	Mädla
+,	$,	,
+dem	PDS.Dat.Sg.*	der
+sei	VAFIN.3.Sg.Pres.Subj	sein
+Mudder	NN.Nom.Sg.Masc	Mudder
+war	VAFIN.3.Sg.Past.Ind	sein
+gstorm	ADJD.Pos	gstorm
+und	KON	und
+die	PDS.Nom.Sg.Fem	der
+hat	VAFIN.3.Sg.Pres.Ind	haben
+immer	ADV	immer
+durchn	APPR	durchn
+Kirchhof	NN.Acc.Sg.Masc	Kirchhof
+gmußt	VVPP.Psp	gmüssen
+,	$,	,
+wenns	KOUS	wenns
+von	APPR	von
+der	ART.Dat.Sg.Fem	der
+Schul	NN.Dat.Sg.Fem	Schul
+hamganga	ADV	hamganga
+is	FM	is
+.	$.	.
+

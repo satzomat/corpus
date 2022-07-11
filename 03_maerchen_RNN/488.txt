@@ -1,0 +1,26 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Neut	ein
+steinaltes	ADJA.Pos.Nom.Sg.Neut	steinalt
+Mütterchen	NN.Nom.Sg.Neut	Mütterchen
+,	$,	,
+das	PRELS.Nom.Sg.Neut	der
+lebte	VVFIN.3.Sg.Past.Ind	leben
+mit	APPR	mit
+seiner	PPOSAT.Dat.Sg.Fem	sein
+Herde	NN.Dat.Sg.Fem	Herde
+Gänse	NN.Acc.Pl.Fem	Gans
+in	APPR	in
+einer	ART.Dat.Sg.Fem	ein
+Einöde	NN.Dat.Sg.Fem	Einöde
+zwischen	APPR	zwischen
+Bergen	NN.Dat.Pl.Masc	Berg
+und	KON	und
+hatte	VAFIN.3.Sg.Past.Ind	haben
+da	ADV	da
+ein	ART.Acc.Sg.Neut	ein
+kleines	ADJA.Pos.Acc.Sg.Neut	klein
+Haus	NN.Acc.Sg.Neut	Haus
+.	$.	.
+

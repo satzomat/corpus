@@ -1,0 +1,15 @@
+Wie	PWAV	wie
+–	XY	–
+?	$.	?
+
+Was	PWS.Nom.Sg.Neut	was
+–	XY	–
+?	$.	?
+
+rief	VVFIN.3.Sg.Past.Ind	rufen
+man	PIS.Nom.Sg.*	man
+von	APPR	von
+allen	PIAT.Dat.Pl.Fem	aller
+Seiten	NN.Dat.Pl.Fem	Seite
+.	$.	.
+

@@ -1,0 +1,37 @@
+Der	ART.Nom.Sg.Masc	der
+Fuchs	NN.Nom.Sg.Masc	Fuchs
+begegnete	VVFIN.3.Sg.Past.Ind	begegnen
+einmal	ADV	einmal
+dem	ART.Dat.Sg.Masc	der
+Wolf	NN.Dat.Sg.Masc	Wolf
+und	KON	und
+sah	VVFIN.3.Sg.Past.Ind	sehen
+so	ADV	so
+recht	ADJD.Pos	recht
+vergnügt	ADJD.Pos	vergnügt
+aus	PTKVZ	aus
+;	$.	;
+da	ADV	da
+fragte	VVFIN.3.Sg.Past.Ind	fragen
+ihn	PPER.3.Acc.Sg.Masc	ihn
+dieser	PDS.Nom.Sg.Masc	dieser
+:	$.	:
+»	APPR	»
+Sage	NE.Nom.Sg.*	Sage
+einmal	ADV	einmal
+,	$,	,
+Brüderchen	NE.Nom.Sg.Neut	Brüderchen
+,	$,	,
+wie	PWAV	wie
+kommt's	FM	kommt's
+,	$,	,
+daß	KOUS	daß
+du	PPER.2.Nom.Sg.*	du
+heute	ADV	heute
+so	ADV	so
+fröhlich	ADJD.Pos	fröhlich
+siehst	VVFIN.2.Sg.Pres.Ind	sehen
+?	$.	?
+
+«	XY	«
+

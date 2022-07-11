@@ -1,0 +1,21 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+reicher	ADJA.Pos.Nom.Sg.Masc	reicher
+Rittergutsbesitzer	NN.Nom.Sg.Masc	Rittergutsbesitzer
+,	$,	,
+dem	PRELS.Dat.Sg.Masc	der
+dienten	VVFIN.3.Pl.Past.Ind	dienen
+viele	PIAT.Nom.Pl.Masc	vieler
+Knechte	NN.Nom.Pl.Masc	Knecht
+,	$,	,
+und	KON	und
+einer	PIS.Nom.Sg.Masc	einer
+von	APPR	von
+diesen	PDS.Dat.Pl.*	dieser
+wollte	VMFIN.1.Sg.Past.Ind	wollen
+sich	PRF.3.Acc.Sg	sich
+verheiraten	VVINF.Inf	verheiraten
+.	$.	.
+

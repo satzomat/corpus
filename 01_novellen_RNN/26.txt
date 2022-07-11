@@ -1,0 +1,16 @@
+In	APPR	in
+Polen	NE.Dat.Sg.Neut	Polen
+war's	VAFIN.3.Pl.Past.Ind	sein
+,	$,	,
+in	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+kleinen	ADJA.Pos.Dat.Sg.Neut	kleinen
+Städchen	NN.Dat.Sg.Neut	Städchen
+,	$,	,
+drei	CARD	drei
+Viertheile	ADJA.Pos.Nom.Pl.Masc	viertheil
+Juden	NN.Nom.Pl.Masc	Jude
+die	ART.Acc.Sg.Fem	der
+Einwohnerschaft	NN.Acc.Sg.Fem	Einwohnerschaft
+.	$.	.
+

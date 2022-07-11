@@ -1,0 +1,16 @@
+Fritz	NE.Nom.Sg.Masc	Fritz
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Neut	ein
+verzärteltes	ADJA.Pos.Nom.Sg.Neut	verzärtelt
+Muttersöhnchen	NN.Nom.Sg.Neut	Muttersöhnchen
+,	$,	,
+das	PRELS.Nom.Sg.Neut	der
+den	ART.Acc.Sg.Masc	der
+ganzen	ADJA.Pos.Acc.Sg.Masc	ganz
+Tag	NN.Acc.Sg.Masc	Tag
+hinter	APPR	hinter
+dem	ART.Dat.Sg.Masc	der
+Ofen	NN.Dat.Sg.Masc	Ofen
+hockte	VVFIN.3.Sg.Past.Ind	hocken
+.	$.	.
+

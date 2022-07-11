@@ -1,0 +1,16 @@
+In	APPR	in
+Schwabenland	NE.Dat.Sg.Neut	Schwabenland
+lebte	VVFIN.3.Sg.Past.Ind	leben
+ein	ART.Nom.Sg.Masc	ein
+mannlicher	ADJA.Pos.Nom.Sg.Masc	mannlicher
+Ritter	NN.Nom.Sg.Masc	Ritter
+,	$,	,
+Wackerbart	NN.Nom.Sg.Masc	Wackerbart
+genannt	VVPP.Psp	nennen
+,	$,	,
+auf	APPR	auf
+seinem	PPOSAT.Dat.Sg.Neut	sein
+festen	ADJA.Pos.Dat.Sg.Neut	fest
+Raubschloße	NN.Dat.Sg.Neut	Raubschloß
+.	$.	.
+

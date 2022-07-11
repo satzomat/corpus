@@ -1,0 +1,24 @@
+Ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+war	VAFIN.3.Sg.Past.Ind	sein
+alt	ADJD.Pos	alt
+und	KON	und
+schwach	ADJD.Pos	schwach
+,	$,	,
+aber	KON	aber
+seine	PPOSAT.Nom.Pl.Fem	sein
+Töchter	NN.Nom.Pl.Fem	Tochter
+waren	VAFIN.3.Pl.Past.Ind	sein
+jung	ADJD.Pos	jung
+und	KON	und
+schön	ADJD.Pos	schön
+und	KON	und
+blüthen	VVFIN.3.Pl.Pres.Ind	blüthen
+nicht	PTKNEG	nicht
+anders	ADV	anders
+als	KOKOM	als
+drei	CARD	drei
+rothe	ADJA.Pos.Acc.Pl.Fem	roth
+Rosen	NN.Acc.Pl.Fem	Rose
+.	$.	.
+

@@ -1,0 +1,16 @@
+Die	ART.Nom.Pl.Masc	der
+Fische	NN.Nom.Pl.Masc	Fisch
+waren	VAFIN.3.Pl.Past.Ind	sein
+schon	ADV	schon
+lange	ADV	lange
+unzufrieden	ADJD.Pos	unzufrieden
+,	$,	,
+daß	KOUS	daß
+keine	PIAT.Nom.Sg.Fem	kein
+Ordnung	NN.Nom.Sg.Fem	Ordnung
+in	APPR	in
+ihrem	PPOSAT.Dat.Sg.Neut	ihr
+Reich	NN.Dat.Sg.Neut	Reich
+herrschte	VVFIN.3.Sg.Past.Ind	herrschen
+.	$.	.
+

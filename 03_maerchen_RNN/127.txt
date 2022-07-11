@@ -1,0 +1,29 @@
+»	XY	»
+Ein	ART.Nom.Sg.Masc	ein
+alter	ADJA.Pos.Nom.Sg.Masc	alter
+Affe	NN.Nom.Sg.Masc	Affe
+lebte	VVFIN.3.Sg.Past.Ind	leben
+an	APPR	an
+einem	ART.Dat.Sg.Masc	ein
+fruchtbaren	ADJA.Pos.Dat.Sg.Masc	fruchtbar
+Ort	NN.Dat.Sg.Masc	Ort
+,	$,	,
+wo	PWAV	wo
+Bäume	NN.Nom.Pl.Masc	Baum
+und	KON	und
+Früchte	NN.Nom.Pl.Fem	Frucht
+,	$,	,
+Wasser	NN.Nom.Pl.Neut	Wasser
+und	KON	und
+Weiden	NN.Nom.Pl.Fem	Weide
+im	APPRART.Dat.Sg.Masc	in
+Überfluß	NN.Dat.Sg.Masc	Überfluß
+vorhanden	ADJD.Pos	vorhanden
+waren	VAFIN.3.Pl.Past.Ind	sein
+.	$.	.
+
+[	XY	[
+…	XY	…
+]	XY	]
+«	XY	«
+

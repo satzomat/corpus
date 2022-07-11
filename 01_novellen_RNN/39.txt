@@ -1,0 +1,27 @@
+Zur	APPRART.Dat.Sg.Fem	zu
+Zeit	NN.Dat.Sg.Fem	Zeit
+als	KOUS	als
+der	ART.Nom.Sg.Masc	der
+heilige	ADJA.Pos.Nom.Sg.Masc	heilig
+Ludwig	NE.Nom.Sg.Masc	Ludwig
+in	APPR	in
+Frankreich	NE.Dat.Sg.Neut	Frankreich
+die	ART.Acc.Sg.Fem	der
+Krone	NN.Acc.Sg.Fem	Krone
+trug	VVFIN.3.Sg.Past.Ind	tragen
+,	$,	,
+war	VAFIN.3.Sg.Past.Ind	sein
+die	ART.Nom.Sg.Fem	der
+gute	ADJA.Pos.Nom.Sg.Fem	gut
+alte	ADJA.Pos.Nom.Sg.Fem	alt
+Stadt	NN.Nom.Sg.Fem	Stadt
+Arras	NE.Nom.Sg.Neut	Arras
+gerade	ADV	gerade
+um	APPR	um
+ſechshundert	CARD	<unk>echshundert
+Jahre	NN.Acc.Pl.Neut	Jahr
+jünger	ADJD.Comp	jung
+als	KOKOM	als
+heutzutage	ADV	heutzutage
+.	$.	.
+

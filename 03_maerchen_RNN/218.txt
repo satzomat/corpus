@@ -1,0 +1,19 @@
+Eine	ART.Nom.Sg.Fem	ein
+Geis	NN.Nom.Sg.Fem	Geis
+hatte	VAFIN.3.Sg.Past.Ind	haben
+sieben	CARD	sieben
+Junge	NN.Acc.Pl.Masc	Junge
+,	$,	,
+die	PRELS.Acc.Pl.*	der
+sie	PPER.3.Nom.Sg.Fem	sie
+gar	ADV	gar
+lieb	VVFIN.3.Sg.Past.Ind	leiben
+hatte	VAFIN.3.Sg.Past.Ind	haben
+und	KON	und
+sorgfältig	ADJD.Pos	sorgfältig
+vor	APPR	vor
+dem	ART.Dat.Sg.Masc	der
+Wolf	NN.Dat.Sg.Masc	Wolf
+hütete	VVFIN.3.Sg.Past.Ind	hüten
+.	$.	.
+

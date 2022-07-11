@@ -1,0 +1,21 @@
+In	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+Lande	NN.Dat.Sg.Neut	Land
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+junger	ADJA.Pos.Nom.Sg.Masc	junger
+Rittersmann	NN.Nom.Sg.Masc	Rittersmann
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+war	VAFIN.3.Sg.Past.Ind	sein
+reich	ADJD.Pos	reich
+und	KON	und
+schön	ADJD.Pos	schön
+,	$,	,
+und	KON	und
+hatte	VAFIN.3.Sg.Past.Ind	haben
+eine	ART.Acc.Sg.Fem	ein
+prächtige	ADJA.Pos.Acc.Sg.Fem	prächtig
+Burg	NN.Acc.Sg.Fem	Burg
+.	$.	.
+

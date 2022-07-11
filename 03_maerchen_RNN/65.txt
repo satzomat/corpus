@@ -1,0 +1,24 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+einmal	ADV	einmal
+zwei	CARD	zwei
+arme	ADJA.Pos.Nom.Pl.*	arm
+Geschwister	NN.Nom.Pl.*	Geschwister
+,	$,	,
+ein	ART.Nom.Sg.Neut	ein
+Knabe	NN.Nom.Sg.Masc	Knabe
+und	KON	und
+ein	ART.Nom.Sg.Neut	ein
+Mädchen	NN.Nom.Sg.Neut	Mädchen
+,	$,	,
+das	ART.Nom.Sg.Neut	der
+Mädchen	NN.Nom.Sg.Neut	Mädchen
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+Margarete	NE.Acc.Sg.Neut	Margarete
+,	$,	,
+der	ART.Nom.Sg.Masc	der
+Knabe	NN.Nom.Sg.Masc	Knabe
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+Hans	NE.Nom.Sg.Masc	Hans
+.	$.	.
+

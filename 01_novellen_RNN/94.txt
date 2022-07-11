@@ -1,0 +1,8 @@
+Ich	PPER.1.Nom.Sg.*	ich
+bin	VAFIN.1.Sg.Pres.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+Freund	NN.Nom.Sg.Masc	Freund
+der	ART.Gen.Sg.Fem	der
+Vergangenheit	NN.Gen.Sg.Fem	Vergangenheit
+.	$.	.
+

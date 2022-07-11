@@ -1,0 +1,25 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+Hexenmeister	NN.Nom.Sg.Masc	Hexenmeister
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+Dieb	NN.Nom.Sg.Masc	Dieb
+und	KON	und
+ging	VVFIN.3.Sg.Past.Ind	gehen
+in	APPR	in
+der	ART.Dat.Sg.Fem	der
+Gestalt	NN.Dat.Sg.Fem	Gestalt
+eines	ART.Gen.Sg.Masc	ein
+armen	ADJA.Pos.Gen.Sg.Masc	arm
+Mannes	NN.Gen.Sg.Masc	Mann
+vor	APPR	vor
+die	ART.Acc.Pl.Neut	der
+Häuser	NN.Acc.Pl.Neut	Haus
+und	KON	und
+bettelte	VVFIN.3.Sg.Past.Ind	betteln
+.	$.	.
+

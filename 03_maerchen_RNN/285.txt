@@ -1,0 +1,27 @@
+Ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Töchter	NN.Acc.Pl.Fem	Tochter
+;	$.	;
+da	ADV	da
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+er	PPER.3.Nom.Sg.Masc	er
+wissen	VVINF.Inf	wissen
+,	$,	,
+welche	PRELS.Nom.Sg.Fem	welcher
+ihn	PPER.3.Acc.Sg.Masc	ihn
+am	PTKA	am
+liebsten	ADJD.Sup	lieb
+hätte	VAFIN.3.Sg.Past.Subj	haben
+,	$,	,
+ließ	VVFIN.3.Sg.Past.Ind	lassen
+sie	PPER.3.Nom.Sg.Fem	sie
+vor	APPR	vor
+sich	PRF.3.Dat.Sg	sich
+kommen	VVINF.Inf	kommen
+und	KON	und
+fragte	VVFIN.3.Sg.Past.Ind	fragen
+sie	PPER.3.Acc.Sg.Fem	sie
+.	$.	.
+

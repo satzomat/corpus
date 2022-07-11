@@ -1,0 +1,23 @@
+Ein	ART.Nom.Sg.Masc	ein
+Kaufmann	NN.Nom.Sg.Masc	Kaufmann
+hatte	VAFIN.3.Sg.Past.Ind	haben
+auf	APPR	auf
+der	ART.Dat.Sg.Fem	der
+Messe	NN.Dat.Sg.Fem	Messe
+gute	ADJA.Pos.Acc.Pl.Neut	gut
+Geschäfte	NN.Acc.Pl.Neut	Geschäft
+gemacht	VVPP.Psp	machen
+,	$,	,
+alle	PIAT.Acc.Pl.Fem	aller
+Waren	NN.Acc.Pl.Fem	Ware
+verkauft	VVPP.Psp	verkaufen
+und	KON	und
+seine	PPOSAT.Acc.Sg.Fem	sein
+Geldkatze	NN.Acc.Sg.Fem	Geldkatze
+mit	APPR	mit
+Gold	NN.Dat.Sg.Neut	Gold
+und	KON	und
+Silber	NN.Dat.Sg.Neut	Silber
+gespickt	VVPP.Psp	spicken
+.	$.	.
+

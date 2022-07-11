@@ -1,0 +1,22 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+König	NN.Nom.Sg.Masc	König
+und	KON	und
+eine	ART.Nom.Sg.Fem	ein
+Königin	NN.Nom.Sg.Fem	Königin
+,	$,	,
+die	PDS.Nom.Pl.*	der
+hatten	VAFIN.3.Pl.Past.Ind	haben
+keine	PIAT.Acc.Pl.Neut	kein
+Kinder	NN.Acc.Pl.Neut	Kind
+,	$,	,
+wünschten	VVFIN.3.Pl.Past.Ind	wünschen
+sich	PRF.3.Acc.Pl	sich
+aber	ADV	aber
+tagtäglich	ADJD.Pos	tagtäglich
+ein	ART.Acc.Sg.Neut	ein
+Kind	NN.Acc.Sg.Neut	Kind
+.	$.	.
+

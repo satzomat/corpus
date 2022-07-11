@@ -1,0 +1,19 @@
+Ein	ART.Nom.Sg.Masc	ein
+Bauer	NN.Nom.Sg.Masc	Bauer
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+getreuen	ADJA.Pos.Acc.Sg.Masc	getreu
+Hund	NN.Acc.Sg.Masc	Hund
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+war	VAFIN.3.Sg.Past.Ind	sein
+alt	ADJD.Pos	alt
+,	$,	,
+und	KON	und
+konnte	VMFIN.3.Sg.Past.Ind	können
+nichts	PIS.*.*.Neut	nichts
+mehr	ADV	mehr
+fest	ADJD.Pos	fest
+packen	VVINF.Inf	packen
+.	$.	.
+

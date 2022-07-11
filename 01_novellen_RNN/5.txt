@@ -1,0 +1,18 @@
+Und	KON	und
+so	ADV	so
+hatte	VAFIN.3.Sg.Past.Ind	haben
+er	PPER.3.Nom.Sg.Masc	er
+denn	ADV	denn
+mitten	ADV	mitten
+im	APPRART.Dat.Sg.Neut	in
+Semester	NN.Dat.Sg.Neut	Semester
+den	ART.Dat.Pl.*	der
+Wirthsleuten	NN.Dat.Pl.*	Wirthsleute
+das	ART.Acc.Sg.Neut	der
+Zimmer	NN.Acc.Sg.Neut	Zimmer
+kündigen	VVINF.Inf	kündigen
+und	KON	und
+umziehen	VVINF.Inf	umziehen
+müssen	VMINF.Inf	müssen
+.	$.	.
+

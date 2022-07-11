@@ -1,0 +1,22 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+alter	ADJA.Pos.Nom.Sg.Masc	alter
+König	NN.Nom.Sg.Masc	König
+,	$,	,
+der	PDS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+eine	ART.Acc.Sg.Fem	ein
+Tochter	NN.Acc.Sg.Fem	Tochter
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+war	VAFIN.3.Sg.Past.Ind	sein
+die	ART.Nom.Sg.Fem	der
+schönste	ADJA.Sup.Nom.Sg.Fem	schön
+Jungfrau	NN.Nom.Sg.Fem	Jungfrau
+auf	APPR	auf
+der	ART.Dat.Sg.Fem	der
+Welt	NN.Dat.Sg.Fem	Welt
+.	$.	.
+

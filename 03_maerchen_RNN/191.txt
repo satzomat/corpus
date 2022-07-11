@@ -1,0 +1,13 @@
+Die	ART.Nom.Sg.Fem	der
+Fee	NE.*.*.*	Fee
+Soline	NN.Nom.Sg.Fem	Soline
+hatte	VAFIN.3.Sg.Past.Ind	haben
+seit	APPR	seit
+mehreren	PIAT.Dat.Pl.Neut	mehrere
+Jahren	NN.Dat.Pl.Neut	Jahr
+über	APPR	über
+verschiedne	ADJA.Pos.Acc.Pl.Neut	verschiedn
+Königreiche	NN.Acc.Pl.Neut	Königreiche
+regiert	VVPP.Psp	regieren
+.	$.	.
+

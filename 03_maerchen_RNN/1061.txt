@@ -1,0 +1,18 @@
+Ein	ART.Nom.Sg.Masc	ein
+Bauer	NN.Nom.Sg.Masc	Bauer
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Söhne	NN.Acc.Pl.Masc	Sohn
+,	$,	,
+die	PRELS.Nom.Pl.Masc	der
+mußten	VMFIN.3.Pl.Past.Ind	müssen
+tüchtig	ADJD.Pos	tüchtig
+arbeiten	VVINF.Inf	arbeiten
+und	KON	und
+ihrem	PPOSAT.Dat.Sg.Masc	ihr
+Vater	NN.Dat.Sg.Masc	Vater
+Geld	NN.Acc.Sg.Neut	Geld
+verdienen	VVINF.Inf	verdienen
+helfen	VVINF.Inf	helfen
+.	$.	.
+

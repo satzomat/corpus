@@ -1,0 +1,12 @@
+Ein	ART.Acc.Sg.Neut	ein
+andres	ADJA.Pos.Acc.Sg.Neut	andres
+Mal	NN.Acc.Sg.Neut	Mal
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+Christus	NE.Nom.Sg.*	Christus
+mit	APPR	mit
+Petrus	NE.Dat.Sg.Neut	Petrus
+eine	ART.Acc.Sg.Fem	ein
+Kirchweih	NN.Acc.Sg.Fem	Kirchweih
+besuchen	VVINF.Inf	besuchen
+.	$.	.
+

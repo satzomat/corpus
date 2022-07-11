@@ -1,0 +1,11 @@
+„	XY	„
+Und	KON	und
+darum	PROAV	darum
+eben	ADV	eben
+,	$,	,
+“	XY	“
+ſchloß	VVFIN.3.Sg.Past.Ind	<unk>
+der	ART.Nom.Sg.Masc	der
+Geheimerath	NN.Nom.Sg.Masc	Geheimerath
+.	$.	.
+

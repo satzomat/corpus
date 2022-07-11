@@ -1,0 +1,24 @@
+Eine	ART.Nom.Sg.Fem	ein
+Wittwe	NN.Nom.Sg.Fem	Wittwe
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+einzigen	ADJA.Pos.Acc.Sg.Masc	einziger
+Sohn	NN.Acc.Sg.Masc	Sohn
+,	$,	,
+dessen	PRELAT.Nom.Sg.Masc	der
+Vater	NN.Nom.Sg.Masc	Vater
+schon	ADV	schon
+zehn	CARD	zehn
+Jahre	NN.Acc.Pl.Neut	Jahr
+todt	ADJD.Pos	todt
+war	VAFIN.3.Sg.Past.Ind	sein
+,	$,	,
+da	ADV	da
+kam	VVFIN.3.Sg.Past.Ind	kommen
+ein	ART.Nom.Sg.Masc	ein
+Freier	NN.Nom.Sg.Masc	Freier
+und	KON	und
+heirathete	VVFIN.3.Sg.Past.Ind	heirathen
+sie	PPER.3.Acc.*.*	sie
+.	$.	.
+

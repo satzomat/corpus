@@ -1,0 +1,9 @@
+Der	ART.Nom.Sg.Masc	der
+alte	ADJA.Pos.Nom.Sg.Masc	alt
+Velten	NN.Nom.Sg.Masc	Velt
+lebte	VVFIN.3.Sg.Past.Ind	leben
+im	APPRART.Dat.Sg.Neut	in
+Dorfe	NN.Dat.Sg.Neut	Dorf
+Krikskraks	NE.Gen.Sg.*	Krikskrak
+.	$.	.
+

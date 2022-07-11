@@ -1,0 +1,13 @@
+Einem	ART.Dat.Sg.Masc	ein
+Manne	NN.Dat.Sg.Masc	Mann
+starb	VVFIN.3.Sg.Past.Ind	sterben
+seine	PPOSAT.Nom.Sg.Fem	sein
+Frau	NN.Nom.Sg.Fem	Frau
+und	KON	und
+hinterließ	VVFIN.3.Sg.Past.Ind	hinterlassen
+ihm	PPER.3.Dat.Sg.Masc	ihm
+eine	ART.Acc.Sg.Fem	ein
+vierzehnjährige	ADJA.Pos.Acc.Sg.Fem	vierzehnjährig
+Tochter	NN.Acc.Sg.Fem	Tochter
+.	$.	.
+

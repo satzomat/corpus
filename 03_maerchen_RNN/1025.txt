@@ -1,0 +1,15 @@
+In	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+alten	ADJA.Pos.Dat.Sg.Neut	alte
+verlassenen	ADJA.Pos.Dat.Sg.Neut	verlassen
+Schlosse	NN.Dat.Sg.Neut	Schloß
+fingen	VVFIN.3.Pl.Past.Ind	fangen
+um	APPR	um
+Mitternacht	NN.Acc.Sg.Fem	Mitternacht
+die	ART.Nom.Pl.Neut	der
+Möbel	NN.Nom.Pl.*	Möbel
+an	PTKVZ	an
+zu	PTKZU	zu
+singen	VVINF.Inf	singen
+.	$.	.
+

@@ -1,0 +1,10 @@
+Geh	NE.Nom.Sg.*	Geh
+zum	APPRART.Dat.Sg.Neut	zu
+Fegefeuer	NN.Dat.Sg.Neut	Fegefeuer
+mit	APPR	mit
+deinen	PPOSAT.Dat.Pl.Fem	dein
+Predigten	NN.Dat.Pl.Fem	Predigt
+,	$,	,
+Wahnwitziger	NN.Nom.Sg.Masc	Wahnwitziger
+!	$.	!
+

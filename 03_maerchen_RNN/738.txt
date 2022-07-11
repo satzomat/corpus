@@ -1,0 +1,12 @@
+Ein	ART.Nom.Sg.Masc	ein
+reicher	ADJA.Pos.Nom.Sg.Masc	reicher
+,	$,	,
+reicher	ADJA.Pos.Nom.Sg.Masc	reicher
+Graf	NN.Nom.Sg.Masc	Graf
+vergeudete	VVFIN.3.Sg.Past.Ind	vergeuden
+sein	PPOSAT.Acc.Sg.Neut	sein
+Gut	NN.Acc.Sg.Neut	Gut
+und	KON	und
+Habe	NN.Acc.Sg.Neut	Habe
+.	$.	.
+

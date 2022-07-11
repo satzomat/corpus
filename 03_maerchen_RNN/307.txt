@@ -1,0 +1,26 @@
+Ein	ART.Nom.Sg.Masc	ein
+Kaufmann	NN.Nom.Sg.Masc	Kaufmann
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+zwei	CARD	zwei
+Kinder	NN.Acc.Pl.Neut	Kind
+,	$,	,
+einen	ART.Acc.Sg.Masc	ein
+Buben	NN.Acc.Sg.Masc	Bube
+und	KON	und
+ein	ART.Acc.Sg.Neut	ein
+Mädchen	NN.Acc.Sg.Neut	Mädchen
+,	$,	,
+die	PRELS.Nom.Pl.Neut	der
+waren	VAFIN.3.Pl.Past.Ind	sein
+beide	PIS.Nom.Pl.*	beide
+noch	ADV	noch
+klein	ADJD.Pos	klein
+und	KON	und
+konnten	VMFIN.3.Pl.Past.Ind	können
+noch	ADV	noch
+nicht	PTKNEG	nicht
+laufen	VVINF.Inf	laufen
+.	$.	.
+

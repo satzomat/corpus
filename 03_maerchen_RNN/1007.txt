@@ -1,0 +1,17 @@
+In	APPR	in
+Rußland	NE.Dat.Sg.Neut	Rußland
+sind	VAFIN.3.Pl.Pres.Ind	sein
+,	$,	,
+schon	ADV	schon
+seit	APPR	seit
+der	ART.Dat.Sg.Fem	der
+Regierung	NN.Dat.Sg.Fem	Regierung
+der	ART.Gen.Sg.Fem	der
+Kaiserin	NN.Gen.Sg.Fem	Kaiserin
+Elisabeth	NE.Nom.Sg.Fem	Elisabeth
+,	$,	,
+die	ART.Nom.Pl.Fem	der
+Todesstrafen	NN.Nom.Pl.Fem	Todesstrafe
+aufgehoben	VVPP.Psp	aufheben
+.	$.	.
+

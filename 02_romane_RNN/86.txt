@@ -1,0 +1,10 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+an	APPR	an
+einem	PIS.Dat.Sg.Masc	einer
+der	ART.Gen.Pl.Masc	der
+erſten	ADJA.Pos.Gen.Pl.Masc	er<unk>t
+ſchoͤnen	ADJA.Pos.Gen.Pl.Masc	<unk>
+Fruͤhlingsmorgen	NN.Gen.Pl.Masc	Fru<unk>hlingsmorgen
+.	$.	.
+

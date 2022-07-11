@@ -1,0 +1,19 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Mann	NN.Nom.Sg.Masc	Mann
+,	$,	,
+der	PDS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+zwölf	CARD	zwölf
+Buben	NN.Acc.Pl.Fem	Bube
+und	KON	und
+Nichts	PIS.*.*.Neut	nichts
+zu	PTKZU	zu
+essen	VVINF.Inf	essen
+für	APPR	für
+sie	PPER.3.Acc.Pl.Fem	sie
+.	$.	.
+

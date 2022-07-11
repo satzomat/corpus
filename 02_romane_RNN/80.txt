@@ -1,0 +1,19 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+im	APPRART.Dat.Sg.Masc	in
+November	NN.Dat.Sg.Masc	November
+1776	CARD	1776
+,	$,	,
+als	KOUS	als
+ich	PPER.1.Nom.Sg.*	ich
+mit	APPR	mit
+der	ART.Dat.Sg.Fem	der
+Diligence	NN.Dat.Sg.Fem	Diligence
+von	APPR	von
+Lion	NE.Dat.Sg.Neut	Lion
+nach	APPR	nach
+Paris	NE.Dat.Sg.Neut	Paris
+zuruͤck	ADV	zuru<unk>ck
+kehrte	VVFIN.3.Sg.Past.Ind	kehren
+.	$.	.
+

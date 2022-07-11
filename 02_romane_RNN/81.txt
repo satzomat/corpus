@@ -1,0 +1,19 @@
+Jch	ITJ	jch
+bin	VAFIN.1.Sg.Pres.Ind	sein
+wegen	APPR	wegen
+der	ART.*.Sg.Fem	der
+Unruhe	NN.*.Sg.Fem	Unruhe
+,	$,	,
+die	PRELS.Acc.Sg.Fem	der
+Jhr	NE.Nom.Sg.Masc	Jhr
+Haus	NN.Nom.Sg.Neut	Haus
+ſeit	APPR	<unk>
+kurtzen	VVFIN.3.Pl.Pres.Ind	kurtzen
+in	APPR	in
+Verwirrung	NN.Acc.Sg.Fem	Verwirrung
+geſetzet	VVPP.Psp	<unk>en
+,	$,	,
+ſehr	ADV	<unk>
+bekuͤmmert	VVPP.Psp	beku<unk>mmern
+.	$.	.
+

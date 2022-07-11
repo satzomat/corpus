@@ -1,0 +1,27 @@
+Der	ART.Nom.Sg.Masc	der
+Bruder	NN.Nom.Sg.Masc	Bruder
+Lustig	NE.Nom.Sg.Masc	Lustig
+befand	VVFIN.3.Sg.Past.Ind	befinden
+sich	PRF.3.Acc.Sg	sich
+einmal	ADV	einmal
+auf	APPR	auf
+Reisen	NN.Acc.Pl.Fem	Reise
+und	KON	und
+hatte	VAFIN.3.Sg.Past.Ind	haben
+nur	ADV	nur
+noch	ADV	noch
+drei	CARD	drei
+Kreuzer	NN.Acc.Pl.Masc	Kreuzer
+im	APPRART.Dat.Sg.Masc	in
+Sack	NN.Dat.Sg.Masc	Sack
+und	KON	und
+ein	ART.Acc.Sg.Neut	ein
+einziges	ADJA.Pos.Acc.Sg.Neut	einziger
+Brod	NN.Acc.Sg.Neut	Brod
+,	$,	,
+das	PRELS.Acc.Sg.Neut	der
+er	PPER.3.Nom.Sg.Masc	er
+sich	PRF.3.Acc.Sg	sich
+gekauft	VVPP.Psp	kaufen
+.	$.	.
+

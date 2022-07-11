@@ -1,0 +1,20 @@
+Ein	ART.Nom.Sg.Masc	ein
+Schmied	NN.Nom.Sg.Masc	Schmied
+in	APPR	in
+Mitterbach	NE.Dat.Sg.Neut	Mitterbach
+versprach	VVFIN.3.Sg.Past.Ind	versprechen
+,	$,	,
+sich	PRF.3.Acc.Sg	sich
+dem	ART.Dat.Sg.Masc	der
+Teufel	NN.Dat.Sg.Masc	Teufel
+zu	PTKZU	zu
+ergeben	VVINF.Inf	ergeben
+,	$,	,
+wenn	KOUS	wenn
+er	PPER.3.Nom.Sg.Masc	er
+ihm	PPER.3.Dat.Sg.Masc	ihm
+drei	CARD	drei
+Wünsche	NN.Acc.Pl.Masc	Wunsch
+erfülle	VVFIN.3.Sg.Pres.Subj	erfüllen
+.	$.	.
+

@@ -1,0 +1,8 @@
+Es	PPER.3.Nom.Sg.Neut	es
+wohnt	VVFIN.3.Sg.Pres.Ind	wohnen
+in	APPR	in
+Bonnal	NE.Dat.Sg.Neut	Bonnal
+ein	ART.Nom.Sg.Masc	ein
+Maͤurer	NN.Nom.Sg.Masc	Ma<unk>urer
+.	$.	.
+

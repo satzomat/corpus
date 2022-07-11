@@ -1,0 +1,26 @@
+Es	PPER.3.Nom.Sg.Neut	es
+hatte	VAFIN.3.Sg.Past.Ind	haben
+eine	ART.Nom.Sg.Fem	ein
+Mutter	NN.Nom.Sg.Fem	Mutter
+ein	ART.Acc.Sg.Neut	ein
+Büblein	NN.Acc.Sg.Neut	Büblein
+von	APPR	von
+sieben	CARD	sieben
+Jahren	NN.Dat.Pl.Neut	Jahr
+,	$,	,
+das	PDS.Nom.Sg.Neut	der
+war	VAFIN.3.Sg.Past.Ind	sein
+schön	ADJD.Pos	schön
+und	KON	und
+sie	PPER.3.Nom.Sg.Fem	sie
+hatte	VAFIN.3.Sg.Past.Ind	haben
+es	PPER.3.Acc.Sg.Neut	es
+lieber	ADJD.Comp	lieb
+,	$,	,
+wie	KOKOM	wie
+alles	PIS.Nom.Sg.Neut	alle
+auf	APPR	auf
+der	ART.Dat.Sg.Fem	der
+Welt	NN.Dat.Sg.Fem	Welt
+.	$.	.
+

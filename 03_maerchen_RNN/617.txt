@@ -1,0 +1,20 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Neut	ein
+klein	ADJD.Pos	klein
+Städtlein	NN.Nom.Sg.Neut	Städtlein
+,	$,	,
+wo	PWAV	wo
+ein	ART.Nom.Sg.Masc	ein
+Schneider	NN.Nom.Sg.Masc	Schneider
+drinn	ADV	drinn
+wohnte	VVFIN.3.Sg.Past.Ind	wohnen
+,	$,	,
+der	PDS.Nom.Sg.Masc	der
+machte	VVFIN.3.Sg.Past.Ind	machen
+den	ART.Dat.Pl.*	der
+Leuten	NN.Dat.Pl.*	Leute
+die	ART.Acc.Pl.Neut	der
+Kleider	NN.Acc.Pl.Neut	Kleid
+.	$.	.
+

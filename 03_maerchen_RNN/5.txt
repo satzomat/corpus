@@ -1,0 +1,14 @@
+In	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+Dorfe	NN.Dat.Sg.Neut	Dorf
+wohnten	VVFIN.3.Pl.Past.Ind	wohnen
+zwei	CARD	zwei
+Leute	NN.Nom.Pl.*	Leute
+,	$,	,
+die	PRELS.Nom.Pl.*	der
+beide	PIS.Nom.Pl.*	beide
+denselben	PDAT.Acc.Pl.Masc	derselbe
+Namen	NN.Acc.Pl.Masc	Name
+hatten	VAFIN.3.Pl.Past.Ind	haben
+.	$.	.
+

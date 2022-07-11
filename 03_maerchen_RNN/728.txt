@@ -1,0 +1,25 @@
+Da	ADV	da
+war	VAFIN.3.Sg.Past.Ind	sein
+mal	ADV	mal
+ein	ART.Nom.Sg.Masc	ein
+Mann	NN.Nom.Sg.Masc	Mann
+,	$,	,
+der	ART.Nom.Sg.Masc	der
+hörte	VVFIN.3.Sg.Past.Ind	hören
+junge	ADJA.Pos.Acc.Pl.Masc	jung
+Vögel	NN.Acc.Pl.Masc	Vogel
+pipsen	VVFIN.3.Pl.Pres.Ind	pipsen
+in	APPR	in
+einem	ART.Dat.Sg.Masc	ein
+hohlen	ADJA.Pos.Dat.Sg.Masc	hohlen
+Baume	NN.Dat.Sg.Masc	Baum
+und	KON	und
+stieg	VVFIN.3.Sg.Past.Ind	steigen
+hinauf	ADV	hinauf
+und	KON	und
+wollte	VMFIN.3.Sg.Past.Ind	wollen
+das	ART.Acc.Sg.Neut	der
+Nest	NN.Acc.Sg.Neut	Nest
+ausnehmen	VVINF.Inf	ausnehmen
+.	$.	.
+

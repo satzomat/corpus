@@ -1,0 +1,5 @@
+Louise	NE.Nom.Sg.*	Louise
+naschte	VVFIN.3.Sg.Past.Ind	naschen
+gern	ADV	gern
+.	$.	.
+

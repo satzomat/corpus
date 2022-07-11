@@ -1,0 +1,21 @@
+Es	PPER.3.Nom.Sg.Neut	es
+ging	VVFIN.3.Sg.Past.Ind	gehen
+ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Hirt	NN.Nom.Sg.Masc	Hirt
+an	APPR	an
+dem	ART.Dat.Sg.Neut	der
+Ufer	NN.Dat.Sg.Neut	Ufer
+eines	ART.Gen.Sg.Neut	ein
+großen	ADJA.Pos.Gen.Sg.Neut	große
+und	KON	und
+ungestümen	ADJA.Pos.Gen.Sg.Neut	ungestümen
+Wassers	NN.Gen.Sg.Neut	Wasser
+,	$,	,
+hütend	ADJD.Pos	hütend
+einen	ART.Acc.Sg.Masc	ein
+Haufen	NN.Acc.Sg.Masc	Haufen
+weißer	ADJA.Pos.Gen.Pl.Fem	weiß
+Gänse	NN.Gen.Pl.Fem	Gans
+.	$.	.
+

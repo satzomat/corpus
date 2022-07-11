@@ -1,0 +1,26 @@
+In	APPR	in
+der	ART.Dat.Sg.Fem	der
+Schweiz	NE.Dat.Sg.Fem	Schweiz
+lebte	VVFIN.3.Sg.Past.Ind	leben
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+alter	ADJA.Pos.Nom.Sg.Masc	alter
+Graf	NN.Nom.Sg.Masc	Graf
+,	$,	,
+der	PDS.Nom.Sg.Masc	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+nur	ADV	nur
+einen	ART.Acc.Sg.Masc	ein
+einzigen	ADJA.Pos.Acc.Sg.Masc	einziger
+Sohn	NN.Acc.Sg.Masc	Sohn
+,	$,	,
+aber	KON	aber
+er	PPER.3.Nom.Sg.Masc	er
+war	VAFIN.3.Sg.Past.Ind	sein
+dumm	ADJD.Pos	dumm
+und	KON	und
+konnte	VMFIN.3.Sg.Past.Ind	können
+nichts	PIS.*.*.Neut	nichts
+lernen	VVINF.Inf	lernen
+.	$.	.
+

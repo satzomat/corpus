@@ -1,0 +1,25 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einst	ADV	einst
+eine	ART.Nom.Sg.Fem	ein
+Fee	NN.Nom.Sg.Fem	Fee
+,	$,	,
+welche	PRELS.Nom.Sg.Fem	welcher
+recht	ADV	recht
+gütig	ADJD.Pos	gütig
+gegen	APPR	gegen
+Alle	PIS.Acc.Pl.*	alle
+,	$,	,
+besonders	ADV	besonders
+gegen	APPR	gegen
+die	ART.Acc.Pl.Neut	der
+Kinder	NN.Acc.Pl.Neut	Kind
+,	$,	,
+welche	PRELS.Acc.Pl.Neut	welcher
+sie	PPER.3.Nom.Sg.Fem	sie
+sehr	ADV	sehr
+liebte	VVFIN.3.Sg.Past.Ind	lieben
+,	$,	,
+war	VAFIN.3.Sg.Past.Ind	sein
+.	$.	.
+

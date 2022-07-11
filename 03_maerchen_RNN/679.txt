@@ -1,0 +1,15 @@
+Ein	ART.Nom.Sg.Masc	ein
+junger	ADJA.Pos.Nom.Sg.Masc	junger
+Schäfer	NE.Nom.Sg.Masc	Schäfer
+hütete	VVFIN.3.Sg.Past.Ind	hüten
+oft	ADV	oft
+seine	PPOSAT.Acc.Sg.Fem	sein
+Heerde	NN.Acc.Sg.Fem	Heerde
+in	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+schönen	ADJA.Pos.Dat.Sg.Neut	schönen
+,	$,	,
+abgelegenen	ADJA.Pos.Dat.Sg.Neut	abgelegenen
+Thale	NN.Dat.Sg.Neut	Thal
+.	$.	.
+

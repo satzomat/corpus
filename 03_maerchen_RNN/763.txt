@@ -1,0 +1,10 @@
+Sam	NE.Nom.Sg.Masc	Sam
+war	VAFIN.3.Sg.Past.Ind	sein
+der	ART.Nom.Sg.Masc	der
+unglücklichste	ADJA.Sup.Nom.Sg.Masc	unglücklich
+unter	APPR	unter
+allen	PIAT.Dat.Pl.Masc	aller
+Königen	NN.Dat.Pl.Masc	König
+Egyptens	NE.Gen.Sg.Neut	Egypten
+.	$.	.
+

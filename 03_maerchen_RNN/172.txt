@@ -1,0 +1,31 @@
+Der	ART.Nom.Sg.Masc	der
+Adler	NN.Nom.Sg.Masc	Adler
+,	$,	,
+welcher	PRELS.Nom.Sg.Masc	welcher
+zu	APPR	zu
+dem	ART.Dat.Sg.Masc	der
+am	APPRART.Dat.Sg.Masc	an
+Boden	NN.Dat.Sg.Masc	Boden
+scheinbar	ADJD.Pos	scheinbar
+elend	ADJD.Pos	elend
+da	ADV	da
+liegenden	ADJA.Pos.Dat.Sg.Masc	liegend
+Raben	NN.Dat.Sg.Masc	Raben
+flog	VVFIN.3.Sg.Past.Ind	fliegen
+,	$,	,
+fragte	VVFIN.3.Sg.Past.Ind	fragen
+nun	ADV	nun
+diesen	PDS.Acc.Sg.Masc	dieser
+alsbald	ADV	alsbald
+:	$.	:
+»	$(	»
+Wer	PWS.Nom.Sg.Masc	wer
+bist	VAFIN.2.Sg.Pres.Ind	sein
+du	PPER.2.Nom.Sg.*	du
+?	$.	?
+
+[	XY	[
+…	XY	…
+]	XY	]
+«	XY	«
+

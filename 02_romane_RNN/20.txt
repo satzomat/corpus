@@ -1,0 +1,24 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+etwa	ADV	etwa
+zwei	CARD	zwei
+Jahre	NN.Acc.Pl.Neut	Jahr
+nach	APPR	nach
+der	ART.Dat.Sg.Fem	der
+Schlacht	NN.Dat.Sg.Fem	Schlacht
+von	APPR	von
+Waterloo	NE.Dat.Sg.Neut	Waterloo
+,	$,	,
+als	KOUS	als
+in	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+niederländiſchen	ADJA.Pos.Dat.Sg.Neut	niederländi<unk>ch
+Gränzſtädtchen	NN.Dat.Sg.Neut	Gränz<unk>tädtchen
+armen	ADJA.Pos.Dat.Pl.*	arm
+Eltern	NN.Dat.Pl.*	Eltern
+eine	ART.Nom.Sg.Fem	ein
+Tochter	NN.Nom.Sg.Fem	Tochter
+geboren	VVPP.Psp	gebären
+wurde	VAFIN.3.Sg.Past.Ind	werden
+.	$.	.
+

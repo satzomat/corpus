@@ -1,0 +1,13 @@
+Auf	APPR	auf
+dem	ART.Dat.Sg.Neut	der
+letzten	ADJA.Pos.Dat.Sg.Neut	letzter
+Hause	NN.Dat.Sg.Neut	Haus
+in	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+kleinen	ADJA.Pos.Dat.Sg.Neut	kleinen
+Dorfe	NN.Dat.Sg.Neut	Dorf
+stand	VVFIN.3.Sg.Past.Ind	stehen
+ein	ART.Nom.Sg.Masc	ein
+Storchnest	NN.Nom.Sg.Masc	Storchnest
+.	$.	.
+

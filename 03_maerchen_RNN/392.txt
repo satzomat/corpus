@@ -1,0 +1,24 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+ein	ART.Nom.Sg.Masc	ein
+armer	ADJA.Pos.Nom.Sg.Masc	armer
+Bauersmann	NN.Nom.Sg.Masc	Bauersmann
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+saß	VVFIN.3.Sg.Past.Ind	sitzen
+abends	ADV	abends
+beim	APPRART.Dat.Sg.Masc	bei
+Herd	NN.Dat.Sg.Masc	Herd
+und	KON	und
+schürte	VVFIN.3.Sg.Past.Ind	schüren
+das	ART.Acc.Sg.Neut	der
+Feuer	NN.Acc.Sg.Neut	Feuer
+,	$,	,
+und	KON	und
+die	ART.Nom.Sg.Fem	der
+Frau	NN.Nom.Sg.Fem	Frau
+saß	VVFIN.3.Sg.Past.Ind	sitzen
+und	KON	und
+spann	VVFIN.3.Sg.Past.Ind	spinnen
+.	$.	.
+

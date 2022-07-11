@@ -1,0 +1,27 @@
+Es	PPER.3.Nom.Sg.Neut	es
+giebt	VVFIN.3.Sg.Pres.Ind	gieben
+Gegenden	NN.Acc.Pl.Fem	Gegend
+,	$,	,
+die	PRELS.Acc.Pl.Fem	der
+wir	PPER.1.Nom.Pl.*	wir
+lieben	VVFIN.1.Pl.Pres.Ind	lieben
+,	$,	,
+weil	KOUS	weil
+sie	PPER.3.Nom.Pl.Fem	sie
+schön	ADJD.Pos	schön
+sind	VAFIN.3.Pl.Pres.Ind	sein
+,	$,	,
+und	KON	und
+Gegenden	NN.Nom.Pl.Fem	Gegend
+,	$,	,
+die	PRELS.Nom.Pl.Fem	der
+nur	ADV	nur
+schön	ADJD.Pos	schön
+sind	VAFIN.3.Pl.Pres.Ind	sein
+,	$,	,
+weil	KOUS	weil
+wir	PPER.1.Nom.Pl.*	wir
+sie	PPER.3.Acc.*.*	sie
+lieben	VVFIN.1.Pl.Pres.Ind	lieben
+.	$.	.
+

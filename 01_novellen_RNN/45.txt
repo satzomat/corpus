@@ -1,0 +1,8 @@
+Der	ART.Nom.Sg.Masc	der
+Doktor	NN.Nom.Sg.Masc	Doktor
+ſchuͤttelte	VVFIN.3.Sg.Past.Ind	<unk>
+bedenklich	ADJD.Pos	bedenklich
+den	ART.Acc.Sg.Masc	der
+Kopf	NN.Acc.Sg.Masc	Kopf
+.	$.	.
+

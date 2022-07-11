@@ -1,0 +1,14 @@
+Wir	PPER.1.Nom.Pl.*	wir
+saßen	VVFIN.1.Pl.Past.Ind	sitzen
+am	APPRART.Dat.Sg.Masc	an
+Kamin	NN.Dat.Sg.Masc	Kamin
+,	$,	,
+Männer	NN.Nom.Pl.Masc	Mann
+und	KON	und
+Frauen	NN.Dat.Pl.Fem	Frau
+,	$,	,
+eine	ART.Acc.Sg.Fem	ein
+behagliche	ADJA.Pos.Acc.Sg.Fem	behagliche
+Plaudergesellschaft	NN.Acc.Sg.Fem	Plaudergesellschaft
+.	$.	.
+

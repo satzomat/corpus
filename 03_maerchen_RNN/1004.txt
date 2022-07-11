@@ -1,0 +1,12 @@
+Friederike	NN.Nom.Sg.Fem	Friederike
+war	VAFIN.3.Sg.Past.Ind	sein
+so	ADV	so
+wild	ADJD.Pos	wild
+und	KON	und
+ungestüm	ADJD.Pos	ungestüm
+wie	KOKOM	wie
+der	ART.Nom.Sg.Masc	der
+wildeste	ADJA.Sup.Nom.Sg.Masc	wild
+Knabe	NN.Nom.Sg.Masc	Knabe
+.	$.	.
+

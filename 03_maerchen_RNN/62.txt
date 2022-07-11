@@ -1,0 +1,23 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+eine	ART.Nom.Sg.Fem	ein
+Witwe	NN.Nom.Sg.Fem	Witwe
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+hatte	VAFIN.3.Sg.Past.Ind	haben
+zwei	CARD	zwei
+Töchter	NN.Acc.Pl.Fem	Tochter
+,	$,	,
+eine	ART.Acc.Sg.Fem	ein
+rechte	ADJA.Pos.Acc.Sg.Fem	rechter
+Tochter	NN.Nom.Sg.Fem	Tochter
+und	KON	und
+eine	ART.Acc.Sg.Fem	ein
+Stieftochter	NN.Acc.Sg.Fem	Stieftochter
+;	$.	;
+beide	PIS.Nom.Pl.*	beide
+hießen	VVFIN.3.Pl.Pres.Ind	hießen
+Maria	NE.Acc.Sg.Fem	Maria
+.	$.	.
+

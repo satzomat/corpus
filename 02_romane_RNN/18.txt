@@ -1,0 +1,20 @@
+Komm	ITJ	komm
+,	$,	,
+ich	PPER.1.Nom.Sg.*	ich
+bitte	VVFIN.1.Sg.Pres.Ind	bitten
+Dich	PPER.2.Acc.Sg.*	dich
+,	$,	,
+rief	VVFIN.3.Sg.Past.Ind	rufen
+Mathilde	NE.Nom.Sg.*	Mathilde
+,	$,	,
+indem	KOUS	indem
+sie	PPER.3.Nom.Sg.Fem	sie
+ein	ART.Acc.Sg.Neut	ein
+verhülltes	ADJA.Pos.Acc.Sg.Neut	verhülltes
+Körbchen	NN.Acc.Sg.Neut	Körbchen
+in	APPR	in
+die	ART.Acc.Sg.Fem	der
+Höhe	NN.Acc.Sg.Fem	Höhe
+hielt	VVFIN.3.Sg.Past.Ind	halten
+.	$.	.
+

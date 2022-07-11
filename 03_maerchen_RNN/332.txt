@@ -1,0 +1,17 @@
+Es	PPER.3.Nom.Sg.Neut	es
+waren	VAFIN.3.Pl.Past.Ind	sein
+einmal	ADV	einmal
+zwei	CARD	zwei
+Handwerkspursche	NN.Nom.Pl.Masc	Handwerkspursch
+,	$,	,
+die	PRELS.Nom.Pl.Masc	der
+wanderten	VVFIN.3.Pl.Past.Ind	wandern
+zusammen	ADV	zusammen
+und	KON	und
+gelobten	ADJD.Pos	gelobten
+bei	APPR	bei
+einander	ADV	einander
+zu	PTKZU	zu
+halten	VVINF.Inf	halten
+.	$.	.
+

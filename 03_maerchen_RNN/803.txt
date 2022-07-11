@@ -1,0 +1,27 @@
+Es	PPER.3.Nom.Sg.Neut	es
+wohnte	VVFIN.3.Sg.Past.Ind	wohnen
+einmal	ADV	einmal
+in	APPR	in
+einem	ART.Dat.Sg.Neut	ein
+einsam	ADJD.Pos	einsam
+liegenden	ADJA.Pos.Dat.Sg.Neut	liegend
+Wirthshause	NN.Dat.Sg.Neut	Wirthshaus
+eine	ART.Acc.Sg.Fem	ein
+Wirthin	NN.Acc.Sg.Fem	Wirthin
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+war	VAFIN.3.Sg.Past.Ind	sein
+eine	ART.Nom.Sg.Fem	ein
+Witwe	NN.Nom.Sg.Fem	Witwe
+und	KON	und
+hatte	VAFIN.3.Sg.Past.Ind	haben
+eine	ART.Acc.Sg.Fem	ein
+Tochter	NN.Acc.Sg.Fem	Tochter
+,	$,	,
+die	PRELS.Nom.Sg.Fem	der
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+die	ART.Acc.Sg.Fem	der
+schöne	ADJA.Pos.Acc.Sg.Fem	schön
+Magdalene	NN.Acc.Sg.Fem	Magdalene
+.	$.	.
+

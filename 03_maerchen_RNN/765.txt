@@ -1,0 +1,19 @@
+Es	PPER.3.Nom.Sg.Neut	es
+war	VAFIN.3.Sg.Past.Ind	sein
+einmal	ADV	einmal
+ein	ART.Nom.Sg.Masc	ein
+gar	ADV	gar
+weiser	ADJA.Pos.Nom.Sg.Masc	weiser
+und	KON	und
+schöner	ADJA.Pos.Nom.Sg.Masc	schöner
+König	NN.Nom.Sg.Masc	König
+,	$,	,
+welcher	PWAT.Nom.Sg.Masc	welcher
+Pheristos	NE.Nom.Sg.Masc	Pheristos
+hieß	VVFIN.3.Sg.Past.Ind	heißen
+und	KON	und
+seine	PPOSAT.Nom.Sg.Fem	sein
+Gemahlin	NN.Nom.Sg.Fem	Gemahlin
+Gyrmantis	NE.Gen.Sg.*	Gyrmanti
+.	$.	.
+

@@ -1,0 +1,15 @@
+„	XY	„
+Wie	PWAV	wie
+ich	PPER.1.Nom.Sg.*	ich
+Euch	PPER.2.Dat.Pl.*	euch
+ſage	VVFIN.1.Sg.Pres.Ind	<unk>
+,	$,	,
+Frau	NN.Nom.Sg.Fem	Frau
+Gevatterin	NN.Nom.Sg.Fem	Gevatterin
+!	$.	!
+
+[	XY	[
+…	XY	…
+]	XY	]
+“	XY	“
+

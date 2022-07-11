@@ -1,0 +1,27 @@
+Ein	ART.Nom.Sg.Masc	ein
+Bauer	NN.Nom.Sg.Masc	Bauer
+hatte	VAFIN.3.Sg.Past.Ind	haben
+einen	ART.Acc.Sg.Masc	ein
+gar	ADV	gar
+getreuen	ADJA.Pos.Acc.Sg.Masc	getreu
+und	KON	und
+fleißigen	ADJA.Pos.Acc.Sg.Masc	fleißig
+Knecht	NN.Acc.Sg.Masc	Knecht
+,	$,	,
+der	PRELS.Nom.Sg.Masc	der
+diente	VVFIN.3.Sg.Past.Ind	dienen
+ihm	PPER.3.Dat.Sg.Masc	ihm
+schon	ADV	schon
+drei	CARD	drei
+Jahre	NN.Acc.Pl.Neut	Jahr
+,	$,	,
+ohne	APPR	ohne
+daß	KOUS	daß
+er	PPER.3.Nom.Sg.Masc	er
+ihm	PPER.3.Dat.Sg.Masc	ihm
+seinen	PPOSAT.Acc.Sg.Masc	sein
+Lohn	NN.Acc.Sg.Masc	Lohn
+bezahlt	VVPP.Psp	bezahlen
+hatte	VAFIN.3.Sg.Past.Ind	haben
+.	$.	.
+

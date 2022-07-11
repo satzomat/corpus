@@ -1,0 +1,27 @@
+Zwei	CARD	zwei
+Königssöhne	NN.Nom.Pl.Masc	Königssohn
+gingen	VVFIN.3.Pl.Past.Ind	gehen
+auf	APPR	auf
+Abentheuer	NN.Acc.Sg.Fem	Abentheuer
+aus	PTKVZ	aus
+,	$,	,
+und	KON	und
+geriethen	VVFIN.3.Pl.Pres.Ind	geriethen
+in	APPR	in
+ein	ART.Acc.Sg.Neut	ein
+wildes	ADJA.Pos.Acc.Sg.Neut	wild
+,	$,	,
+wüstes	ADJA.Pos.Acc.Sg.Neut	wüstes
+Leben	NN.Acc.Sg.Neut	Leben
+,	$,	,
+so	ADV	so
+daß	KOUS	daß
+sie	PPER.3.Nom.Pl.Masc	sie
+gar	ADV	gar
+nicht	PTKNEG	nicht
+wieder	ADV	wieder
+nach	APPR	nach
+Haus	NN.Dat.Sg.Neut	Haus
+kamen	VVFIN.3.Pl.Past.Ind	kommen
+.	$.	.
+

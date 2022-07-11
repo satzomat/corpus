@@ -1,0 +1,10 @@
+Ein	ART.Nom.Sg.Masc	ein
+Bauer	NN.Nom.Sg.Masc	Bauer
+hatte	VAFIN.3.Sg.Past.Ind	haben
+drei	CARD	drei
+Söhne	NN.Acc.Pl.Masc	Sohn
+und	KON	und
+eine	ART.Acc.Sg.Fem	ein
+Wiese	NN.Acc.Sg.Fem	Wiese
+.	$.	.
+
